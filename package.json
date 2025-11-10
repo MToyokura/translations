@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "dev": "next --turbopack",
+    "build": "next build",
+    "postbuild": "pagefind --site .next/server/app --output-path out/_pagefind",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^16.0.1",
+    "nextra": "^4.6.0",
+    "nextra-theme-docs": "^4.6.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.4.0"
+  }
+}
