@@ -43,6 +43,12 @@ export default async function RootLayout({ children }) {
           feedback={{
             content: null,
           }}
+          // lastUpdated={<LastUpdated date={null} />} // Doesn't work
+          editLink="このページを編集する"
+          toc={{
+            title: "目次",
+            backToTop: "ページの先頭へ戻る",
+          }}
         >
           {children}
         </Layout>
