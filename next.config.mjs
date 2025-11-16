@@ -4,6 +4,8 @@ import nextra from "nextra";
  * @type {import('next').NextConfig}
  */
 const nextConfig = {
+  // check basePath from environment variable
+  basePath: process.env.PAGES_BASE_PATH || "",
   output: "export",
   images: {
     unoptimized: true, // mandatory, otherwise won't export

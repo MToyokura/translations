@@ -4,7 +4,7 @@
     "build": "next build",
     "postbuild": "pagefind --site .next/server/app --output-path out/_pagefind",
     "start": "next start",
-    "serve": "serve out"
+    "serve": "next build && serve out"
   },
   "dependencies": {
     "next": "^16.0.1",
