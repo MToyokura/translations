@@ -3,7 +3,8 @@
     "dev": "next --turbopack",
     "build": "next build",
     "postbuild": "pagefind --site .next/server/app --output-path out/_pagefind",
-    "start": "next start"
+    "start": "next start",
+    "serve": "serve out"
   },
   "dependencies": {
     "next": "^16.0.1",
@@ -16,6 +17,7 @@
     "@types/node": "^24.10.0",
     "@types/react": "^19.2.2",
     "pagefind": "^1.4.0",
+    "serve": "^14.2.5",
     "typescript": "^5.9.3"
   }
 }

@@ -1,5 +1,8 @@
 import nextra from "nextra";
 
+/**
+ * @type {import('next').NextConfig}
+ */
 const nextConfig = {
   output: "export",
   images: {
@@ -8,13 +11,8 @@ const nextConfig = {
   // Optional: Change the output directory `out` -> `dist`
   // distDir: "build"
 };
-
-// Set up Nextra with its configuration
 const withNextra = nextra({
-  // ... Add Nextra-specific options here
+  // ... other Nextra config options
 });
 
-// Export the final Next.js config with Nextra included
-export default withNextra({
-  // ... Add regular Next.js options here
-});
+export default withNextra(nextConfig);
