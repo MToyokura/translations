@@ -4,8 +4,9 @@
 
 ### 60 秒でわかるオープンアクセス
 
-<iframe width="560" src="https://av.tib.eu/player/50831" allow="fullscreen" style="aspect-ratio: 16 / 9;"></iframe>
-
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+  <iframe src="https://av.tib.eu/player/50831" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 出典：Brinken, H., Hauss, J. & Rücknagel, J. (2021). Open Access in 60 Sekunden, open-access.network. https://doi.org/10.5446/50831 ([CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/deed.de))
 
 ### この記事のポイント
@@ -20,9 +21,9 @@
 
 したがって、オープンアクセスの目的は、学術文献を誰もが無料かつ自由に利用、[再利用可能](https://open-access.network/en/information/open-access-primers/open-access-and-reuse)にすることです。これは、費用がかからず、技術的および法的な障壁が可能な限りない状態を意味します。2003 年の「[科学・人文科学における知識へのオープンアクセスに関するベルリン宣言](https://open-access.network/en/information/glossary#c6191)」では、オープンアクセスと認められるためには、資料が無料で利用できるだけでなく、利用者が「適切な帰属表示を条件として、著作物を複製、使用、配布、送信し、公に表示すること、および二次的著作物を作成し、配布することを、いかなるデジタル媒体においても、責任ある目的のために許可される」必要があるとしています。
 
-> この文献へのオープンアクセスとは、公共のインターネット上で無料で利用できることを意味し、いかなる利用者も、インターネットへのアクセス自体と不可分なものを除き、金銭的、法的、または技術的障壁なしに、これらの論文の全文を読み、ダウンロードし、コピーし、配布し、印刷し、検索し、リンクすること、インデックス作成のためにクロールすること、ソフトウェアにデータとして渡すこと、またはその他の合法的な目的のために使用可能なことを意味します。複製および配布に対する唯一の制約、およびこの領域における著作権の唯一の役割は、著者が自身の著作物の完全性の管理を可能とすることと、適切な帰属表示を受けて引用されることであるべきです。
+> "この文献へのオープンアクセスとは、**公共のインターネット上で無料で利用できること**を意味し、いかなる利用者も、インターネットへのアクセス自体と不可分なものを除き、金銭的、法的、または技術的障壁なしに、これらの論文の全文を読み、ダウンロードし、コピーし、配布し、印刷し、検索し、リンクすること、インデックス作成のためにクロールすること、ソフトウェアにデータとして渡すこと、または**その他の合法的な目的のために使用可能なこと**を意味します。複製および配布に対する唯一の制約、およびこの領域における著作権の唯一の役割は、著者が自身の著作物の完全性の管理を可能とすることと、適切な帰属表示を受けて引用されることであるべきです。"
 
-ブダペスト・オープンアクセス・イニシアティブ宣言、2002 年より
+> [Budapest Open Access Initiative Declaration, 2002](https://www.budapestopenaccessinitiative.org/read/)より引用（強調は追加）
 
 ## なぜオープンアクセスなのか？
 
@@ -48,14 +49,16 @@ Oberländer, A. (2020). Open Access – Es ist nicht alles Gold, was glänzt. In
 
 ### オープンアクセス論文の資金調達
 
-<iframe width="560" src="https://av.tib.eu/player/49536" allow="fullscreen" style="aspect-ratio: 16 / 9;"></iframe>
-
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+  <iframe src="https://av.tib.eu/player/49536" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 出典：Brinken, H. (2020). Finanzierung von Open-Access-Artikeln, open-access.network. https://doi.org/10.5446/49536 ([CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/deed.de))
 
 ### オープンアクセスモノグラフの資金調達
 
-<iframe width="560" src="https://av.tib.eu/player/49535" allow="fullscreen" style="aspect-ratio: 16 / 9;"></iframe>
-
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+  <iframe src="https://av.tib.eu/player/49535" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 出典：Brinken, H. (2020). Finanzierung von Open-Access-Monographien, open-access.network. https://doi.org/10.5446/49535 ([CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/deed.de))
 
 オープンアクセス出版物は、[査読（ピアレビュー）](https://open-access.network/en/information/glossary#c6232)による品質保証など、多くの点で従来の出版物と類似していますが、その大きな違いは[資金調達](https://open-access.network/en/information/financing)方法にあります。従来の出版システムでは、出版物は公的資金から 3 回にわたって利益を得ています。
@@ -72,8 +75,9 @@ Oberländer, A. (2020). Open Access – Es ist nicht alles Gold, was glänzt. In
 
 ### クリエイティブ・コモンズ・ライセンスは具体的にどのように機能するのか？
 
-<iframe width="560" src="https://av.tib.eu/player/52952" allow="fullscreen" style="aspect-ratio: 16 / 9;"></iframe>
-
+<div style="position: relative; width: 100%; aspect-ratio: 16 / 9;">
+  <iframe src="https://av.tib.eu/player/52952" allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>
+</div>
 出典：Brinken, H., Hauss, J. & Rücknagel, J. (2021). Wie genau funktionieren Creative-Commons-Lizenzen? open-access.network. https://doi.org/10.5446/52952 ([CC BY 3.0 DE](https://creativecommons.org/licenses/by/3.0/de/deed.de))
 
 ## 誰がオープンアクセスを支持しているのか？
