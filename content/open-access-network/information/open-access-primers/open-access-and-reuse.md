@@ -79,4 +79,4 @@ BOAI の定義によると、真のオープンアクセスはリブレ・オー
 
 ---
 
-この記事は、 open-access.network による [Open Access and Reuse](https://open-access.network/en/information/open-access-primers/open-access-and-reuse#c6799) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
+この記事は、 open-access.network による [Open Access and Reuse](https://open-access.network/en/information/open-access-primers/open-access-and-reuse) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
