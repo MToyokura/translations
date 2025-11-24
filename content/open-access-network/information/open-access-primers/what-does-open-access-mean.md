@@ -33,7 +33,7 @@
 
 出典：Brinken, H. (2021). 10 Gründe für Open Access. Zenodo. https://doi.org/10.5281/zenodo.4643859 ([CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/))をもとに作成
 
-学術研究は、その大部分が公的資金によって賄われているという重要な事実があります。したがって、この公的資金による研究の成果も公にアクセス可能であるべきです。[オープンアクセス出版物](https://open-access.network/en/information/publishing/open-access-publishing)は、即座に、簡単に、無料でアクセスでき、再利用可能です。この無料かつ迅速な科学的知見へのアクセスは、学術コミュニケーションプロセスを加速させ、それによって研究とイノベーションの効率性を高めます。これにより、研究者間の国際的および学際的な協力とネットワーク形成も促進されます。オープンアクセスは、引用頻度を大幅に増加させ、それによって研究成果の可視性も高めます（[Swan, 2010; Li et al., 2018](https://open-access.network/en/information/open-access-primers/what-does-open-access-mean#c7174)）。もう一つの重要な点は、オープンアクセス出版物の場合、著者が著作物の利用権を保持し、これらの権利を排他的に出版社に譲渡しないことです。これにより、オープンアクセス出版物は他者によって容易に再配布および再利用されることができます。
+学術研究は、その大部分が公的資金によって賄われているという重要な事実があります。したがって、この公的資金による研究の成果も公にアクセス可能であるべきです。[オープンアクセス出版物](https://open-access.network/en/information/publishing/open-access-publishing)は、即座に、簡単に、無料でアクセスでき、再利用可能です。この無料かつ迅速な科学的知見へのアクセスは、学術コミュニケーションプロセスを加速させ、それによって研究とイノベーションの効率性を高めます。これにより、研究者間の国際的および学際的な協力とネットワーク形成も促進されます。オープンアクセスは、引用頻度を大幅に増加させ、それによって研究成果の可視性も高めます（[Swan, 2010; Li et al., 2018](#参考文献)）。もう一つの重要な点は、オープンアクセス出版物の場合、著者が著作物の利用権を保持し、これらの権利を排他的に出版社に譲渡しないことです。これにより、オープンアクセス出版物は他者によって容易に再配布および再利用されることができます。
 
 ## オープンアクセスへの道のり
 
@@ -67,7 +67,7 @@ Oberländer, A. (2020). Open Access – Es ist nicht alles Gold, was glänzt. In
 1. 出版プロセス中、著作物は、例えば査読のような品質保証の手続きを経ます。査読者は通常、他の研究者であり、出版社やジャーナルからその報酬は支払われません。
 1. そして最後に、図書館や研究機関は、構成員が利用できるようにするために、ジャーナルを購読したり、出版社から書籍を購入したりする必要があります。
 
-これに対し、オープンアクセスは、公的資金による研究の成果を誰もが無料でアクセスできるようにするという要求に応えます。これにより、予算が限られた機関の研究者や、特定の機関に所属していない関心のある人々も恩恵を受けます。読者がオープンアクセス出版物を無料で利用できるため、これらの出版物は別の方法で資金を調達する必要があります。広く採用されているのは、著者支払いモデルと呼ばれるもので、著者が自身の著作物の出版のために[論文掲載費用（APC）](https://open-access.network/en/information/glossary#c6188)や[書籍掲載費用（BPC）](https://open-access.network/en/information/glossary#c6194)を支払います。多くの機関は現在、例えば出版基金やコンソーシアムへの参加を通じて、所属する研究者のためにこれらの費用を負担することを提案しています。しかし、オープンアクセスジャーナルの大部分（[Directory of Open Access Journals, DOAJ](https://open-access.network/en/information/glossary#c6204) に登録されているジャーナルの 70%以上）は、読者と著者の両方にとって無料です。これらのジャーナルは、例えば専門学会、学術機関、あるいは無償のボランティア活動によって資金提供されています（[Morrison, 2018](https://open-access.network/en/information/open-access-primers/what-does-open-access-mean#c7174)）。特に、従来の出版社がジャーナル購読に請求する高額な価格を背景に、オープンアクセスは、逼迫した図書館予算を持続的に緩和し、同時に文献供給を大幅に改善することに重要な貢献をすることができます。
+これに対し、オープンアクセスは、公的資金による研究の成果を誰もが無料でアクセスできるようにするという要求に応えます。これにより、予算が限られた機関の研究者や、特定の機関に所属していない関心のある人々も恩恵を受けます。読者がオープンアクセス出版物を無料で利用できるため、これらの出版物は別の方法で資金を調達する必要があります。広く採用されているのは、著者支払いモデルと呼ばれるもので、著者が自身の著作物の出版のために[論文掲載費用（APC）](https://open-access.network/en/information/glossary#c6188)や[書籍掲載費用（BPC）](https://open-access.network/en/information/glossary#c6194)を支払います。多くの機関は現在、例えば出版基金やコンソーシアムへの参加を通じて、所属する研究者のためにこれらの費用を負担することを提案しています。しかし、オープンアクセスジャーナルの大部分（[Directory of Open Access Journals, DOAJ](https://open-access.network/en/information/glossary#c6204) に登録されているジャーナルの 70%以上）は、読者と著者の両方にとって無料です。これらのジャーナルは、例えば専門学会、学術機関、あるいは無償のボランティア活動によって資金提供されています（[Morrison, 2018](#参考文献)）。特に、従来の出版社がジャーナル購読に請求する高額な価格を背景に、オープンアクセスは、逼迫した図書館予算を持続的に緩和し、同時に文献供給を大幅に改善することに重要な貢献をすることができます。
 
 ## ライセンス
 
@@ -86,7 +86,7 @@ Oberländer, A. (2020). Open Access – Es ist nicht alles Gold, was glänzt. In
 
 ## オープンサイエンス
 
-オープンアクセスは、オープンサイエンス（[Watson, 2015](https://open-access.network/en/information/open-access-primers/what-does-open-access-mean#c7174)）という包括的な用語にまとめられる多くの要素の一つです。[Neuschäfer（2015）](https://open-access.network/en/information/open-access-primers/what-does-open-access-mean#c7174)によれば、オープンサイエンスは、科学プロセスのすべての要素をオープンにアクセス可能、透明性があり、再利用可能にすることを目指す戦略と手順を束ねたものです。これは、学術出版物だけでなく、[オープンアクセスと研究データ管理](https://open-access.network/en/information/open-access-primers/open-access-to-data)を通じて研究データ、研究ソフトウェア、オープン教育リソース（OER）を通じて教材なども自由に利用可能であるべきであることを意味します。オープンサイエンスの要素に関する詳細な説明は、ドイツ語のウェブサイト [openscienceASAP](http://openscienceasap.org/open-science) で見つけることができます。オープンサイエンスは、透明性、再現性、再利用性、およびオープンなコミュニケーションの原則に基づいています（[Open Science AG, n.d.](https://open-access.network/en/information/open-access-primers/what-does-open-access-mean#c7174)）。したがって、オープンサイエンスは、優れた科学的実践を保証するための重要な要素です。
+オープンアクセスは、オープンサイエンス（[Watson, 2015](#参考文献)）という包括的な用語にまとめられる多くの要素の一つです。[Neuschäfer（2015）](#参考文献)によれば、オープンサイエンスは、科学プロセスのすべての要素をオープンにアクセス可能、透明性があり、再利用可能にすることを目指す戦略と手順を束ねたものです。これは、学術出版物だけでなく、[オープンアクセスと研究データ管理](https://open-access.network/en/information/open-access-primers/open-access-to-data)を通じて研究データ、研究ソフトウェア、オープン教育リソース（OER）を通じて教材なども自由に利用可能であるべきであることを意味します。オープンサイエンスの要素に関する詳細な説明は、ドイツ語のウェブサイト [openscienceASAP](http://openscienceasap.org/open-science) で見つけることができます。オープンサイエンスは、透明性、再現性、再利用性、およびオープンなコミュニケーションの原則に基づいています（[Open Science AG, n.d.](#参考文献)）。したがって、オープンサイエンスは、優れた科学的実践を保証するための重要な要素です。
 
 ![グラフィック：オープンサイエンスの6つの原則](https://open-access.network/fileadmin/ipoa/Informationsseiten/Open_Science_Prinzipien_oanetwork_eng.png)
 

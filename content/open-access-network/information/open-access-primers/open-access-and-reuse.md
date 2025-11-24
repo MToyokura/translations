@@ -20,8 +20,8 @@
 
 オープンアクセス出版物は、 _Gratis Open Access_ （グラティス・オープンアクセス）と _Libre Open Access_ （リブレ・オープンアクセス）に分類できます。その違いは、エンドユーザーが出版物をどのように利用できるかという点にあります。
 
-- グラティス・オープンアクセスとは、出版物を無料で閲覧および印刷できることを意味します（Suber, 2008）。
-- リブレ・オープンアクセスとは、クリエイティブ・コモンズが提供するようなオープンライセンスを通じて許可される、より広範な利用を指します （Suber, 2008）。
+- グラティス・オープンアクセスとは、出版物を無料で閲覧および印刷できることを意味します（[Suber, 2008](#参考文献)）。
+- リブレ・オープンアクセスとは、クリエイティブ・コモンズが提供するようなオープンライセンスを通じて許可される、より広範な利用を指します （[Suber, 2008](#参考文献)）。
 
 BOAI の定義によると、真のオープンアクセスはリブレ・オープンアクセスのみです。言い換えれば、再利用可能性は不可欠な要素です。
 
@@ -31,19 +31,19 @@ BOAI の定義によると、真のオープンアクセスはリブレ・オー
 
 ## 再利用の利点
 
-科学のグローバルなデジタルネットワーク化は、科学的発見へのより良いアクセスと再利用の可能性を提供します。これにより、科学的疑問に対する新しいアプローチが可能になり、科学的コラボレーションが促進されます。さらに、情報がより迅速に共有され、研究サイクルが短縮され、科学的進歩が加速されます。公開された[研究データ](https://open-access.network/en/information/open-access-primers/open-access-to-data)のリンクと再利用もまた、ここで重要な役割を果たします（Pampel, 2010）。
+科学のグローバルなデジタルネットワーク化は、科学的発見へのより良いアクセスと再利用の可能性を提供します。これにより、科学的疑問に対する新しいアプローチが可能になり、科学的コラボレーションが促進されます。さらに、情報がより迅速に共有され、研究サイクルが短縮され、科学的進歩が加速されます。公開された[研究データ](https://open-access.network/en/information/open-access-primers/open-access-to-data)のリンクと再利用もまた、ここで重要な役割を果たします（[Pampel, 2010](#参考文献)）。
 
 ### 例
 
-1. [物理学](https://open-access.network/en/information/subject-specific-open-access/physics)や[数学](https://open-access.network/en/information/subject-specific-open-access/mathematics)の分野で集中的に利用されている [arXiv](https://open-access.network/en/information/glossary#c6189) やその他の[リポジトリ](https://open-access.network/en/information/glossary#c6240)を通じて、研究者は[査読](https://open-access.network/en/information/glossary#c6232)や出版に先立ち、[プレプリント](https://open-access.network/en/information/glossary#c6236)として自身の発見を公開し、迅速な普及と再利用を可能にしています。Alma Swan (2010)は、オープンアクセス文書の高い引用数を、特にその迅速かつ世界的な利用可能性に起因するものとしました。彼女はこの現象を*早期の優位性*（early advantage）と呼びました。
-2. 検索エンジン[NOA](http://noa.wp.hs-hannover.de/)は、オープンアクセス出版物から自由に利用可能な科学画像のコレクションを提供しており、これらは Wikidata のインフラストラクチャによる全文インデックス作成を介して取得され、Wikimedia Commons で公開されています（Charbonnier et al., 2018）。ここでは、オープンアクセス文書の機械可読性が、他の科学者や学者が画像を再利用できるようにするために活用されています。
+1. [物理学](https://open-access.network/en/information/subject-specific-open-access/physics)や[数学](https://open-access.network/en/information/subject-specific-open-access/mathematics)の分野で集中的に利用されている [arXiv](https://open-access.network/en/information/glossary#c6189) やその他の[リポジトリ](https://open-access.network/en/information/glossary#c6240)を通じて、研究者は[査読](https://open-access.network/en/information/glossary#c6232)や出版に先立ち、[プレプリント](https://open-access.network/en/information/glossary#c6236)として自身の発見を公開し、迅速な普及と再利用を可能にしています。[Alma Swan (2010)](#参考文献)は、オープンアクセス文書の高い引用数を、特にその迅速かつ世界的な利用可能性に起因するものとしました。彼女はこの現象を*早期の優位性*（early advantage）と呼びました。
+2. 検索エンジン[NOA](http://noa.wp.hs-hannover.de/)は、オープンアクセス出版物から自由に利用可能な科学画像のコレクションを提供しており、これらは Wikidata のインフラストラクチャによる全文インデックス作成を介して取得され、Wikimedia Commons で公開されています（[Charbonnier et al., 2018](#参考文献)）。ここでは、オープンアクセス文書の機械可読性が、他の科学者や学者が画像を再利用できるようにするために活用されています。
 3. [Directory of Open Access Journals (DOAJ)](https://open-access.network/en/information/glossary#c6204)は、オープンアクセスが効果的に機能するために、ユーザーの権利と著作権の条件がライセンスによって明確に指定されなければならないという原則に基づいて運営されています。そのため、DOAJ はリブレ[オープンアクセスジャーナル](https://open-access.network/en/information/publishing/open-access-journals)のみを受け入れています。
 
 ## ライセンスによる明確化
 
-研究成果がどのように再利用されるかを明確にするために、利用ライセンスが付与されます。著者は、自身の作品のどの程度の利用の自由を許可するかを決定することができます。ドイツ著作権法（UrhG）第 51 条に基づく引用権は、著者が第三者の著作物またはその一部を許可なく自身の作品に引用することを可能にします。ただし、後者の作品は引用された作品とは独立していなければなりません。第三者の著作物を引用する場合、原文が引用されなければならず、改変またはその他の方法で変更することはできません（Dreier, in Dreier & Schulze, 2018, § 51 UrhG, Rn. 7.）。オープンアクセス出版物が閲覧や引用だけでなく、再利用や変更も可能であることを明確にするためには、著者が利用ライセンスを付与することが不可欠です。
+研究成果がどのように再利用されるかを明確にするために、利用ライセンスが付与されます。著者は、自身の作品のどの程度の利用の自由を許可するかを決定することができます。ドイツ著作権法（UrhG）第 51 条に基づく引用権は、著者が第三者の著作物またはその一部を許可なく自身の作品に引用することを可能にします。ただし、後者の作品は引用された作品とは独立していなければなりません。第三者の著作物を引用する場合、原文が引用されなければならず、改変またはその他の方法で変更することはできません（[Dreier, in Dreier & Schulze, 2018, § 51 UrhG, Rn. 7.](#参考文献)）。オープンアクセス出版物が閲覧や引用だけでなく、再利用や変更も可能であることを明確にするためには、著者が利用ライセンスを付与することが不可欠です。
 
-異なるライセンスモデルの概要は、[ライセンス](https://open-access.network/en/information/legal-issues/licences)のページで提供されています。そのようなライセンスに基づいて特定の利用権を付与することで、ユーザーは文書をどのようにさらに利用できるかについて明示的な情報を得ることができ、不適切な利用があった場合の法的執行が簡素化されます。同時に、著者は別の合意でさらなる利用を許可する権利を保持します。Bertelsmann Stiftung の無料ライセンスの使用ガイドは、この手順を段階的に説明しています（Bertelsmann Stiftung, 2016）。
+異なるライセンスモデルの概要は、[ライセンス](https://open-access.network/en/information/legal-issues/licences)のページで提供されています。そのようなライセンスに基づいて特定の利用権を付与することで、ユーザーは文書をどのようにさらに利用できるかについて明示的な情報を得ることができ、不適切な利用があった場合の法的執行が簡素化されます。同時に、著者は別の合意でさらなる利用を許可する権利を保持します。Bertelsmann Stiftung の無料ライセンスの使用ガイドは、この手順を段階的に説明しています（[Bertelsmann Stiftung, 2016](#参考文献)）。
 
 [クリエイティブ・コモンズ・ライセンス（CC ライセンス）](https://open-access.network/en/information/glossary#c6198)は、科学および研究分野で最も一般的に使用されているライセンスです。[ベルリン宣言](https://open-access.network/en/information/glossary#c6191)によると、特に作品のあらゆる責任ある目的（したがって原則として商業目的も含む）での改変および利用が許容されるべきです。したがって、ベルリン宣言の観点からは、CC-BY および CC-BY-SA ライセンスのみが「真正な」オープンアクセスライセンスです。特に NC（非営利）要素は、商業的利用がどのようなケースで構成されるかがしばしば不明確であるため、しばしば論争の的となります。例えば、「NC」要素を含むライセンスの出版物は、ほとんどのソーシャルメディアサービスなどの商業プラットフォームでは使用できません。また、費用を徴収してサービスを提供する私立または非営利の教育プロバイダーや協会でも使用できません。そのため、多くの機関は NC 要素の使用を推奨していません。クリエイティブ・コモンズ・ライセンスに関するよくある質問への回答は、[CC ウェブサイト](https://creativecommons.org/about/)の [FAQ リスト](https://creativecommons.org/faq/)を参照してください。
 
@@ -79,4 +79,4 @@ BOAI の定義によると、真のオープンアクセスはリブレ・オー
 
 ---
 
-この記事は、 open-access.network による [Open Access and Reuse](https://open-access.network/en/information/open-access-primers/open-access-and-reuse#c6799) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
+この記事は、 open-access.network による [Open Access and Reuse](https://open-access.network/en/information/open-access-primers/open-access-and-reuse) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
