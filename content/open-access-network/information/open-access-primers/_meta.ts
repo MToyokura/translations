@@ -12,6 +12,7 @@ import type { MetaRecord } from "nextra";
 const meta: MetaRecord = {
   "what-does-open-access-mean": "",
   "open-access-and-reuse": "",
+  "green-and-gold": "",
 };
 
 export default meta;
