@@ -13,6 +13,7 @@ const meta: MetaRecord = {
   "what-does-open-access-mean": "",
   "open-access-and-reuse": "",
   "green-and-gold": "",
+  "open-access-to-data": "",
 };
 
 export default meta;
