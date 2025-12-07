@@ -28,7 +28,8 @@ export default async function RootLayout({ children }) {
       suppressHydrationWarning
     >
       <Head
-      // ... Your additional head options
+        // ... Your additional head options
+        faviconGlyph="emoji_language_24dp.png"
       >
         {/* Your additional tags should be passed as `children` of `<Head>` element */}
       </Head>
