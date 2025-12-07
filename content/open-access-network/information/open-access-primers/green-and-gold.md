@@ -116,4 +116,4 @@
 
 ---
 
-この記事は、 open-access.network による [Green and Gold](https://open-access.network/en/information/open-access-primers/green-and-gold) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
+この記事は、 open-access.network による [Green, Gold, and Diamond Open Access](https://open-access.network/en/information/open-access-primers/green-and-gold) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
