@@ -1,6 +1,6 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
@@ -9,6 +9,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Translations',
+			customCss: ['./src/styles/custom.css'],
 			favicon: '/favicon.png',
 			locales: {
 				root: { label: '日本語', lang: 'ja' },
@@ -29,6 +30,10 @@ export default defineConfig({
 							],
 						},
 					],
+				},
+				{
+					label: 'Miscellaneous',
+					items: [{ autogenerate: { directory: 'miscellaneous' } }],
 				},
 			],
 		}),
