@@ -1,25 +1,4 @@
 {
-  "scripts": {
-    "dev": "next --turbopack",
-    "build": "next build",
-    "postbuild": "pagefind --site .next/server/app --output-path out/_pagefind",
-    "start": "next start",
-    "serve": "next build && serve out"
-  },
-  "dependencies": {
-    "next": "16.0.7",
-    "nextra": "4.6.1",
-    "nextra-theme-docs": "4.6.1",
-    "react": "19.2.1",
-    "react-dom": "19.2.1"
-  },
-  "devDependencies": {
-    "@types/node": "^24.10.1",
-    "@types/react": "^19.2.7",
-    "pagefind": "^1.4.0",
-    "serve": "^14.2.5",
-    "typescript": "^5.9.3"
-  },
   "engines": {
     "node": "24.19.0",
     "npm": "12.0.1"
