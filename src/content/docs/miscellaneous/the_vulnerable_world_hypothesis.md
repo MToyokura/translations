@@ -1,5 +1,5 @@
 ---
-title: 脆弱な世界仮説（日本語訳）
+title: 脆弱な世界仮説
 ---
 
 > 原文の見出し構造、箇条書き、引用、注番号、書誌情報を可能な限り維持した日本語訳です。用語は原則として、*vulnerable world*＝「脆弱な世界」、*black ball*＝「ブラックボール」、*semi-anarchic default condition*＝「半無政府的なデフォルト状態」、*preventive policing*＝「予防的ポリシング」、*global governance*＝「グローバル・ガバナンス」と訳しています。
