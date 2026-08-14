@@ -6,19 +6,26 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/withastro/starlight' }],
+			title: 'Translations',
+			locales: {
+				root: { label: '日本語', lang: 'ja' },
+			},
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/MToyokura/translations' }],
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Open Access Network',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{
+							label: 'Open Access primers',
+							collapsed: false,
+							items: [
+								{ label: 'オープンアクセスとは？', slug: 'open-access-network/information/open-access-primers/what-does-open-access-mean' },
+								{ label: 'オープンアクセスと再利用', slug: 'open-access-network/information/open-access-primers/open-access-and-reuse' },
+								{ label: 'グリーン・オープンアクセスとゴールド・オープンアクセス', slug: 'open-access-network/information/open-access-primers/green-and-gold' },
+								{ label: 'オープンアクセスと研究データ', slug: 'open-access-network/information/open-access-primers/open-access-to-data' },
+							],
+						},
 					],
-				},
-				{
-					label: 'Reference',
-					items: [{ autogenerate: { directory: 'reference' } }],
 				},
 			],
 		}),

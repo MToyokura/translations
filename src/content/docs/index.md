@@ -1,4 +1,7 @@
-# Translations
+---
+title: Translations
+description: 翻訳したものを置いていきます。
+---
 
 翻訳したものを置いていきます。
 
