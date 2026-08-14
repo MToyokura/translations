@@ -2,6 +2,14 @@
 title: 脆弱な世界仮説
 ---
 
+<aside class="translation-attribution">
+この記事は、 Nick Bostrom による
+<a href="https://doi.org/10.1111/1758-5899.12718">The Vulnerable World Hypothesis</a>
+を ChatGPT を使って翻訳したものです。もとの記事は
+<a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY-NC 4.0 ライセンスのもとで提供されます。
+</aside>
+
 > 原文の見出し構造、箇条書き、引用、注番号、書誌情報を可能な限り維持した日本語訳です。用語は原則として、*vulnerable world*＝「脆弱な世界」、*black ball*＝「ブラックボール」、*semi-anarchic default condition*＝「半無政府的なデフォルト状態」、*preventive policing*＝「予防的ポリシング」、*global governance*＝「グローバル・ガバナンス」と訳しています。
 
 ## 要旨
@@ -658,7 +666,3 @@ VWHが真であるなら、それは悪い知らせである。しかし、だ�
 - Tegmark, M. and Bostrom, N. ( 2005 ) ‘ Astrophysics: Is a Doomsday Catastrophe Likely? ’, Nature , 438 ( 7069 ), p. 754 . 10.1038/438754a
 
 - Torres, P. ( 2018) ‘ Superintelligence and the Future of Governance: On Prioritizing the Control Problem at the End of History .’ in R. Yampolskiy (ed.), Artificial Intelligence Safety and Security . Milton : Chapman and Hall/CRC, pp. 357 – 74 .
-
----
-
-この記事は、 Nick Bostrom による [The Vulnerable World Hypothesis](https://doi.org/10.1111/1758-5899.12718) を ChatGPT を使って翻訳したものです。もとの記事は [CC BY-NC 4.0 ライセンス](https://creativecommons.org/licenses/by-nc/4.0/)のもとで提供されています。翻訳版も同じく CC BY-NC 4.0 ライセンス ライセンスのもとで提供されます。

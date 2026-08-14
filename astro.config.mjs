@@ -9,6 +9,7 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Translations',
+			customCss: ['./src/styles/custom.css'],
 			favicon: '/favicon.png',
 			locales: {
 				root: { label: '日本語', lang: 'ja' },
