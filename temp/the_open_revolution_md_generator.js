@@ -73,6 +73,46 @@ function cleanBody(inputLines, chapterNumber) {
     .trim();
 }
 
+function parseFootnotes(inputLines) {
+  const definitions = new Map();
+  let currentNumber = null;
+
+  for (const line of inputLines) {
+    const match = line.trim().match(/^\[(\d+)\]\s+(.+)$/);
+    if (match) {
+      currentNumber = Number(match[1]);
+      definitions.set(currentNumber, [match[2].trim()]);
+    } else if (currentNumber !== null && line.trim()) {
+      definitions.get(currentNumber).push(line.trim());
+    }
+  }
+
+  return new Map(
+    [...definitions].map(([number, definition]) => [number, definition.join(' ')])
+  );
+}
+
+function addChapterFootnotes(body, chapterLines, footnoteDefinitions) {
+  const referencedNumbers = new Set();
+  for (const line of chapterLines) {
+    for (const match of line.matchAll(/\[(\d+)\]/g)) {
+      referencedNumbers.add(Number(match[1]));
+    }
+  }
+
+  const numbers = [...referencedNumbers].sort((a, b) => a - b);
+  if (numbers.length === 0) return body;
+
+  const convertedBody = body.replace(/\[(\d+)\]/g, (_, number) => `[^${number}]`);
+  const definitions = numbers
+    .filter((number) => footnoteDefinitions.has(number))
+    .map((number) => `[^${number}]: ${footnoteDefinitions.get(number)}`)
+    .join('\n');
+
+  if (!definitions) return convertedBody;
+  return `${convertedBody}\n\n${definitions}`;
+}
+
 function yamlString(value) {
   return JSON.stringify(value);
 }
@@ -120,6 +160,8 @@ for (const line of lines) {
 
 if (currentChapter) chapters.push(currentChapter);
 
+const footnoteDefinitions = parseFootnotes(footnotes);
+
 const expectedNumbers = Array.from({ length: 14 }, (_, index) => index + 1);
 const chapterNumbers = chapters.map(({ number }) => number);
 if (
@@ -147,7 +189,11 @@ await fs.writeFile(
 
 for (const chapter of chapters) {
   const filename = chapterFilenames[chapter.number];
-  const body = cleanBody(chapter.lines, chapter.number);
+  const body = addChapterFootnotes(
+    cleanBody(chapter.lines, chapter.number),
+    chapter.lines,
+    footnoteDefinitions
+  );
   const markdown = `---\ntitle: ${yamlString(`${chapter.number} ${chapter.title}`)}\nsidebar:\n  order: ${chapter.number}\n---\n\n${body}\n`;
 
   await fs.writeFile(path.join(outputDir, filename), markdown, 'utf8');
@@ -159,19 +205,6 @@ if (afterwordBody) {
   await fs.writeFile(
     path.join(outputDir, '15-translators-afterword.md'),
     `---\ntitle: ${yamlString('訳者あとがき')}\nsidebar:\n  order: 15\n---\n\n${afterwordBody}\n`,
-    'utf8'
-  );
-}
-
-const footnoteBody = footnotes
-  .map((line) => line.replace(/^\[(\d+)\]\s+(.+)$/, '- **[$1]** $2'))
-  .join('\n')
-  .replace(/\n{3,}/g, '\n\n')
-  .trim();
-if (footnoteBody) {
-  await fs.writeFile(
-    path.join(outputDir, '16-footnotes.md'),
-    `---\ntitle: ${yamlString('脚注')}\nsidebar:\n  order: 16\n---\n\n${footnoteBody}\n`,
     'utf8'
   );
 }
