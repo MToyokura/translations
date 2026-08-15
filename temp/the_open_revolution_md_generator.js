@@ -63,14 +63,28 @@ function convertSectionHeading(line, chapterNumber) {
 }
 
 function cleanBody(inputLines, chapterNumber) {
-  return inputLines
+  const cleanedLines = inputLines
     .map((line) => convertSectionHeading(line, chapterNumber))
     .map((line) => line.replace(/[ \t]+$/g, ''))
     .filter((line) => !/^\s*_{4,}\s*$/.test(line))
-    .filter((line) => !/^\s*―{4,}\s*$/.test(line))
-    .join('\n')
-    .replace(/\n{3,}/g, '\n\n')
-    .trim();
+    .filter((line) => !/^\s*―{4,}\s*$/.test(line));
+
+  const output = [];
+  for (let index = 0; index < cleanedLines.length; index += 1) {
+    const line = cleanedLines[index];
+    const nextLine = cleanedLines[index + 1];
+    output.push(line);
+
+    if (!line.trim() || !nextLine?.trim()) continue;
+
+    // Markdown では単一改行は同じ段落として扱われるため、
+    // 通常の本文行の間に空行を補う。番号付き箇条書きは連続させる。
+    const isListItem = /^\s*(?:\d+\.|[-*+])\s+/.test(line);
+    const nextIsListItem = /^\s*(?:\d+\.|[-*+])\s+/.test(nextLine);
+    if (!(isListItem && nextIsListItem)) output.push('');
+  }
+
+  return output.join('\n').replace(/\n{3,}/g, '\n\n').trim();
 }
 
 function parseFootnotes(inputLines) {
