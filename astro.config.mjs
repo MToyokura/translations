@@ -32,6 +32,10 @@ export default defineConfig({
 					],
 				},
 				{
+					label: 'The Open Revolution',
+					items: [{ autogenerate: { directory: 'open-revolution' } }],
+				},
+				{
 					label: 'Miscellaneous',
 					items: [{ autogenerate: { directory: 'miscellaneous' } }],
 				},
