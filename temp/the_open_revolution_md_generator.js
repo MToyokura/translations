@@ -131,6 +131,28 @@ function yamlString(value) {
   return JSON.stringify(value);
 }
 
+function convertContentsToLinks(contentsLines) {
+  return contentsLines.map((line) => {
+    const match = line.trim().match(
+      /^(\d{1,2})(?:\.\d+)*\s*(.+?)\s+\d+\s*$/
+    );
+    if (!match) return line;
+
+    // 原書の大見出し（1〜14章）のみを目次に掲載する。
+    if (/^\d{1,2}\./.test(line.trim())) return null;
+
+    const chapterNumber = Number(match[1]);
+    const filename = chapterFilenames[chapterNumber];
+    if (!filename) return line;
+
+    const sectionLabel = line.trim().replace(/\s+\d+\s*$/, '');
+    // 00-about は /open-revolution/00-about/ に表示されるため、
+    // 同じディレクトリにある章ページへは親階層経由でリンクする。
+    const link = `../${filename.replace(/\.md$/, '')}`;
+    return `- [${sectionLabel}](${link})`;
+  });
+}
+
 function buildAboutBody(inputLines) {
   const content = inputLines
     .filter((line) => !/^\s*_{4,}\s*$/.test(line))
@@ -176,10 +198,18 @@ function buildAboutBody(inputLines) {
     ? `## 献辞\n\n${content[dedicationIndex]}`
     : '';
   const contents = contentsIndex >= 0 && quoteIndex >= 0
-    ? `## 目次\n\n${content.slice(contentsIndex + 1, quoteIndex).join('\n')}`
+    ? `## 目次\n\n${convertContentsToLinks(
+        content.slice(contentsIndex + 1, quoteIndex)
+      )
+        .filter(Boolean)
+        .join('\n')}`
     : '';
   const quotations = quoteIndex >= 0
-    ? `## 本書について\n\n${content.slice(quoteIndex).join('\n')}`
+    ? `## 本書について\n\n${content
+        .slice(quoteIndex)
+        .filter((line) => line.trim())
+        .map((line) => `> ${line.trim()}`)
+        .join('\n')}`
     : '';
 
   return [title, author, copyright, sharing, dedication, contents, quotations]
