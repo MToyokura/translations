@@ -4,8 +4,6 @@ sidebar:
   order: 15
 ---
 
-訳者あとがき
-
 本書は、Rufus PollockによるThe Open Revolutionの全訳である。
 
 作者のRufus Pollockは現在世界的に広まりつつあるオープンデータ運動のパイオニアである。情報の自由な共有を目指すNPOであるOpen Knowledge Foundation（OKF）を2004年に設立したほか、ソフトウェア市場における自由な競争の確立を目指すFoundation for a Free Information Infrastructureイギリス支部の理事、Creative Commons UKのポリシーアドバイザーを務めた経験があり、知的財産の開放に向けて積極的に活動している。OKFが開発しているオープンソースのオープンデータ管理システムであるCKANは世界中で利用されており、日本においても自治体がオープンデータなどを管理するためのデータカタログソフトのデファクトスタンダードとなっている。

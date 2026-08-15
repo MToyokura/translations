@@ -318,7 +318,10 @@ for (const chapter of chapters) {
   console.log(`✓ ${filename} — ${chapter.number} ${chapter.title}`);
 }
 
-const afterwordBody = cleanBody(afterword, 0);
+const afterwordBody = cleanBody(
+  afterword.filter((line) => !chapterEndHeading.test(line.trim())),
+  0
+);
 if (afterwordBody) {
   await fs.writeFile(
     path.join(outputDir, '15-translators-afterword.md'),
