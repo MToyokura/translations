@@ -131,6 +131,64 @@ function yamlString(value) {
   return JSON.stringify(value);
 }
 
+function buildAboutBody(inputLines) {
+  const content = inputLines
+    .filter((line) => !/^\s*_{4,}\s*$/.test(line))
+    .map((line) => line.trimEnd());
+  const indexOfLine = (pattern) =>
+    content.findIndex((line) => pattern.test(line.trim()));
+
+  const authorIndex = content.findIndex((line) =>
+    line.includes('博士は、研究者、技術者、起業家')
+  );
+  const copyrightIndex = indexOfLine(/^原書の著作権表示/);
+  const thankYouIndex = indexOfLine(/^読んでくれてありがとう/);
+  const dedicationIndex = indexOfLine(/^両親に$/);
+  const contentsIndex = indexOfLine(/^目次$/);
+  const quoteIndex = indexOfLine(/^私からアイディアを受け取る人は/);
+
+  const title = [
+    '# オープン・レボリューション',
+    '',
+    '## 情報の時代のルールを書き直す',
+    '',
+    '新しい世界にあって古いルールで競う私たち。',
+    '',
+    'ルーファス・ポロック',
+    '',
+    '豊倉幹人・渡辺智暁 訳',
+  ].join('\n');
+
+  const author = authorIndex >= 0
+    ? `## 著者\n\n${content[authorIndex]}`
+    : '';
+  const copyright = copyrightIndex >= 0 && thankYouIndex >= 0
+    ? `## 出版情報・ライセンス\n\n${content
+        .slice(copyrightIndex + 1, thankYouIndex)
+        .join('\n')}`
+    : '';
+  const sharing = thankYouIndex >= 0 && dedicationIndex >= 0
+    ? `## 共有・連絡先\n\n${content
+        .slice(thankYouIndex, dedicationIndex)
+        .join('\n')}`
+    : '';
+  const dedication = dedicationIndex >= 0
+    ? `## 献辞\n\n${content[dedicationIndex]}`
+    : '';
+  const contents = contentsIndex >= 0 && quoteIndex >= 0
+    ? `## 目次\n\n${content.slice(contentsIndex + 1, quoteIndex).join('\n')}`
+    : '';
+  const quotations = quoteIndex >= 0
+    ? `## 本書について\n\n${content.slice(quoteIndex).join('\n')}`
+    : '';
+
+  return [title, author, copyright, sharing, dedication, contents, quotations]
+    .filter(Boolean)
+    .join('\n\n')
+    .replace(/\n{3,}/g, '\n\n')
+    .trim();
+}
+
 const chapters = [];
 const preface = [];
 const afterword = [];
@@ -189,11 +247,7 @@ if (
 
 await fs.mkdir(outputDir, { recursive: true });
 
-const aboutBody = preface
-  .filter((line) => !/^\s*_{4,}\s*$/.test(line))
-  .join('\n')
-  .replace(/\n{3,}/g, '\n\n')
-  .trim();
+const aboutBody = buildAboutBody(preface);
 
 await fs.writeFile(
   path.join(outputDir, '00-about.md'),
