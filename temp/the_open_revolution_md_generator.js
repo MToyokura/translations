@@ -153,6 +153,28 @@ function convertContentsToLinks(contentsLines) {
   });
 }
 
+function formatOpeningQuotations(inputLines) {
+  const quoteLines = inputLines
+    .map((line) => line.trim())
+    .filter(Boolean);
+  const output = [];
+
+  for (const line of quoteLines) {
+    const isAttribution = line.startsWith('—');
+    const isClosingSentence = line === 'これは啓発についての本である。';
+
+    if (isAttribution || isClosingSentence) {
+      if (output.at(-1) !== '') output.push('');
+      output.push(line);
+      if (isAttribution) output.push('');
+    } else {
+      output.push(`> ${line}`);
+    }
+  }
+
+  return output.join('\n').replace(/\n{3,}/g, '\n\n').trim();
+}
+
 function buildAboutBody(inputLines) {
   const content = inputLines
     .filter((line) => !/^\s*_{4,}\s*$/.test(line))
@@ -205,11 +227,9 @@ function buildAboutBody(inputLines) {
         .join('\n')}`
     : '';
   const quotations = quoteIndex >= 0
-    ? `## 本書について\n\n${content
-        .slice(quoteIndex)
-        .filter((line) => line.trim())
-        .map((line) => `> ${line.trim()}`)
-        .join('\n')}`
+    ? `## 本書について\n\n${formatOpeningQuotations(
+        content.slice(quoteIndex)
+      )}`
     : '';
 
   return [title, author, copyright, sharing, dedication, contents, quotations]
