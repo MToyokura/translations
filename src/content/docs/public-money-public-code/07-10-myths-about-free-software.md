@@ -1,52 +1,70 @@
 ---
-title: "10 Myths about Free Software"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "自由ソフトウェアにまつわる10の誤解"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+自由ソフトウェアはますます普及していますが、それに対する認識はいまだに根強い誤解に左右されています。よくある誤解について、ここで改めて明らかにしておきましょう。
 
-<!-- Source PDF page 12 -->
-10 Myths About Free Software
+## 「自由ソフトウェアではビジネスができない」
 
-Although Free Software has become more and more popular, its perception is still dominated by very persistent myths. It is high time to shed some light on the most common misconceptions.
+自由ソフトウェア・ライセンスは、世界中でイノベーションとビジネスを支えています。多くの大企業が自由ソフトウェアに大きく依存しています。自動車メーカーは、自動緊急通報を管理する車載コンピューターに自由ソフトウェアを利用しています。ロンドン証券取引所の取引プラットフォームも自由ソフトウェアを基盤としています。また、世界中の大企業で使用される主要なサーバーの多くも自由ソフトウェアに依存しています。現在の大手テクノロジー企業の中には、自由ソフトウェアなしには存在し得なかった企業もあります。
 
-“It is impossible to do business with Free Software.”
+## 「自由ソフトウェアはアマチュアが開発している」
 
-Free Software licences drive innovation and business all over the world. Many big companies heavily rely on them. Car manufacturers apply Free Software to on‐board computers to manage automated emergency calls. The trading platform of the London Stock Exchange is based on Free Software. Moreover, major servers in many global companies rely on Free Software. Some of the biggest tech companies today would not exist without Free Software.
+ボランティアによって始められた自由ソフトウェア・プロジェクトが数多く存在することは事実ですが、コードを提供しているのは趣味で活動する人だけだと考えるのは偏見です。自由ソフトウェアに携わる多くの人々は、高度な資格や技能を持つIT専門家です。
 
-“Free Software is developed by amateurs.”
+大企業は、従業員をコードの改善に従事させることで、自由ソフトウェア・プロジェクトに数百万ユーロ規模の投資を行っています。今日では、GNU/Linux オペレーティングシステムの中核である Linux カーネルへの貢献の約90％が、プロの開発者によるものと推定されています。Linux カーネルは一人のコンピューター科学専攻の学生によって始められましたが、現在ではほぼすべての世界的企業にとって重要なITインフラの一部となっています。
 
-Although there are a large number of Free Software projects that have been initiated by volunteers, it is prejudicial to state that only hobbyists contribute code. Many Free Software enthusiasts are highly qualified IT professionals. Large companies invest millions of euros in Free Software projects by assigning their employees to work on improving code. Today, it is estimated that about 90% of the contributions to the Linux kernel, the core of GNU/Linux operating systems, come from professional developers. Although the Linux kernel was initiated by a computer science student, today it is a part of critical IT infrastructure for almost all global players.
+## 「自由ソフトウェア製品には専門的なサポートがない」
 
-“There is no professional support for Free Software products.”
+多くの自由ソフトウェア企業が、研修、コードのドキュメント作成、アップデートの開発・導入、個別要件に合わせたソフトウェア・ソリューションなど、顧客向けのサポートサービスを専門に提供しています。
 
-Many Free Software companies specialise in support services for clients such as training, code documentation, the development and implementation of updates, or tailored software solutions. Clients who seek professional support packages can choose from a large number of providers. Free Software is no longer a niche. It is a myth that tech companies are not able to earn money with Free Software. Business associations such as OW2, OpenForum Europe (OFE), and the Open Source Business Alliance (OSBA) represent hundreds of small and medium‐sized European companies specialising in Free Software services.
+専門的なサポートパッケージを求める顧客は、多数の事業者の中から選ぶことができます。自由ソフトウェアは、もはやニッチな存在ではありません。テクノロジー企業は自由ソフトウェアでは収益を得られないというのは誤解です。
 
-“Making source code publicly available poses a security risk.”
+OW2、OpenForum Europe（OFE）、Open Source Business Alliance（OSBA）などの業界団体には、自由ソフトウェア関連サービスを専門とするヨーロッパの中小企業が数百社参加しています。
 
-Free Software code that is publicly accessible can be checked by independent parties for security flaws and deliberately installed backdoors. The publication of code serves as a trust‐gaining measure. The concept of security through hidden source code is regarded by experts as ineffective, because it hides security problems, instead of helping fix them. In some contexts, this can even pose a security risk. Restrictive licences keep useful help away, while failing to disarm wrongdoers.
+## 「ソースコードを公開するとセキュリティ上のリスクが生じる」
 
-<!-- Source PDF page 13 -->
-“Free Software reduces the costs for IT services to zero.”
+公開されている自由ソフトウェアのコードは、独立した第三者がセキュリティ上の欠陥や意図的に組み込まれたバックドアの有無を検証できます。コードの公開は、信頼を高めるための手段となります。
 
-It is true that reusing Free Software code can be free of charge, but this does not mean that an institution with 100% Free Software has zero IT expenses. The development and feature enhancement, as well as support services, will cost money. Free Software licences are, in many cases, chosen not only because of short‐term monetary incentives, but also as part of a strategy for self‐determined sovereignty over IT, preventing vendor lock‐in.
+ソースコードを隠すことで安全性を確保するという考え方は、セキュリティ上の問題を修正するのではなく隠してしまうため、専門家からは有効ではないと考えられています。状況によっては、それ自体がセキュリティリスクとなることさえあります。制限的なライセンスは、有益な支援を遠ざける一方で、悪意ある者の行動を防ぐことはできません。
 
-“Free Software is less user-friendly in general.”
+## 「自由ソフトウェアを使えばITサービスのコストはゼロになる」
 
-The times when Free Software alternatives lacked a proper user interface are long gone. The most popular operating system for smartphones (Android) is based on Free Software. Most modern TV screens are operated by Free Software. Wikipedia, one of the most popular websites worldwide, is based completely on Free Software. Some of the most used content management systems (CMS) for websites such as WordPress, Drupal, and Typo3 are also Free Software.
+自由ソフトウェアのコードを再利用すること自体は無償で行える場合があります。しかし、100％自由ソフトウェアを採用した組織のIT費用がゼロになるという意味ではありません。開発や機能追加、サポートサービスには費用がかかります。
 
-“Free Software is not compatible with proprietary software.”
+自由ソフトウェア・ライセンスは、多くの場合、短期的な金銭的メリットだけを理由に選ばれているのではありません。ベンダーロックインを防ぎ、ITに対する自律的な主権を確保するための戦略の一環として選択されています。
 
-Free Software can be complementary to proprietary software. Many organisations use partially proprietary and partially Free Software. Prominent examples for projects that run on various operating systems are the Firefox browser, LibreOffice, and the VLC media player. As well as these, there are many non‐free applications that are compatible with Free Software operating systems. While in non‐free projects, the owner of the software decides on its desired compatibility, free licences allow corporate and private users to freely modify it according to their needs.
+## 「自由ソフトウェアは一般的に使いにくい」
 
-“Free Software is software without a licence.”
+自由ソフトウェアの代替製品に適切なユーザーインターフェースがなかった時代は、すでに過去のものです。スマートフォンで最も広く利用されているオペレーティングシステムである Android は、自由ソフトウェアを基盤としています。現在のテレビの多くも自由ソフトウェアによって動作しています。
 
-There are many Free Software licences that have specific terms for copying and modifying the code. The “Free” in Free Software refers to the “four freedoms”: the rights to use, study, share, and improve the software. In order for a piece of code to qualify as Free Software, it is not enough just to publish it. In order to guarantee that the software grants these freedoms to others, an appropriate licence is needed.
+世界で最も利用されているウェブサイトの一つである Wikipedia も、全面的に自由ソフトウェアを基盤としています。WordPress、Drupal、Typo3 など、ウェブサイトで広く利用されているコンテンツ管理システム（CMS）の一部も自由ソフトウェアです。
 
-“Using Free Software imposes legal risks.”
+## 「自由ソフトウェアはプロプライエタリ・ソフトウェアと互換性がない」
 
-Court decisions have confirmed that you are not obliged to provide any warranties for Free Software, if there is no additional evidence to suggest otherwise. However, like with any other licence, there are certain rules that come with a Free Software licence, which require compliance. For example, you are not allowed to inhibit other users from the four freedoms to use, study, share, and improve the software.
+自由ソフトウェアとプロプライエタリ・ソフトウェアは、相互に補完して利用することができます。多くの組織が、一部ではプロプライエタリ・ソフトウェアを、一部では自由ソフトウェアを利用しています。
 
-“Free Software is a trend that won’t last.”
+複数のオペレーティングシステムで動作する代表的なプロジェクトとして、Firefox ブラウザー、LibreOffice、VLC メディアプレーヤーがあります。また、自由ソフトウェアのオペレーティングシステム上で動作する非自由ソフトウェアも数多く存在します。
 
-Free Software is not a short‐term trend – it is actually a long‐term success story. The first explicit Free Software licence was published in the 1980s. Since then, the number of individuals, businesses, and institutions that use Free Software and contribute code is constantly growing. More and more governments encourage their public administrations to use Free Software and to provide access to publicly funded code under a Free Software licence. Some countries, such as Bulgaria and Italy, have even implemented laws, which state that new projects funded with public money should result in public code.
+非自由ソフトウェアのプロジェクトでは、そのソフトウェアの所有者がどのような互換性を持たせるかを決定します。一方、自由なライセンスでは、企業や個人の利用者が自らの必要に応じて自由に改変できます。
+
+## 「自由ソフトウェアにはライセンスがない」
+
+自由ソフトウェアにも、コードの複製や改変について具体的な条件を定めたさまざまなライセンスがあります。自由ソフトウェアの「Free」は、「4つの自由」、すなわちソフトウェアを使用し、研究し、共有し、改良する権利を意味しています。
+
+単にコードを公開しただけでは、自由ソフトウェアとはみなされません。こうした自由を他者にも保障するには、適切なライセンスが必要です。
+
+## 「自由ソフトウェアを利用すると法的リスクが生じる」
+
+裁判所の判断により、別段の事情がない限り、自由ソフトウェアについて保証を提供する義務はないことが確認されています。ただし、他のライセンスと同様に、自由ソフトウェア・ライセンスにも遵守すべき一定のルールがあります。
+
+たとえば、他の利用者がソフトウェアを使用し、研究し、共有し、改良するという4つの自由を行使することを妨げてはなりません。
+
+## 「自由ソフトウェアは一時的な流行にすぎない」
+
+自由ソフトウェアは短期的な流行ではありません。むしろ、長期にわたる成功の歴史があります。最初の明示的な自由ソフトウェア・ライセンスは1980年代に公開されました。
+
+それ以来、自由ソフトウェアを利用し、コードを提供する個人、企業、組織の数は増え続けています。行政機関に自由ソフトウェアの利用を促し、公費で開発されたコードを自由ソフトウェア・ライセンスのもとで公開するよう求める政府も増えています。
+
+ブルガリアやイタリアなど、新たに公費で開発されるプロジェクトは公開コードとして提供すべきであると法律で定めている国もあります。
