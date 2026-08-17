@@ -1,52 +1,50 @@
 ---
-title: "The Impact of Free Software on Competition"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "自由ソフトウェアが競争に与える影響"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+行政機関が自由ソフトウェアを公開することは、市場を歪めるのでしょうか？ Simon Schlauri 教授は、この問いから生じる法的・経済的な論点について、スイスのベルン州のために詳細な報告書をまとめました。
 
-<!-- Source PDF page 10 -->
-The Impact of Free Software on Competition
+自由ソフトウェアは、ITの世界ですでに広く定着しています。中小企業からグローバル企業まで、数多くの企業が自由ソフトウェアのさらなる開発と利用に多額の資金を投じています。現在では、行政機関も自由ソフトウェアを日常的に利用しています。たとえば、自治体の行政業務、裁判所の判例データベース、インターネット上での地理データの提供などに利用されています。[^1]
 
-Do public administrations distort the market through the release of Free Software? Prof. Dr. Simon Schlauri published a detailed report for the Swiss Canton of Bern about the legal and economic arguments resulting from this question.
+企業や行政機関が自由ソフトウェアを利用する理由はさまざまです。使用される標準のオープン性、特定の供給事業者や製品からの独立性、利用者・開発者コミュニティとの交流、セキュリティ、安定性、さらにはコスト削減の可能性などが挙げられます。
 
-Free Software is well established in the IT world. A significant number of companies, from SMEs to global corporations, invest considerable sums in the further development and use of Free Software. Public administrations now also regularly use Free Software. For example, for administration in municipalities, as a decision database for courts, or for the provision of geodata on the Internet. [^1] The reasons for using Free Software in companies and public administrations are manifold, e.g. the openness of the standards used, the independence from suppliers and products, the exchange with the community of users and developers, security, as well as stability and possible cost savings.
+自由ソフトウェアを自由に利用できることによって、ソフトウェア開発者、保守やサポートなどの付随サービスを提供する事業者、そして利用者が対等に関与するエコシステムが生まれます。自由ソフトウェア・モデルのもう一つの重要な利点は、ソースコードを第三者が利用できるようにすることで、利用者と開発者によるソフトウェア開発が加速することです。
 
-The free availability of Free Software creates an ecosystem in which software developers, providers of complementary services (such as maintenance or support), and users are equally involved. Another important advantage of the Free Software model is the accelerated software development by users and developers, once the software code is made available to third parties.
+行政がソフトウェアを自由ソフトウェア・ライセンスのもとで公開することが、競争中立性、すなわち国家が競争事業者を平等に扱う義務に反するかどうかについては、議論の余地があります。一部の国では、国家の行為について競争中立性を確保する義務が憲法上の原則となっています。また、単一市場政策、公共調達法、国家補助法など、欧州法からこの義務が導かれる場合もあります。
 
-It is debatable whether the release of software under a Free Software licence by the state could violate competition neutrality (i.e., the obligation of the state to treat competitors equally). In some countries the obligation of ensuring competition neutrality of the state’s actions is a constitutional principle. It may also arise from European law, for example from single market policy, or from public procurement or state aid law.
+行政自身が市場に参入し、その過程で商業的利益を追求する場合、競争中立性の観点からは一般に問題になりません。一方、それ以外の動機、たとえば公共の利益を考慮した活動は、多くの場合、市場の歪みにつながり、競争中立性に反することになります。極端な場合には、一般会計からの公費によって公共サービスが補助されることで、民間の活動が公的供給によって完全に排除されることさえあります。逆に言えば、行政が合理的な民間事業者と同じように行動するほど、競争を歪めるリスクは小さくなると考えられます。
 
-If the state itself enters a market and pursues commercial interests in the process, this is generally unproblematic from a competition neutrality perspective. By contrast, in most cases the consideration of other motives (public interest) leads to a distortion of markets and hence violates competition neutrality. In extreme cases, private activity is even completely displaced by public supply because the community subsidizes its services with the use of state funds from the general budget. Vice versa, it can be argued that the more the state acts as a rational private competitor, the less the risk of distortion of competition.
+> クローズドソース・ソフトウェアだけに限定することも、競争中立性の原則に反する可能性があります
 
-An exclusive focus on closed source software could violate the principle of competition neutrality
+行政が自由ソフトウェアを提供することが許されるかどうかは、民間の市場参加者の立場から見た場合にも、自由ソフトウェアの公開が成立しうるビジネスモデルであるかどうかに左右されます。つまり、行政と同様の状況にある民間の市場参加者も、ソースコードを自由ソフトウェア・ライセンスのもとで公開するという判断をするかどうかが基準となります。[^2]
 
-Permissibility of making Free Software available by the state is dependent on whether, from the point of view of a private market participant, the release of Free Software would also be a viable business model, i.e. whether a private market participant, in a similar situation as the community, would also decide to release the source code under a Free Software licence. [^2]
+さらに、補助金に関する法制度を参照することも有用です。補助には、返済不要の現金給付、有利な条件での融資、保証、無償または割引価格で提供されるサービス、現物給付などが含まれます。EUの判例によれば、同様の状況で、関連する行政機関と比較して民間投資家が同じ措置を取らなかった場合には、このような利益が存在すると考えられます。[^3]
 
-In addition, a recourse to subsidy law may be helpful. Subsidies include non‐refundable cash benefits, preferential conditions for loans, guarantees, free or discounted services, and benefits in kind. According to EU case law, such benefits exist if a private investor, compared to the
+![公共インフラにおけるソースコードを示した Public Money Public Code キャンペーンのビジュアル](./assets/public-code-visual-page-11.jpg)
 
-<!-- Source PDF page 11 -->
-![Public Money Public Code campaign visual showing source code in public infrastructure](./assets/public-code-visual-page-11.jpg)
+したがって、民間の市場参加者にも自らのコードを自由ソフトウェア・ライセンスのもとで無償公開するさまざまな理由がある以上、行政が自由ソフトウェアを公開することも、競争中立性の観点から多くの場合問題にはなりません。
 
-relevant public administration, has not taken the same measure in a comparable situation. [^3]
+さらに、行政機関がクローズドソース・ソフトウェアだけを重視すれば、前述した自由ソフトウェアのエコシステムに参加する企業を差別することにもなり、やはり競争中立性の原則に反する可能性があります。
 
-Thus, since there are a number of reasons for private market participants to release their own code free of charge under a Free Software licence, its release by the state is often unproblematic from a competition neutrality perspective.
+また、公共調達法の観点からは、2つ以上の公共調達機関が共同の自由ソフトウェア・プロジェクトの枠組みで協力できるかどうかという問題も生じます。EU公共調達指令のもとでは、公共機関同士に契約上の基盤があり、その契約に基づいて共通の目的を追求し、協力がもっぱら公共の利益のために行われ、さらに参加する調達機関が協力対象となる活動の20％未満しか市場全体で実施していない場合、このような協力は可能です。特に行政専用のソフトウェアについては、ほとんど問題になりません。[^4]
 
-Moreover, an exclusive focus of public administrations on closed source software could also discriminate against the companies involved in the aforementioned Free Software ecosystem and thus also violate the principle of competition neutrality.
+ただし、行政機関による自由ソフトウェアの公開が、その行政機関に法律上割り当てられた業務の範囲を超える場合、公正取引や行政法の観点から問題となる可能性があることには注意が必要です。たとえば、一般的なオフィスソフトウェアを任意の行政機関が配布することは認められません。[^5]
 
-Furthermore, in terms of public procurement law, the question arises as to whether cooperation between two or more contracting public authorities is possible within the framework of a joint Free Software project. This is the case under the EU Public Procurement Directive, if there is a contractual basis between the public authorities under which common objectives are pursued, where cooperation is exclusively in the public interest, and where the contracting authorities involved perform less than 20% of the activities covered by the cooperation in the market as a whole. Especially in the case of administration‐specific software, this causes hardly any problems. [^4]
+それでも、多くの場合、行政が自由ソフトウェアを公開する方針に問題はありません。民間の市場参加者にも当てはまる、合理的な公開理由が数多く存在するからです。
 
-It should be noted, however, that the disclosure of Free Software by a public administration might be problematic from a fair‐trade or administrative law perspective, if the disclosure exceeds the administration’s legally assigned tasks. So, for example, the distribution of general office software by any public administration would not be allowed. [^5]
+[^1]: OSS study 2018; Thomas Poledna, Simon Schlauri, and Samuel Schweizer, _Gutachten zu den rechtlichen Voraussetzungen der Nutzung von Open Source Software in der öffentlichen Verwaltung_, Berlin 2017, pp. 23 ss.
 
-Nevertheless, in most cases, a government strategy to publish Free Software remains unproblematic, since there are many valid reasons for doing so which would also apply to private market participants.
-
-[^1]: OSS study 2018; Thomas Poledna, Simon Schlauri, and Samuel Schweizer, *Gutachten zu den rechtlichen Voraussetzungen der Nutzung von Open Source Software in der öffentlichen Verwaltung*, Berlin 2017, pp. 23 ss.
 [^2]: Poledna, Schlauri, and Schweizer, pp. 101 ss., 108.
+
 [^3]: Poledna, Schlauri, and Schweizer, p. 107 s.
+
 [^4]: Poledna, Schlauri, and Schweizer, pp. 123 ss.
+
 [^5]: Poledna, Schlauri, and Schweizer, pp. 85, 158.
 
-![Portrait of Prof. Dr. Simon Schlauri](./assets/simon-schlauri.jpg)
+![Simon Schlauri 教授のポートレート](./assets/simon-schlauri.jpg)
 
 Prof. Dr. Simon Schlauri
 
-Prof. Dr. Simon Schlauri is an attorney and, since 2012, partner of the Swiss law firm Ronzani Schlauri Attorneys, which specialises in technology and information law. From 2009 to 2012 he worked as inhouse counsel in the IT and telecoms industry. Simon Schlauri received his doctorate on the subject of electronic signatures and habilitated in network neutrality (telecoms law). He regularly publishes on IT law topics and advises clients on IT law issues, particularly in the areas of open source software and open content.
+Simon Schlauri 教授は弁護士で、2012年からテクノロジー法・情報法を専門とするスイスの法律事務所 Ronzani Schlauri Attorneys のパートナーを務めています。2009年から2012年までは、IT・通信業界の企業内弁護士として勤務しました。電子署名をテーマに博士号を取得し、ネットワーク中立性（通信法）について教授資格論文を執筆しました。IT法に関する論文を定期的に発表するとともに、特にオープンソースソフトウェアとオープンコンテンツの分野を中心として、IT法に関する助言を行っています。
