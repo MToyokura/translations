@@ -1,25 +1,23 @@
 ---
-title: "Editorial"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "巻頭言"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+![Matthias Kirschner のポートレート](./assets/matthias-kirschner.jpg)
 
-<!-- Source PDF page 3 -->
-![Portrait of Matthias Kirschner](./assets/matthias-kirschner.jpg)
+Matthias Kirschner  
+Free Software Foundation Europe 会長
 
-Matthias Kirschner President of the Free Software Foundation Europe
+読者の皆さまへ
 
-Dear reader,
+今日、デジタル技術は現代国家のインフラに欠かせない存在となっています。それに伴い、行政機関は新たな課題に直面し、統制、セキュリティ、効率性、権力の分散、そして組織の透明性をめぐる新たな問いが生まれています。
 
-Today, digital technologies are a crucial part of the infrastructure of modern states. This challenges public administrations, raises new questions regarding control, security, efficiency, distribution of power, and transparency of institutions.
+Free Software Foundation Europe（FSFE）は、2001年以来、公益団体として、利用者がテクノロジーを自らコントロールできるようにするための活動を続けてきました。私たちは、利用者の自由を制限するのではなく、その力を高めるテクノロジーが必要だと考えているからです。自由ソフトウェア（Free Software）は、個人、企業、組織、行政機関を含むすべての人に、ソフトウェアを使用し、研究し、共有し、改良する権利を与えます。行政機関にとって自由ソフトウェアは、既存のソフトウェアコードを再利用できることや、他の機関とコードや費用を共有できることから、より高い持続可能性をもたらします。また、企業、市民社会、市民にとって、革新的なライセンス方針は、より多くの選択肢、透明性、競争、そして費用対効果をもたらします。
 
-The Free Software Foundation Europe (FSFE) has been working as a charity since 2001 on empowering users to control technology, because we believe we need technology which empowers users instead of restricting their freedom. Free Software gives everybody – individuals, companies, organisations, and public administration – the rights to use, study, share, and improve software. For public administration, Free Software means more sustainability due to the re‐use of existing software code and the benefits of sharing code and costs with other institutions. For companies, civil society, and citizens, innovative licensing policies mean more choice, transparency, competition, and cost efficiency.
+行政における自由ソフトウェアの活用は、一時的な流行ではありません。ここ数年、行政機関のIT調達に対する姿勢には大きな変化が見られ、戦略的かつ長期的な視点に立ったアプローチがますます重視されるようになっています。単一のソフトウェアベンダーへの依存がもたらす長期的なコストやリスクを懸念する公的機関も増えています。ベンダーロックインに対する対策として実際に有効であることが証明されている戦略は、オープン標準と自由ソフトウェアライセンスに大きく依拠しています。新しい調達方針は、自由ソフトウェアをめぐる競争的な提案を通じて、依存関係を最小限に抑え、コストを削減することに役立ちます。公共部門における自由ソフトウェアライセンスの利用を支援するロードマップや法制度を導入する国も増えています。今日では、大規模な政府ITプロジェクトでさえ、自由ソフトウェアライセンスのもとで定期的に公開されるようになっています。
 
-Free Software in public administration is not a short‐term trend. The last few years have seen significant changes in the attitudes of public administrations towards IT procurement, increasingly favouring a strategic, long‐term‐oriented approach. More and more state actors are concerned about the long‐term costs and dangers incurred by a dependency on single software vendors. Successful counter‐strategies against vendor lock‐in, proven to work in practice, rely to a great degree on open standards and Free Software licences. New procurement policies help to minimise dependencies and to lower costs via competitive Free Software offers. A growing number of countries have implemented roadmaps or legislation that support the use of Free Software licences in the public sector. Today, even large scale government IT projects are published regularly under Free Software licences.
+この冊子は、FSFEに寄せられる公共部門からの問い合わせが増えていることを受けて刊行するものです。記事、インタビュー、基礎情報をまとめた本書では、公共部門で自由ソフトウェアを導入する際によく寄せられる疑問に回答しています。続くページでは、公共インフラの近代化に役立つ具体的な活用事例、背景情報、専門家からの助言をご紹介します。行政学を学んだ科学者として、本報告書が行政機関のITインフラの近代化に貢献し、それによって市民により良いサービスを提供する一助となることを願っています。
 
-The publication of this brochure is a response to a growing number of requests from the public sector sent to us at the FSFE. This collection of articles, interviews, and basic information provides answers to the most common questions regarding the implementation of Free Software in the public sector. The following pages contain relevant use‐cases, background information, and expert advice for the modernisation of public infrastructure. As a scientist, trained in public administration, I hope this report will contribute to the modernisation of the IT infrastructure in public administration, and thereby provide a better service for citizens.
-
-Sincerely,
+敬具
 
 Matthias Kirschner
