@@ -1,30 +1,46 @@
 ---
-title: "Different Options of Releasing Free Software"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "自由ソフトウェアを公開するさまざまな方法"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+# 自由ソフトウェアを公開するさまざまな方法
 
-<!-- Source PDF page 20 -->
-Different Options of Releasing Free Software
+公共部門による自由ソフトウェアへの貢献には、さまざまな形態と規模があります。ベルン大学デジタル・サステナビリティ研究センター所長の Matthias Stürmer 博士が、小さな貢献であっても大きな効果をもたらし得る理由を説明します。
 
-Free Software contributions from the public sector come in various shapes and sizes. Dr. Matthias Stürmer, head of the Research Centre for Digital Sustainability at the University of Bern, provides arguments why even small contributions can have a great impact.
+## バグ修正と機能改善
 
->
+行政機関が MariaDB（データベース）や Angular（JavaScript プログラミング・フレームワーク）など既存の自由ソフトウェアを利用している場合、内部のソフトウェアエンジニアが時折、自分たちの変更コードを公開することが重要です。
 
-Bug fixes and feature improvements
+自由ソフトウェアを利用する開発者が、バグを修正したり、小さな機能を追加したりすることがあります。もしそのバグ修正や機能追加のコードを自分たちだけで保持していれば、次のリリースで同じバグが再び現れ、新しい機能も取り込まれないことになります。
 
-If an agency is using existing Free Software such as MariaDB (a database) or Angular (a JavaScript programming framework), it is essential for the internal software engineers to release bits of software once in a while. Developers who use Free Software may fix a bug or add a little feature. If they kept the bug fix and feature code just for themselves, the bug would appear again in the next release and the new feature wouldn’t be developed. It is, therefore, of great short‐term self‐interest for the public organisation to contribute such small enhancements back upstream to the main development branch of the Free Software solution. If the patch is accepted, the next release will already include the bug fix and the new feature, leading to higher development speed and less repetition of work.
+したがって、こうした小規模な改良を、自由ソフトウェアの主要な開発ブランチであるアップストリームへ還元することは、公的組織自身にとって短期的にも大きな利益があります。
 
-Crowdfunding of major Free Software developments
+パッチが採用されれば、次のリリースにはすでにバグ修正や新機能が含まれるため、開発速度が向上し、同じ作業を繰り返す必要も減ります。
 
-On several occasions, governmental agencies have crowd‐funded the development of certain large extensions of existing Free Software solutions. For example, swisstopo helped to fund the development of OpenLayers version 3 (a web map framework) together with other European offices of topography. [^1] Collecting money and then hiring Free Software service providers to enhance existing Free Software applications, instead of starting new projects, can enhance the code quality and lower the expenses through sharing the costs.
+## 大規模な自由ソフトウェア開発の共同資金調達
 
-Launching new Free Software projects
+政府機関が協力して、既存の自由ソフトウェア・ソリューションに対する大規模な機能拡張の開発費を共同で負担した事例がいくつもあります。
 
-Starting a new Free Software project (such as OpenJustitia by the Swiss Federal Court, or the geo portal by swisstopo) through releasing the complete source code of a software product is a longterm investment. Resources are needed for preparing and releasing the source code, the coordination with the community and possibly even for founding an independent non‐profit association, in order to control the source code. However, if community building is successful, the software will be enhanced by other agencies, leading to a more complete solution and lowering the development cost in the long‐run. Also, through creating a large user base, the market of Free Software service providers grows, lowering the dependencies on external vendors.
+たとえば swisstopo は、他のヨーロッパ諸国の地形・測量機関と共同で、ウェブ地図フレームワーク OpenLayers バージョン3の開発費を支援しました。[^1]
 
-These three cases represent the different ways in which governments might release Free Software. The resulting source code thus becomes a public good [^2]: By definition, it is non‐exclusive and noncompeting. Publishing publicly funded software therefore makes sense, since public agencies should invest in public goods to maximise their benefit to society, as happens for example in their support of basic research or the promotion of environmental protection.
+資金を共同で集め、新たなプロジェクトを一から立ち上げる代わりに、自由ソフトウェアのサービス事業者へ既存の自由ソフトウェア・アプリケーションの改善を委託することで、コードの品質を高めると同時に、費用を分担して支出を削減することができます。
+
+## 新しい自由ソフトウェア・プロジェクトの立ち上げ
+
+スイス連邦裁判所の OpenJustitia や swisstopo の地理情報ポータルのように、ソフトウェア製品のソースコード全体を公開して新たな自由ソフトウェア・プロジェクトを立ち上げることは、長期的な投資です。
+
+ソースコードの公開準備や実際の公開、コミュニティとの調整、さらにはソースコードを管理するための独立した非営利団体の設立などに、一定のリソースが必要となります。
+
+しかし、コミュニティの形成に成功すれば、他の行政機関によってソフトウェアがさらに改善され、より完成度の高いソリューションへ成長するとともに、長期的な開発コストを削減することができます。
+
+また、大規模な利用者基盤を形成することで、自由ソフトウェア関連サービスを提供する事業者の市場も拡大し、外部ベンダーへの依存を低減できます。
+
+これら3つの事例は、行政が自由ソフトウェアを公開する際に取り得るさまざまな方法を示しています。
+
+その結果として生まれるソースコードは、公共財となります。[^2] 公共財は定義上、非排除的であり、非競合的です。
+
+したがって、公費で開発されたソフトウェアを公開することには合理性があります。基礎研究への支援や環境保護の推進と同じように、行政機関は社会全体にもたらす利益を最大化するため、公共財へ投資すべきだからです。
 
 [^1]: [OSS Directory](http://www.ossdirectory.com/che/oss-top-news/single/article/institutionelles-crowdfunding-fuer-open-source-entwicklung-von-swisstopo).
+
 [^2]: [Springer](https://link.springer.com/article/10.1007/s11625-016-0412-2).
