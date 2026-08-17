@@ -1,4 +1,4 @@
-import { mkdir, readFile, writeFile } from 'node:fs/promises';
+import { copyFile, mkdir, readFile, writeFile } from 'node:fs/promises';
 import { dirname, relative, resolve } from 'node:path';
 import { createHash } from 'node:crypto';
 import { XMLParser } from 'fast-xml-parser';
@@ -8,6 +8,7 @@ const args = new Set(process.argv.slice(2));
 const debug = args.has('--debug-layout');
 const inputDir = resolve(root, args.has('--input') ? process.argv[process.argv.indexOf('--input') + 1] : 'temp/pdf2md');
 const outputFile = resolve(root, args.has('--output') ? process.argv[process.argv.indexOf('--output') + 1] : 'src/content/docs/modernising-with-free-software/index.md');
+const assetDir = resolve(root, 'src/content/docs/modernising-with-free-software/assets');
 const metadataFile = resolve(root, 'src/content/docs/modernising-with-free-software/source-metadata.json');
 const layout = JSON.parse(await readFile(resolve(import.meta.dirname, 'layout.json'), 'utf8'));
 const fixups = JSON.parse(await readFile(resolve(import.meta.dirname, 'fixups.json'), 'utf8'));
@@ -50,6 +51,7 @@ for (const [index, page] of pages.entries()) {
   debugPages.push({ page: pageNumber, blocks: assigned.map(({ block, region }) => ({ ...block, region: region?.id ?? null })) });
 
   output.push(`<!-- Source PDF page ${pageNumber} -->`);
+  for (const image of layout.images?.[String(pageNumber)] ?? []) output.push(`![${image.alt}](./assets/${image.source})`, '');
   if (regions.some((region) => region.omit)) {
     continue;
   }
@@ -64,6 +66,8 @@ for (const [index, page] of pages.entries()) {
 
 await mkdir(dirname(outputFile), { recursive: true });
 await writeFile(outputFile, `${output.join('\n').trimEnd()}\n`);
+await mkdir(assetDir, { recursive: true });
+for (const image of Object.values(layout.images ?? {}).flat()) await copyFile(resolve(inputDir, image.source), resolve(assetDir, image.source));
 await writeFile(metadataFile, `${JSON.stringify(metadata, null, 2)}\n`);
 if (debug) await writeFile(resolve(inputDir, 'layout-debug.json'), `${JSON.stringify({ metadata, pages: debugPages }, null, 2)}\n`);
 console.log(`Wrote ${relative(root, outputFile)} from ${pages.length} PDF pages.`);

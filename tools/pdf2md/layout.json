@@ -22,5 +22,10 @@
     "17": [
       { "id": "infographic", "xMin": 0, "yMin": 0, "xMax": 596, "yMax": 842, "order": 0, "omit": true }
     ]
+  },
+  "images": {
+    "3": [
+      { "source": "matthias-kirschner.jpg", "alt": "Portrait of Matthias Kirschner" }
+    ]
   }
 }

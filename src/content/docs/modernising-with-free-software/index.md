@@ -33,6 +33,8 @@ Photo credits: p.1, 11, 23: Campaign Video Public Money Public Code. CC BY 4 fsf
 Acknowledgements: We would like to thank the members of the FSFE campaign team for discussions and insightful comments on drafts of the texts. We thank Cedric Thomas, Prof. Dr. Simon Schlauri, Dr. Matthias Stürmer, Basanta Thapa, Fernanda G. Weiden and Lori Roussey for their wonderful contributions. We are grateful to Alexander Lehmann and Lena Schall for producing the Public Money Public Code campaign video and providing graphic elements for this publication. We thank Ura Design for their support in visualising the most important facts about Free Software. We thank our donors, supporters and especially the Digital Rights Fund for financial support of the publication.
 
 <!-- Source PDF page 3 -->
+![Portrait of Matthias Kirschner](./assets/matthias-kirschner.jpg)
+
 Matthias Kirschner President of the Free Software Foundation Europe
 
 Dear reader,
