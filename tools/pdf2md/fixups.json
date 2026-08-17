@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "replacements": [
+    { "from": "licencing", "to": "licensing" },
+    { "from": "Decode", "to": "DECODE" },
+    { "from": "participa tory", "to": "participatory" },
+    { "from": "sove reignty", "to": "sovereignty" },
+    { "from": "Digital Econ omy", "to": "Digital Economy" },
+    { "from": "informa tional", "to": "informational" }
+  ]
+}

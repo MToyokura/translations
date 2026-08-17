@@ -36,6 +36,10 @@ export default defineConfig({
 					items: [{ autogenerate: { directory: 'open-revolution' } }],
 				},
 				{
+					label: 'Public Money Public Code',
+					items: [{ label: 'Modernising Public Infrastructure with Free Software', slug: 'modernising-with-free-software' }],
+				},
+				{
 					label: 'Miscellaneous',
 					items: [{ autogenerate: { directory: 'miscellaneous' } }],
 				},
