@@ -18,12 +18,13 @@ If an agency is using existing Free Software such as MariaDB (a database) or Ang
 
 Crowdfunding of major Free Software developments
 
-On several occasions, governmental agencies have crowd‐funded the development of certain large extensions of existing Free Software solutions. For example, swisstopo helped to fund the development of OpenLayers version 3 (a web map framework) together with other European offices of topography. 1 Collecting money and then hiring Free Software service providers to enhance existing Free Software applications, instead of starting new projects, can enhance the code quality and lower the expenses through sharing the costs.
+On several occasions, governmental agencies have crowd‐funded the development of certain large extensions of existing Free Software solutions. For example, swisstopo helped to fund the development of OpenLayers version 3 (a web map framework) together with other European offices of topography. [^1] Collecting money and then hiring Free Software service providers to enhance existing Free Software applications, instead of starting new projects, can enhance the code quality and lower the expenses through sharing the costs.
 
 Launching new Free Software projects
 
 Starting a new Free Software project (such as OpenJustitia by the Swiss Federal Court, or the geo portal by swisstopo) through releasing the complete source code of a software product is a longterm investment. Resources are needed for preparing and releasing the source code, the coordination with the community and possibly even for founding an independent non‐profit association, in order to control the source code. However, if community building is successful, the software will be enhanced by other agencies, leading to a more complete solution and lowering the development cost in the long‐run. Also, through creating a large user base, the market of Free Software service providers grows, lowering the dependencies on external vendors.
 
-These three cases represent the different ways in which governments might release Free Software. The resulting source code thus becomes a public good 2 : By definition, it is non‐exclusive and noncompeting. Publishing publicly funded software therefore makes sense, since public agencies should invest in public goods to maximise their benefit to society, as happens for example in their support of basic research or the promotion of environmental protection.
+These three cases represent the different ways in which governments might release Free Software. The resulting source code thus becomes a public good [^2]: By definition, it is non‐exclusive and noncompeting. Publishing publicly funded software therefore makes sense, since public agencies should invest in public goods to maximise their benefit to society, as happens for example in their support of basic research or the promotion of environmental protection.
 
-1 http://www.ossdirectory.com/che/oss-top-news/single/article/ institutionelles-crowdfunding-fuer-open-source-entwicklung-von-swisstopo 2 https://link.springer.com/article/10.1007/s11625-016-0412-2
+[^1]: [OSS Directory](http://www.ossdirectory.com/che/oss-top-news/single/article/institutionelles-crowdfunding-fuer-open-source-entwicklung-von-swisstopo).
+[^2]: [Springer](https://link.springer.com/article/10.1007/s11625-016-0412-2).

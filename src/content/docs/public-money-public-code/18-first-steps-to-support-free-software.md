@@ -22,7 +22,7 @@ Legal
 
 > Use open standards and open file formats. This reduces switching‐costs and vendor lock‐in. > Reduce the hurdles for your staff to publish software under a free licence by providing clear guidelines. > Make sure that the public code repository of your Free Software projects is updated regularly.
 
-> If you lack the experience, start with smaller projects. > Make sure that your software code is well documented if you want others to contribute and provide resources for documentation. > Do not invent new licences, but use common ones. 1 This makes it easier for others to reuse your code.
+> If you lack the experience, start with smaller projects. > Make sure that your software code is well documented if you want others to contribute and provide resources for documentation. > Do not invent new licences, but use common ones. [^1] This makes it easier for others to reuse your code.
 
 > Check first, if a Free Software project already exists that solves your problem, before launching new projects. > Benefit from economies of scale. Look for allies that might look for the same software solution, before launching larger projects on your own. > Collaborate with existing projects and communities and benefit from their expertise and ‘lessons‐learned’.
 
@@ -30,4 +30,4 @@ Legal
 
 > Encourage the use of Free Software licences by setting quotas or providing subsidies. > Change the procurement procedure by making a Free Software licence the default option. > Require public administrations to formally justify the purchase of proprietary software if there is a Free Software alternative available.
 
-1 List of common Free Software licences: https://www.gnu.org/licenses/license-list.html
+[^1]: [List of common Free Software licences](https://www.gnu.org/licenses/license-list.html).

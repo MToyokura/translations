@@ -10,7 +10,7 @@ International Cooperation through Free Software
 
 Free Software solutions are helping governments address different challenges, from democratic governance to natural disaster prevention. Some projects are not only deployed but also developed internationally. Popular projects, such as Consul, GNU Health, X-Road, and CKAN, highlight the potential of Free Software licences for cooperation across borders.
 
-1 German Federal Ministry of Economic cooperation and development, “Toolkit – Digitalisation in Development. Cooperation and International Cooperation in Education, Culture and Media”, 2016 pg. 91
+[^1]: German Federal Ministry of Economic Cooperation and Development, “Toolkit – Digitalisation in Development Cooperation and International Cooperation in Education, Culture and Media”, 2016, p. 91.
 
 X-Road
 

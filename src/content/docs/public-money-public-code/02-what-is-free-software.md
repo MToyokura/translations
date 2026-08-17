@@ -26,7 +26,9 @@ Free Software
 
 The original term, created in 1986
 
-1 More information on different terms and licence categories: https://fsfe.org/freesoftware/basics/comparison 2 https://www.gnu.org/licenses/license-list.html 3 https://opensource.org/licenses/category
+[^1]: [FSFE comparison of terms and licence categories](https://fsfe.org/freesoftware/basics/comparison).
+[^2]: [GNU licence list](https://www.gnu.org/licenses/license-list.html).
+[^3]: [Open Source Initiative licence categories](https://opensource.org/licenses/category).
 
 Free Software and its code can be studied by anyone, without non‐disclosure agreements or similar restrictions.
 
@@ -40,11 +42,11 @@ Improve
 
 Free Software can be modified by anyone, and these improvements can be shared publicly.
 
-The four freedoms are given by a software’s licence. The Free Software Foundation 1 and the Open Source Initiative 2 maintain lists of reviewed and approved licences. An application can usually not be considered Free Software, if its licence does not appear in these lists.
+The four freedoms are given by a software’s licence. The Free Software Foundation 1 and the Open Source Initiative [^2] maintain lists of reviewed and approved licences. An application can usually not be considered Free Software, if its licence does not appear in these lists.
 
 There are a multitude of licences with different focal points. The actual selection is a strategic question but you are advised to pick one of the most widely used licences.
 
-Over the course of time, people came up with additional labels for Free Software. 3 Often the motivation for these terms is to highlight different aspects and to avoid confusion.
+Over the course of time, people came up with additional labels for Free Software. [^3] Often the motivation for these terms is to highlight different aspects and to avoid confusion.
 
 Set up as a marketing campaign for Free Software in 1998
 
