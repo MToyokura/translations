@@ -7,17 +7,11 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-		"astro": "astro",
-		"pdf2md:extract": "bash tools/pdf2md/extract.sh",
-		"pdf2md:convert": "node tools/pdf2md/convert.mjs",
-		"pdf2md:debug": "node tools/pdf2md/convert.mjs --debug-layout",
-		"pdf2md:verify": "npm run pdf2md:extract && npm run pdf2md:convert && git diff --exit-code -- src/content/docs/public-money-public-code"
+		"astro": "astro"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.41.7",
 		"astro": "^7.1.6",
-		"fast-xml-parser": "5.2.5",
-    "fast-xml-parser": "5.2.5",
     "sharp": "^0.35.3"
   },
   "engines": {
