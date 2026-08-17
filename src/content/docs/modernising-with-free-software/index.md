@@ -41,9 +41,7 @@ Today, digital technologies are a crucial part of the infrastructure of modern s
 
 The Free Software Foundation Europe (FSFE) has been working as a charity since 2001 on empowering users to control technology, because we believe we need technology which empowers users instead of restricting their freedom. Free Software gives everybody – individuals, companies, organisations, and public administration – the rights to use, study, share, and improve software. For public administration, Free Software means more sustainability due to the re‐use of existing software code and the benefits of sharing code and costs with other institutions. For companies, civil society, and citizens, innovative licensing policies mean more choice, transparency, competition, and cost efficiency.
 
-Free Software in public administration is not a short‐term trend. The last few years have seen significant changes in the attitudes of public administrations towards IT procurement, increasingly favouring a strategic, long‐term‐oriented approach. More and more state actors are concerned about the long‐term costs and dangers incurred by a dependency on single software vendors. Successful counter‐strategies against vendor lock‐in, proven to work in practice, rely to a great degree on open standards and Free
-
-Software licences. New procurement policies help to minimise dependencies and to lower costs via competitive Free Software offers. A growing number of countries have implemented roadmaps or legislation that support the use of Free Software licences in the public sector. Today, even large scale government IT projects are published regularly under Free Software licences.
+Free Software in public administration is not a short‐term trend. The last few years have seen significant changes in the attitudes of public administrations towards IT procurement, increasingly favouring a strategic, long‐term‐oriented approach. More and more state actors are concerned about the long‐term costs and dangers incurred by a dependency on single software vendors. Successful counter‐strategies against vendor lock‐in, proven to work in practice, rely to a great degree on open standards and Free Software licences. New procurement policies help to minimise dependencies and to lower costs via competitive Free Software offers. A growing number of countries have implemented roadmaps or legislation that support the use of Free Software licences in the public sector. Today, even large scale government IT projects are published regularly under Free Software licences.
 
 The publication of this brochure is a response to a growing number of requests from the public sector sent to us at the FSFE. This collection of articles, interviews, and basic information provides answers to the most common questions regarding the implementation of Free Software in the public sector. The following pages contain relevant use‐cases, background information, and expert advice for the modernisation of public infrastructure. As a scientist, trained in public administration, I hope this report will contribute to the modernisation of the IT infrastructure in public administration, and thereby provide a better service for citizens.
 
@@ -72,7 +70,7 @@ Free Software
 
 The original term, created in 1986
 
-···························································································· 1 More information on different terms and licence categories: https://fsfe.org/freesoftware/basics/comparison 2 https://www.gnu.org/licenses/license-list.html 3 https://opensource.org/licenses/category
+1 More information on different terms and licence categories: https://fsfe.org/freesoftware/basics/comparison 2 https://www.gnu.org/licenses/license-list.html 3 https://opensource.org/licenses/category
 
 Free Software and its code can be studied by anyone, without non‐disclosure agreements or similar restrictions.
 
@@ -107,10 +105,6 @@ FOSS / FLOSS
 The level of freedom a particular software offers is always determined by the licence, not the label. In other words, don’t get confused by different terms for the same features.
 
 <!-- Source PDF page 5 -->
-Contents
-
-. . Editorial ........................................... 3 . . by Matthias Kirschner, President of the FSFE . . . . What is Free Software? ................................ 4 . . . . . .... Using Free Software to Democratise Smart Cities ............. 6 . How to digitise public admin‐ . Interview with Francesca Bria, CTIO Barcelona City Council . istration without losing control? . . . The Costs of Vendor Lock‐In ............................ 8 ................................... . . . . Hidden Champions ................................... 9 . . . . .... The Impact of Free Software on Competition ................ 10 . . by Prof. Dr. Simon Schlauri, expert on competition law . . . . 10 Myths about Free Software ........................... 12 Is the public sector allowed to . . release its own public code? . Making Business and Economic Sense of Free Software ........ 14 . ................................... . by Cedric Thomas, CEO OW2 . . . . Infographic: Modernise your IT .......................... 16 . . . . . .... Lessons from Open Sourcing in Switzerland ................. 18 . by Dr. Matthias Stürmer, Research Center for Digital Sustainability . . How does digital sustainability . . work in practice? Different Options of Releasing Free Software ................ 20 . . by Dr. Matthias Stürmer, Research Center for Digital Sustainability . ................................... . . . . Blackbox Election Software ............................. 21 . . Interview with Constanze Kurz, spokesperson CCC . . . . .... An Open Approach to IT Security ......................... 22 . . by Lori Roussey and Fernanda G. Weiden, cybersecurity experts . Why does openness improve . . IT security? . International Cooperation through Free Software ............. 24 . . ................................... . . EU Projects and Policies Supporting the Use of Free Software .... 26 . . . Reprogramming Procurement Law ....................... 28 . . . . . .... How to Procure Free Software ........................... 29 . by Basanta E. P. Thapa, Competence Center for Public IT, . . Fraunhofer Institute . How do we modernise public . . procurement? . First Steps to Support Free Software ....................... 30 . .
-
 <!-- Source PDF page 6 -->
 Using Free Software to Democratise Smart Cities
 
@@ -126,9 +120,7 @@ Decidim is a participatory democracy framework software that allows citizens to 
 
 Free Software makes all the difference. First of all, government is investing public money and that’s why citizens should control the software and the platform should remain in the public domain. As one of the city’s biggest Free Software projects, we are learning a lot from Decidim Barcelona. We even had to change procurement standards to make sure that government legislation allows a platform that is managed and governed by a community.
 
-For us, privacy awareness, data sovereignty, distributed technology, and Free Software are key components of a city’s digital infrastructure. Due to another Free Software project, called DECODE, we are adding a module to Decidim, which gives citizens control over their
-
-data. We ensure that the data is secure and anonymous, and that people can decide what data they want to keep private, and what data they want to donate to the city and on what terms.
+For us, privacy awareness, data sovereignty, distributed technology, and Free Software are key components of a city’s digital infrastructure. Due to another Free Software project, called DECODE, we are adding a module to Decidim, which gives citizens control over their data. We ensure that the data is secure and anonymous, and that people can decide what data they want to keep private, and what data they want to donate to the city and on what terms.
 
 What is the key advantage of Free Software in this respect?
 
@@ -153,9 +145,7 @@ Barcelona is constantly developing software applications and tools. When we star
 
 “Now we have 3,000 companies that work with us … over 60% are small and medium-sized companies.”
 
-We are gradually running a migration plan with a pilot project on migrating workstations to a completely free operating system, but this is not just about workstations, the whole informational infrastructure is moving towards open standards, open stack, and interoperability. Also, it is important for such decisions to not depend on one person or on the political orientation of one government. I think the right way to do such a major transition is to create empowerment for the workers, invest in training,
-
-and build knowledge‐sharing processes inside the organisations.
+We are gradually running a migration plan with a pilot project on migrating workstations to a completely free operating system, but this is not just about workstations, the whole informational infrastructure is moving towards open standards, open stack, and interoperability. Also, it is important for such decisions to not depend on one person or on the political orientation of one government. I think the right way to do such a major transition is to create empowerment for the workers, invest in training, and build knowledge‐sharing processes inside the organisations.
 
 Sentilo is run by a consortium, and it has been reused in Dubai, in the US, in Italy, and in other parts of Europe. Decidim is used by many cities nowadays and we have ambitions to extend it. We also have other software projects like the digital ID, which we share locally with smaller town halls in Catalonia.
 
@@ -168,9 +158,7 @@ You mentioned you invest 70% of the new development budget into Free Software de
 It creates local Free Software and opens a tech ecosystem that can strengthen the collaborative innovation economy. Public procurement can create new markets and leverage local industry.
 
 <!-- Source PDF page 8 -->
-Now, we have 3,000 companies that work with us through public procurement and over 60%
-
-would you convince them? What would be the main argument?
+Now, we have 3,000 companies that work with us through public procurement and over 60% would you convince them? What would be the main argument?
 
 are small and medium‐sized companies. These contracts benefit from having no lock‐in or technical preconditions, so whoever has the capacity can win these contracts. This is a big change for a city administration. We want to empower the local Free and Open Source movement and provide a platform to sustain and develop.
 
@@ -194,7 +182,7 @@ Obviously, customers usually don’t actively choose to become locked‐in by a 
 
 Free Software products using Open Standards help prevent costly migrations by allowing incremental improvements and vendor‐independent support. They provide flexibility in a rapidly changing digital world.
 
-···························································································· 1 Mackintosh S. 2018, An Open Digital Approach for the NHS 2 McKendrick J. 2011, Cloud Computing’s Vendor Lock‐In Problem: Why the Industry is Taking a Step Backward. https://www.forbes.com/sites/joemckendrick/2011/11/20/cloud-computingsvendor-lock-in-problem-why-the-industry-is-taking-a-step-backwards 3 https://fsfe.org/activities/os
+1 Mackintosh S. 2018, An Open Digital Approach for the NHS 2 McKendrick J. 2011, Cloud Computing’s Vendor Lock‐In Problem: Why the Industry is Taking a Step Backward. https://www.forbes.com/sites/joemckendrick/2011/11/20/cloud-computingsvendor-lock-in-problem-why-the-industry-is-taking-a-step-backwards 3 https://fsfe.org/activities/os
 
 <!-- Source PDF page 9 -->
 Hidden Champions
@@ -211,28 +199,20 @@ Institutions that do not consider publishing their software code are letting imp
 
 The change currently taking place in the public sector is not merely about quantity. It is also an initiative aimed at better governance and more transparency regarding government services. Code transparency has been proven to build trust in digital government infrastructure, especially in sensitive areas. Free Software policies allow for security checks by independent parties. An application for encrypted instant messages provided by the National Cybersecurity Agency of France for secure communication between institutions is based on two Free Software projects: Matrix and Riot. The Free Software project OSiP (OSiP stands for Online‐ Sicherheitsüberprüfung or online security check) is used to
 
-The Open Government Toolbox collects more than 1401 tools (mainly Free Software) from more than 590 organisations. From data visualisation to partici pation tools, to appli cations for local urban initiatives – the spectrum of this stunning collection shows the potential for Free Software in combination with open data. https://ogptoolbox.org
+The Open Government Toolbox collects more than 1401 tools (mainly Free Software) from more than 590 organisations. From data visualisation to partici pation tools, to appli cations for local urban initiatives – the spectrum of this stunning collection shows the potential for Free Software in combination with open data. https://ogptoolbox.org support security checks at German airports. 7 The code of Pro‐ Zorro, the award winning Ukrainian software for transparent procurement processes, can be checked online. 8 Transparency International Ukraine supported this decision. 9 Even more important than the economic benefits of Free Software is earning the most valuable currency in a democracy: the trust of its citizens in state infrastructure. The more infrastructure of modern states becomes dependent upon IT, the more critical this argument will become.
 
-support security checks at German airports. 7 The code of Pro‐ Zorro, the award winning Ukrainian software for transparent procurement processes, can be checked online. 8 Transparency International Ukraine supported this decision. 9 Even more important than the economic benefits of Free Software is earning the most valuable currency in a democracy: the trust of its citizens in state infrastructure. The more infrastructure of modern states becomes dependent upon IT, the more critical this argument will become.
-
-···························································································· 1 https://github.com/gbv 2 https://joinup.ec.europa.eu/community/osor/news/ luxembourg-open-source-health-records-system-gainsfoothold 3 https://github.com/MinBZK 4 https://github.com/otevrena-data-mfcr 5 http://www.oskari.org 6 https://government.github.com/community 7 https://www.wirtschaft.nrw/onlinesicherheitspruefung-osip 8 https://openprocurement.io
-
-https://ti-ukraine.org/en/news/prozorro-sale-wins-globalanti-corruption-challenge
+1 https://github.com/gbv 2 https://joinup.ec.europa.eu/community/osor/news/ luxembourg-open-source-health-records-system-gainsfoothold 3 https://github.com/MinBZK 4 https://github.com/otevrena-data-mfcr 5 http://www.oskari.org 6 https://government.github.com/community 7 https://www.wirtschaft.nrw/onlinesicherheitspruefung-osip 8 https://openprocurement.io https://ti-ukraine.org/en/news/prozorro-sale-wins-globalanti-corruption-challenge
 
 <!-- Source PDF page 10 -->
 The Impact of Free Software on Competition
 
 Do public administrations distort the market through the release of Free Software? Prof. Dr. Simon Schlauri published a detailed report for the Swiss Canton of Bern about the legal and economic arguments resulting from this question.
 
-Free Software is well established in the IT world. A significant number of companies, from SMEs to global corporations, invest considerable sums in the further development and use of Free Software. Public administrations now also regularly use Free Software. For example, for administration in municipalities, as a decision database for courts, or for the provision of geodata on the Internet. 1 The reasons for
-
-using Free Software in companies and public administrations are manifold, e.g. the openness of the standards used, the independence from suppliers and products, the exchange with the community of users and developers, security, as well as stability and possible cost savings.
+Free Software is well established in the IT world. A significant number of companies, from SMEs to global corporations, invest considerable sums in the further development and use of Free Software. Public administrations now also regularly use Free Software. For example, for administration in municipalities, as a decision database for courts, or for the provision of geodata on the Internet. 1 The reasons for using Free Software in companies and public administrations are manifold, e.g. the openness of the standards used, the independence from suppliers and products, the exchange with the community of users and developers, security, as well as stability and possible cost savings.
 
 The free availability of Free Software creates an ecosystem in which software developers, providers of complementary services (such as maintenance or support), and users are equally involved. Another important advantage of the Free Software model is the accelerated software development by users and developers, once the software code is made available to third parties.
 
-It is debatable whether the release of software under a Free Software licence by the state could violate competition neutrality (i.e., the obligation of the state to treat competitors equally). In some countries the obligation of ensuring competition neutrality of the state’s actions is a constitutional principle. It may also arise from European law, for example from single market
-
-policy, or from public procurement or state aid law.
+It is debatable whether the release of software under a Free Software licence by the state could violate competition neutrality (i.e., the obligation of the state to treat competitors equally). In some countries the obligation of ensuring competition neutrality of the state’s actions is a constitutional principle. It may also arise from European law, for example from single market policy, or from public procurement or state aid law.
 
 If the state itself enters a market and pursues commercial interests in the process, this is generally unproblematic from a competition neutrality perspective. By contrast, in most cases the consideration of other motives (public interest) leads to a distortion of markets and hence violates competition neutrality. In extreme cases, private activity is even completely displaced by public supply because the community subsidizes its services with the use of state funds from the general budget. Vice versa, it can be argued that the more the state acts as a rational private competitor, the less the risk of distortion of competition.
 
@@ -251,13 +231,11 @@ Moreover, an exclusive focus of public administrations on closed source software
 
 Furthermore, in terms of public procurement law, the question arises as to whether cooperation between two or more contracting public authorities is possible within the framework of a joint Free Software project. This is the case under the EU Public Procurement Directive, if there is a contractual basis between the public authorities under which common objectives are pursued, where cooperation is exclusively in the public interest, and where the contracting authorities involved perform less than 20% of the activities covered by the cooperation in the market as a whole. Especially in the case of administration‐specific software, this causes hardly any problems. 4
 
-It should be noted, however, that the disclosure of Free Software by a public administration might be problematic from a fair‐trade or administrative law perspective, if the disclosure exceeds the administration’s legally assigned
-
-tasks. So, for example, the distribution of general office software by any public administration would not be allowed. 5
+It should be noted, however, that the disclosure of Free Software by a public administration might be problematic from a fair‐trade or administrative law perspective, if the disclosure exceeds the administration’s legally assigned tasks. So, for example, the distribution of general office software by any public administration would not be allowed. 5
 
 Nevertheless, in most cases, a government strategy to publish Free Software remains unproblematic, since there are many valid reasons for doing so which would also apply to private market participants.
 
-···························································································· 1 OSS study 2018, https://www.oss-studie.ch/assets/pdfs/OSS- Studie2018.pdf; Thomas Poledna / Simon Schlauri / Samuel Schweizer, Gutachten zu den rechtlichen Voraussetzungen der Nutzung von Open Source Software in der öffentlichen Verwaltung, Berlin 2017, http://carlgrossmann.com/?ddown load=11748, p. 23 ss. 2 Poledna/Schlauri/Schweizer, p. 101 ss., 108 3 Poledna/Schlauri/Schweizer, P. 107 s. 4 Poledna/Schlauri/Schweizer, p. 123 ss. 5 Poledna/Schlauri/Schweizer, p. 85, 158
+1 OSS study 2018, https://www.oss-studie.ch/assets/pdfs/OSS- Studie2018.pdf; Thomas Poledna / Simon Schlauri / Samuel Schweizer, Gutachten zu den rechtlichen Voraussetzungen der Nutzung von Open Source Software in der öffentlichen Verwaltung, Berlin 2017, http://carlgrossmann.com/?ddown load=11748, p. 23 ss. 2 Poledna/Schlauri/Schweizer, p. 101 ss., 108 3 Poledna/Schlauri/Schweizer, P. 107 s. 4 Poledna/Schlauri/Schweizer, p. 123 ss. 5 Poledna/Schlauri/Schweizer, p. 85, 158
 
 Prof. Dr. Simon Schlauri
 
@@ -316,9 +294,7 @@ A growing number of companies follow business models that are based on Free Soft
 
 The software may be free of charge, but zero cost does not mean zero value! A recent survey showed that 80% to 90% 1 of an application is typically composed of re‐used components, most of which are open source. While the economic value generated by Free Software developers through code re‐use, effort reduction, and economies in maintenance costs are unaccounted for, they have been estimated at more than 300 billion euros 2 for the European economy. Moreover, companies doing business with Free Software, such as software vendors, consultants, and systems integrators, generate a visible European market estimated to be worth some 20 billion euros 3 , growing at twice the pace of other information technology markets.
 
-“How can companies make money with Free Software?” This is probably the question most commonly asked by those not familiar with Free Software. From the traditional economic and mercantile perspective, the question makes sense. However, in many sectors, products and services offered free of charge are generally supported by a business model not always apparent to the consumer. For example, despite not charging for their programs, radio stations make money by selling advertising. By the same token, Free Software can be monetised by selling related services and products. Companies using Free Software often choose to outsource services such as systems integration, maintenance, user support, etc. and acquire
-
-additional products they do not wish to develop themselves, even when they have full access to the source code. This is just plain good management.
+“How can companies make money with Free Software?” This is probably the question most commonly asked by those not familiar with Free Software. From the traditional economic and mercantile perspective, the question makes sense. However, in many sectors, products and services offered free of charge are generally supported by a business model not always apparent to the consumer. For example, despite not charging for their programs, radio stations make money by selling advertising. By the same token, Free Software can be monetised by selling related services and products. Companies using Free Software often choose to outsource services such as systems integration, maintenance, user support, etc. and acquire additional products they do not wish to develop themselves, even when they have full access to the source code. This is just plain good management.
 
 Driven by services, and with increasing demand, the Free Software industry represents some 200,000 jobs in Europe. Free Software is thriving across all industry sectors and Free Software developers are everywhere, even in companies that do not identify with it. Most Free Software jobs depend on advanced technological skills and customer engagement and are therefore difficult to offshore and more likely to remain local. Free Software jobs are highly qualified and better paid, with higher than average purchasing power. Most are in small and medium‐sized enterprises (SMEs) and this contributes to a healthier economy. Moreover, directly contributing to economic growth by helping cut development costs and time to market, Free Software accelerates innovation while delivering more effective solutions.
 
@@ -335,11 +311,9 @@ and collaborative approach, rapidly deliver significant results in terms of tech
 
 Thanks to Free Software, cutting‐edge technologies are readily available to SMEs, enabling them to compete against large companies by delivering competitively priced business solutions with state‐of‐the‐art technologies. Assembling proprietary software products to deliver comparable solutions can cost up to ten times more and incur significant overheads in contract negotiation. The proprietary software market is a product‐deployment business dominated by powerful monopolistic vendors, whereas the Free Software market is a solution‐integration business driven by user requirements, customer proximity, and skilled labour. Free Software facilitates access to state‐of‐the‐art technologies, it shields SMEs from rigid and expensive product‐driven processes and enables them to thrive in a friction‐less, service‐oriented process.
 
-From an economic perspective, Free Software continues to face significant challenges in Europe. Just like the mainstream software industry of which it is an avatar, Free Software
+From an economic perspective, Free Software continues to face significant challenges in Europe. Just like the mainstream software industry of which it is an avatar, Free Software is dominated by North American software vendors. In North America, Free Software is perceived as a rational industry strategy: global IT leaders combine it with huge investments in product development and marketing to gain market share. The situation in Europe is different because IT leaders are solution providers rather than product vendors. They are strong in consulting and systems integration, but weaker in marketing. As a result, Free Software in Europe is perceived mainly as a collaborative process, an efficient method to develop software, share intellectual property, and reduce costs. Seeing Free Software as driven by individualistic freedom‐seekers and programmers, customers and policy makers are still sceptical as to its strategic value. They fail to see there is also a vibrant Free Software business ecosystem and that it is in their own interest to support it.
 
-is dominated by North American software vendors. In North America, Free Software is perceived as a rational industry strategy: global IT leaders combine it with huge investments in product development and marketing to gain market share. The situation in Europe is different because IT leaders are solution providers rather than product vendors. They are strong in consulting and systems integration, but weaker in marketing. As a result, Free Software in Europe is perceived mainly as a collaborative process, an efficient method to develop software, share intellectual property, and reduce costs. Seeing Free Software as driven by individualistic freedom‐seekers and programmers, customers and policy makers are still sceptical as to its strategic value. They fail to see there is also a vibrant Free Software business ecosystem and that it is in their own interest to support it.
-
-···························································································· 1 Source: Sonatype, DevSecOps Comunity Survey, 2018 2 Based on Estimating the Economic Contribution of Open Source Software to the European Economy, Carlo Daffara, the First OpenForum Academy Conference Proceedings, Shane Coughan Ed. 2012 3 Based on Impact du logiciel libre/Open Source en France en 2017‐2020, PAC‐CXP, Unpublished Survey, December 2017
+1 Source: Sonatype, DevSecOps Comunity Survey, 2018 2 Based on Estimating the Economic Contribution of Open Source Software to the European Economy, Carlo Daffara, the First OpenForum Academy Conference Proceedings, Shane Coughan Ed. 2012 3 Based on Impact du logiciel libre/Open Source en France en 2017‐2020, PAC‐CXP, Unpublished Survey, December 2017
 
 <!-- Source PDF page 16 -->
 <!-- Source PDF page 17 -->
@@ -367,9 +341,7 @@ The actual use of a complex piece of software requires much more effort than jus
 <!-- Source PDF page 19 -->
 Dr. Matthias Stürmer
 
-Dr. Matthias Stürmer is head of the Research Center for Digital Sustainability at the University of Bern. He researches, teaches, and consults on Free Software, open data,
-
-linked data, open government, blockchain, smart city, public procurement, and digital sustainability. Until 2013 he worked as a manager at EY (Ernst & Young) and as a project leader at Liip AG, a Swiss open source provider. In 2009 Matthias finished his doctoral dissertation at ETH Zürich focusing on open source communities and firm involvement. He is secretary of the Swiss Parliamentarian Group for Digital Sustainability and since 2011 member of the city parliament of Bern.
+Dr. Matthias Stürmer is head of the Research Center for Digital Sustainability at the University of Bern. He researches, teaches, and consults on Free Software, open data, linked data, open government, blockchain, smart city, public procurement, and digital sustainability. Until 2013 he worked as a manager at EY (Ernst & Young) and as a project leader at Liip AG, a Swiss open source provider. In 2009 Matthias finished his doctoral dissertation at ETH Zürich focusing on open source communities and firm involvement. He is secretary of the Swiss Parliamentarian Group for Digital Sustainability and since 2011 member of the city parliament of Bern.
 
 support etc. None of these tasks are accomplished by the government releasing the software, but by companies providing professional services enabling the use of publicly available source code. Therefore, releasing Free Software does not not hinder or compete with the private sector, on the contrary: it creates new opportunities and demand for commercial services surrounding Free Software.
 
@@ -379,17 +351,11 @@ In 2018, the canton of Bern officially started its Free Software releasing activ
 
 In the meantime, the city of Bern, the capital of Switzerland, began to release its first Free Software applications in 2018: a software to manage child care funds 12, 13 and a second large‐scale IT solution for public procurement called Submiss, to be published soon.
 
-And, despite the political debate, government agencies on national level have been releasing source code for several years: The Swiss Federal Office of Topography (swisstopo) publishes and maintains its complete geo portal code on Git‐ Hub, in order to collaborate with other public bodies. 14 In addition, the Swiss Meteo agency
+And, despite the political debate, government agencies on national level have been releasing source code for several years: The Swiss Federal Office of Topography (swisstopo) publishes and maintains its complete geo portal code on Git‐ Hub, in order to collaborate with other public bodies. 14 In addition, the Swiss Meteo agency has released vast amounts of code under a Free Software licence 15 and the Government Unemployment Insurance very recently launched a large web platform, it’s source code can be found on GitHub. 16
 
-has released vast amounts of code under a Free Software licence 15 and the Government Unemployment Insurance very recently launched a large web platform, it’s source code can be found on GitHub. 16
+These examples indicate the strong commitment by Swiss public bodies to publish code under a Free Software licence, despite the initial conflict with the Federal Court. The turnaround shows the positive long‐term effect of successful political lobbying combined with provision of operational support to practitioners, leading to broadly supported release of Free Software. 17
 
-These examples indicate the strong commitment by Swiss public bodies to publish code under a Free Software licence, despite the initial
-
-conflict with the Federal Court. The turnaround shows the positive long‐term effect of successful political lobbying combined with provision of operational support to practitioners, leading to broadly supported release of Free Software. 17
-
-···························································································· 1 https://www.inside-it.ch/articles/26217 2 https://www.plaedoyer.ch/document/?no_cache=1&m= Artikel&rid=1088723&attr=zusatz 3 https://www.parlament.ch/de/ratsbetrieb/suche-curiavista/geschaeft?AffairId=20124273 4 https://www.parlament.ch/de/ratsbetrieb/suche-curiavista/geschaeft?AffairId=20113379 5 https://www.parlament.ch/de/ratsbetrieb/suche-curiavista/geschaeft?AffairId=20124247 6 http://www.news.admin.ch/NSBSubscriber/message/ attachments/37015.pdf
-
-https://www.blick.ch/news/politik/gutachten-gegen-sparenbund-darf-keine-gratis-software-weitergeben-id3241215.html 8 https://www.gr.be.ch/gr/de/index/geschaefte/geschaefte/ suche/geschaeft.gid-df80389c50524a03aed5bbe9f4d0309c.html 9 https://www.digitale-nachhaltigkeit.ch/de/2016/08/ gutachten-oss-freigabe 10 https://www.digitalenachhaltigkeit.ch/de/2018/04/ oeffentliche-gelder-fuer-offene-software-kanton-bern-passtseine-gesetzgebung-an 11 OSS Studie 2018, articles by Rolf Aegler and Thomas Joos, https://www.oss-studie.ch/assets/pdfs/OSS-Studie2018.pdf 12 https://github.com/StadtBern/Ki-Tax 13 https://joinup.ec.europa.eu/news/manage-childcare-funds 14 https://github.com/geoadmin/mf-geoadmin3 15 https://github.com/MeteoSwiss/easyVerification 16 https://github.com/alv-ch/jobroom-api 17 https://www.derbund.ch/bern/Eigennuetzige-Software- Geschenke/story/16408835
+1 https://www.inside-it.ch/articles/26217 2 https://www.plaedoyer.ch/document/?no_cache=1&m= Artikel&rid=1088723&attr=zusatz 3 https://www.parlament.ch/de/ratsbetrieb/suche-curiavista/geschaeft?AffairId=20124273 4 https://www.parlament.ch/de/ratsbetrieb/suche-curiavista/geschaeft?AffairId=20113379 5 https://www.parlament.ch/de/ratsbetrieb/suche-curiavista/geschaeft?AffairId=20124247 6 http://www.news.admin.ch/NSBSubscriber/message/ attachments/37015.pdf https://www.blick.ch/news/politik/gutachten-gegen-sparenbund-darf-keine-gratis-software-weitergeben-id3241215.html 8 https://www.gr.be.ch/gr/de/index/geschaefte/geschaefte/ suche/geschaeft.gid-df80389c50524a03aed5bbe9f4d0309c.html 9 https://www.digitale-nachhaltigkeit.ch/de/2016/08/ gutachten-oss-freigabe 10 https://www.digitalenachhaltigkeit.ch/de/2018/04/ oeffentliche-gelder-fuer-offene-software-kanton-bern-passtseine-gesetzgebung-an 11 OSS Studie 2018, articles by Rolf Aegler and Thomas Joos, https://www.oss-studie.ch/assets/pdfs/OSS-Studie2018.pdf 12 https://github.com/StadtBern/Ki-Tax 13 https://joinup.ec.europa.eu/news/manage-childcare-funds 14 https://github.com/geoadmin/mf-geoadmin3 15 https://github.com/MeteoSwiss/easyVerification 16 https://github.com/alv-ch/jobroom-api 17 https://www.derbund.ch/bern/Eigennuetzige-Software- Geschenke/story/16408835
 
 <!-- Source PDF page 20 -->
 Different Options of Releasing Free Software
@@ -412,7 +378,7 @@ Starting a new Free Software project (such as OpenJustitia by the Swiss Federal 
 
 These three cases represent the different ways in which governments might release Free Software. The resulting source code thus becomes a public good 2 : By definition, it is non‐exclusive and noncompeting. Publishing publicly funded software therefore makes sense, since public agencies should invest in public goods to maximise their benefit to society, as happens for example in their support of basic research or the promotion of environmental protection.
 
-···························································································· 1 http://www.ossdirectory.com/che/oss-top-news/single/article/ institutionelles-crowdfunding-fuer-open-source-entwicklung-von-swisstopo 2 https://link.springer.com/article/10.1007/s11625-016-0412-2
+1 http://www.ossdirectory.com/che/oss-top-news/single/article/ institutionelles-crowdfunding-fuer-open-source-entwicklung-von-swisstopo 2 https://link.springer.com/article/10.1007/s11625-016-0412-2
 
 <!-- Source PDF page 21 -->
 Blackbox Election Software
@@ -452,9 +418,7 @@ Reverse Engineering If the source code of an application is not available, rever
 
 When talking about security however, things become even more complex. If you consider governments should be held accountable to the same standards as large private companies, it is important to demand the highest standards of security and hygiene. Security hygiene comes in different shapes and forms. One of them is ensuring that you keep your own software stack up to date, and that you are able to audit what is happening in your software stack. In this respect, Free Software plays an important role.
 
-Free Software can be built collaboratively by a
-
-large community of software experts together with experts in the security field. The degree to
+Free Software can be built collaboratively by a large community of software experts together with experts in the security field. The degree to
 
 From a software engineering perspective, it is much easier to inspect software code than to reverse engineer your way into learning how a piece of software works. With Free Software, any company or government body can run their own audit of the source code or any part of the application they are interested in. Proprietary software companies usually hire their own auditors and customers have to trust their word on the security features of the software they sell.
 
@@ -462,18 +426,14 @@ Government bodies can run their own audit of the source code or any part of the 
 
 This ties in with an additional issue in terms of vulnerability management. If the security of a system is only dealt with behind closed doors, backdoor agreements allowing access to data to a third party are more likely to be sought – ideally after an audit. This has both security and political consequences for companies and administrations, which may considerably stain their reputation in the public eye.
 
-As long as publicly amendable code bases are frequently edited by a reasonably wide amount of users, Free Software products ensure that security issues are uncovered fast. Once uncovered, any person or company can read the code, understand the issue, and submit a patch that will resolve the issue. By the same token,
-
-without community behind it, freely available code is not more secure than closed source.
+As long as publicly amendable code bases are frequently edited by a reasonably wide amount of users, Free Software products ensure that security issues are uncovered fast. Once uncovered, any person or company can read the code, understand the issue, and submit a patch that will resolve the issue. By the same token, without community behind it, freely available code is not more secure than closed source.
 
 <!-- Source PDF page 23 -->
-In the proprietary software model, only one company has access to the source code. More importantly, priorities are aligned with the profitability of the features developed. Once an issue is raised, it will be triaged and compared to other requests, and it might be that security issues (even though they are important to you) might not be as high a priority for the company,
-
-who you’re relying on to fix the problem. You have to wait for your place in line and live with the vulnerability until you get a resolution. In some cases, you also depend on the agility of the vendor to get those fixes applied. If you suspend a contract, it might be they have no duty to fix it at all. The WannaCry fallout in British hospitals is a perfect example. 1 In the Free Software model, if your vendor is not responsive to fixing your issues, you can hire any other vendor to resolve it: you and anyone else can have access to the source code. You own your agenda and priorities and can get a fix as fast as you want and ensure it is rolled out into your system as fast as you need it to be.
+In the proprietary software model, only one company has access to the source code. More importantly, priorities are aligned with the profitability of the features developed. Once an issue is raised, it will be triaged and compared to other requests, and it might be that security issues (even though they are important to you) might not be as high a priority for the company, who you’re relying on to fix the problem. You have to wait for your place in line and live with the vulnerability until you get a resolution. In some cases, you also depend on the agility of the vendor to get those fixes applied. If you suspend a contract, it might be they have no duty to fix it at all. The WannaCry fallout in British hospitals is a perfect example. 1 In the Free Software model, if your vendor is not responsive to fixing your issues, you can hire any other vendor to resolve it: you and anyone else can have access to the source code. You own your agenda and priorities and can get a fix as fast as you want and ensure it is rolled out into your system as fast as you need it to be.
 
 The most popular standards for security come with the freedom to use, study, share, and modify. From the way we secure our websites, secure communications with email encryption or our network security, there are open documented standards. Ensuring the best standards are soundly implemented and are put at the people’s service to protect their information is the duty of governments. Governments should urgently seek to stay independent of vendors’ agendas or allegiances for their critical missions. And for that, Free Software is the only logical solution.
 
-···························································································· 1 See Townsend M. and Doward J., “Cyber‐attack sparks bitter political row over NHS spending” *the Guardian* (London, 14 May 2017) available at https://www.theguardian.com/technology/2017/may/13/cyberattack-on-nhs-sparks-bitter-election-battle accessed 11 August 2018
+1 See Townsend M. and Doward J., “Cyber‐attack sparks bitter political row over NHS spending” *the Guardian* (London, 14 May 2017) available at https://www.theguardian.com/technology/2017/may/13/cyberattack-on-nhs-sparks-bitter-election-battle accessed 11 August 2018
 
 Fernanda G. Weiden
 
@@ -490,7 +450,7 @@ International Cooperation through Free Software
 
 Free Software solutions are helping governments address different challenges, from democratic governance to natural disaster prevention. Some projects are not only deployed but also developed internationally. Popular projects, such as Consul, GNU Health, X-Road, and CKAN, highlight the potential of Free Software licences for cooperation across borders.
 
-···························································································· 1 German Federal Ministry of Economic cooperation and development, “Toolkit – Digitalisation in Development. Cooperation and International Cooperation in Education, Culture and Media”, 2016 pg. 91
+1 German Federal Ministry of Economic cooperation and development, “Toolkit – Digitalisation in Development. Cooperation and International Cooperation in Education, Culture and Media”, 2016 pg. 91
 
 X-Road
 
@@ -566,9 +526,7 @@ Reprogramming Procurement Law
 
 Why should the state finance a wide range of software projects that provide similar services, when it is more efficient to focus on one project and then share the costs and the code across institutions?
 
-Most EU member states have published guides for the use of Free Software licences in public administration to encourage collaboration and the re‐use of software. Poland’s eGovernment strategy, published in 2016, recommends that publicly financed software should use an open architecture and consider publication under a Free Software licence. In their 2017 Digital Roadmap, the Austrian government encourages
-
-the use of Free Software. Official guides focusing on promoting these goals are available today in all European countries.
+Most EU member states have published guides for the use of Free Software licences in public administration to encourage collaboration and the re‐use of software. Poland’s eGovernment strategy, published in 2016, recommends that publicly financed software should use an open architecture and consider publication under a Free Software licence. In their 2017 Digital Roadmap, the Austrian government encourages the use of Free Software. Official guides focusing on promoting these goals are available today in all European countries.
 
 With the Public Money Public Code initiative, the FSFE helps public administrations make Free Software the standard for publicly financed software. More than 19,000 individuals and over 150 NGOs support the open letter on publiccode.eu asking their governments to use Free Software licences by default.
 
@@ -630,7 +588,7 @@ Legal
 
 > Encourage the use of Free Software licences by setting quotas or providing subsidies. > Change the procurement procedure by making a Free Software licence the default option. > Require public administrations to formally justify the purchase of proprietary software if there is a Free Software alternative available.
 
-···························································································· 1 List of common Free Software licences: https://www.gnu.org/licenses/license-list.html
+1 List of common Free Software licences: https://www.gnu.org/licenses/license-list.html
 
 <!-- Source PDF page 31 -->
 The Free Software Foundation Europe (FSFE) is a charity that empowers users to control technol ogy. Software is deeply involved in all aspects of our lives; and it is important that this technology empowers rather than restricts us. Free Software gives everybody the rights to use, understand, adapt, and share software. These rights help support other fundamental freedoms like freedom of speech, press, and privacy.

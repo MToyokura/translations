@@ -77,7 +77,14 @@ function collectBlocks(page) {
   });
 }
 function joinLines(lines) { return lines.reduce((text, line) => !text ? line : /[\-‐]$/.test(text) && /^[a-z]/.test(line) ? `${text.slice(0, -1)}${line}` : `${text} ${line}`, ''); }
-function joinBlocks(blocks) { return blocks.reduce((text, block) => !text ? block : /[\-‐]$/.test(text) && /^[a-z]/.test(block) ? `${text.slice(0, -1)}${block}` : `${text}\n\n${block}`, ''); }
+function joinBlocks(blocks) {
+  return blocks.reduce((text, block) => {
+    if (!text) return block;
+    if (/[\-‐]$/.test(text) && /^[a-z]/.test(block)) return `${text.slice(0, -1)}${block}`;
+    if (!/[.!?:;”"]$/.test(text) && /^[a-z]/.test(block)) return `${text} ${block}`;
+    return `${text}\n\n${block}`;
+  }, '');
+}
 function lineText(line) {
   let previous;
   return asArray(line.word).reduce((text, word) => {
@@ -91,4 +98,7 @@ function lineText(line) {
 }
 function findRegion(block, regions) { const x = (block.xMin + block.xMax) / 2; const y = (block.yMin + block.yMax) / 2; return regions.find((region) => x >= region.xMin && x <= region.xMax && y >= region.yMin && y <= region.yMax); }
 function isPageNumber(text) { return /^\d{1,2}$/.test(text.trim()); }
-function applyFixups(text) { return fixups.replacements.reduce((value, { from, to }) => value.replaceAll(from, to), text); }
+function applyFixups(text) {
+  const cleaned = text.replace(/^·{10,}\s*/gm, '');
+  return fixups.replacements.reduce((value, { from, to }) => value.replaceAll(from, to), cleaned);
+}
