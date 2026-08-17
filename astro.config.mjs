@@ -27,7 +27,7 @@ export default defineConfig({
           items: [
             {
               label: "Open Access primers",
-              collapsed: false,
+              collapsed: true,
               items: [
                 {
                   label: "オープンアクセスとは？",
@@ -52,14 +52,17 @@ export default defineConfig({
         },
         {
           label: "The Open Revolution",
+          collapsed: true,
           items: [{ autogenerate: { directory: "open-revolution" } }],
         },
         {
           label: "Public Money Public Code",
+          collapsed: true,
           items: [{ autogenerate: { directory: "public-money-public-code" } }],
         },
         {
           label: "Miscellaneous",
+          collapsed: true,
           items: [{ autogenerate: { directory: "miscellaneous" } }],
         },
       ],
