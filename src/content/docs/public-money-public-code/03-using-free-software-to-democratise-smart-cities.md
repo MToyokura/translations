@@ -1,60 +1,57 @@
 ---
-title: "Using Free Software to Democratise Smart Cities"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "自由ソフトウェアでスマートシティを民主化する"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+自由ソフトウェアは、バルセロナのスマートシティおよびデジタル化戦略の中核を担う要素となっています。本インタビューでは、バルセロナ市議会の最高技術・デジタルイノベーション責任者（CTIO）である Francesca Bria が、自由ソフトウェアがどのようにイノベーションを支えているのかを語ります。
 
-<!-- Source PDF page 6 -->
-Using Free Software to Democratise Smart Cities
+## お仕事の中で、デジタル主権や倫理的なデジタル基準についてよく言及されています。デジタル主権とは何か、また自由ソフトウェアがそこにどのように関わるのか、簡単に説明していただけますか？
 
-Free Software has become a core element of Barcelona’s smart city and digitalisation agenda. In this interview, Francesca Bria, Chief Technology and Digital Innovation Officer (CTIO) for the Barcelona City Council, explains how Free Software is supporting innovation.
+私は、バルセロナ市のデジタルおよびテクノロジー戦略、とりわけスマートシティ戦略を再構築するため、CTIO に任命されました。私の使命は、データとテクノロジーを民主化し、それらのガバナンスを市民のために機能する形へと見直すことです。
 
-In your work, you often refer to digital sovereignty and ethical digital standards. Could you briefly explain what digital sovereignty is, and what role Free Software has in relation to it?
+## Decidim のようなプラットフォームが自由ソフトウェアであるかどうかは、重要なのでしょうか？
 
-I have been appointed as CTIO of Barcelona to rethink the digital and technology agenda of the city, in particular the smart city agenda. My mission is to democratise data and technology, and to rethink their governance in a way that serves the people.
+Decidim は、市民が議論し、会議に参加し、都市での暮らしをより良くするための提案を作成できる、参加型民主主義のためのソフトウェア・フレームワークです。このプラットフォームのソースコードは公開されており、他の都市もそれを利用し、それぞれの要件に合わせて改変することができます。Decidim は、マドリード市議会が開発した Consul という同様の自由ソフトウェア・プロジェクトを基盤としています。
 
-Does it make a difference if a platform like Decidim is Free Software or not?
+自由ソフトウェアであることは、決定的に重要です。まず、行政は公費を投じているのですから、市民がそのソフトウェアを管理でき、プラットフォームは公共のものとして維持されるべきです。Decidim Barcelona は市最大級の自由ソフトウェア・プロジェクトの一つであり、私たちはそこから多くのことを学んでいます。コミュニティによって管理・運営されるプラットフォームを行政の法制度のもとで実現できるようにするため、調達基準さえ変更する必要がありました。
 
-Decidim is a participatory democracy framework software that allows citizens to debate, attend meetings and create proposals with the goal of improving life in the city. The platform’s source code is publicly available, enabling other cities to use and adapt it to their own requirements. It is based on a similar Free Software project by the Madrid City Council, called Consul.
+私たちにとって、プライバシーへの配慮、データ主権、分散型技術、そして自由ソフトウェアは、都市のデジタルインフラを構成する重要な要素です。DECODE という別の自由ソフトウェア・プロジェクトを活用し、市民が自分のデータを自ら管理できるモジュールを Decidim に追加しています。データの安全性と匿名性を確保するとともに、どのデータを非公開にしておくのか、どのデータをどのような条件で市に提供するのかを、市民自身が決められるようにしています。
 
-Free Software makes all the difference. First of all, government is investing public money and that’s why citizens should control the software and the platform should remain in the public domain. As one of the city’s biggest Free Software projects, we are learning a lot from Decidim Barcelona. We even had to change procurement standards to make sure that government legislation allows a platform that is managed and governed by a community.
+## この点で、自由ソフトウェアの最大の利点は何でしょうか？
 
-For us, privacy awareness, data sovereignty, distributed technology, and Free Software are key components of a city’s digital infrastructure. Due to another Free Software project, called DECODE, we are adding a module to Decidim, which gives citizens control over their data. We ensure that the data is secure and anonymous, and that people can decide what data they want to keep private, and what data they want to donate to the city and on what terms.
+最大の可能性は、コードを閲覧・検証し、そこから学び、再利用できることにあります。これは非常に重要です。ライセンス料ではなく、人材や能力の育成に投資を集中させることで、コストを最小限に抑えることができるからです。
 
-What is the key advantage of Free Software in this respect?
+もう一つの重要な理由は、技術主権です。つまり、ベンダーロックインや大企業への依存から脱し、提供事業者を変更できるようにし、利用者の権利と自由を尊重する地域の事業者と協働し、私たち自身のデータに対する管理権を維持することです。プロプライエタリ・ソフトウェアでは、あらゆるものが外部の事業者や特定技術に精通した専門家へ委託されていました。私たちは、こうした内部の知識をこれ以上失い続けたくありません。
 
-The greatest possibility lies in the ability to see and inspect the code, learn from it, and reuse it. This is very important, because you can minimise the costs and concentrate on investing in human resources and capabilities instead of licensing.
+> 「……さまざまな協働が進んでいます。自由ソフトウェアがなければ、これは実現できません。」
 
-Another key reason is technological sovereignty, which means getting away from vendor lock‐in and dependency on big corporate players, being able to change providers, work with local entrepreneurs who respect users’ rights and freedoms, and retain control of our data. With proprietary software, everything was outsourced to external providers and experts, who work with specific technologies. We don’t want to keep losing this kind of inside knowledge.
+自由ソフトウェアによって、私たちはコミュニティと協働し、自由ソフトウェア開発者の才能を生かし、他都市と共同プロジェクトに取り組むことができます。長期的には、より自律的に、より独立して、そしてより透明になることができます。さらに、
 
-“… there is a lot of collaboration going on, without Free Software this would not be possible.”
+![AI for Good Global Summit 2018 で講演する Francesca Bria](./assets/francesca-bria.jpg)
 
-Free Software allows us to work with communities, use the talent of Free Software developers and collaborate with other cities on joint projects. In the long run, you can be more autonomous, you can be more independent, and you can be more transparent. Moreover,
+Francesca Bria  
+Imperial College London でイノベーション経済学の博士号を、University of London の Birkbeck でデジタル経済学の修士号を取得。欧州委員会において、未来のインターネットおよびイノベーション政策に関する上級研究員・アドバイザーを務めています。
 
-<!-- Source PDF page 7 -->
-![Francesca Bria speaking at the AI for Good Global Summit 2018](./assets/francesca-bria.jpg)
+ソースコードを公開することは、納税者が負担した資金を社会へ還元する一つの方法でもあります。
 
-Francesca Bria Bria holds a PhD in Innovation Economics from Imperial College, London and an MSc on Digital Economy from Birbeck, University of London. She is a senior researcher and advisor for the European Commission on Future Internet and innovation policy.
+そして最後に、これは倫理的・政治的な決断でもあります。バルセロナには、独自のデータ主権ガイドとデジタル倫理基準があります。これらの規則では、私たちが利用するデジタル情報とインフラは公共財であり、市民によって所有されるべきだと定めています。
 
-publishing source code is a way to give taxpayers’ money back to society.
+## 5年後、状況はどのようになっていると思いますか？
 
-Last but not least, it is an ethical and political decision. Barcelona has a specific data sovereignty guide and digital ethics standards – regulations, which state that the digital information and infrastructure we use should be a public good, owned by citizens.
+バルセロナでは、ソフトウェア・アプリケーションやツールを継続的に開発しています。ゼロから開発を始める場合には、自由かつオープンソースのソフトウェアを優先して採用しています。また、バルセロナのデジタル変革計画では、年間予算の70％を自由かつオープンソースのソフトウェア開発に投資する方針を掲げています。
 
-In five years, how do you think the situation will look?
+> 「現在、私たちと協働する企業は3,000社あります。……その60％以上が中小企業です。」
 
-Barcelona is constantly developing software applications and tools. When we start from scratch, we give preference to the use of Free and Open Source Software. Also, Barcelona’s Digital Transformation Plan has committed to investing 70% of its annual budget into Free and Open Source Software development.
+現在、ワークステーションを完全に自由なオペレーティングシステムへ移行するパイロットプロジェクトを含め、段階的な移行計画を進めています。しかし、これはワークステーションだけの話ではありません。情報インフラ全体を、オープン標準、オープンな技術スタック、そして相互運用性を重視する方向へ移行しています。
 
-“Now we have 3,000 companies that work with us … over 60% are small and medium-sized companies.”
+また、このような意思決定が一人の人物や、一つの政権の政治的立場に左右されないことも重要です。このような大規模な移行を実現する正しい方法は、職員が主体的に取り組める環境を整え、研修に投資し、組織内に知識共有の仕組みを構築することだと考えています。
 
-We are gradually running a migration plan with a pilot project on migrating workstations to a completely free operating system, but this is not just about workstations, the whole informational infrastructure is moving towards open standards, open stack, and interoperability. Also, it is important for such decisions to not depend on one person or on the political orientation of one government. I think the right way to do such a major transition is to create empowerment for the workers, invest in training, and build knowledge‐sharing processes inside the organisations.
+Sentilo はコンソーシアムによって運営されており、ドバイ、米国、イタリア、その他のヨーロッパ各地でも再利用されています。Decidim は現在、多くの都市で利用されており、私たちはさらに普及させたいと考えています。また、デジタルIDなどのソフトウェア・プロジェクトもあり、カタルーニャ地方の小規模自治体と地域内で共有しています。
 
-Sentilo is run by a consortium, and it has been reused in Dubai, in the US, in Italy, and in other parts of Europe. Decidim is used by many cities nowadays and we have ambitions to extend it. We also have other software projects like the digital ID, which we share locally with smaller town halls in Catalonia.
+さらに、他の都市がどのようなプロジェクトを開発し、自由ソフトウェアとして公開しているのかを把握するため、インタビューや調査も行っています。たとえば、ヘルシンキは交通手段のシェアリングに関する非常に優れたアプリを開発しており、私たちのものと似た市民向けアプリも提供しています。私たちはアムステルダムやトリノとも協力しており、さまざまな協働が進んでいます。自由ソフトウェアがなければ、これは実現できません。
 
-We are also doing interviews and research, to see which projects other cities have developed and published as Free Software. For instance, Helsinki has developed a very good app for transport sharing and they also have another citizen app like ours. We are cooperating with Amsterdam and Torino, so there is a lot of collaboration going on. Without Free Software this would not be possible.
+Sentilo は、現地から受信する大量の情報を処理する自治体や組織を対象とした、センサーおよびアクチュエーターのプラットフォームです。騒音、大気汚染、交通渋滞などを測定するセンサーをはじめ、さまざまな機器が生成する情報を処理します。活発で多様な都市や企業のコミュニティによって利用・支援されています。
 
-Sentilo is a sensor and actuator platform aimed at municipalities or organisations that process large amounts of information received from the terrain. It processes information generated by various devices, like sensors for noise and air contamination or traffic congestion. It is used and supported by an active and diverse community of cities and companies.
+## 新規開発予算の70％を自由ソフトウェアの開発に投資しているとのことですが、それは地域経済にどのような効果をもたらしていますか？
 
-You mentioned you invest 70% of the new development budget into Free Software development. What effect does this have on the local economy?
-
-It creates local Free Software and opens a tech ecosystem that can strengthen the collaborative innovation economy. Public procurement can create new markets and leverage local industry.
+地域の自由ソフトウェアを生み出し、協働型のイノベーション経済を強化できるオープンなテクノロジー・エコシステムを形成します。公共調達には、新たな市場を創出し、地域産業の力を引き出すことができます。
