@@ -1,33 +1,49 @@
 ---
-title: "Hidden Champions"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "知られざる優良事例"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+# 知られざる優良事例
 
-<!-- Source PDF page 9 -->
-Hidden Champions
+公共の利益について考えるとき、多くの人は道路、学校、病院などを思い浮かべます。しかし現在では、ソフトウェア、より正確には自由ソフトウェアも公共の利益を支えるものとして捉える行政機関が増えています。
 
-When thinking about the public good, most people think about streets, schools or hospitals. Increasingly, more and more public administrations now also think of software and, to be precise, Free Software.
+公費で開発されたソフトウェアのソースコードを公開し、他の機関と共有するプロジェクトは、日々増え続けています。たとえば、ドイツの共同図書館ネットワーク（GBV）は、ドイツ各地の図書館で利用されている自由ソフトウェアのソリューションを提供しています。[^1] ルクセンブルク政府は、多くの医療従事者や診療所で利用されている電子健康記録システムを提供しています。[^2] オランダ内務省は、中央住民登録データベース（BRP）のソースコードの大部分を公開しています。[^3] チェコ財務省は、各機関の予算計画をオンラインで可視化するツールを提供しています。[^4]
 
-The list of publicly funded software projects making their source code publicly available and sharing it with other institutions grows longer day by day. For instance, the German Union Library Network (GBV) provides a Free Software solution that is used by libraries throughout Germany. [^1] The state of Luxembourg offers an electronic health record system used by many practitioners and clinics. [^2] The Dutch Ministry of the Interior publishes large parts of its central civil register database’s (BRP) source code. [^3] The Czech Ministry of Finance provides an online visualisation for institutions’ budget plans. [^4] Some Free Software solutions have even been utilised internationally. The National Land Survey of
+自由ソフトウェアの中には、国境を越えて活用されているものもあります。フィンランド国土地理院は、地理空間データや統計データを可視化・分析するソフトウェア「Oskari」を開発しました。Oskari には、新しいインフラ事業に対する市民からの意見を受け付ける機能、不動産情報サービス、漁業区域の表示などが含まれています。[^5] その実績を受け、アイスランドの国立地理情報ポータルやモルドバ国土地理院も Oskari を採用しています。
 
-Hundreds of state actors have an account on GitHub
+> 数百もの公的機関が GitHub にアカウントを持っています
 
-Finland has developed Oskari, a software for visualising and analysing spatial and statistical data. Oskari includes features that channel citizen feedback regarding new infrastructure projects, provide real estate information services, and display fishing areas. [^5] This has convinced the Icelandic National Geoportal and the National Land Survey of Moldova to use Oskari as well.
+自ら開発したソフトウェアのコード公開を検討しない行政機関は、重要な機会を逃していることになります。再利用できる可能性のあるコードを他の公的機関から見えない状態にしておけば、同じようなソフトウェアが重複して開発され、その結果、行政機関と納税者の双方に余分なコストが生じる可能性があります。
 
-Institutions that do not consider publishing their software code are letting important opportunities pass. If potentially re‐usable code is hidden from other state actors, this may result in redundant software projects and thereby higher costs for the institutions and the taxpayer. Backed by positive experience, public administrations realise that sharing the source code of their projects is in their own best interest. Hundreds of state actors have an account on GitHub [^6], a private platform for code sharing, and some countries even host their own public code repositories.
+こうした好事例の積み重ねにより、行政機関は、自らのプロジェクトのソースコードを共有することが自身の利益にもつながると認識するようになっています。数百もの公的機関が、コード共有のための民間プラットフォーム GitHub にアカウントを持っており[^6]、独自の公共コードリポジトリを運営している国もあります。
 
-The change currently taking place in the public sector is not merely about quantity. It is also an initiative aimed at better governance and more transparency regarding government services. Code transparency has been proven to build trust in digital government infrastructure, especially in sensitive areas. Free Software policies allow for security checks by independent parties. An application for encrypted instant messages provided by the National Cybersecurity Agency of France for secure communication between institutions is based on two Free Software projects: Matrix and Riot. The Free Software project OSiP (OSiP stands for Online‐ Sicherheitsüberprüfung or online security check) is used to
+現在、公共部門で起きている変化は、単に公開されるソフトウェアの数が増えているというだけではありません。これは、より良いガバナンスと、行政サービスの透明性向上を目指す取り組みでもあります。
 
-The Open Government Toolbox collects more than 1401 tools (mainly Free Software) from more than 590 organisations. From data visualisation to partici pation tools, to appli cations for local urban initiatives – the spectrum of this stunning collection shows the potential for Free Software in combination with open data. https://ogptoolbox.org support security checks at German airports. [^7] The code of Pro‐ Zorro, the award winning Ukrainian software for transparent procurement processes, can be checked online. [^8] Transparency International Ukraine supported this decision. [^9] Even more important than the economic benefits of Free Software is earning the most valuable currency in a democracy: the trust of its citizens in state infrastructure. The more infrastructure of modern states becomes dependent upon IT, the more critical this argument will become.
+コードの透明性は、とりわけ機微な分野において、デジタル行政インフラへの信頼を高めることが実証されています。自由ソフトウェアを採用する方針によって、独立した第三者によるセキュリティ検証も可能になります。
+
+フランス国家サイバーセキュリティ庁が、行政機関同士の安全な通信のために提供している暗号化インスタントメッセージ・アプリケーションは、Matrix と Riot という2つの自由ソフトウェア・プロジェクトを基盤としています。また、自由ソフトウェア・プロジェクトの OSiP（Online-Sicherheitsüberprüfung、オンライン・セキュリティチェック）は、ドイツの空港におけるセキュリティ審査を支援するために利用されています。[^7]
+
+受賞歴を持つウクライナの透明な公共調達システム ProZorro のコードも、オンラインで検証することができます。[^8] Transparency International Ukraine も、このコード公開の方針を支持しました。[^9]
+
+> Open Government Toolbox には、590を超える組織から1,401以上のツール（主に自由ソフトウェア）が集められています。データ可視化から市民参加のためのツール、地域の都市活動向けアプリケーションまで、この充実したコレクションは、オープンデータと組み合わせた自由ソフトウェアの可能性を示しています。  
+> https://ogptoolbox.org
+
+自由ソフトウェアがもたらす経済的な利益以上に重要なのは、民主主義において最も価値ある資産、すなわち国家のインフラに対する市民の信頼を獲得することです。現代国家のインフラが IT に依存する度合いが高まれば高まるほど、この点の重要性も増していくでしょう。
 
 [^1]: [German Union Library Network](https://github.com/gbv)
+
 [^2]: [Luxembourg open-source health records](https://joinup.ec.europa.eu/community/osor/news/luxembourg-open-source-health-records-system-gainsfoothold)
+
 [^3]: [Dutch Ministry of the Interior](https://github.com/MinBZK)
+
 [^4]: [Czech Ministry of Finance](https://github.com/otevrena-data-mfcr)
+
 [^5]: [Oskari](http://www.oskari.org)
+
 [^6]: [Government GitHub community](https://government.github.com/community)
+
 [^7]: [OSiP](https://www.wirtschaft.nrw/onlinesicherheitspruefung-osip)
+
 [^8]: [OpenProcurement](https://openprocurement.io) and [Transparency International Ukraine](https://ti-ukraine.org/en/news/prozorro-sale-wins-globalanti-corruption-challenge)
+
 [^9]: Open Government Toolbox: https://ogptoolbox.org
