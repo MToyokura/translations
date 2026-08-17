@@ -1,63 +1,60 @@
 ---
-title: "What is Free Software?"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "自由ソフトウェアとは？"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+自由ソフトウェアの原則はシンプルですが、ライセンスやさまざまな呼称が存在するため、少し複雑に見えることがあります。ここでは、その基本を説明します。
 
-<!-- Source PDF page 4 -->
-What is Free Software?
+「自由ソフトウェア（Free Software）」という言葉は、1986年に Richard M. Stallman によって生み出されました。自由ソフトウェアの「Free」は、価格ではなく自由を意味します。自由ソフトウェアは、利用者にとって不可欠な4つの自由を保障します。このうち1つでも欠けている場合、そのアプリケーションはプロプライエタリ、つまり非自由ソフトウェアとなります。
 
-The principles of Free Software are simple but its licensing and synonyms add complexity. We explain the basics.
+## 4つの自由
 
-The term Free Software was created in 1986 by Richard M. Stallman. Free Software refers to freedom, not price. It guarantees its users the essential four freedoms. The absence of at least one of these freedoms means an application is proprietary, so non‐Free Software.
+自由ソフトウェアは、あらゆる目的に使用でき、ライセンスの有効期限や地理的制限などの制約を受けません。
 
-The Four Freedoms
+自由ソフトウェアは、ほぼ費用をかけずに共有・複製できます。
 
-Free Software can be used for any purpose and is free of restrictions such as licence expiry or geographic limitations.
+## ライセンス
 
-Free Software can be shared and copied at virtually no cost.
+## 類似する呼称
 
-Licences
+### 自由ソフトウェア
 
-Synonyms
+1986年に生まれた、最初の呼称
 
-Free Software
+[^1]: [FSFEによる用語とライセンス分類の比較](https://fsfe.org/freesoftware/basics/comparison).
 
-The original term, created in 1986
+[^2]: [GNUのライセンス一覧](https://www.gnu.org/licenses/license-list.html).
 
-[^1]: [FSFE comparison of terms and licence categories](https://fsfe.org/freesoftware/basics/comparison).
-[^2]: [GNU licence list](https://www.gnu.org/licenses/license-list.html).
-[^3]: [Open Source Initiative licence categories](https://opensource.org/licenses/category).
+[^3]: [Open Source Initiativeのライセンス分類](https://opensource.org/licenses/category).
 
-Free Software and its code can be studied by anyone, without non‐disclosure agreements or similar restrictions.
+自由ソフトウェアとそのソースコードは、秘密保持契約（NDA）やそれに類する制約なしに、誰でも調査・研究できます。
 
-Use
+### 使用する
 
-Study
+### 調査する
 
-Share
+### 共有する
 
-Improve
+### 改良する
 
-Free Software can be modified by anyone, and these improvements can be shared publicly.
+自由ソフトウェアは誰でも変更でき、その改良内容を公開して共有することができます。
 
-The four freedoms are given by a software’s licence. The Free Software Foundation 1 and the Open Source Initiative [^2] maintain lists of reviewed and approved licences. An application can usually not be considered Free Software, if its licence does not appear in these lists.
+この4つの自由は、ソフトウェアのライセンスによって保障されます。Free Software Foundation[^1] と Open Source Initiative[^2] は、審査・承認済みのライセンス一覧を公開しています。通常、そのライセンスがこれらの一覧に含まれていない場合、そのアプリケーションを自由ソフトウェアとみなすことはできません。
 
-There are a multitude of licences with different focal points. The actual selection is a strategic question but you are advised to pick one of the most widely used licences.
+ライセンスには数多くの種類があり、それぞれ重点を置く点が異なります。どのライセンスを選択するかは戦略上の問題ですが、最も広く利用されているライセンスのいずれかを選ぶことが推奨されます。
 
-Over the course of time, people came up with additional labels for Free Software. [^3] Often the motivation for these terms is to highlight different aspects and to avoid confusion.
+時代とともに、自由ソフトウェアを表すさまざまな呼称が生まれてきました。[^3] こうした用語は、多くの場合、異なる側面を強調したり、混同を避けたりする目的で使われています。
 
-Set up as a marketing campaign for Free Software in 1998
+### オープンソース
 
-Open Source
+1998年に、自由ソフトウェアを普及させるためのマーケティングキャンペーンとして設けられた呼称
 
-Initiated to avoid the ambiguity of the English word free, borrowed from French and Spanish
+### Libre Software
 
-Libre Software
+英語の「free」が持つ曖昧さを避けるため、フランス語やスペイン語から「libre」という語を借用して生まれた呼称
 
-Abbreviations for Free (Libre) and Open Source Software
+### FOSS / FLOSS
 
-FOSS / FLOSS
+Free (Libre) and Open Source Software の略称
 
-The level of freedom a particular software offers is always determined by the licence, not the label. In other words, don’t get confused by different terms for the same features.
+あるソフトウェアがどの程度の自由を提供するかは、呼称ではなく、常にそのライセンスによって決まります。つまり、同じ特徴を指すさまざまな用語に惑わされる必要はありません。
