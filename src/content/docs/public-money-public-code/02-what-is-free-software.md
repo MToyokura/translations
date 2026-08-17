@@ -3,6 +3,14 @@ title: "自由ソフトウェアとは？"
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 自由ソフトウェアの原則はシンプルですが、ライセンスやさまざまな呼称が存在するため、少し複雑に見えることがあります。ここでは、その基本を説明します。
 
 「自由ソフトウェア（Free Software）」という言葉は、1986年に Richard M. Stallman によって生み出されました。自由ソフトウェアの「Free」は、価格ではなく自由を意味します。自由ソフトウェアは、利用者にとって不可欠な4つの自由を保障します。このうち1つでも欠けている場合、そのアプリケーションはプロプライエタリ、つまり非自由ソフトウェアとなります。

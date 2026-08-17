@@ -3,6 +3,14 @@ title: "自由ソフトウェアが競争に与える影響"
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 行政機関が自由ソフトウェアを公開することは、市場を歪めるのでしょうか？ Simon Schlauri 教授は、この問いから生じる法的・経済的な論点について、スイスのベルン州のために詳細な報告書をまとめました。
 
 自由ソフトウェアは、ITの世界ですでに広く定着しています。中小企業からグローバル企業まで、数多くの企業が自由ソフトウェアのさらなる開発と利用に多額の資金を投じています。現在では、行政機関も自由ソフトウェアを日常的に利用しています。たとえば、自治体の行政業務、裁判所の判例データベース、インターネット上での地理データの提供などに利用されています。[^1]

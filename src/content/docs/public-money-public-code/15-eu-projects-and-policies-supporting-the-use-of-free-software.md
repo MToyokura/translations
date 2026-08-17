@@ -3,6 +3,14 @@ title: "自由ソフトウェアの利用を支援するEUのプロジェクト�
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 自由ソフトウェアは、利用するテクノロジーに対する管理権を確保するとともに、公費で開発された成果を一般に利用できるようにします。
 
 こうした利点を背景に、行政機関の自由ソフトウェアへの関心は高まり続けています。欧州連合（EU）も、さまざまな政策やプロジェクトを通じて、自由ソフトウェアとオープン標準を支援しています。

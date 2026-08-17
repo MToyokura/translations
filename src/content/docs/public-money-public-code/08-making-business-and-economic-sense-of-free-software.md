@@ -3,6 +3,14 @@ title: "自由ソフトウェアをビジネスと経済の観点から考える
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 自由ソフトウェアのライセンス方針を基盤としたビジネスモデルを採用する企業が増えています。OW2 の CEO である Cedric Thomas が、こうした動きによってヨーロッパのIT産業がどのように変化しているのかを説明します。
 
 ソフトウェア自体は無料で利用できるかもしれません。しかし、コストがゼロだからといって、価値までゼロというわけではありません。

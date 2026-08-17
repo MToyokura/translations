@@ -3,6 +3,14 @@ title: "自由ソフトウェアを支援するための第一歩"
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 ITインフラをどのように近代化するかを考えるとき、小さな一歩でも大きな効果をもたらすことがあります。FSFE の専門家ネットワークは、自らの組織における自由ソフトウェアの役割を強化したいと考える、政治・行政分野の意思決定者に向けて、実用的なヒントをまとめました。
 
 ## 組織

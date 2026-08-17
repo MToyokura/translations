@@ -3,6 +3,14 @@ title: "ITセキュリティへのオープンなアプローチ"
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 ソースコードが公開されているのに、どうしてソフトウェアの安全性を確保できるのでしょうか？ 多くの企業や政府機関が自由ソフトウェアを信頼するのには、十分な理由があります。
 
 コードが多くの人によって精査されることで、より多くの問題が、より早い段階で明らかになります。

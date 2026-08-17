@@ -3,6 +3,14 @@ title: "自由ソフトウェアを公開するさまざまな方法"
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 公共部門による自由ソフトウェアへの貢献には、さまざまな形態と規模があります。ベルン大学デジタル・サステナビリティ研究センター所長の Matthias Stürmer 博士が、小さな貢献であっても大きな効果をもたらし得る理由を説明します。
 
 ## バグ修正と機能改善

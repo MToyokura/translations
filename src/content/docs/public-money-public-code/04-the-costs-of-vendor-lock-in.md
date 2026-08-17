@@ -3,6 +3,14 @@ title: "ベンダーロックインのコスト"
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 # ベンダーロックインのコスト
 
 優れた機能、質の高いサービス、現在の事業者への信頼は、組織がデジタルインフラの変更に消極的になるもっともな理由です。一方で、同じ事業者との契約を更新し続ける最大の要因でありながら、しばしば過小評価されているのが、ベンダーロックインです。

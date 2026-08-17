@@ -3,6 +3,14 @@ title: "自由ソフトウェアを調達するには"
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 EUの多くの国では、政府による自由ソフトウェアの利用を促進する政策が整備されており、中には2000年代から取り組んでいる国もあります。しかし、これまで行政機関における自由ソフトウェアの導入は限定的でした。その理由の一つは、ソフトウェア・ソリューションに関する公共入札の多くが、自由ソフトウェアの調達に適した形になっていないことです。ここでは、公共調達を自由ソフトウェアに適したものにするための、特に重要な4つのポイントを紹介します。
 
 ## ソフトウェア・ライセンスではなく、ソリューションを調達する

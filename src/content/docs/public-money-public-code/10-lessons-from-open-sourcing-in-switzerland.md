@@ -3,6 +3,14 @@ title: "スイスのオープンソース化から得られた教訓"
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 行政が自由ソフトウェアを公開することで、どのような利益が得られるのでしょうか？ ベルンのデジタル・サステナビリティ研究センター所長である Matthias Stürmer 博士が、行政機関が「公共財」の定義を見直すべき理由を説明します。
 
 スイスでは、スイス連邦鉄道をはじめとする多くの政府機関や公的企業が、機密性のないデータはオープン・ガバメント・データ（OGD）として公開すべきだという考えで一致しています。連邦参事会は、国家OGD戦略も策定しました。

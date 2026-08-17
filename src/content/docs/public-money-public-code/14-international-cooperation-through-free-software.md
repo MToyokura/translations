@@ -3,6 +3,14 @@ title: "自由ソフトウェアを通じた国際協力"
 description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
+<aside class="translation-attribution">
+この記事は、Free Software Foundation Europe による
+<a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
+を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 自由ソフトウェアのソリューションは、民主的なガバナンスから自然災害の防止まで、政府がさまざまな課題に対処することを支援しています。
 
 中には、一つの国で導入されるだけでなく、国境を越えて共同開発されているプロジェクトもあります。Consul、GNU Health、X-Road、CKAN といった代表的なプロジェクトは、国境を越えた協力における自由ソフトウェア・ライセンスの可能性を示しています。
