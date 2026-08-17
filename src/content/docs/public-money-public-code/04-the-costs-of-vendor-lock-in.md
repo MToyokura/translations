@@ -1,35 +1,37 @@
 ---
-title: "The Costs of Vendor Lock-In"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "ベンダーロックインのコスト"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+現在、公共調達を通じて私たちと協働している企業は3,000社あり、その60％以上が中小企業です。これらの契約には、ベンダーロックインや技術的な前提条件がないという利点があるため、必要な能力を備えていれば、どの企業でも契約を獲得することができます。これは都市行政にとって大きな変化です。私たちは、地域の自由・オープンソースソフトウェアの活動を後押しし、その活動を維持・発展させるための基盤を提供したいと考えています。
 
-<!-- Source PDF page 8 -->
-Now, we have 3,000 companies that work with us through public procurement and over 60% would you convince them? What would be the main argument?
+## 自由ソフトウェアの利点を認識している都市がすでにある一方で、依然として懸念を抱いている行政機関もあります。そうした人々をどのように説得しますか？ 最も重要な論点は何でしょうか？
 
-are small and medium‐sized companies. These contracts benefit from having no lock‐in or technical preconditions, so whoever has the capacity can win these contracts. This is a big change for a city administration. We want to empower the local Free and Open Source movement and provide a platform to sustain and develop.
+第一に、投資した資金が地域の企業、産業、起業家からなるエコシステムに還元されること。第二に、他の都市と共同プロジェクトで協働でき、小規模な都市もその成果を活用できること。第三に、重要なインフラやサービスに対する技術主権を維持できることです。これらは、より民主的で、包摂的かつ持続可能なデジタル社会を築くうえで非常に重要です。
 
-First, the money that you invest goes into your local ecosystem of companies, the local industry and local entrepreneurs; second, the ability to collaborate with other cities on joint projects and help smaller cities benefit from these projects; third, retaining technological sovereignty of critical infrastructure and services. This is very important to build a more democratic, inclusive, and sustainable digital society. By Erik Albers. Edited by Alexandra Busch.
+Erik Albers によるインタビュー。Alexandra Busch 編集。
 
-There are already other cities that see the advantages of Free Software, but also some administrations that still have concerns. How
+# ベンダーロックインのコスト
 
-The Costs of Vendor Lock-In
+優れた機能、質の高いサービス、現在の事業者への信頼は、組織がデジタルインフラの変更に消極的になるもっともな理由です。一方で、同じ事業者との契約を更新し続ける最大の要因でありながら、しばしば過小評価されているのが、ベンダーロックインです。
 
-Convincing features, good service, and trust in the current provider are positive reasons why institutions may be reluctant to make changes in their digital infrastructure. The most important and often underestimated negative cause for extending contracts with a provider is vendor lock‐in.
+ベンダーロックインは、顧客を単一の供給事業者に依存させます。別の事業者へ切り替えるためのコストや労力を大幅に増大させ、人為的な障壁を作り出します。ベンダーロックインは、契約条項などの法的な障壁、不要な他のソフトウェアへの依存、プロプライエタリ・ライセンス、さらには互換性を損なう閉鎖的または不透明な標準などによって引き起こされることがあります。[^1]
 
-Vendor lock‐in makes customers dependent on a single supplier. It creates artificial obstacles by significantly increasing the costs and efforts involved in switching to another vendor. Vendor lock‐in can be caused by legal hurdles like contract clauses, dispensable dependencies on other software, proprietary licences, as well as closed or obscure standards causing incompatibilities. [^1]
+行政機関では、ベンダーロックインはさまざまな形で現れます。たとえば、文書のファイル形式が特定の製品でしか読み取れない、データベースの内容を競合事業者の形式へ変換できない、あるいはファイルへのアクセスやセキュリティ修正を受け続けるために、割高なソフトウェアのアップグレードを購入せざるを得ない、といった状況です。長年にわたり、多くの組織が、ベンダーロックインによる移行コストを避けるためだけに、旧式のシステムへ多額の資金を費やしてきました。
 
-In public administrations, there are many manifestations of vendor lock‐in. For instance, file formats of documents only being readable by a specific product, database content not convertible to a competing vendor’s format, or the constraint to buy an overpriced software upgrade in order to be able to access files and receive security fixes. Over the years, many institutions have spent large amounts of money on outdated systems just to avoid switching costs caused by vendor lock‐in.
+サービスやデータ保存をクラウド事業者へ委託する動きが拡大するにつれて、ロックインの問題も深刻になっています。実際に使われている技術に対する管理や知識は低下し[^2]、全体像を把握しにくくなることで、コストが容易に膨れ上がる可能性があります。ある部門がこうした環境へ深く統合されればされるほど、他の事業者が提供するソリューションへの移行は困難になります。
 
-With the outsourcing of services and storage to cloud providers becoming more and more prominent, the problem of lock‐in is growing. Control over and knowledge of the actual technology is decreasing [^2] while costs can easily explode due to reduced overview. The deeper a department is integrated into such an environment, the harder migration to solutions offered by other vendors can become.
+もちろん、顧客が特定の事業者へのロックインを積極的に選ぶことは通常ありません。また、そのリスク自体に気づいていないことも少なくありません。しかし、このような状況に陥ることを防ぐ方法はあります。
 
-Obviously, customers usually don’t actively choose to become locked‐in by a certain vendor, and they are often even unaware of this threat. But there are ways to prevent getting into this situation:
+> - 製品を導入する前に市場を調査し、導入時のコストだけでなく、撤退・移行時のコストも考慮する。
+> - 予測不能なコストを負うことなく、データを他の事業者へ移行できることを確認する。
+> - 特定の事業者に依存せず、他のソフトウェアとの相互運用性を確保できるオープン標準[^3]に対応した製品を使用する。
+> - 第三者へソフトウェアの改良や修正を委託できる自由ソフトウェアを使用する。
 
-> Screen the market before acquiring a product and take both entry and exit costs into account. > Ensure that data can be migrated to alternative providers without unforeseeable costs. > Use products supporting Open Standards [^3] which are vendor independent and interoperable with alternative software. > Use Free Software which allows the contracting of third parties to enhance and fix a software.
+オープン標準を採用した自由ソフトウェア製品は、段階的な改善とベンダーに依存しないサポートを可能にすることで、高額な移行コストを防ぐのに役立ちます。急速に変化するデジタル社会において、こうした製品は柔軟性をもたらします。
 
-Free Software products using Open Standards help prevent costly migrations by allowing incremental improvements and vendor‐independent support. They provide flexibility in a rapidly changing digital world.
+[^1]: Mackintosh S. 2018, _An Open Digital Approach for the NHS_.
 
-[^1]: Mackintosh S. 2018, *An Open Digital Approach for the NHS*.
 [^2]: McKendrick J. 2011, [Cloud Computing’s Vendor Lock-In Problem](https://www.forbes.com/sites/joemckendrick/2011/11/20/cloud-computingsvendor-lock-in-problem-why-the-industry-is-taking-a-step-backwards).
+
 [^3]: [FSFE: Open Standards](https://fsfe.org/activities/os).
