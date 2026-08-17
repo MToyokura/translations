@@ -24,8 +24,93 @@
     ]
   },
   "images": {
+    "1": [
+      {
+        "source": "cover-public-money-public-code.jpg",
+        "alt": "Public Money Public Code campaign visual",
+        "position": "before",
+        "anchor": "Modernising Public Infrastructure with Free Software"
+      }
+    ],
     "3": [
-      { "source": "matthias-kirschner.jpg", "alt": "Portrait of Matthias Kirschner" }
+      {
+        "source": "matthias-kirschner.jpg",
+        "alt": "Portrait of Matthias Kirschner",
+        "position": "before",
+        "anchor": "Matthias Kirschner President of the Free Software Foundation Europe"
+      }
+    ],
+    "7": [
+      {
+        "source": "francesca-bria.jpg",
+        "alt": "Francesca Bria speaking at the AI for Good Global Summit 2018",
+        "position": "before",
+        "anchor": "Francesca Bria Bria holds a PhD in Innovation Economics"
+      }
+    ],
+    "11": [
+      {
+        "source": "public-code-visual-page-11.jpg",
+        "alt": "Public Money Public Code campaign visual showing source code in public infrastructure",
+        "position": "start"
+      },
+      {
+        "source": "simon-schlauri.jpg",
+        "alt": "Portrait of Prof. Dr. Simon Schlauri",
+        "position": "before",
+        "anchor": "Prof. Dr. Simon Schlauri\n\nProf. Dr. Simon Schlauri is an attorney"
+      }
+    ],
+    "15": [
+      {
+        "source": "cedric-thomas.jpg",
+        "alt": "Portrait of Cedric Thomas",
+        "position": "before",
+        "anchor": "Cedric Thomas\n\nCedric Thomas is the CEO of OW2"
+      },
+      {
+        "source": "la-defense-paris.jpg",
+        "alt": "Dusk over La Défense in Paris",
+        "position": "before",
+        "anchor": "1 Source: Sonatype, DevSecOps Comunity Survey, 2018"
+      }
+    ],
+    "19": [
+      {
+        "source": "matthias-stuermer.jpg",
+        "alt": "Portrait of Dr. Matthias Stürmer",
+        "position": "before",
+        "anchor": "Dr. Matthias Stürmer\n\nDr. Matthias Stürmer is head of the Research Center for Digital Sustainability"
+      }
+    ],
+    "21": [
+      {
+        "source": "chaos-computer-club.jpg",
+        "alt": "Linus Neumann, Constanze Kurz, and Frank Rieger of the Chaos Computer Club",
+        "position": "before",
+        "anchor": "Linus Neumann, Constanze Kurz, and Frank Rieger, spokespersons of the CCC (from left to right)."
+      }
+    ],
+    "23": [
+      {
+        "source": "public-code-visual-page-23.jpg",
+        "alt": "Public Money Public Code campaign visual illustrating open source and security",
+        "position": "start"
+      },
+      {
+        "source": "fernanda-weiden.jpg",
+        "alt": "Portrait of Fernanda G. Weiden",
+        "position": "before",
+        "anchor": "Fernanda G. Weiden\n\nFernanda G. Weiden is a member of the FSFE’s"
+      }
+    ],
+    "29": [
+      {
+        "source": "basanta-thapa.jpg",
+        "alt": "Portrait of Basanta E. P. Thapa",
+        "position": "before",
+        "anchor": "Basanta E. P. Thapa\n\nBasanta E. P. Thapa works on digitalisation for the public sector"
+      }
     ]
   }
 }

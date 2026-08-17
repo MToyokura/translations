@@ -44,24 +44,26 @@ const debugPages = [];
 for (const [index, page] of pages.entries()) {
   const pageNumber = index + 1;
   const regions = layout.pages[String(pageNumber)] ?? layout.pages.default;
+  const images = layout.images?.[String(pageNumber)] ?? [];
   const blocks = collectBlocks(page);
   const assigned = blocks.map((block) => ({ block, region: findRegion(block, regions) }));
   const uncovered = assigned.filter(({ block, region }) => !region && !isPageNumber(block.text));
   if (uncovered.length) throw new Error(`Unassigned text on PDF page ${pageNumber}: ${uncovered.map(({ block }) => block.text).join(' | ')}`);
   debugPages.push({ page: pageNumber, blocks: assigned.map(({ block, region }) => ({ ...block, region: region?.id ?? null })) });
 
-  output.push(`<!-- Source PDF page ${pageNumber} -->`);
-  for (const image of layout.images?.[String(pageNumber)] ?? []) output.push(`![${image.alt}](./assets/${image.source})`, '');
-  if (regions.some((region) => region.omit)) {
-    continue;
-  }
+  // Omitted pages produce no page marker, text, or image output at all.
+  if (regions.some((region) => region.omit)) continue;
 
-  const text = joinBlocks(assigned
+  output.push(`<!-- Source PDF page ${pageNumber} -->`);
+
+  const text = applyFixups(joinBlocks(assigned
     .filter(({ region }) => region)
     .sort(({ block: a, region: regionA }, { block: b, region: regionB }) => regionA.order - regionB.order || a.yMin - b.yMin || a.xMin - b.xMin)
     .map(({ block }) => block.text)
-    .filter((text) => !isPageNumber(text)));
-  if (text) output.push(applyFixups(text), '');
+    .filter((text) => !isPageNumber(text))));
+
+  const content = placeImages(text, images, pageNumber);
+  if (content) output.push(content, '');
 }
 
 await mkdir(dirname(outputFile), { recursive: true });
@@ -105,4 +107,43 @@ function isPageNumber(text) { return /^\d{1,2}$/.test(text.trim()); }
 function applyFixups(text) {
   const cleaned = text.replace(/^·{10,}\s*/gm, '');
   return fixups.replacements.reduce((value, { from, to }) => value.replaceAll(from, to), cleaned);
+}
+function placeImages(text, images, pageNumber) {
+  let result = text;
+
+  for (const image of images) {
+    const markdown = `![${image.alt}](./assets/${image.source})`;
+    const position = image.position ?? 'start';
+
+    if (position === 'start') {
+      result = result ? `${markdown}\n\n${result}` : markdown;
+      continue;
+    }
+    if (position === 'end') {
+      result = result ? `${result}\n\n${markdown}` : markdown;
+      continue;
+    }
+    if (position !== 'before' && position !== 'after') {
+      throw new Error(`Invalid image position "${position}" for ${image.source} on PDF page ${pageNumber}.`);
+    }
+    if (!image.anchor) {
+      throw new Error(`Image ${image.source} on PDF page ${pageNumber} requires an anchor for position "${position}".`);
+    }
+
+    const first = result.indexOf(image.anchor);
+    const second = first === -1 ? -1 : result.indexOf(image.anchor, first + image.anchor.length);
+    if (first === -1) {
+      throw new Error(`Image anchor not found for ${image.source} on PDF page ${pageNumber}: ${JSON.stringify(image.anchor)}`);
+    }
+    if (second !== -1) {
+      throw new Error(`Image anchor is not unique for ${image.source} on PDF page ${pageNumber}: ${JSON.stringify(image.anchor)}`);
+    }
+
+    const insertion = position === 'before'
+      ? `${markdown}\n\n${image.anchor}`
+      : `${image.anchor}\n\n${markdown}`;
+    result = `${result.slice(0, first)}${insertion}${result.slice(first + image.anchor.length)}`;
+  }
+
+  return result;
 }

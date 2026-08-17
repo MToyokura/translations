@@ -9,6 +9,8 @@ description: Public Money Public Code — modernising public infrastructure with
 <!-- Source PDF page 1 -->
 Free Software Foundation Europe
 
+![Public Money Public Code campaign visual](./assets/cover-public-money-public-code.jpg)
+
 Modernising Public Infrastructure with Free Software
 
 <!-- Source PDF page 2 -->
@@ -106,7 +108,6 @@ FOSS / FLOSS
 
 The level of freedom a particular software offers is always determined by the licence, not the label. In other words, don’t get confused by different terms for the same features.
 
-<!-- Source PDF page 5 -->
 <!-- Source PDF page 6 -->
 Using Free Software to Democratise Smart Cities
 
@@ -135,6 +136,8 @@ Another key reason is technological sovereignty, which means getting away from v
 Free Software allows us to work with communities, use the talent of Free Software developers and collaborate with other cities on joint projects. In the long run, you can be more autonomous, you can be more independent, and you can be more transparent. Moreover,
 
 <!-- Source PDF page 7 -->
+![Francesca Bria speaking at the AI for Good Global Summit 2018](./assets/francesca-bria.jpg)
+
 Francesca Bria Bria holds a PhD in Innovation Economics from Imperial College, London and an MSc on Digital Economy from Birbeck, University of London. She is a senior researcher and advisor for the European Commission on Future Internet and innovation policy.
 
 publishing source code is a way to give taxpayers’ money back to society.
@@ -225,6 +228,8 @@ Permissibility of making Free Software available by the state is dependent on wh
 In addition, a recourse to subsidy law may be helpful. Subsidies include non‐refundable cash benefits, preferential conditions for loans, guarantees, free or discounted services, and benefits in kind. According to EU case law, such benefits exist if a private investor, compared to the
 
 <!-- Source PDF page 11 -->
+![Public Money Public Code campaign visual showing source code in public infrastructure](./assets/public-code-visual-page-11.jpg)
+
 relevant public administration, has not taken the same measure in a comparable situation. 3
 
 Thus, since there are a number of reasons for private market participants to release their own code free of charge under a Free Software licence, its release by the state is often unproblematic from a competition neutrality perspective.
@@ -238,6 +243,8 @@ It should be noted, however, that the disclosure of Free Software by a public ad
 Nevertheless, in most cases, a government strategy to publish Free Software remains unproblematic, since there are many valid reasons for doing so which would also apply to private market participants.
 
 1 OSS study 2018, https://www.oss-studie.ch/assets/pdfs/OSS- Studie2018.pdf; Thomas Poledna / Simon Schlauri / Samuel Schweizer, Gutachten zu den rechtlichen Voraussetzungen der Nutzung von Open Source Software in der öffentlichen Verwaltung, Berlin 2017, http://carlgrossmann.com/?ddown load=11748, p. 23 ss. 2 Poledna/Schlauri/Schweizer, p. 101 ss., 108 3 Poledna/Schlauri/Schweizer, P. 107 s. 4 Poledna/Schlauri/Schweizer, p. 123 ss. 5 Poledna/Schlauri/Schweizer, p. 85, 158
+
+![Portrait of Prof. Dr. Simon Schlauri](./assets/simon-schlauri.jpg)
 
 Prof. Dr. Simon Schlauri
 
@@ -305,6 +312,8 @@ Driven by services, and with increasing demand, the Free Software industry repre
 Free Software has become a vehicle for collaborative innovation. Current waves of innovation in cloud computing, big data, network defined technologies, artificial intelligence, deep learning, blockchain and, to a large extent, the internet of things, are all powered by Free Software. Innovations that are not controlled by a single company, thanks to their open source status
 
 <!-- Source PDF page 15 -->
+![Portrait of Cedric Thomas](./assets/cedric-thomas.jpg)
+
 Cedric Thomas
 
 Cedric Thomas is the CEO of OW2, an independent non-profit organisation open to companies, public organisations, academia, and individuals who share the aim of promoting Free Software for enterprise information systems. He has over thirty years of experience in strategic and marketing consulting for the ICT industry. Before launching OW2, Cedric founded the consulting firm FronTier Associates and contributed to the launch of several technology start-ups. He helped establish a start-up incubator in Paris and set up technology firms in Boston and the San Francisco Bay Area.
@@ -315,10 +324,10 @@ Thanks to Free Software, cutting‐edge technologies are readily available to SM
 
 From an economic perspective, Free Software continues to face significant challenges in Europe. Just like the mainstream software industry of which it is an avatar, Free Software is dominated by North American software vendors. In North America, Free Software is perceived as a rational industry strategy: global IT leaders combine it with huge investments in product development and marketing to gain market share. The situation in Europe is different because IT leaders are solution providers rather than product vendors. They are strong in consulting and systems integration, but weaker in marketing. As a result, Free Software in Europe is perceived mainly as a collaborative process, an efficient method to develop software, share intellectual property, and reduce costs. Seeing Free Software as driven by individualistic freedom‐seekers and programmers, customers and policy makers are still sceptical as to its strategic value. They fail to see there is also a vibrant Free Software business ecosystem and that it is in their own interest to support it.
 
+![Dusk over La Défense in Paris](./assets/la-defense-paris.jpg)
+
 1 Source: Sonatype, DevSecOps Comunity Survey, 2018 2 Based on Estimating the Economic Contribution of Open Source Software to the European Economy, Carlo Daffara, the First OpenForum Academy Conference Proceedings, Shane Coughan Ed. 2012 3 Based on Impact du logiciel libre/Open Source en France en 2017‐2020, PAC‐CXP, Unpublished Survey, December 2017
 
-<!-- Source PDF page 16 -->
-<!-- Source PDF page 17 -->
 <!-- Source PDF page 18 -->
 Lessons from Open Sourcing in Switzerland
 
@@ -341,6 +350,8 @@ In a simultaneous development, in 2014, the parliament of the canton of Bern, wh
 The actual use of a complex piece of software requires much more effort than just running the code. An IT system needs planning, integration, customising, data migration, training,
 
 <!-- Source PDF page 19 -->
+![Portrait of Dr. Matthias Stürmer](./assets/matthias-stuermer.jpg)
+
 Dr. Matthias Stürmer
 
 Dr. Matthias Stürmer is head of the Research Center for Digital Sustainability at the University of Bern. He researches, teaches, and consults on Free Software, open data, linked data, open government, blockchain, smart city, public procurement, and digital sustainability. Until 2013 he worked as a manager at EY (Ernst & Young) and as a project leader at Liip AG, a Swiss open source provider. In 2009 Matthias finished his doctoral dissertation at ETH Zürich focusing on open source communities and firm involvement. He is secretary of the Swiss Parliamentarian Group for Digital Sustainability and since 2011 member of the city parliament of Bern.
@@ -399,6 +410,8 @@ How did it reach the point that a system like PCWahl was even used?
 
 On a structural level, the problem exists in that software producers are building on trust that we all have in our election systems. It is simply assumed that the results are legitimate. However, we are of the opinion that you have to create trust through a new form of transparency, and also through access to source code for election aid tools.
 
+![Linus Neumann, Constanze Kurz, and Frank Rieger of the Chaos Computer Club](./assets/chaos-computer-club.jpg)
+
 Linus Neumann, Constanze Kurz, and Frank Rieger, spokespersons of the CCC (from left to right).
 
 If you’ve programmed an organised system, then you can also prove that you’ve actually produced security that, for example, you’ve assured your customer about. You can also prove how you’ve done that. I think of this debate as outdated. If you write software and publish it in the open, you’re accepting the danger that someone copies it. But that shouldn’t be an excuse. And certainly not in kinds of state activity, where we’re paying our taxes for software systems, or where the software is being installed in democratically critical areas. The importance of being able to conduct independent checks on such software outweighs these concerns.
@@ -431,11 +444,15 @@ This ties in with an additional issue in terms of vulnerability management. If t
 As long as publicly amendable code bases are frequently edited by a reasonably wide amount of users, Free Software products ensure that security issues are uncovered fast. Once uncovered, any person or company can read the code, understand the issue, and submit a patch that will resolve the issue. By the same token, without community behind it, freely available code is not more secure than closed source.
 
 <!-- Source PDF page 23 -->
+![Public Money Public Code campaign visual illustrating open source and security](./assets/public-code-visual-page-23.jpg)
+
 In the proprietary software model, only one company has access to the source code. More importantly, priorities are aligned with the profitability of the features developed. Once an issue is raised, it will be triaged and compared to other requests, and it might be that security issues (even though they are important to you) might not be as high a priority for the company, who you’re relying on to fix the problem. You have to wait for your place in line and live with the vulnerability until you get a resolution. In some cases, you also depend on the agility of the vendor to get those fixes applied. If you suspend a contract, it might be they have no duty to fix it at all. The WannaCry fallout in British hospitals is a perfect example. 1 In the Free Software model, if your vendor is not responsive to fixing your issues, you can hire any other vendor to resolve it: you and anyone else can have access to the source code. You own your agenda and priorities and can get a fix as fast as you want and ensure it is rolled out into your system as fast as you need it to be.
 
 The most popular standards for security come with the freedom to use, study, share, and modify. From the way we secure our websites, secure communications with email encryption or our network security, there are open documented standards. Ensuring the best standards are soundly implemented and are put at the people’s service to protect their information is the duty of governments. Governments should urgently seek to stay independent of vendors’ agendas or allegiances for their critical missions. And for that, Free Software is the only logical solution.
 
 1 See Townsend M. and Doward J., “Cyber‐attack sparks bitter political row over NHS spending” *the Guardian* (London, 14 May 2017) available at https://www.theguardian.com/technology/2017/may/13/cyberattack-on-nhs-sparks-bitter-election-battle accessed 11 August 2018
+
+![Portrait of Fernanda G. Weiden](./assets/fernanda-weiden.jpg)
 
 Fernanda G. Weiden
 
@@ -560,6 +577,8 @@ Participating in a public tender often requires jumping through hoops beyond jus
 Include the strong points of Free Software in your tender
 
 Attribute weight in the tender to the general strong points of Free Software: Interoperability, strategic independence from single software providers, avoiding lock‐in situations. In addition, the licences and services for Free Software are beneficial for customisation and self‐development. Including such aspects in the call for tenders allows Free Software to play to its strengths.
+
+![Portrait of Basanta E. P. Thapa](./assets/basanta-thapa.jpg)
 
 Basanta E. P. Thapa
 
