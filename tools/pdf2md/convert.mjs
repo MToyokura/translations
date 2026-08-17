@@ -7,11 +7,13 @@ const root = resolve(import.meta.dirname, '../..');
 const args = new Set(process.argv.slice(2));
 const debug = args.has('--debug-layout');
 const inputDir = resolve(root, args.has('--input') ? process.argv[process.argv.indexOf('--input') + 1] : 'temp/pdf2md');
+const usingDefaultOutputDir = !args.has('--output-dir') && !args.has('--output');
 const outputDir = args.has('--output-dir')
   ? resolve(root, process.argv[process.argv.indexOf('--output-dir') + 1])
   : args.has('--output')
     ? dirname(resolve(root, process.argv[process.argv.indexOf('--output') + 1]))
-    : resolve(root, 'src/content/docs/modernising-with-free-software');
+    : resolve(root, 'src/content/docs/public-money-public-code');
+const legacyOutputDir = resolve(root, 'src/content/docs/modernising-with-free-software');
 const assetDir = resolve(outputDir, 'assets');
 const metadataFile = resolve(outputDir, 'source-metadata.json');
 const layout = JSON.parse(await readFile(resolve(import.meta.dirname, 'layout.json'), 'utf8'));
@@ -97,6 +99,7 @@ for (const [index, page] of pages.entries()) {
   if (content) output.push(content, '');
 }
 
+if (usingDefaultOutputDir) await rm(legacyOutputDir, { recursive: true, force: true });
 await mkdir(outputDir, { recursive: true });
 await rm(resolve(outputDir, 'index.md'), { force: true });
 for (const section of sections) {
