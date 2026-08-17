@@ -1,23 +1,54 @@
 ---
-title: "Reprogramming Procurement Law"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "公共調達法を再設計する"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+同じようなサービスを提供する多数のソフトウェア・プロジェクトに行政がそれぞれ資金を投入する必要があるのでしょうか。一つのプロジェクトに集中し、その費用とコードを複数の機関で共有するほうが効率的ではないでしょうか。
 
-<!-- Source PDF page 28 -->
-Reprogramming Procurement Law
+EU加盟国の多くは、協働とソフトウェアの再利用を促進するため、行政機関で自由ソフトウェア・ライセンスを利用するためのガイドを公開しています。
 
-Why should the state finance a wide range of software projects that provide similar services, when it is more efficient to focus on one project and then share the costs and the code across institutions?
+2016年に発表されたポーランドの電子政府戦略では、公費で開発されるソフトウェアにはオープンなアーキテクチャを採用し、自由ソフトウェア・ライセンスでの公開を検討することが推奨されています。
 
-Most EU member states have published guides for the use of Free Software licences in public administration to encourage collaboration and the re‐use of software. Poland’s eGovernment strategy, published in 2016, recommends that publicly financed software should use an open architecture and consider publication under a Free Software licence. In their 2017 Digital Roadmap, the Austrian government encourages the use of Free Software. Official guides focusing on promoting these goals are available today in all European countries.
+オーストリア政府も2017年の Digital Roadmap で自由ソフトウェアの利用を推奨しています。現在では、このような目標を推進するための公式ガイドがヨーロッパ各国で提供されています。
 
-With the Public Money Public Code initiative, the FSFE helps public administrations make Free Software the standard for publicly financed software. More than 19,000 individuals and over 150 NGOs support the open letter on publiccode.eu asking their governments to use Free Software licences by default.
+FSFE は「Public Money Public Code」イニシアチブを通じて、公費で開発されるソフトウェアについて自由ソフトウェアを標準とするよう行政機関を支援しています。
 
-Some governments have even taken initial legislative steps. The 2004 Italian directive for public procurement of software stated that, in the acquisition of software, public administrations must include the consideration of Free Software. Furthermore, institutions should evaluate software offers according to their transferability, interoperability, dependency on supplier, and the accessibility of the source code for the purpose of independent security checks. In 2016, the Bulgarian parliament passed the Electronic Governance Act, requiring all software written for the government to be published under a Free Software licence and to be developed as such in a public repository. In 2016, the lower house of the Dutch parliament passed a law to make the use of open standards for public administrations mandatory. Some countries are even setting benchmarks for the years to come. Of course, all of these laws allow exceptions. Nevertheless, they indicate that times are changing. Free Software licences could one day become the default setting in public administration. In November 2016, the Hungarian government set a goal to reduce the use of proprietary software in eGovernment by 60% by 2020
+publiccode.eu で公開されている、政府に自由ソフトウェア・ライセンスを標準として利用することを求める公開書簡には、19,000人を超える個人と150を超えるNGOが賛同しています。
 
-The main driving force for such legislation is an ever‐increasing number of positive experiences at the local level. The sharing and reuse of software code has become commonplace in some small and medium‐sized municipalities and even in larger cities. In 2015, the city administration of Helsinki adopted a new IT strategy emphasising a preference for Free Software, especially when developing new software solutions. The city of Barcelona announced in 2017 that Free Software licences should become standard for publicly funded software.
+一部の政府では、すでに法制化に向けた取り組みも始まっています。
 
-Additional support comes from the European Union. On 6th of October 2017, 32 countries from the EU and the European Free Trade Agreement (EFTA) signed the Tallinn Declaration on eGovernment. Through this declaration, EU ministers call upon the European Commission to strengthen the use of Free Software solutions and open standards – especially when specially built software solutions are EU funded. Significantly, this decision was not solely based on economic arguments. The Tallinn declaration aims foremost at encouraging building user‐centric digital governments that respect their citizens’ rights and freedoms, such as freedom of expression, privacy, and the right to the protection of personal data. Usefully, Free Software licences are a perfect match for these concerns as well.
+2004年に制定されたイタリアのソフトウェア公共調達に関する指令では、行政機関がソフトウェアを調達する際、自由ソフトウェアも選択肢として検討しなければならないと定められました。
 
-The FSFE maintains an extended overview for legislation regarding Free Software: https://fsfe.org/fs-policies
+さらに、ソフトウェアの提案を評価する際には、移行可能性、相互運用性、供給事業者への依存度、独立したセキュリティ検証を目的としたソースコードへのアクセス可能性などを考慮すべきとしています。
+
+2016年にはブルガリア議会が電子政府法を可決し、政府向けに開発されるすべてのソフトウェアを自由ソフトウェア・ライセンスのもとで公開し、公開リポジトリ上で開発することを義務付けました。
+
+同じ2016年には、オランダ議会下院が、行政機関によるオープン標準の利用を義務化する法律を可決しました。
+
+将来に向けた具体的な数値目標を設定している国もあります。もちろん、これらの法律にはいずれも例外規定があります。それでも、時代が変化していることを示しています。将来的には、行政において自由ソフトウェア・ライセンスが標準になる可能性があります。
+
+2016年11月には、ハンガリー政府が、電子政府におけるプロプライエタリ・ソフトウェアの利用を2020年までに60％削減するという目標を設定しました。
+
+こうした法制度を後押しする最大の力となっているのは、地方レベルで積み重なっている成功事例です。
+
+一部の小規模・中規模自治体や大都市では、ソフトウェアコードの共有と再利用がすでに一般的になっています。
+
+2015年、ヘルシンキ市は、特に新たなソフトウェア・ソリューションを開発する際に自由ソフトウェアを優先することを掲げた、新たなIT戦略を採用しました。
+
+バルセロナ市も2017年、公費で開発されるソフトウェアについて、自由ソフトウェア・ライセンスを標準とすべきだと発表しました。
+
+EUからの支援もあります。
+
+2017年10月6日、EUおよび欧州自由貿易連合（EFTA）に属する32か国が、電子政府に関する「タリン宣言」に署名しました。
+
+この宣言を通じ、EU各国の閣僚は欧州委員会に対し、自由ソフトウェア・ソリューションとオープン標準の利用を強化するよう求めています。特に、EUの資金で特別に開発されるソフトウェア・ソリューションが対象となります。
+
+重要なのは、この決定が経済的な理由だけに基づいているわけではないことです。
+
+タリン宣言は何よりも、市民の権利と自由を尊重する、利用者中心のデジタル政府を構築することを目指しています。そこには、表現の自由、プライバシー、個人データの保護を受ける権利などが含まれます。
+
+自由ソフトウェア・ライセンスは、こうした要請とも非常によく適合します。
+
+FSFE は、自由ソフトウェアに関する法制度について、より詳細な一覧を公開しています。
+
+https://fsfe.org/fs-policies

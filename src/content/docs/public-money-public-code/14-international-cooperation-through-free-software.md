@@ -1,44 +1,67 @@
 ---
-title: "International Cooperation through Free Software"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "自由ソフトウェアを通じた国際協力"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+自由ソフトウェアのソリューションは、民主的なガバナンスから自然災害の防止まで、政府がさまざまな課題に対処することを支援しています。
 
-<!-- Source PDF page 24 -->
-International Cooperation through Free Software
-
-Free Software solutions are helping governments address different challenges, from democratic governance to natural disaster prevention. Some projects are not only deployed but also developed internationally. Popular projects, such as Consul, GNU Health, X-Road, and CKAN, highlight the potential of Free Software licences for cooperation across borders.
+中には、一つの国で導入されるだけでなく、国境を越えて共同開発されているプロジェクトもあります。Consul、GNU Health、X-Road、CKAN といった代表的なプロジェクトは、国境を越えた協力における自由ソフトウェア・ライセンスの可能性を示しています。
 
 [^1]: German Federal Ministry of Economic Cooperation and Development, “Toolkit – Digitalisation in Development Cooperation and International Cooperation in Education, Culture and Media”, 2016, p. 91.
 
-X-Road
+## X-Road
 
-X‐Road provides a way for public and private sector enterprises to internationally connect information system databases. The flexibility of this macro‐system is a benefit for both citizens and officials. Direct data exchange within X‐Road enables institutions to save time, resources, and costs, while its distributed structure ensures availability, integrity, and confidentiality of the exchanged information. X‐Road was initiated by the Estonian government and has been in continuous operation for 15 years. In 2017, for example, X‐Road connected numerous institutions, databases, and services dealing with 563.3 million system inquiries and saving an estimated 800 years of working time.
+X-Road は、公共部門と民間部門の組織が、情報システムのデータベースを国際的に接続する仕組みを提供します。この大規模システムの柔軟性は、市民と行政職員の双方にメリットをもたらします。
 
-Cooperation between nations through Free Software helps foster innovation, enhance economic development, and safeguard values of autonomy and sustainability. Reusing and sharing existing software across borders saves valuable time and resources, encourages collaboration, and simplifies the data integration between organisations, public administrations, and institutions. The German Federal Ministry of Economic Cooperation and Development, for instance, encourages the use of open standards and Free Software licences in projects that receive funding, because this can be a door‐opener for later cooperations.
+X-Road を通じてデータを直接交換することで、機関は時間、リソース、コストを削減できます。一方、その分散型構造によって、交換される情報の可用性、完全性、機密性が確保されます。
 
-“Setting up five different citizen reporting platforms in each country is likely to be counter-productive. Yet, it is often the case that different NGOs and development cooperation organisations roll out similar but competing platforms. To avoid this kind of duplication, determine whether similar ventures have been delivered by local actors or other organisations and make contact with them.” 1 – German Federal Ministry of Economic Cooperation and Development.
+X-Road はエストニア政府によって開始され、15年間にわたり継続して運用されています。たとえば2017年には、多数の機関、データベース、サービスを接続し、5億6,330万件のシステム照会を処理しました。これにより、推定で800年分の労働時間が削減されました。
 
-Free Software projects initiated and funded by public administrations or institutions already offer varied functionality. They illustrate a high level of cross‐border cooperation with meaningful solutions made available for citizens worldwide.
+自由ソフトウェアを通じた国家間の協力は、イノベーションの促進、経済発展の向上、自律性と持続可能性という価値の保護に役立ちます。
 
-CKAN
+既存のソフトウェアを国境を越えて再利用・共有することで、貴重な時間とリソースを節約し、協働を促進し、組織、行政機関、各種機関の間でのデータ統合を簡素化できます。
 
-CKAN (The Comprehensive Knowledge Archive Network) provides tools to streamline the process of publishing, sharing, and finding data. Through a content management interface, the service enhances the data’s accessibility and utility. Users are able to improve the searchability of findings and organise catalogues with specialised tagging. This is why the governments of 31 countries have adopted CKAN within open data programmes, allowing citizens to explore mass nationwide databases with ease. Along with these individual countries, the EU Open Data Portal also implemented the system. Here, one can access survey results about EU states. CKAN is a project by the Open Knowledge Foundation, which maintains the operation’s code base.
+たとえば、ドイツ連邦経済協力開発省は、資金提供を受けるプロジェクトにおいてオープン標準と自由ソフトウェア・ライセンスを利用することを推奨しています。それが、将来の協力につながるきっかけとなり得るからです。
+
+> 「各国で5種類もの異なる市民通報プラットフォームを構築することは、かえって逆効果になる可能性があります。しかし実際には、異なるNGOや開発協力機関が、似ているものの互いに競合するプラットフォームを導入することがよくあります。このような重複を避けるには、地域の組織や他の団体が類似の取り組みをすでに実施していないか確認し、存在する場合には連絡を取るべきです。」[^1]  
+> — ドイツ連邦経済協力開発省
+
+行政機関や公的組織によって開始・資金提供された自由ソフトウェア・プロジェクトは、すでにさまざまな機能を提供しています。これらは、世界中の市民が利用できる有用なソリューションを通じ、高い水準の国際協力が実現できることを示しています。
+
+## CKAN
+
+CKAN（The Comprehensive Knowledge Archive Network）は、データの公開、共有、検索を効率化するためのツールを提供します。
+
+コンテンツ管理インターフェースを通じて、データへのアクセス性と有用性を高めます。利用者は、専用のタグ付けを利用して検索性を向上させ、カタログを整理することができます。
+
+そのため、31か国の政府がオープンデータ・プログラムで CKAN を採用し、市民が国内の大規模なデータベースを容易に検索できるようにしています。個々の国だけでなく、EU Open Data Portal でもこのシステムが導入されており、EU加盟国に関する調査結果などへアクセスできます。
+
+CKAN は Open Knowledge Foundation のプロジェクトであり、同団体がコードベースを維持しています。
 
 <!-- Source PDF page 25 -->
-X‐Road is used in Estonia, Finland, Azerbaijan, Faeroe Islands, Argentina, and El Salvador.
 
-CKAN is utilised by the governments of 31 countries, including Germany, the United Kingdom, The Netherlands, Australia, Brazil, and the United States of America.
+X-Road は、エストニア、フィンランド、アゼルバイジャン、フェロー諸島、アルゼンチン、エルサルバドルで利用されています。
 
-GNU Health
+CKAN は、ドイツ、英国、オランダ、オーストラリア、ブラジル、米国を含む31か国の政府で利用されています。
 
-GNU Health offers an information system for public health infrastructure and social medicine administration. In 2008, the project began to support disease prevention in rural areas and has since evolved into a large‐scale information system for health data, with an international team of contributors. It has been adopted by the United Nations University and other institutions around the world. GNU health uses a modular approach, with different functionalities that can be included to meet the specific needs of health centres. Good scalability allows it to be utilised in many different scenarios by individuals and national public health organisations.
+## GNU Health
 
-GNU Health is used in Brazil, Spain, Germany, Austria, Argentina, Mexico, Peru, Guatemala, Honduras, Cameroon, Jamaica, and the Dominican Republic.
+GNU Health は、公衆衛生インフラと社会医学の管理のための情報システムを提供します。
 
-Consul is used in Spain, France, Italy, Albania, Malta, Slovenia, Brazil, Uruguay, Argentina, Chile, Bolivia, Costa Rica, Peru, Ecuador, Colombia, Guatemala, Mexico, and South Korea.
+このプロジェクトは2008年、農村地域における疾病予防を支援する目的で始まり、その後、国際的な開発チームによる大規模な医療データ情報システムへと発展しました。国連大学をはじめ、世界各地の機関で採用されています。
 
-Consul
+GNU Health はモジュール方式を採用しており、医療機関ごとの具体的なニーズに応じて、さまざまな機能を組み込むことができます。優れた拡張性を備えているため、個人から国レベルの公衆衛生機関まで、さまざまな場面で利用できます。
 
-Consul allows citizens to participate as decisionmakers within their city governments, to take part in electronic voting, support projects, and to create issue‐based petitions. It is a software project created especially for city administrations. It is used and developed by more than 90 local and national governments from all over the world. Initially developed by the Madrid City Council, it provides a platform for forum‐based debates and proposals, including budgets and user‐customised pages for processes about legislation. Consul is Free Software, so it can be installed by government institutions. Developers can join the project. Through the building and utilisation of the code, the software becomes part of the community.
+GNU Health は、ブラジル、スペイン、ドイツ、オーストリア、アルゼンチン、メキシコ、ペルー、グアテマラ、ホンジュラス、カメルーン、ジャマイカ、ドミニカ共和国で利用されています。
+
+Consul は、スペイン、フランス、イタリア、アルバニア、マルタ、スロベニア、ブラジル、ウルグアイ、アルゼンチン、チリ、ボリビア、コスタリカ、ペルー、エクアドル、コロンビア、グアテマラ、メキシコ、韓国で利用されています。
+
+## Consul
+
+Consul は、市民が自治体の意思決定に参加し、電子投票を行い、プロジェクトを支援し、特定の課題に関する請願を作成できる仕組みです。
+
+都市行政向けに特別に開発されたソフトウェア・プロジェクトで、世界各地の90を超える地方政府・中央政府によって利用・開発されています。
+
+もともとはマドリード市議会によって開発されたもので、フォーラム形式の議論や提案を行うためのプラットフォームを提供します。予算に関する議論や、法制度に関するプロセス向けに利用者がカスタマイズできるページなども含まれています。
+
+Consul は自由ソフトウェアであるため、政府機関が自由に導入できます。開発者もプロジェクトに参加できます。コードを共同で構築し利用することで、ソフトウェアそのものがコミュニティの一部となっていきます。

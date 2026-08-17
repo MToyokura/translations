@@ -1,33 +1,38 @@
 ---
-title: "Blackbox Election Software"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "ブラックボックス化された選挙ソフトウェア"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+2017年のドイツ連邦議会選挙を前に、Chaos Computer Club（CCC）は、選挙の集計に使用されるソフトウェア「PCWahl」に重大なセキュリティ上の欠陥があることを明らかにしました。これをきっかけに、選挙におけるITセキュリティをめぐる公の議論が起こりました。この問題について、CCCの広報担当者 Constanze Kurz に話を聞きました。
 
-<!-- Source PDF page 21 -->
-Blackbox Election Software
+## 選挙結果を操作することは可能だったのでしょうか？
 
-Before the 2017 German Federal Election, the Chaos Computer Club (CCC) uncovered grave security breaches in a software for election vote counts (“PCWahl”). This lead to a public debate about IT security in elections. We talked about this topic with Constanze Kurz, spokesperson for the CCC.
+> 選挙は、ブラックボックスの中で行われるようなものであってはなりません。
 
-Would it have been possible to manipulate the election results?
+## 特定のITプロジェクトでは、セキュリティ上の理由からソースコードを公開できないという主張がよくありますが……
 
-An election should not be a black‐box activity.
+私は、それは既存の危険に加わる理論上の危険にすぎないと考えています。私たちにとって重要だったのは、単に「ここにセキュリティ上の欠陥があります」と指摘することではなく、「私たちが対処すべき構造的な問題があります」と訴えることでした。
 
-It is often argued that one cannot publish source code for specific IT projects due to security reasons …
+また、まったく同じ問題ではありませんが、米国の選挙をめぐる操作の可能性についての議論からも、私たちが非常に大きな脅威に向き合わなければならない可能性があることが分かります。
 
-I consider that a theoretical danger, in addition to existing dangers. It was important for us not to simply say “these are the security breaches”, but rather “there are structural problems we need to address”. Moreover, although not exactly the same issue, the discussion of possible manipulation in the US election shows us that we may have to deal with enormous threats.
+## そもそも、PCWahl のようなシステムが使われるようになったのはなぜでしょうか？
 
-How did it reach the point that a system like PCWahl was even used?
+構造的な問題として、ソフトウェアの開発事業者が、私たちが選挙制度そのものに寄せている信頼の上に成り立っていることがあります。選挙結果が正当であることが、単純に当然のものとして受け入れられているのです。
 
-On a structural level, the problem exists in that software producers are building on trust that we all have in our election systems. It is simply assumed that the results are legitimate. However, we are of the opinion that you have to create trust through a new form of transparency, and also through access to source code for election aid tools.
+しかし私たちは、新しい形の透明性によって信頼を築く必要があると考えています。そのためには、選挙を支援するツールのソースコードにアクセスできることも必要です。
 
-![Linus Neumann, Constanze Kurz, and Frank Rieger of the Chaos Computer Club](./assets/chaos-computer-club.jpg)
+![Chaos Computer Club の Linus Neumann、Constanze Kurz、Frank Rieger](./assets/chaos-computer-club.jpg)
 
-Linus Neumann, Constanze Kurz, and Frank Rieger, spokespersons of the CCC (from left to right).
+左から、CCCの広報担当者 Linus Neumann、Constanze Kurz、Frank Rieger。
 
-If you’ve programmed an organised system, then you can also prove that you’ve actually produced security that, for example, you’ve assured your customer about. You can also prove how you’ve done that. I think of this debate as outdated. If you write software and publish it in the open, you’re accepting the danger that someone copies it. But that shouldn’t be an excuse. And certainly not in kinds of state activity, where we’re paying our taxes for software systems, or where the software is being installed in democratically critical areas. The importance of being able to conduct independent checks on such software outweighs these concerns.
+適切に設計されたシステムをプログラムしたのであれば、たとえば顧客に約束した安全性を実際に確保していることを証明できるはずです。そして、それをどのように実現したのかも示すことができます。
 
-By Katharina Nocun. Edited by George Brooke‐Smith.
+私は、ソースコードを公開するかどうかをめぐるこの議論自体が、すでに時代遅れだと考えています。ソフトウェアを書いて公開すれば、誰かにコピーされる危険を受け入れることになります。しかし、それを公開しない言い訳にすべきではありません。
 
-Chaos Computer Club (CCC) The CCC is the biggest European hackerorganisation, with more than 9000 members. Members of the organisation regularly take part in parliamentary hearings as experts and advise the German federal court on decisions about information technology questions.
+まして、公費によってソフトウェアシステムを開発している国家の活動や、民主主義にとって極めて重要な分野に導入されるソフトウェアであれば、なおさらです。こうしたソフトウェアを独立した立場から検証できることの重要性は、それらの懸念を上回ります。
+
+Katharina Nocun によるインタビュー。George Brooke-Smith 編集。
+
+## Chaos Computer Club（CCC）
+
+CCCは、9,000人を超える会員を擁するヨーロッパ最大のハッカー組織です。メンバーは専門家として議会の公聴会に定期的に参加するほか、情報技術に関する判断についてドイツ連邦裁判所に助言を行っています。

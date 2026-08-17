@@ -1,50 +1,76 @@
 ---
-title: "An Open Approach to IT Security"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "ITセキュリティへのオープンなアプローチ"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+ソースコードが公開されているのに、どうしてソフトウェアの安全性を確保できるのでしょうか？ 多くの企業や政府機関が自由ソフトウェアを信頼するのには、十分な理由があります。
 
-<!-- Source PDF page 22 -->
-An Open Approach to IT Security
+コードが多くの人によって精査されることで、より多くの問題が、より早い段階で明らかになります。
 
-How can a software be secure, when its source code is openly published? There are good reasons why many companies and government institutions trust in Free Software.
+テクノロジーが、組織や個人が自らを組織し、互いに関わり合う方法の中心的な役割を担うようになるにつれて、セキュリティは行政にとっても企業にとっても重要な課題となっています。
 
-which those pieces of code are scrutinised ensures that a lot more issues come to the surface and a lot more quickly.
+さらに、私たちが利用・導入するテクノロジーが高度化・複雑化するにつれて、セキュリティそのものもますます複雑になっています。これは端末だけの問題ではありません。パブリッククラウド環境に保存される、増大し続ける個人情報や機微な情報の保護も含まれます。
 
-As technology takes an ever more central role in how organisations and individuals self‐organise and interact with one another, security becomes a vital area of concern in both government and businesses. Security is also becoming increasingly complex as the sophistication and complexity of how we we use and hire technologies grow. This not only concerns devices, but also the protection of an expanding amount of personal and sensitive information stored in public cloud environments. Governments have a duty to appropriately handle the data of people they hold. Privacy and security imperatives must be ensured. From a privacy standpoint in particular, regulations such as the EU General Data Protection Regulation (GDPR) reflect the growing concern about how users’ data is handled by major softwareas‐a‐service companies.
+政府には、保有する市民のデータを適切に取り扱う責任があります。プライバシーとセキュリティを確実に守らなければなりません。特にプライバシーの観点では、EU一般データ保護規則（GDPR）のような規制は、大手 Software as a Service（SaaS）企業が利用者のデータをどのように扱っているのかという懸念の高まりを反映しています。
 
-Reverse Engineering If the source code of an application is not available, reverse engineering may help reveal how it works. This is often very costly and sometimes even illegal.
+## リバースエンジニアリング
 
-When talking about security however, things become even more complex. If you consider governments should be held accountable to the same standards as large private companies, it is important to demand the highest standards of security and hygiene. Security hygiene comes in different shapes and forms. One of them is ensuring that you keep your own software stack up to date, and that you are able to audit what is happening in your software stack. In this respect, Free Software plays an important role.
+アプリケーションのソースコードを入手できない場合、その仕組みを明らかにするためにリバースエンジニアリングが役立つことがあります。しかし、これは非常に高額になることが多く、場合によっては違法となることさえあります。
 
-Free Software can be built collaboratively by a large community of software experts together with experts in the security field. The degree to
+セキュリティについて考えると、問題はさらに複雑になります。政府にも大企業と同じ基準で責任を求めるべきだと考えるのであれば、最高水準のセキュリティと適切なセキュリティ管理を要求することが重要です。
 
-From a software engineering perspective, it is much easier to inspect software code than to reverse engineer your way into learning how a piece of software works. With Free Software, any company or government body can run their own audit of the source code or any part of the application they are interested in. Proprietary software companies usually hire their own auditors and customers have to trust their word on the security features of the software they sell.
+セキュリティ管理には、さまざまな側面があります。その一つが、自ら使用するソフトウェアスタックを常に最新の状態に保ち、その内部で何が起きているのかを監査できるようにすることです。この点で、自由ソフトウェアは重要な役割を果たします。
 
-Government bodies can run their own audit of the source code or any part of the application they are interested in
+自由ソフトウェアは、多数のソフトウェア専門家とセキュリティ分野の専門家からなる大きなコミュニティによって共同で開発できます。コードが広く精査されることで、より多くの問題が、より早く表面化します。
 
-This ties in with an additional issue in terms of vulnerability management. If the security of a system is only dealt with behind closed doors, backdoor agreements allowing access to data to a third party are more likely to be sought – ideally after an audit. This has both security and political consequences for companies and administrations, which may considerably stain their reputation in the public eye.
+ソフトウェア工学の観点からも、リバースエンジニアリングによってソフトウェアの仕組みを解明するより、ソースコードそのものを調査するほうがはるかに容易です。
 
-As long as publicly amendable code bases are frequently edited by a reasonably wide amount of users, Free Software products ensure that security issues are uncovered fast. Once uncovered, any person or company can read the code, understand the issue, and submit a patch that will resolve the issue. By the same token, without community behind it, freely available code is not more secure than closed source.
+自由ソフトウェアであれば、あらゆる企業や政府機関が、ソースコード全体または関心のあるアプリケーションの一部分について、自ら監査を実施することができます。
+
+一方、プロプライエタリ・ソフトウェア企業は通常、自社で監査人を雇います。顧客は、その企業が販売するソフトウェアのセキュリティ機能について、企業側の説明を信頼するしかありません。
+
+> 政府機関は、ソースコード全体や、関心のあるアプリケーションの一部分について、自ら監査を実施できます。
+
+これは、脆弱性管理に関するもう一つの問題にもつながります。システムのセキュリティが密室の中でのみ扱われる場合、第三者によるデータへのアクセスを認める裏口的な合意が求められる可能性が高まります。理想的には、そのようなことは監査後に明らかになるでしょう。
+
+これは企業や行政機関にとって、セキュリティ面だけでなく政治的な影響も伴い、社会からの評価を大きく損なう可能性があります。
+
+一般に公開され、変更可能なコードベースが、十分に幅広い利用者によって頻繁に更新されている限り、自由ソフトウェアはセキュリティ上の問題を迅速に発見できる環境を提供します。
+
+問題が発見されれば、誰でも、あるいはどの企業でもコードを読み、問題を理解し、その問題を解決するパッチを提出できます。
+
+ただし逆に言えば、支えるコミュニティが存在しないのであれば、コードが自由に入手できるというだけで、クローズドソースより安全になるわけではありません。
 
 <!-- Source PDF page 23 -->
-![Public Money Public Code campaign visual illustrating open source and security](./assets/public-code-visual-page-23.jpg)
 
-In the proprietary software model, only one company has access to the source code. More importantly, priorities are aligned with the profitability of the features developed. Once an issue is raised, it will be triaged and compared to other requests, and it might be that security issues (even though they are important to you) might not be as high a priority for the company, who you’re relying on to fix the problem. You have to wait for your place in line and live with the vulnerability until you get a resolution. In some cases, you also depend on the agility of the vendor to get those fixes applied. If you suspend a contract, it might be they have no duty to fix it at all. The WannaCry fallout in British hospitals is a perfect example. [^1] In the Free Software model, if your vendor is not responsive to fixing your issues, you can hire any other vendor to resolve it: you and anyone else can have access to the source code. You own your agenda and priorities and can get a fix as fast as you want and ensure it is rolled out into your system as fast as you need it to be.
+![オープンソースとセキュリティを表現した Public Money Public Code キャンペーンのビジュアル](./assets/public-code-visual-page-23.jpg)
 
-The most popular standards for security come with the freedom to use, study, share, and modify. From the way we secure our websites, secure communications with email encryption or our network security, there are open documented standards. Ensuring the best standards are soundly implemented and are put at the people’s service to protect their information is the duty of governments. Governments should urgently seek to stay independent of vendors’ agendas or allegiances for their critical missions. And for that, Free Software is the only logical solution.
+プロプライエタリ・ソフトウェアのモデルでは、ソースコードへアクセスできるのは一つの企業だけです。さらに重要なのは、開発上の優先順位が、その機能がどれだけ収益につながるかによって決められることです。
 
-[^1]: Townsend M. and Doward J., “Cyber-attack sparks bitter political row over NHS spending”, *The Guardian* (London, 14 May 2017), [available online](https://www.theguardian.com/technology/2017/may/13/cyberattack-on-nhs-sparks-bitter-election-battle), accessed 11 August 2018.
+問題が報告されると、その問題は優先度を判断され、他の要望と比較されます。そのため、利用者にとってセキュリティ上の問題が重要であっても、修正を依頼している企業側にとっては高い優先順位にならない可能性があります。
 
-![Portrait of Fernanda G. Weiden](./assets/fernanda-weiden.jpg)
+利用者は順番が来るまで待たなければならず、問題が解決されるまでは脆弱性を抱えたまま使い続けることになります。場合によっては、修正を適用するスピードもベンダーの対応力に依存します。契約を終了していれば、ベンダーにはそもそも修正する義務がない可能性さえあります。
 
-Fernanda G. Weiden
+英国の病院が WannaCry の被害を受けた事例は、その典型です。[^1]
 
-Fernanda G. Weiden is a member of the FSFE’s
+自由ソフトウェアのモデルでは、現在のベンダーが問題の修正に十分対応してくれなければ、別のベンダーへ修正を依頼できます。利用者自身を含め、誰でもソースコードへアクセスできるからです。
 
-General Assembly and served as its Vice President between 2009 and 2011 She currently works as a Director of Production Engineering at Facebook. Fernanda is originally from Brazil, and has been at Facebook since May 2012 Prior to that, Fernanda worked at Google Zurich, IBM, and smaller compa nies in Brazil.
+自らの課題と優先順位を自分で決めることができ、必要な速さで修正を行い、必要なタイミングでシステムへ適用することができます。
 
-Lori Roussey
+最も広く利用されているセキュリティ標準の多くは、使用し、研究し、共有し、改変する自由とともに提供されています。ウェブサイトの保護から、電子メール暗号化による通信の保護、ネットワークセキュリティに至るまで、公開され文書化された標準が存在します。
 
-Lori Roussey is a lawyer specialised in European Data Protection and Cybersecurity Law. She was previously a member of France’s civil society organisation The Exégètes, the litigation team behind many prominent cases against French surveillance laws.
+最良の標準を適切に実装し、市民の情報を守るために役立てることは政府の責務です。政府は、重要な任務について、ベンダー側の都合や利害関係から独立することを急ぐべきです。そのためには、自由ソフトウェアが唯一の合理的な解決策です。
+
+[^1]: Townsend M. and Doward J., “Cyber-attack sparks bitter political row over NHS spending”, _The Guardian_ (London, 14 May 2017), [available online](https://www.theguardian.com/technology/2017/may/13/cyberattack-on-nhs-sparks-bitter-election-battle), accessed 11 August 2018.
+
+![Fernanda G. Weiden のポートレート](./assets/fernanda-weiden.jpg)
+
+## Fernanda G. Weiden
+
+Fernanda G. Weiden は FSFE 総会のメンバーで、2009年から2011年まで副会長を務めました。現在は Facebook の Production Engineering 部門のディレクターを務めています。
+
+ブラジル出身で、2012年5月から Facebook に勤務しています。それ以前は、Google Zurich、IBM、およびブラジルの中小企業で勤務していました。
+
+## Lori Roussey
+
+Lori Roussey は、ヨーロッパのデータ保護法およびサイバーセキュリティ法を専門とする弁護士です。以前は、フランスの監視法をめぐる多くの著名な訴訟を手掛けた市民社会団体 The Exégètes のメンバーでした。

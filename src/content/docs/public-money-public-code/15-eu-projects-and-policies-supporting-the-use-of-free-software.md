@@ -1,44 +1,80 @@
 ---
-title: "EU Projects and Policies Supporting the Use of Free Software"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "自由ソフトウェアの利用を支援するEUのプロジェクトと政策"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+自由ソフトウェアは、利用するテクノロジーに対する管理権を確保するとともに、公費で開発された成果を一般に利用できるようにします。
 
-<!-- Source PDF page 26 -->
-EU Projects and Policies Supporting the Use of Free Software
+こうした利点を背景に、行政機関の自由ソフトウェアへの関心は高まり続けています。欧州連合（EU）も、さまざまな政策やプロジェクトを通じて、自由ソフトウェアとオープン標準を支援しています。
 
-Free Software ensures control over the technology used and also enables public access for the publicly funded developments. These advantages explain why the interest of public administrations in Free Software is constantly growing. The European Union is supporting Free Software and open standards with various policies and projects.
-
-ISA²
+## ISA²
 
 > https://ec.europa.eu/isa2
 
-JOINUP
+## JOINUP
 
 > https://joinup.ec.europa.eu
 
-The ISA² (Interoperability Solutions for Public Administrations, Businesses and Citizens) programme is supervised by the European Commission to support the development of digital solutions for public administrations, businesses, and individuals. These services range from data exchange to the funding of public services at the cross‐border and cross‐sector levels. ISA² also includes the Sharing and Reuse Awards Contest, which raises awareness about the advantages of sharing and reusing IT solutions. It also brings to light organisations in the public sector, which have benefited from doing so. Many public administrations around the world have comparable tasks and activities, which makes it sensible to reuse more developed solutions. In 2017, the contest awarded a total of EUR 100,000 to public administrations working in and around Europe.
+ISA²（Interoperability Solutions for Public Administrations, Businesses and Citizens）は、行政機関、企業、個人向けのデジタル・ソリューション開発を支援するため、欧州委員会が運営するプログラムです。
 
-Joinup is an online content sharing platform created by the European Commission, and funded by the European Union under the ISA² programme. Not only does this platform support e‐government in general, it also serves as a community for exchanging information and experiences, as well as for increasing the reuse of software in public administrations. Joinup provides a resource for finding software made available by others, for solving issues related to development, and for sharing selfmade solutions. In terms of interoperability, it also raises awareness of the best Free Software projects in Europe, and FOSS‐related events and developments.
+そのサービスは、データ交換から、国境や分野を越えた公共サービスへの資金提供まで多岐にわたります。
 
-<!-- Source PDF page 27 -->
-EU-FOSSA 2
+ISA² には「Sharing and Reuse Awards Contest」も含まれており、ITソリューションを共有・再利用することの利点について認知を高めるとともに、それによって恩恵を受けた公共部門の組織を紹介しています。
 
-EU‐FOSSA 2 (EU Free and Open Source Software Auditing Community) is a project launched by the European Commission for EU institutions to ensure the security and integrity of widely used critical software. The programme identifies security vulnerabilities, and fixes errors through collaboration with the Free Software community. This includes developer conferences and other events. Within the framework of this project, special deals are offered for finding exploits and vulnerabilities in software, with prizes worth a combined EUR 2.6 million. Part of the collaboration within the community is aimed at attracting innovative techniques for enhancing software security and for exploring the tools required to do so. Because monitoring and improving security is an important issue, FOSSA could become a useful permanent activity.
+世界中の多くの行政機関が似た業務や活動を担っていることを考えれば、すでに開発されたソリューションをより積極的に再利用することには合理性があります。
+
+2017年には、このコンテストを通じて、ヨーロッパおよびその周辺地域の行政機関に総額10万ユーロが授与されました。
+
+Joinup は、欧州委員会が開設し、ISA² プログラムのもとでEUが資金提供するオンラインのコンテンツ共有プラットフォームです。
+
+電子政府全般を支援するだけでなく、情報や経験を交換するためのコミュニティとして機能し、行政機関におけるソフトウェアの再利用を促進しています。
+
+Joinup では、他者が公開したソフトウェアを探したり、開発上の問題を解決したり、自ら開発したソリューションを共有したりできます。
+
+また相互運用性の観点から、ヨーロッパの優れた自由ソフトウェア・プロジェクトや、FOSSに関連するイベント・動向についての認知向上にも取り組んでいます。
+
+## EU-FOSSA 2
+
+EU-FOSSA 2（EU Free and Open Source Software Auditing Community）は、広く利用されている重要なソフトウェアのセキュリティと完全性を確保するために、EU機関を対象として欧州委員会が開始したプロジェクトです。
+
+このプログラムでは、自由ソフトウェア・コミュニティとの協働を通じて、セキュリティ上の脆弱性を特定し、問題を修正します。開発者向けカンファレンスやその他のイベントも実施されています。
+
+プロジェクトの枠組みでは、ソフトウェアのエクスプロイトや脆弱性を発見した人に対する特別な報奨制度も用意され、その賞金総額は260万ユーロに達します。
+
+コミュニティとの協働の一部では、ソフトウェアのセキュリティを強化する革新的な手法や、それに必要なツールの開拓も目指しています。
+
+セキュリティを継続的に監視・改善することは重要であるため、FOSSA は恒久的な活動としても有用になり得ます。
 
 > https://joinup.ec.europa.eu/collection/eu-fossa-2
 
-FREEWAT
+## FREEWAT
 
-Financed by the EU, the FREEWAT project (Free and Open Source Software Tools for Water Resource Management) is part of the Horizon 2020 research framework programme. This Free Software platform has been developed with the aim of monitoring the quantity and quality of water resources. The software combines different integrated modules and tools for dealing with water management issues. The solution’s open nature allows any interested party to contribute to the platform’s advancement. Examples of the project have been developed in 10 EU member states such as France, Romania, and Greece, and in non‐EU countries such as Switzerland, Ukraine, and Turkey.
+EUの資金提供を受ける FREEWAT（Free and Open Source Software Tools for Water Resource Management）は、研究枠組みプログラム Horizon 2020 の一部です。
+
+この自由ソフトウェア・プラットフォームは、水資源の量と質を監視することを目的として開発されました。水管理の課題に対応するため、複数の統合されたモジュールとツールを組み合わせています。
+
+オープンな仕組みを採用しているため、関心のある誰もがプラットフォームの発展に貢献できます。
+
+プロジェクトの事例は、フランス、ルーマニア、ギリシャなど10のEU加盟国に加え、スイス、ウクライナ、トルコなどEU域外の国でも開発されています。
 
 > http://www.freewat.eu
 
-DECODE
+## DECODE
 
-DECODE is another project funded by the European Union’s Horizon 2020 research framework programme. A consortium of 14 European partners participates, including members from Spain, Netherlands, Italy, Sweden, France, and the UK. DECODE develops practical tools for managing the collection and storage of data online and aims to create a decentralised platform, ensuring security and privacy of citizens’ data. DECODE modules have a distributed and open architecture, allowing people to take control of their personal data, including access rights to private information. Pilot projects are taking place in Amsterdam and Barcelona between 2018 and 2019, and all eligible residents can participate.
+DECODE もまた、EUの研究枠組みプログラム Horizon 2020 から資金提供を受けるプロジェクトです。
+
+スペイン、オランダ、イタリア、スウェーデン、フランス、英国などから14のヨーロッパのパートナーが参加するコンソーシアムによって運営されています。
+
+DECODE は、オンラインでのデータ収集・保存を管理するための実用的なツールを開発し、市民のデータの安全性とプライバシーを確保する分散型プラットフォームの構築を目指しています。
+
+DECODE のモジュールは分散型かつオープンなアーキテクチャを採用しており、個人情報へのアクセス権を含め、市民自身が自らの個人データを管理できるようにします。
+
+2018年から2019年にかけてアムステルダムとバルセロナでパイロットプロジェクトが実施され、対象となるすべての住民が参加できます。
 
 > https://decodeproject.eu
 
-Horizon 2020 Horizon 2020 is the EU Research and Innovation programme for 2014 to 2020, with nearly €80 billion of funding available over 7 years. Although providing some benefit, this programme offers limited endorsement of Free Software and open standards.
+## Horizon 2020
+
+Horizon 2020 は、2014年から2020年まで実施されたEUの研究・イノベーションプログラムで、7年間で約800億ユーロの資金が用意されました。
+
+一定のメリットはあるものの、このプログラムによる自由ソフトウェアとオープン標準への支援は限定的です。

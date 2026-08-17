@@ -1,33 +1,40 @@
 ---
-title: "First Steps to Support Free Software"
-description: Public Money Public Code — modernising public infrastructure with Free Software.
+title: "自由ソフトウェアを支援するための第一歩"
+description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
-<!-- Source: temp/PMPC-Modernising-with-Free-Software.pdf; SHA-256: f0a2ee4399a3f3e1d04dcae637bd9f9a4a10893c14096baf20882d29c95b3e43; pdftotext version 25.03.0 -->
+ITインフラをどのように近代化するかを考えるとき、小さな一歩でも大きな効果をもたらすことがあります。
 
-<!-- Source PDF page 30 -->
-First Steps to Support Free Software
+FSFE の専門家ネットワークは、自らの組織における自由ソフトウェアの役割を強化したいと考える、政治・行政分野の意思決定者に向けて、実用的なヒントをまとめました。
 
-When it comes to the question of how to modernise your IT infrastructure, even small steps can have a big impact. The FSFE’s expert network collected useful hints for decisionmakers in politics and public administration who want to strengthen the role of Free Software in their organisation.
+## 組織
 
-Organisational
+- オープン標準とオープンなファイル形式を利用する。これにより、移行コストとベンダーロックインを削減できます。
+- 明確なガイドラインを整備し、職員が自由ソフトウェア・ライセンスのもとでソフトウェアを公開する際の障壁を減らす。
+- 自由ソフトウェア・プロジェクトの公開コードリポジトリが定期的に更新されていることを確認する。
 
-Projects
+## プロジェクト
 
-Cooperation
+- 経験が不足している場合は、小規模なプロジェクトから始める。
+- 他者からの貢献を期待するのであれば、ソフトウェアのコードを十分に文書化し、ドキュメント作成のためのリソースも確保する。
+- 新しいライセンスを独自に作らず、広く利用されているライセンスを使用する。[^1] そうすることで、他者がコードを再利用しやすくなります。
 
-Education
+## 協力
 
-Legal
+- 新しいプロジェクトを始める前に、同じ問題を解決する既存の自由ソフトウェア・プロジェクトがないか確認する。
+- 規模の経済を活用する。大規模なプロジェクトを単独で開始する前に、同じソフトウェア・ソリューションを必要としている組織がないか探す。
+- 既存のプロジェクトやコミュニティと協働し、その専門知識や過去の経験から得られた教訓を活用する。
 
-> Use open standards and open file formats. This reduces switching‐costs and vendor lock‐in. > Reduce the hurdles for your staff to publish software under a free licence by providing clear guidelines. > Make sure that the public code repository of your Free Software projects is updated regularly.
+## 教育
 
-> If you lack the experience, start with smaller projects. > Make sure that your software code is well documented if you want others to contribute and provide resources for documentation. > Do not invent new licences, but use common ones. [^1] This makes it easier for others to reuse your code.
+- コードを公開したら、そのことを積極的に周知し、協働を促す。
+- 自由ソフトウェア・ライセンスの利用に関する研修を提供する。
+- 自由ソフトウェア・コミュニティの専門家から意見を募り、その知見を活用する。
 
-> Check first, if a Free Software project already exists that solves your problem, before launching new projects. > Benefit from economies of scale. Look for allies that might look for the same software solution, before launching larger projects on your own. > Collaborate with existing projects and communities and benefit from their expertise and ‘lessons‐learned’.
+## 法制度
 
-> Spread the word when you publish code to encourage collaboration. > Provide training about the use of Free Software licences. > Invite input from specialists from within the Free Software community and benefit from their expertise.
+- 数値目標の設定や補助金の提供によって、自由ソフトウェア・ライセンスの利用を促進する。
+- 自由ソフトウェア・ライセンスを標準の選択肢とするよう、調達手続きを変更する。
+- 自由ソフトウェアの代替製品が存在するにもかかわらずプロプライエタリ・ソフトウェアを購入する場合、行政機関に正式な理由説明を求める。
 
-> Encourage the use of Free Software licences by setting quotas or providing subsidies. > Change the procurement procedure by making a Free Software licence the default option. > Require public administrations to formally justify the purchase of proprietary software if there is a Free Software alternative available.
-
-[^1]: [List of common Free Software licences](https://www.gnu.org/licenses/license-list.html).
+[^1]: [一般的な自由ソフトウェア・ライセンスの一覧](https://www.gnu.org/licenses/license-list.html).
