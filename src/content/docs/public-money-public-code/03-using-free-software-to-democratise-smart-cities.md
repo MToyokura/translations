@@ -37,6 +37,8 @@ Decidim は、市民が議論し、会議に参加し、都市での暮らしを
 
 ![AI for Good Global Summit 2018 で講演する Francesca Bria](./assets/francesca-bria.jpg)
 
+<div class="image-caption">出典：AI for Good Global Summit 2018. CC BY 2.0 ITU Pictures.</div>
+
 <aside class="context-aside">
 
 Francesca Bria

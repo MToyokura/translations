@@ -39,7 +39,7 @@ description: 公費で作るコードは公開を — 自由ソフトウェア�
 
 オープンソースであり、協働型のアプローチを取ることで、単一企業に支配されないイノベーションは、技術的成果と市場普及の双方で、短期間のうちに大きな成果を上げることができます。
 
-![Cedric Thomas のポートレート](./assets/cedric-thomas.jpg)
+（All Rights Reserved のため画像未掲載）
 
 Cedric Thomas
 
@@ -70,6 +70,8 @@ ICT産業の戦略・マーケティングコンサルティングで30年以上
 顧客や政策立案者は、自由ソフトウェアを個人主義的に自由を追求する人々やプログラマーによって推進されるものと捉え、その戦略的価値にいまだ懐疑的です。その背後に活力ある自由ソフトウェアのビジネス・エコシステムが存在すること、そしてそれを支援することが自らの利益にもつながることを十分に理解していません。
 
 ![夕暮れのパリ・ラ・デファンス](./assets/la-defense-paris.jpg)
+
+<div class="image-caption">Dusk on “La Défense” – Paris. CC BY 2.0 Gael Varoquaux.</div>
 
 [^1]: Sonatype, _DevSecOps Community Survey_, 2018.
 

@@ -13,8 +13,10 @@ description: 公費で作るコードは公開を — 自由ソフトウェア�
 
 ![Matthias Kirschner のポートレート](./assets/matthias-kirschner.jpg)
 
-Matthias Kirschner  
-Free Software Foundation Europe 会長
+<div class="image-caption">
+  <p>Matthias Kirschner</p>
+  <p>Free Software Foundation Europe 会長</p>
+</div>
 
 読者の皆さまへ
 

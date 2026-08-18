@@ -31,7 +31,7 @@ description: 公費で作るコードは公開を — 自由ソフトウェア�
 
 ![Chaos Computer Club の Linus Neumann、Constanze Kurz、Frank Rieger](./assets/chaos-computer-club.jpg)
 
-左から、CCCの広報担当者 Linus Neumann、Constanze Kurz、Frank Rieger。
+左から、CCCの広報担当者 Linus Neumann、Constanze Kurz、Frank Rieger。出典：2013年にハンブルクで開催された第30回 Chaos Communication Congress における Chaos Computer Club の年末レビュー。CC BY‐SA 4.0 Wikipedia / Tobias Klenze.
 
 適切に設計されたシステムをプログラムしたのであれば、たとえば顧客に約束した安全性を実際に確保していることを証明できるはずです。そして、それをどのように実現したのかも示すことができます。
 

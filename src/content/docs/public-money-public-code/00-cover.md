@@ -13,6 +13,8 @@ description: 公費で作るコードは公開を — 自由ソフトウェア�
 
 ![表紙画像](./assets/cover-public-money-public-code.jpg)
 
+<div class="image-caption">出典：キャンペーン動画 Public Money Public Code CC BY 4.0 fsfe.org & motionensemble.de.</div>
+
 ## 自由ソフトウェアで公共インフラを近代化する
 
 Free Software Foundation Europe
@@ -49,14 +51,6 @@ Markus Meier
 本報告書の内容は、出典を明記することを条件として、引用または複製することができます。
 
 特記のない限り、すべての内容は CC BY‐SA 4.0 のもとでライセンスされています。
-
-## 写真クレジット
-
-- p.1、11、23：キャンペーン動画 _Public Money Public Code_。CC BY 4.0 fsfe.org & motionensemble.de.
-- p.7：_AI for Good Global Summit 2018_。CC BY 2.0 ITU Pictures.
-- p.15：Cedric Thomas ポートレート。All Rights Reserved.
-- p.15：_Dusk on “La Défense” – Paris_。CC BY 2.0 Gael Varoquaux.
-- p.21：2013年にハンブルクで開催された第30回 Chaos Communication Congress における Chaos Computer Club の年末レビュー。CC BY‐SA 4.0 Wikipedia / Tobias Klenze.
 
 ## ライセンス情報
 
