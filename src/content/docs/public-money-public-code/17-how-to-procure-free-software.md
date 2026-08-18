@@ -1,6 +1,5 @@
 ---
 title: "自由ソフトウェアを調達するには"
-description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
 <aside class="translation-attribution">
@@ -31,6 +30,10 @@ EU加盟国の多くでは、自由ソフトウェアを既存の調達制度に
 
 ![Basanta E. P. Thapa のポートレート](./assets/basanta-thapa.jpg)
 
-## Basanta E. P. Thapa
-
+<aside class="context-aside">
+  
+Basanta E. P. Thapa
+  
 Basanta E. P. Thapa は、Fraunhofer Institute for Open Communication Systems の Competence Centre for Public IT（ÖFIT）で、公共部門のデジタル化に取り組んでいます。また、ポツダム大学の DFG Research Training Group「Wicked Problems, Contested Administrations」で博士号取得を目指しています。ミュンスターとポツダムで行政学、政治学、経済学を学び、Hertie School of Governance、European Research Centre for Information Systems、Tallinn University of Technology で研究員として勤務しました。
+
+</aside>

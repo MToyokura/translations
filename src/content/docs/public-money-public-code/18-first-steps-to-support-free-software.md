@@ -1,6 +1,5 @@
 ---
 title: "自由ソフトウェアを支援するための第一歩"
-description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
 <aside class="translation-attribution">

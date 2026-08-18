@@ -1,6 +1,5 @@
 ---
 title: "自由ソフトウェアが競争に与える影響"
-description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
 <aside class="translation-attribution">

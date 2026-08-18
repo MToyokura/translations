@@ -1,6 +1,5 @@
 ---
 title: "知られざる優良事例"
-description: 公費で作るコードは公開を — 自由ソフトウェアで公共インフラを近代化する。
 ---
 
 <aside class="translation-attribution">
