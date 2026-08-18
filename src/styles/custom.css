@@ -1,15 +1,31 @@
 .translation-attribution {
-	margin: 2rem 0;
-	padding: 1rem 1.25rem;
-	border-radius: 0.375rem;
-	background: #f1f1f1;
-	color: var(--sl-color-gray-2);
-	font-size: 0.9rem;
-	line-height: 1.6;
+  margin: 2rem 0;
+  padding: 1rem 1.25rem;
+  border-radius: 0.375rem;
+  background: var(--sl-color-gray-6);
+  font-size: 0.9rem;
+  line-height: 1.6;
 }
 
-@media (prefers-color-scheme: dark) {
-	.translation-attribution {
-		background: #292929;
-	}
+.context-aside {
+  margin: 1.5rem 0;
+  padding: 1rem 1.25rem;
+  border-radius: 0.375rem;
+  font-size: 0.9rem;
+  background: var(--sl-color-gray-6);
+}
+
+.image-caption {
+  color: var(--sl-color-gray-3);
+  font-size: 0.875rem;
+  text-align: center;
+}
+
+.image-caption p {
+  margin: 0;
+}
+
+.sl-markdown-content img {
+  display: block;
+  margin-inline: auto;
 }
