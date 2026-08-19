@@ -1,8 +1,14 @@
 ---
-title: "オープン・レボリューションについて"
+title: "オープン・レボリューション"
 sidebar:
   order: 0
 ---
+
+<aside class="translation-attribution">
+これは、Rufus Pollock による <a href="https://openrevolution.net/">The Open Revolution</a> の日本語訳です。<a href="https://docs.google.com/document/d/1MXiRWb8SiXhTNdr-UF1hWoXOoA8tzL0zaOhToZQtcWM/edit?usp=sharing">Google Docs で公開されていたもの</a>を Web に移植しています。原文は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY-SA 4.0 ライセンスのもとで提供されます。
+</aside>
 
 # オープン・レボリューション
 
@@ -50,7 +56,7 @@ https://openrevolution.net/contact
 もしもこの本から価値を受け取って、まだ本を購入していないのであれば、こちらから寄付をどうぞ。
 https://openrevolution.net/pay-what-feels-right
 
- – 報酬権はまだ存在していませんが、皆さんの寄付は私たちの活動を維持する助けになります。
+– 報酬権はまだ存在していませんが、皆さんの寄付は私たちの活動を維持する助けになります。
 
 ## 献辞
 
