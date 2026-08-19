@@ -39,10 +39,11 @@ Attribution ShareAlike license v4 (BY-SA)
 First printing, August 2018. v1.1.0
 
 原書のライセンスのURI：https://creativecommons.org/licenses/by-sa/4.0/
+
 本書は、原書を日本語に訳し、訳者あとがきなどを付したものである。
 
-本書のライセンス：
-Creative Commons Attribution ShareAlike license 4.0 International (BY-SA) https://creativecommons.org/licenses/by-sa/4.0/
+本書のライセンス：Creative Commons Attribution ShareAlike license 4.0 International (BY-SA) https://creativecommons.org/licenses/by-sa/4.0/
+
 翻訳のクレジット付与対象者：豊倉幹人・渡辺智暁
 
 ## 共有・連絡先
