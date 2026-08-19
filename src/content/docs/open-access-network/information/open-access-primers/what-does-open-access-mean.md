@@ -2,6 +2,14 @@
 title: オープンアクセスとは？
 ---
 
+<aside class="translation-attribution">
+この記事は、 open-access.network による
+<a href="https://open-access.network/en/information/open-access-primers/what-does-open-access-mean">What Does Open Access Mean?</a>
+を翻訳したものです。もとの記事は
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
+</aside>
+
 ## はじめに
 
 ### 60 秒でわかるオープンアクセス
@@ -111,7 +119,3 @@ open-access.network ([CC BY 4.0 International](https://creativecommons.org/licen
 - Suber, P. (2012). Open Access. The MIT Press. https://mitpress.mit.edu/books/open-access, Open Access https://archive.org/details/9780262517638OpenAccess
 
 最終更新日：2025 年 6 月 10 日
-
----
-
-この記事は、 open-access.network による [What Does Open Access Mean?](https://open-access.network/en/information/open-access-primers/what-does-open-access-mean) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。

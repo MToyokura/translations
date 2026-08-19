@@ -2,6 +2,14 @@
 title: グリーン・オープンアクセスとゴールド・オープンアクセス
 ---
 
+<aside class="translation-attribution">
+この記事は、 open-access.network による
+<a href="https://open-access.network/en/information/open-access-primers/green-and-gold">Green, Gold, and Diamond Open Access</a>
+を翻訳したものです。もとの記事は
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
+</aside>
+
 ## はじめに
 
 ### オープンアクセスの道のり
@@ -115,7 +123,3 @@ title: グリーン・オープンアクセスとゴールド・オープンア�
 - Taubert, N., Sterzik, L., & Bruns, A. (2024). Mapping the German Diamond Open Access journal landscape. _Minerva_, _62_(2), 193–227. https://doi.org/10.1007/s11024-023-09519-7
 
 最終更新日：2025 年 10 月 21 日
-
----
-
-この記事は、 open-access.network による [Green, Gold, and Diamond Open Access](https://open-access.network/en/information/open-access-primers/green-and-gold) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。

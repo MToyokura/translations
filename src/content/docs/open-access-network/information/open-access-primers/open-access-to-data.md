@@ -2,6 +2,14 @@
 title: オープンアクセスと研究データ
 ---
 
+<aside class="translation-attribution">
+この記事は、 open-access.network による
+<a href="https://open-access.network/en/information/open-access-primers/open-access-to-data">Open Access and Research Data</a>
+を翻訳したものです。もとの記事は
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
+</aside>
+
 ## はじめに
 
 ### 研究データ管理サイクル
@@ -126,7 +134,3 @@ FAIR の 4 つの要素はそれぞれ以下の意味を持ちます。
 このページのコンテンツ編集者: Matthias Landwehr (最終更新: 2021 年 3 月)
 
 最終更新日：2025 年 4 月 30 日
-
----
-
-この記事は、 open-access.network による [Open Access and Research Data](https://open-access.network/en/information/open-access-primers/open-access-to-data) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。

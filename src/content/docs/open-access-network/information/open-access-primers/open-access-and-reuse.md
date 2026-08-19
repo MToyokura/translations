@@ -2,6 +2,14 @@
 title: オープンアクセスと再利用
 ---
 
+<aside class="translation-attribution">
+この記事は、 open-access.network による
+<a href="https://open-access.network/en/information/open-access-primers/open-access-and-reuse">Open Access and Reuse</a>
+を翻訳したものです。もとの記事は
+<a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
+</aside>
+
 ## はじめに
 
 ### オープンアクセスとは？
@@ -78,7 +86,3 @@ BOAI の定義によると、真のオープンアクセスはリブレ・オー
 - Owen, Victoria and Reilly, Susan (2022). Navigating Copyright for Libraries: Purpose and Scope, Berlin, Boston: De Gruyter. https://doi.org/10.1515/9783110732009
 
 最終更新日：2025 年 6 月 10 日
-
----
-
-この記事は、 open-access.network による [Open Access and Reuse](https://open-access.network/en/information/open-access-primers/open-access-and-reuse) を翻訳したものです。もとの記事は [CC BY 4.0 ライセンス](https://creativecommons.org/licenses/by/4.0/)のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
