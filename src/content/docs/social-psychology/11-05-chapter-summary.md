@@ -1,32 +1,33 @@
 ---
-title: "11.5 Chapter Summary"
+title: "11.5 章のまとめ"
 sidebar:
   order: 77
 ---
-The social groups that are part of a given nation or society become essential parts of the culture itself. We easily develop beliefs about the characteristics of the groups and the members of those groups (stereotypes) as well as prejudice (an unjustifiable negative attitude toward an outgroup). Our stereotypes and our prejudices are problematic because they may create discrimination—unjustified negative behaviors toward members of outgroups based on their group membership. Discrimination is a societal and health problem because it is so pervasive, takes so many forms, and has such negative effects on so many people.
 
-Stereotyping and prejudice begin from social categorization—the natural cognitive process by which we place individuals into social groups. Social categorization is in many cases quite helpful and useful. In some cases, we might categorize others because doing so provides us with information about the characteristics of people who belong to certain social groups or categories. And we may categorize others because we may not have time to do anything more thorough.
+ある国家や社会を構成する社会集団は、その文化そのものの不可欠な一部となる。私たちは、集団およびその集団のメンバーの特徴についての信念（ステレオタイプ）や、偏見（外集団に対する正当化できない否定的態度）を容易に形成する。ステレオタイプと偏見が問題なのは、それらが差別、すなわち集団所属に基づいて外集団メンバーへ向けられる正当化できない否定的行動を生み出す可能性があるからである。差別は非常に広く存在し、多くの形をとり、多くの人々に非常に否定的な影響を与えるため、社会的問題であると同時に健康上の問題でもある。
 
-A problem is that social categorization distorts our perceptions of others such that we tend to exaggerate the differences between social groups while at the same time perceiving members of groups (and particularly outgroups) as more similar to each other than they actually are. One particularly strong outcome of social categorization is outgroup homogeneity—the tendency to view members of outgroups as more similar to each other than we see members of ingroups.
+ステレオタイプ化と偏見は、社会的カテゴリー化、すなわち個人を社会集団へ分類する自然な認知過程から始まる。社会的カテゴリー化は、多くの場合かなり有益で役に立つ。特定の社会集団やカテゴリーに属する人々の特徴について情報を得ることができるため、他者をカテゴリー化する場合もある。また、より徹底的に考える時間がないために他者をカテゴリー化することもある。
 
-Once we begin to categorize other people, and we start to see the members of those groups as more similar to each other than they actually are, it then becomes very easy to apply our stereotypes to the members of the groups, without having to consider whether the characteristic is actually true of the particular individual. If men think that women are all alike, then they may act toward all women in the same way, and doing so is unfair.
+問題の一つは、社会的カテゴリー化が他者についての私たちの知覚を歪め、社会集団間の違いを誇張する一方で、集団のメンバー、とくに外集団のメンバー同士を、実際以上に似ていると知覚させることである。社会的カテゴリー化のとくに強い結果の一つが外集団同質性、すなわち外集団のメンバー同士を、内集団のメンバー同士よりも似ていると見る傾向である。
 
-Our stereotypes and prejudices are learned through both cognitive and affective processes. Once they become established, stereotypes (like any other cognitive representation) tend to persevere—they are difficult to change. In the end, stereotypes become self-fulfilling prophecies, such that our expectations about the group members make the stereotypes come true. And our stereotypes also influence our performance on important tasks through stereotype threat.
+他者をカテゴリー化し、その集団のメンバー同士を実際以上に似ていると見るようになると、その特徴が実際に特定の個人に当てはまるかどうかを検討せず、集団メンバーにステレオタイプを適用することが非常に容易になる。男性が女性はみな同じだと考えれば、すべての女性に同じように行動する可能性があり、それは不公正である。
 
-Ingroup favoritism occurs on the basis of even arbitrary and unimportant groupings and is found for many different types of social groups, in many different settings, on many different dimensions, and in many different cultures.
+私たちのステレオタイプと偏見は、認知的過程と感情的過程の両方を通じて学習される。いったん形成されると、ステレオタイプは他の認知表象と同様に持続しやすく、変えることが難しい。最終的に、ステレオタイプは自己成就予言となり、集団メンバーについての期待がステレオタイプを現実のものにする。また、ステレオタイプ脅威を通じて、重要な課題における私たちのパフォーマンスにも影響する。
 
-The most important determinant of ingroup favoritism is simple self-enhancement. We want to feel good about ourselves, and being a member of a group that has positive characteristics provides social identity—the positive self-esteem that we get from our group memberships. In cases when our groups do not provide positive social identity, we must try to restore a positive self-worth. If we cannot leave the group, we may try to perceive the group as positively as possible, perhaps by focusing on dimensions on which the group does not compare so unfavorably.
+内集団ひいきは、恣意的で重要性のない集団分けに基づいてさえ生じ、多くの種類の社会集団、多くの状況、多くの次元、多くの文化で見られる。
 
-Although it is assumed that most people gain at least some positive social identity through their group memberships, people differ in the extent to which they use their group memberships to create social identity. Personality dimensions related to prejudice include authoritarianism and social dominance orientation. And there is also at least some evidence that stereotyping varies across cultures.
+内集団ひいきの最も重要な決定因は、単純な自己高揚である。私たちは自分自身についてよく感じたい。肯定的特徴をもつ集団の一員であることで、社会的アイデンティティ、すなわち集団所属から得られる肯定的な自尊心を得る。集団が肯定的な社会的アイデンティティを与えてくれない場合には、肯定的な自己価値を回復しようとしなければならない。集団から離れられない場合には、その集団がそれほど不利に比較されない次元に焦点を当てるなどして、可能な限り集団を肯定的に知覚しようとすることがある。
 
-Because social categorization is a basic human process that provides some benefits for us, stereotypes and prejudices are easy to develop but difficult to change. But stereotypes and prejudice are not inevitable.
+ほとんどの人が集団所属から少なくとも何らかの肯定的社会的アイデンティティを得ていると考えられるが、社会的アイデンティティをつくるために集団所属をどの程度利用するかには個人差がある。偏見に関連するパーソナリティ次元には、権威主義と社会的支配志向がある。また、ステレオタイプ化には文化による違いも少なくともいくらか存在するという証拠がある。
 
-The positive effects of education on reducing prejudice are probably due in large part to the new social norms that people experience in school, which people who do not go to school do not learn. True changes in beliefs will only occur if they are supported by changes in social norms. And because social norms are so important, the behavior of individuals can help create or reduce it. Prejudice will be more likely to continue if people allow it to by not responding to it or confronting it when it occurs.
+社会的カテゴリー化は、私たちにいくらかの利益をもたらす基本的な人間の過程であるため、ステレオタイプや偏見は形成されやすい一方、変えることは難しい。しかし、ステレオタイプと偏見は避けられないものではない。
 
-Intergroup attitudes will be improved when we can lead people to focus relatively more on their concerns for others and relatively less on their desires to feel good about themselves. Intergroup contact is effective in this regard, although only under conditions that allow us to individuate others. And individuation is more successful when the people involved in the contact are interdependent, such as in cooperative educational contexts like the jigsaw classroom. Prejudice can also be reduced for people who have friends who are friends with members of the outgroup—the extended-contact hypothesis.
+教育が偏見を減らす肯定的効果は、大部分、学校に行かない人は学ぶことのない、新しい社会的規範を学校で経験するためだと考えられる。信念の本当の変化が生じるのは、それが社会的規範の変化によって支えられる場合だけである。そして社会的規範は非常に重要であるため、個人の行動は偏見を生み出すことも、減らすこともできる。人々が偏見に反応せず、偏見が生じたときに立ち向かわず、偏見を許せば、それは続く可能性が高くなる。
 
-In the “Robbers’ Cave Experiment,” as well as in many other studies, it has been found that superordinate goals that help us see others as part of the same category as we are provide a common ingroup identity and are successful at improving intergroup attitudes.
+人々が自分自身についてよく感じたいという欲求より他者への関心に相対的に強く焦点を当てるよう導くことができれば、集団間態度は改善する。この点で集団間接触は効果的だが、他者を個人化できる条件に限られる。個人化は、ジグソー教室のような協同的教育環境など、接触する人々が相互依存しているときにより成功する。また、外集団のメンバーを友人にもつ人を友人にもっている場合にも偏見を減らすことができる。これが拡張接触仮説である。
 
-You can now see how important social categorization is but also that it has many potential negative outcomes. You are now more aware how easily we categorize others, how quickly we learn stereotypes, and how fast ingroup favoritism develops, and you can better see the impact that these processes have on our judgments of others. You can use that new knowledge to help you avoid being prejudiced yourself and to help others from being prejudiced too. Doing so will be difficult, but in the end it will be useful.
+「泥棒洞窟実験」をはじめ多くの研究で、他者を自分と同じカテゴリーの一部として見るのに役立つ上位目標は、共通内集団アイデンティティをもたらし、集団間態度を改善することに成功するとわかっている。
 
-But just because we have stereotypes or hold prejudices does not mean that we cannot change them or that we must act on them. If sports referees learn about their prejudices, they can work harder to overcome them, and they may well be successful. And when you learn about your own stereotypes and your own prejudices, and the effects of those beliefs on yourself and others, you may be able to change your own behavior and respond more appropriately to the stereotypes and prejudices expressed by others.
+社会的カテゴリー化がいかに重要であるか、そして同時に多くの否定的結果を生みうることが、今では理解できるだろう。私たちがどれほど容易に他者をカテゴリー化し、どれほど速くステレオタイプを学び、どれほど急速に内集団ひいきが発達するかをより自覚し、こうした過程が他者についての判断に与える影響をよりよく理解できるようになっている。この新しい知識を使って、自分自身が偏見をもつことを避け、他者が偏見をもつのを防ぐ手助けもできる。これは難しいことだが、最終的には役に立つ。
+
+ステレオタイプをもっていたり偏見を抱いていたりするからといって、それを変えられないわけでも、それに従って行動しなければならないわけでもない。スポーツの審判が自分の偏見について学べば、それを克服するためさらに努力でき、実際に成功する可能性も十分にある。そして、自分自身のステレオタイプや偏見、それらの信念が自分と他者に与える影響について学べば、自分自身の行動を変え、他者が表すステレオタイプや偏見により適切に対応できるようになるかもしれない。

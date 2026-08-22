@@ -1,100 +1,106 @@
 ---
-title: "Chapter 11. Stereotypes, Prejudice, and Discrimination"
+title: "第11章 ステレオタイプ、偏見、差別"
 sidebar:
   order: 72
 ---
-:::note[Chapter Learning Objectives]
 
-1. Social Categorization and Stereotyping
-  - Describe the fundamental process of social categorization and its influence on thoughts, feelings, and behavior.
-  - Define *stereotypes* and describe the ways that stereotypes are measured.
-  - Review the ways that stereotypes influence our behavior.
-2. Ingroup Favoritism and Prejudice
-  - Review the causes and outcomes of ingroup favoritism.
-  - Summarize the results of Henri Tajfel’s research on minimal groups.
-  - Outline the personality and cultural variables that influence ingroup favoritism.
-3. Reducing Discrimination
-  - Review the causes of discrimination and the ways that we can reduce it.
-  - Summarize the conditions under which intergroup contact does or does not reduce prejudice and discrimination.
+:::note[章の学習目標]
+
+1. 社会的カテゴリー化とステレオタイプ化
+
+- 社会的カテゴリー化という基本的な過程と、それが思考、感情、行動に与える影響を説明する。
+- *ステレオタイプ*を定義し、ステレオタイプを測定する方法を説明する。
+- ステレオタイプが私たちの行動に影響する仕組みを概観する。
+
+2. 内集団ひいきと偏見
+
+- 内集団ひいきの原因と結果を概観する。
+- Henri Tajfelによる最小集団研究の結果を要約する。
+- 内集団ひいきに影響するパーソナリティ変数と文化的変数を概説する。
+
+3. 差別を減らす
+
+- 差別の原因と、差別を減らす方法を概観する。
+- 集団間接触が偏見と差別を減らす条件、または減らさない条件を要約する。
 
 :::
 
-## State-Sanctioned Homophobia
+## 国家によって容認された同性愛嫌悪
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/9015242012_188333ecd9_k.jpg)
 
-*Figure 11.1 LGBT activists are attacked during an action “Day of Kisses” against a homophobic bill in Moscow.*
+_図11.1 モスクワで、同性愛嫌悪的な法案に抗議する「キスの日」の行動中にLGBT活動家が襲撃されている。_
 
-In recent years, the Russian government has enacted a series of laws designed to target members of its LGBT (lesbian-gay-bisexual-transgender) community. These include forcing LGBT organizations to register as “foreign agents,” banning depictions of homosexuality (including carrying rainbow flags) in front of young people, and denying permission to LGBT groups wanting to organize gay pride parades.
+近年、ロシア政府はLGBT（レズビアン、ゲイ、バイセクシュアル、トランスジェンダー）コミュニティの人々を標的とする一連の法律を制定してきた。そこには、LGBT団体に「外国の代理人」としての登録を強制すること、若者の前で同性愛を表現すること（レインボーフラッグを掲げることを含む）を禁止すること、ゲイ・プライド・パレードを開催しようとするLGBT団体に許可を与えないことなどが含まれる。
 
-Unfortunately, homophobic attitudes and even violence are not uncommon in Russian society. For example, groups such as Occupy Gerontilyaj have been known to lure and then beat and torture gay teenagers. In 2012, a video that surfaced online showed six members of another far-right-wing organization torturing a young man who later died, according to the Spectrum Human Rights Alliance (a group that advocated for LGBT rights in Eastern Europe).
+残念ながら、ロシア社会では同性愛嫌悪的な態度や、さらには暴力さえ珍しくない。たとえば、Occupy Gerontilyajのような集団は、ゲイの10代の若者をおびき寄せ、その後殴打し、拷問したことで知られている。2012年には、別の極右組織の6人のメンバーが若い男性を拷問する映像がインターネット上に現れ、その男性は後に死亡したと、東欧でLGBTの権利を擁護していたSpectrum Human Rights Allianceは報告している。
 
-The tone of some of the Russian media reflects these attitudes. For instance, the LGBT community are portrayed as an “aggressive minority” whose children have venereal disease, and, in 2012, a well-known news anchor recommended on air that the hearts of victims of car accidents that happen to be homosexual “should be buried or burnt as unfit for prolonging anybody’s life.”
+ロシアの一部メディアの論調も、こうした態度を反映している。たとえばLGBTコミュニティは、子どもたちが性感染症を患っている「攻撃的な少数派」として描かれている。また2012年には、著名なニュースキャスターが放送中、交通事故の被害者が同性愛者であった場合、その心臓は「他人の命を延ばすには不適格なものとして埋葬するか焼却すべきだ」と発言した。
 
-In recent years, several commentators have drawn parallels between Russia’s persecution of its LGBT community and the treatment of the Jewish community by the Nazi regime in the years leading up to the Holocaust.
+近年、複数の論者が、ロシアによるLGBTコミュニティへの迫害と、ホロコーストに至るまでの年月にナチス政権がユダヤ人コミュニティを扱った方法との類似性を指摘している。
 
-In 2014, public figures around the world called for a boycott (unsuccessfully) of the Winter Olympic Games in Sochi, arguing that the language of the Olympic Charter explicitly denounces all forms of discrimination. Ultimately, the Winter Olympic Games went ahead as planned, although athletes and Olympic tourists alike were warned against promoting “non-traditional sexual relations.”
+2014年には、世界各地の著名人がソチ冬季オリンピックのボイコットを呼びかけたが、成功しなかった。彼らは、オリンピック憲章の文言があらゆる形態の差別を明確に非難していると主張した。最終的に冬季オリンピックは予定どおり開催されたが、選手にもオリンピック観光客にも、「非伝統的な性的関係」を宣伝しないよう警告がなされた。
 
-Sources: [Homophobia spreads in Russian media](//www.bbc.com/news/world-europe-25778272)
+出典：[Homophobia spreads in Russian media](//www.bbc.com/news/world-europe-25778272)
 
 [Homophobia in Russia Is Taking a Kafkaesque Turn](http://www.thedailybeast.com/articles/2014/06/09/homophobia-in-russia-is-taking-a-kafkaesque-turn.html)
 
 [Russia: the Next Third Reich?](http://www.thedailybeast.com/articles/2013/08/09/russia-the-next-third-reich.html)
 
-Contemporary increases in globalization and immigration are leading to more culturally diverse populations in many countries. These changes will create many benefits for society and for the individuals within it. Gender, cultural, sexual orientation, and ethnic diversity can improve creativity and group performance, facilitate new ways of looking at problems, and allow multiple viewpoints on decisions (Cunningham, 2011; Mannix & Neale, 2005; van Knippenberg & Schippers, 2007). On the other hand, as we have seen in many places in this book, perceived similarity is an extremely important determinant of liking. Members of culturally diverse groups may be less attracted to each other than are members of more homogeneous groups, may have more difficulty communicating with each other, and in some cases may actively dislike and even engage in aggressive behavior toward each other.
+現代では、グローバル化と移民の増加によって、多くの国の人口が文化的にいっそう多様になっている。こうした変化は、社会にも、その中で暮らす個人にも多くの利益をもたらす。ジェンダー、文化、性的指向、民族の多様性は、創造性や集団パフォーマンスを高め、問題を見る新しい方法を促し、意思決定に複数の視点を取り入れることを可能にする（Cunningham, 2011; Mannix & Neale, 2005; van Knippenberg & Schippers, 2007）。一方、この本の多くの箇所で見てきたように、知覚された類似性は好意を決定するきわめて重要な要因である。文化的に多様な集団のメンバーは、より同質的な集団のメンバーほど互いに魅力を感じない場合があり、コミュニケーションがより困難になることもあり、ときには互いを積極的に嫌ったり、攻撃的な行動に及んだりすることさえある。
 
-The principles of social psychology, including the ABCs—affect, behavior, and cognition—apply to the study of stereotyping, prejudice, and discrimination, and social psychologists have expended substantial research efforts studying these concepts (Figure 11.2). The cognitive component in our perceptions of group members is the stereotype—*the positive or negative beliefs that we hold about the characteristics of social group.* We may decide that “French people are romantic,” that “old people are incompetent,” or that “college professors are absent minded.” And we may use those beliefs to guide our actions toward people from those groups. In addition to our stereotypes, we may also develop prejudice—*an unjustifiable negative attitude toward an outgroup or toward the members of that outgroup*. Prejudice can take the form of disliking, anger, fear, disgust, discomfort, and even hatred—the kind of affective states that can lead to behavior such as the gay bashing you just read about. Our stereotypes and our prejudices are problematic because they may create discrimination—*unjustified negative behaviors toward members of outgroups based on their group membership*.
+感情、行動、認知というABCを含む社会心理学の原理は、ステレオタイプ化、偏見、差別の研究にも当てはまり、社会心理学者はこれらの概念を研究するために多大な努力を注いできた（図11.2）。集団メンバーを知覚するときの認知的要素がステレオタイプ、すなわち*社会集団の特徴について私たちが抱く肯定的または否定的な信念*である。私たちは、「フランス人はロマンチックだ」「高齢者は能力が低い」「大学教授はぼんやりしている」などと考えることがある。そして、その信念を、その集団に属する人々への行動を導くために利用する場合がある。ステレオタイプに加えて、私たちは偏見、すなわち*外集団またはその外集団のメンバーに対する正当化できない否定的態度*を発達させることもある。偏見は、嫌悪、怒り、恐怖、嫌悪感、不快感、さらには憎悪という形をとることがあり、先ほど読んだゲイ・バッシングのような行動につながりうる感情状態である。私たちのステレオタイプと偏見が問題なのは、それらが差別、すなわち*集団所属に基づいて外集団のメンバーに向けられる正当化できない否定的行動*を生み出す可能性があるからである。
 
-Although violence against members of outgroups is fortunately rare, stereotypes, prejudice, and discrimination nevertheless influence people’s lives in a variety of ways. Stereotypes influence our academic performance (Shapiro & Neuberg, 2007), the careers that we chose to follow (Zhang, Schmader, & Forbes, 2009), our experiences at work (Fiske & Lee, 2008), and the amount that we are paid for the work that we do (Jackson, 2011; Wood & Eagly, 2010).
+幸い、外集団のメンバーに対する暴力はまれであるが、それでもステレオタイプ、偏見、差別はさまざまな形で人々の生活に影響している。ステレオタイプは、学業成績（Shapiro & Neuberg, 2007）、私たちが選ぶ職業（Zhang, Schmader, & Forbes, 2009）、職場での経験（Fiske & Lee, 2008）、そして仕事に対して支払われる報酬の額（Jackson, 2011; Wood & Eagly, 2010）に影響する。
 
-![ABC of social psychology: affect - prejudice and ingroup favoritism, behavior - discrimination, cognition - stereotyping.](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/bd4241eb08da4de692e6b975647f75a0.jpg)
+![社会心理学のABC：感情―偏見と内集団ひいき、行動―差別、認知―ステレオタイプ化。](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/bd4241eb08da4de692e6b975647f75a0.jpg)
 
-*Figure 11.2 Relationships among social groups are influenced by the ABCs of social psychology.*
+_図11.2 社会集団間の関係は、社会心理学のABCから影響を受ける。_
 
-Stereotypes and prejudice have a pervasive and often pernicious influence on our responses to others, and also in some cases on our own behaviors. To take one example, social psychological research has found that our stereotypes may in some cases lead to stereotype threat—*performance decrements that are caused by the knowledge of cultural stereotypes*. Spencer, Steele, and Quinn (1999) found that when women were reminded of the (untrue) stereotype that “women are poor at math,” they performed more poorly on math tests than when they were not reminded of the stereotype, and other research has found stereotype threat in many other domains as well. We’ll consider the role of stereotype threat in more detail later in this chapter.
+ステレオタイプと偏見は、他者に対する私たちの反応に広範で、しばしば有害な影響を与え、場合によっては自分自身の行動にも影響する。一例として、社会心理学の研究では、ステレオタイプがステレオタイプ脅威、すなわち*文化的ステレオタイプを知っていることによって生じるパフォーマンスの低下*を引き起こす場合があることがわかっている。Spencer, Steele, and Quinn (1999)は、「女性は数学が苦手である」という（事実ではない）ステレオタイプを女性に思い出させると、それを思い出させなかった場合より数学テストの成績が低くなることを見いだした。また、他の研究でも多くの領域でステレオタイプ脅威が確認されている。この章の後半で、ステレオタイプ脅威の役割をさらに詳しく検討する。
 
-In one particularly disturbing line of research about the influence of prejudice on behaviors, Joshua Correll and his colleagues had White participants participate in an experiment in which they viewed photographs of White and Black people on a computer screen. Across the experiment, the photographs showed the people holding either a gun or something harmless such as a cell phone. The participants were asked to decide as quickly as possible to press a button to “shoot” if the target held a weapon but to “not shoot” if the person did not hold a weapon. Overall, the White participants tended to shoot more often when the person holding the object was Black than when the person holding the object was White, and this occurred even when there was no weapon present (Correll, Park, Judd, & Wittenbrink, 2007; Correll et al., 2007).
+偏見が行動に及ぼす影響についての、とりわけ憂慮すべき一連の研究では、Joshua Correllと同僚たちが、白人参加者にコンピューター画面上で白人と黒人の写真を見る実験に参加させた。実験を通じて、写真の人物は銃、または携帯電話のような無害な物を持っていた。参加者には、標的人物が武器を持っていればできるだけ速くボタンを押して「撃つ」、武器を持っていなければ「撃たない」と判断するよう求められた。全体として、白人参加者は、物を持っている人物が白人であるときより黒人であるときのほうが頻繁に撃つ傾向があり、実際には武器が存在しない場合にもこの傾向が見られた（Correll, Park, Judd, & Wittenbrink, 2007; Correll et al., 2007）。
 
-Discrimination is a major societal problem because it is so pervasive, takes so many forms, and has such negative effects on so many people. Even people who are paid to be unbiased may discriminate. Price and Wolfers (2007) found that White players in National Basketball Association games received fewer fouls when more of the referees present in the game were White, and Black players received fewer fouls when more of the referees present in the game where Black. The implication is—whether they know it or not—the referees were discriminating on the basis of race.
+差別は、非常に広く存在し、多くの形をとり、多くの人々に深刻な悪影響を与えるため、重大な社会問題である。公平であることを仕事として求められる人でさえ、差別することがある。Price and Wolfers (2007)は、全米バスケットボール協会（NBA）の試合で、試合を担当する審判に白人が多いほど白人選手がファウルを取られる回数が少なく、黒人審判が多いほど黒人選手がファウルを取られる回数が少ないことを見いだした。これは、審判自身が自覚しているかどうかにかかわらず、人種に基づく差別をしていたことを示唆する。
 
-You may have had some experiences where you found yourself responding to another person on the basis of a stereotype or a prejudice, and perhaps the fact that you did surprised you. Perhaps you then tried to get past these beliefs and to react to the person more on the basis of his or her individual characteristics. We like some people and we dislike others—this is natural—but we should not let a person’s skin color, gender, age, religion, sexual orientation, or ethnic background make these determinations for us. And yet, despite our best intentions, we may end up making friends only with people who are similar to us and perhaps even avoiding people whom we see as different.
+あなた自身にも、ステレオタイプや偏見に基づいて他者に反応している自分に気づき、そのことに驚いた経験があるかもしれない。その後、そうした信念を乗り越え、その人個人の特徴により基づいて反応しようとしたこともあるかもしれない。私たちが好きになる人もいれば、嫌いになる人もいる。それ自体は自然なことだが、人の肌の色、ジェンダー、年齢、宗教、性的指向、民族的背景によってそれを決めるべきではない。それでも、どれほど善意をもっていたとしても、私たちは自分に似た人とばかり友人になり、自分とは違うと考える人を避けてしまうことがある。
 
-In this chapter, we will study the processes by which we develop, maintain, and make use of our stereotypes and our prejudices. We will consider the negative outcomes of those beliefs on the targets of our perceptions, and we will consider ways that we might be able to change those beliefs, or at least help us stop acting upon them. Let’s begin by considering the cognitive side of our group beliefs—focusing primarily on stereotypes—before turning to the important role of feelings in prejudice.<a id="f11.3"></a>
+この章では、私たちがステレオタイプや偏見をどのように形成し、維持し、利用するのかという過程を学ぶ。また、それらの信念が知覚の対象となる人々にもたらす否定的な結果について考え、そうした信念を変える方法、あるいは少なくとも、それに基づいて行動することをやめるための方法を考える。まず、集団についての信念の認知的側面、主としてステレオタイプに焦点を当て、その後、偏見において感情が果たす重要な役割へと進もう。
 
-![a woman wearing niqab face veil, a man with tattoos, Asian students studying, man on wheelchair](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/stereotype.jpg)
+![ニカブのフェイスベールを着用した女性、タトゥーのある男性、勉強するアジア系学生、車椅子の男性](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/stereotype.jpg)
 
-*Figure 11.3 Do you have stereotypes about any of these people?*
+_図11.3 あなたは、これらの人々について何らかのステレオタイプをもっているだろうか。_
 
-## References
+## 参考文献
 
-Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2007). The influence of stereotypes on decisions to shoot. *European Journal of Social Psychology, 37*(6), 1102–1117.
+Correll, J., Park, B., Judd, C. M., & Wittenbrink, B. (2007). The influence of stereotypes on decisions to shoot. _European Journal of Social Psychology, 37_(6), 1102–1117.
 
-Correll, J., Park, B., Judd, C. M., Wittenbrink, B., Sadler, M. S., & Keesee, T. (2007). Across the thin blue line: Police officers and racial bias in the decision to shoot. *Journal of Personality and Social Psychology, 92*(6), 1006–1023.
+Correll, J., Park, B., Judd, C. M., Wittenbrink, B., Sadler, M. S., & Keesee, T. (2007). Across the thin blue line: Police officers and racial bias in the decision to shoot. _Journal of Personality and Social Psychology, 92_(6), 1006–1023.
 
-Cunningham, G. B. (2011). The LGBT advantage: Examining the relationship among sexual orientation diversity, diversity strategy, and performance. *Sport Management Review, 14*(4), 453-461.
+Cunningham, G. B. (2011). The LGBT advantage: Examining the relationship among sexual orientation diversity, diversity strategy, and performance. _Sport Management Review, 14_(4), 453-461.
 
-Fiske, S. T., & Lee, T. L. (2008). Stereotypes and prejudice create workplace discrimination. In A. P. Brief (Ed.), *Diversity at work* (pp. 13–52).Jackson, L. M. (2011). *The psychology of prejudice: From attitudes to social action*. Washington, DC: American Psychological Association.
+Fiske, S. T., & Lee, T. L. (2008). Stereotypes and prejudice create workplace discrimination. In A. P. Brief (Ed.), _Diversity at work_ (pp. 13–52).Jackson, L. M. (2011). _The psychology of prejudice: From attitudes to social action_. Washington, DC: American Psychological Association.
 
-Jackson, L. M. (2011). *The psychology of prejudice: From attitudes to social action*. Washington, DC: American Psychological Association
+Jackson, L. M. (2011). _The psychology of prejudice: From attitudes to social action_. Washington, DC: American Psychological Association
 
-Mannix, E., & Neale, M. A. (2005). What differences make a difference? The promise and reality of diverse teams in organizations. *Psychological Science in the Public Interest, 6*(2), 31–55.
+Mannix, E., & Neale, M. A. (2005). What differences make a difference? The promise and reality of diverse teams in organizations. _Psychological Science in the Public Interest, 6_(2), 31–55.
 
-Price, J., & Wolfers, J. (2007). *Racial discrimination among NBA referees*. NBER Working Paper #13206. Cambridge, MA: National Bureau of Economic Research.
+Price, J., & Wolfers, J. (2007). _Racial discrimination among NBA referees_. NBER Working Paper #13206. Cambridge, MA: National Bureau of Economic Research.
 
-Shapiro, J. R., & Neuberg, S. L. (2007). From stereotype threat to stereotype threats: Implications of a multi-threat framework for causes, moderators, mediators, consequences, and interventions. *Personality and Social Psychology Review, 11*(2), 107–130. doi: 10.1177/1088868306294790.
+Shapiro, J. R., & Neuberg, S. L. (2007). From stereotype threat to stereotype threats: Implications of a multi-threat framework for causes, moderators, mediators, consequences, and interventions. _Personality and Social Psychology Review, 11_(2), 107–130. doi: 10.1177/1088868306294790.
 
-Spencer, S. J., Steele, C. M., & Quinn, D. M. (1999). Stereotype threat and women’s math performance. *Journal of Experimental Social Psychology, 35*, 4–28.
+Spencer, S. J., Steele, C. M., & Quinn, D. M. (1999). Stereotype threat and women’s math performance. _Journal of Experimental Social Psychology, 35_, 4–28.
 
-van Knippenberg, D., & Schippers, M. C. (2007). Work group diversity. *Annual Review of Psychology, 58*(1), 515–541.
+van Knippenberg, D., & Schippers, M. C. (2007). Work group diversity. _Annual Review of Psychology, 58_(1), 515–541.
 
-Wood, W., & Eagly, A. H. (2010). Gender. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 1, pp. 629–667). Hoboken, NJ: John Wiley & Sons.
+Wood, W., & Eagly, A. H. (2010). Gender. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (5th ed., Vol. 1, pp. 629–667). Hoboken, NJ: John Wiley & Sons.
 
-Zhang, S., Schmader, T., & Forbes, C. (2009). The effects of gender stereotypes on women’s career choice: Opening the glass door. In M. Barreto, M. K. Ryan, & M. T. Schmitt (Eds.), *The glass ceiling in the 21st century: Understanding barriers to gender equality* (pp. 125–150).
+Zhang, S., Schmader, T., & Forbes, C. (2009). The effects of gender stereotypes on women’s career choice: Opening the glass door. In M. Barreto, M. K. Ryan, & T. Schmitt (Eds.), _The glass ceiling in the 21st century: Understanding barriers to gender equality_ (pp. 125–150).
 
-## Media Attributions
+## メディア帰属
 
-- “[LGBT activists were attacked during an action “Day of Kisses” against a homophobic bill in Moscow](https://www.flickr.com/photos/madw/9015242012/)” by [Roma Yandolin](https://www.flickr.com/photos/madw/) is licensed under a [CC BY-SA 2.0 licence.](https://creativecommons.org/licenses/by-sa/2.0/)
-- “[Women with baby – Sanaa\_H8O9429-33](https://www.flickr.com/photos/francesco_veronesi/3387295024)” by [Francesco Veronesi](https://www.flickr.com/photos/francesco_veronesi/) is licensed under a [CC BY-NC-SA 2.0 licence.](https://creativecommons.org/licenses/by-nc-sa/2.0/)<br />
-- “[Body art](https://en.wikipedia.org/wiki/File:Body_art.jpg)” by kk+ is licensed under a [CC BY 2.0 licence.](https://creativecommons.org/licenses/by/2.0/deed.en)
-- “[Ashs-students-studying](https://commons.wikimedia.org/wiki/File:Ashs-students-studying.jpg)” by [Mosborne01](https://commons.wikimedia.org/wiki/User:Mosborne01) is licensed under a [CC BY-SA 3.0 licence.](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
-- “[Wheel Chair](https://www.flickr.com/photos/cmgxvolley/5756114047)” by [christine.gleason](https://www.flickr.com/photos/cmgxvolley/) is licensed under a [CC BY-NC-ND 2.0 licence.](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+- “[LGBT activists were attacked during an action “Day of Kisses” against a homophobic bill in Moscow](https://www.flickr.com/photos/madw/9015242012/)” by [Roma Yandolin](https://www.flickr.com/photos/madw/) は [CC BY-SA 2.0ライセンス](https://creativecommons.org/licenses/by-sa/2.0/) の下で提供されています。
+- “[Women with baby – Sanaa_H8O9429-33](https://www.flickr.com/photos/francesco_veronesi/3387295024)” by [Francesco Veronesi](https://www.flickr.com/photos/francesco_veronesi/) は [CC BY-NC-SA 2.0ライセンス](https://creativecommons.org/licenses/by-nc-sa/2.0/) の下で提供されています。<br />
+- “[Body art](https://en.wikipedia.org/wiki/File:Body_art.jpg)” by kk+ は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) の下で提供されています。
+- “[Ashs-students-studying](https://commons.wikimedia.org/wiki/File:Ashs-students-studying.jpg)” by [Mosborne01](https://commons.wikimedia.org/wiki/User:Mosborne01) は [CC BY-SA 3.0ライセンス](https://creativecommons.org/licenses/by-sa/3.0/deed.en) の下で提供されています。
+- “[Wheel Chair](https://www.flickr.com/photos/cmgxvolley/5756114047)” by [christine.gleason](https://www.flickr.com/photos/cmgxvolley/) は [CC BY-NC-ND 2.0ライセンス](https://creativecommons.org/licenses/by-nc-nd/2.0/) の下で提供されています。

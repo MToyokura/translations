@@ -1,157 +1,158 @@
 ---
-title: "11.3 Reducing Discrimination"
+title: "11.3 差別を減らす"
 sidebar:
   order: 75
 ---
-:::note[Learning Objectives]
 
-1. Review the causes of discrimination and the ways that we can reduce it.
-2. Summarize the conditions under which intergroup contact does or does not reduce prejudice and discrimination.
+:::note[学習目標]
+
+1. 差別の原因と、それを減らす方法を概観する。
+2. 集団間接触が偏見と差別を減らす条件、または減らさない条件を要約する。
 
 :::
 
-We have seen that social categorization is a basic part of human nature and one that helps us to simplify our social worlds, to draw quick (if potentially inaccurate) conclusions about others, and to feel good about ourselves. In many cases, our preferences for ingroups may be relatively harmless—we may prefer to socialize with people who share our race or ethnicity for instance, but without particularly disliking the others. But categorizing others may also lead to prejudice and discrimination, and it may even do so without our awareness. Because prejudice and discrimination are so harmful to so many people, we must all work to get beyond them.
+これまで、社会的カテゴリー化は人間の本性の基本的な一部であり、社会世界を単純化し、他者について素早く（ただし不正確な可能性のある）結論を出し、自分自身についてよく感じるのに役立つことを見てきた。多くの場合、内集団を好むことは比較的無害かもしれない。たとえば、自分と同じ人種や民族の人と付き合うことを好んでも、他の人々を特に嫌ってはいない場合がある。しかし、他者をカテゴリー化することは偏見や差別にもつながり、それは私たちが自覚しないまま生じることさえある。偏見と差別は非常に多くの人に害を与えるため、私たちは皆、それらを乗り越えるために努力しなければならない。
 
-Discrimination influences the daily life of its victims in areas such as employment, income, financial opportunities, housing and educational opportunities, and medical care. Even with the same level of education and years of experience, ethnic minorities in Canada are 40% less likely to receive callbacks for an interview following a job application (Oreopolous, 2011). Blacks have higher mortality rates than Whites for eight of the 10 leading causes of death in the United States (Williams, 1999) and have less access to and receive poorer-quality health care, even controlling for other variables such as level of health insurance. Suicide rates among lesbians and gays are substantially higher than rates for the general population, and it has been argued that this in part due to the negative outcomes of prejudice, including negative attitudes and resulting social isolation (Halpert, 2002). And in some rare cases, discrimination even takes the form of hate crimes such as gay bashing.
+差別は、雇用、収入、金融上の機会、住宅や教育の機会、医療などの領域で、被害を受ける人々の日常生活に影響する。教育水準と経験年数が同じでも、カナダの民族的少数派は、求人に応募した後に面接の連絡を受ける可能性が40%低い（Oreopolous, 2011）。米国では、主要な10の死因のうち8つで黒人の死亡率が白人より高く（Williams, 1999）、健康保険の程度など他の変数を統制しても、医療へのアクセスが少なく、受ける医療の質も低い。レズビアンとゲイの自殺率は一般人口より大幅に高く、これは否定的態度とそれに続く社会的孤立を含む、偏見の否定的結果による部分があると論じられている（Halpert, 2002）。また、まれではあるが、差別はゲイ・バッシングのようなヘイトクライムの形をとることもある。
 
-More commonly, members of minority groups also face a variety of small hassles, such as bad service in restaurants, being stared at, and being the target of jokes (Swim, Hyers, Cohen, Fitzgerald, & Bylsma, 2003). But even these everyday “minor” forms of discrimination can be problematic because they may produce anger and anxiety among stigmatized group members and may lead to stress and other psychological problems (Klonoff, Landrine, & Campbell, 2000; Klonoff, Landrine, & Ullman, 1999). Stigmatized individuals who report experiencing more exposure to discrimination or other forms of unfair treatment also report more depression, anger, and anxiety and lower levels of life satisfaction and happiness (Swim, Hyers, Cohen, & Ferguson, 2001).
+より一般的には、少数集団のメンバーは、レストランで粗末なサービスを受ける、じろじろ見られる、冗談の標的にされるなど、さまざまな小さな困難にも直面する（Swim, Hyers, Cohen, Fitzgerald, & Bylsma, 2003）。しかし、このような日常的な「小さな」差別でさえ問題になりうる。スティグマを負わされた集団のメンバーに怒りや不安を生み、ストレスその他の心理的問題につながることがあるからである（Klonoff, Landrine, & Campbell, 2000; Klonoff, Landrine, & Ullman, 1999）。差別やその他の不公正な扱いをより多く経験したと報告するスティグマ化された人々は、抑うつ、怒り、不安も多く、生活満足度と幸福感も低いと報告する（Swim, Hyers, Cohen, & Ferguson, 2001）。
 
-Of course, most of us do try to keep our stereotypes and our prejudices out of mind, and we work hard to avoid discriminating (Richeson & Shelton, 2007). But even when we work to keep our negative beliefs under control, this does not mean that they easily disappear. Neil Macrae and his colleagues (Macrae, Bodenhausen, Milne, & Jetten, 1994) asked British college students to write a paragraph describing a skinhead (a member of a group that is negatively stereotyped in England). One half of the participants were asked to be sure to not use their stereotypes when they were judging him, whereas the other half simply wrote whatever came to mind. Although the participants who were asked to suppress their thoughts were able to do it, this suppression didn’t last very long. After they had suppressed their stereotypes, these beliefs quickly popped back into mind, making it even more likely that they would be used immediately later.
+もちろん、私たちのほとんどは、自分のステレオタイプや偏見を頭から追い出し、差別を避けようと懸命に努力する（Richeson & Shelton, 2007）。しかし、否定的信念を統制しようとしても、それが簡単に消えるわけではない。Neil Macraeと同僚たち（Macrae, Bodenhausen, Milne, & Jetten, 1994）は、英国の大学生にスキンヘッド（英国で否定的にステレオタイプ化されている集団のメンバー）を説明する段落を書かせた。参加者の半数には、彼を判断するときステレオタイプを使わないよう特に求め、残りの半数には、思いつくことをそのまま書かせた。思考を抑制するよう求められた参加者は、それを実行することはできたが、抑制は長く続かなかった。ステレオタイプを抑えた後、そうした信念はすぐに頭へ戻り、その直後にはかえって使われやすくなった。
 
-But stereotypes are not always and inevitably activated when we encounter people from other groups. We can and we do get past them, although doing so may take some effort on our part (Blair, 2002). There are a number of techniques that we can use to try to improve our attitudes toward outgroups, and at least some of them have been found to be effective. Kawakami, Dovidio, Moll, Hermsen, and Russin (2000) found that students who practiced responding in nonstereotypical ways to members of other groups became better able to avoid activating their negative stereotypes on future occasions. And a number of studies have found that we become less prejudiced when we are exposed to and think about group members who have particularly positive or nonstereotypical characteristics. For instance, Blair, Ma, and Lenton (2001) asked their participants to imagine a woman who was “strong” and found that doing so decreased stereotyping of women. Similarly, Bodenhausen, Schwarz, Bless, and Wanke (1995) found that when White American students thought about positive Black role models—such as Oprah Winfrey and Michael Jordan—they became less prejudiced toward Blacks.
+しかし、別集団の人々に出会うと必ずステレオタイプが活性化されるわけではない。多少の努力が必要な場合はあるものの、私たちはそれを乗り越えることができ、実際に乗り越えている（Blair, 2002）。外集団への態度を改善するために利用できる技法はいくつもあり、少なくとも一部には効果があることがわかっている。Kawakami, Dovidio, Moll, Hermsen, and Russin (2000)は、他集団のメンバーに非ステレオタイプ的な方法で反応する練習をした学生は、その後、否定的ステレオタイプの活性化を避けることがより上手になると見いだした。また多くの研究で、とくに肯定的または非ステレオタイプ的特徴をもつ集団メンバーに接し、その人について考えると、偏見が減ることが示されている。たとえばBlair, Ma, and Lenton (2001)は、参加者に「強い」女性を想像させると、女性に対するステレオタイプ化が減少することを見いだした。同様にBodenhausen, Schwarz, Bless, and Wanke (1995)は、白人の米国人学生がOprah WinfreyやMichael Jordanのような肯定的な黒人ロールモデルについて考えると、黒人に対する偏見が減ることを見いだした。
 
-## Reducing Discrimination by Changing Social Norms
+## 社会的規範を変えることで差別を減らす
 
-One variable that makes us less prejudiced is education. People who are more educated express fewer stereotypes and prejudice in general. This is true for students who enroll in courses that are related to stereotypes and prejudice, such as a course on gender and ethnic diversity (Rudman, Ashmore, & Gary, 2001), and is also true more generally—education reduces prejudice, regardless of what particular courses you take (Sidanius, Sinclair, & Pratto, 2006).
+偏見を少なくする変数の一つが教育である。教育を多く受けた人ほど、一般にステレオタイプと偏見を表明する程度が低い。これは、ジェンダーと民族の多様性についての授業など、ステレオタイプや偏見に関連する科目を履修した学生にも当てはまる（Rudman, Ashmore, & Gary, 2001）。また、より一般的にも当てはまり、どのような特定の科目を履修するかにかかわらず、教育は偏見を減らす（Sidanius, Sinclair, & Pratto, 2006）。
 
-The effects of education on reducing prejudice are probably due in large part to the new social norms that people are introduced to in school. Social norms define what is appropriate and inappropriate, and we can effectively change stereotypes and prejudice by changing the relevant norms about them. Jetten, Spears, and Manstead (1997) manipulated whether students thought that the other members of their university favored equal treatment of others or believed that others thought it was appropriate to favor the ingroup. They found that perceptions of what the other group members believed had an important influence on the beliefs of the individuals themselves. The students were more likely to show ingroup favoritism when they believed that the norm of their ingroup was to do so, and this tendency was increased for students who had high social identification with the ingroup.
+教育が偏見を減らす効果は、おそらく大部分、学校で人々が新たに接する社会的規範による。社会的規範は何が適切で何が不適切かを定めるため、それらに関する規範を変えることで、ステレオタイプや偏見を効果的に変えることができる。Jetten, Spears, and Manstead (1997)は、大学の他のメンバーが人々の平等な扱いを支持していると学生が考えるか、あるいは内集団をひいきすることが適切だと他者が考えていると学生が考えるかを操作した。他の集団メンバーが何を信じていると知覚するかが、個人自身の信念に重要な影響を与えることがわかった。学生は、内集団の規範が内集団をひいきすることだと信じると、内集団ひいきを示しやすくなり、その傾向は内集団への社会的同一視が強い学生ほど高かった。
 
-Sechrist and Stangor (2001) selected White college students who were either high or low in prejudice toward Blacks and then provided them with information indicating that their prejudiced or unprejudiced beliefs were either shared or not shared by the other students at their university. Then the students were asked to take a seat in a hallway to wait for the next part of the experiment. A Black confederate was sitting in one seat at the end of the row, and the dependent measure was how far away the students sat from her.
+Sechrist and Stangor (2001)は、黒人に対する偏見が強いか弱い白人大学生を選び、その後、自分の偏見のある、または偏見のない信念が、大学の他の学生にも共有されている、または共有されていないことを示す情報を与えた。その後、学生には実験の次の部分を待つため、廊下の椅子に座るよう求めた。列の端の席には黒人の実験協力者が座っており、従属変数は学生が彼女からどれだけ離れて座るかだった。
 
-As you can see in Figure 11.9, high prejudice students who learned that other students were also prejudiced sat farther away from the Black confederate in comparison with high prejudice individuals who were led to believe that their beliefs were not shared. On the other hand, students who were initially low in prejudice and who believed these views were shared sat closer to the Black confederate in comparison with low prejudice individuals who were led to believe that their beliefs were not shared. These results demonstrate that our perceptions of relevant social norms can strengthen or weaken our tendencies to engage in discriminatory behaviors.
+図11.9に示すように、他の学生も偏見をもっていると知らされた偏見の強い学生は、自分の信念が共有されていないと思わされた偏見の強い学生より、黒人の実験協力者から遠くに座った。一方、もともと偏見が弱く、その考えが共有されていると信じた学生は、自分の考えが共有されていないと思わされた偏見の弱い学生より、黒人の実験協力者の近くに座った。これらの結果は、関連する社会的規範についての知覚が、差別的行動をとる傾向を強めたり弱めたりできることを示している。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/4bb5263abf3424e2368ccde766884cfd-1.jpg)
 
-*Figure 11.9 The Role of Norms in Intergroup Behavior.*
+_図11.9 集団間行動における規範の役割。_
 
-White college students who were low in prejudice toward Blacks sat closer to the Black confederate when they had been told that their beliefs were shared with other group members at their university. On the other hand, White college students who were high in prejudice sat farther away from the Black confederate when they had been told that their beliefs were shared with other group members at their university. Data are from Sechrist and Stangor (2001).
+黒人に対する偏見が弱い白人大学生は、自分の信念が大学の他の集団メンバーにも共有されていると伝えられたとき、黒人の実験協力者の近くに座った。一方、偏見が強い白人大学生は、自分の信念が大学の他の集団メンバーにも共有されていると伝えられたとき、黒人の実験協力者からより遠くに座った。データはSechrist and Stangor (2001)による。
 
-The influence of social norms is powerful, and long-lasting changes in beliefs about outgroups will occur only if they are supported by changes in social norms. Prejudice and discrimination thrive in environments in which they are perceived to be the norm, but they die when the existing social norms do not allow it. And because social norms are so important, the behavior of individuals can help create or reduce prejudice and discrimination. Discrimination, prejudice, and even hate crimes such as gay bashing will be more likely to continue if people do not respond to or confront them when they occur.
+社会的規範の影響は強力であり、外集団についての信念に長期的な変化が生じるのは、社会的規範の変化によってそれが支えられる場合だけである。偏見と差別は、それが規範だと知覚される環境では栄えるが、既存の社会的規範がそれを許さない環境では衰える。そして社会的規範は非常に重要であるため、個人の行動によって偏見と差別を生み出すことも、減らすこともできる。差別、偏見、さらにはゲイ・バッシングのようなヘイトクライムでさえ、それが起きたときに人々が反応せず、立ち向かわなければ、続く可能性が高くなる。
 
-What this means is that if you believe that prejudice is wrong, you must confront it when you see it happening. Czopp, Monteith, and Mark (2006) had White participants participate in a task in which it was easy to unintentionally stereotype a Black person, and as a result, many of the participants did so. Then, confederates of the experimenter confronted the students about their stereotypes, saying things such as “Maybe it would be good to think about Blacks in other ways that are a little more fair?” or “It just seems that you sound like some kind of racist to me. You know what I mean?” Although the participants who had been confronted experienced negative feelings about the confrontation and also expressed negative opinions about the person who confronted them, the confrontation did work. The students who had been confronted expressed less prejudice and fewer stereotypes on subsequent tasks than did the students who had not been confronted.
+これは、偏見が間違っていると信じるなら、偏見を目にしたときには立ち向かわなければならないということである。Czopp, Monteith, and Mark (2006)は、白人参加者を、黒人を意図せずステレオタイプ化しやすい課題に参加させ、その結果、多くの参加者が実際にステレオタイプ化を行った。その後、実験者の協力者が、「黒人について、もう少し公平な別の見方をしてみたほうがよいのではありませんか？」や「あなたの言い方は、何だか人種差別主義者みたいに聞こえます。わかりますか？」などと言って、学生のステレオタイプを指摘した。指摘された参加者は、その対面について否定的な感情を経験し、指摘した人物についても否定的な意見を表明したが、指摘自体には効果があった。指摘を受けた学生は、受けなかった学生より、その後の課題で偏見やステレオタイプを少なく表明した。
 
-As this study concluded, taking steps to reduce prejudice is everyone’s duty—having a little courage can go a long way in this regard. Confronting prejudice can lead other people to think that we are complaining and therefore to dislike us (Kaiser & Miller, 2001; Shelton & Stewart, 2004), but confronting prejudice is not all negative for the person who confronts. Although it is embarrassing to do so, particularly if we are not completely sure that the behavior was in fact prejudice, when we fail to confront, we may frequently later feel guilty that we did not (Shelton, Richeson, Salvatore, & Hill, 2006).
+この研究が結論づけたように、偏見を減らすために行動することは皆の責任であり、この点では少し勇気をもつことが大きな効果をもつ。偏見に立ち向かうと、他者から「文句を言っている」と思われ、そのため嫌われることもある（Kaiser & Miller, 2001; Shelton & Stewart, 2004）。しかし、偏見に立ち向かうことは、立ち向かう本人にとって否定的なことばかりではない。本当に偏見だったか完全には確信できない場合には特に気まずく感じるが、立ち向かわなかった場合には、その後しばしば、何もしなかったことへの罪悪感を感じる可能性がある（Shelton, Richeson, Salvatore, & Hill, 2006）。
 
-## Reducing Prejudice through Intergroup Contact
+## 集団間接触によって偏見を減らす
 
-One of the reasons that people may hold stereotypes and prejudices is that they view the members of outgroups as different from them. We may become concerned that our interactions with people from different racial groups will be unpleasant, and these anxieties may lead us to avoid interacting with people from those groups (Mallett, Wilson, & Gilbert, 2008). What this suggests is that a good way to reduce prejudice is to help people create closer connections with members of different groups. People will be more favorable toward others when they learn to see those other people as more similar to them, as closer to the self, and to be more concerned about them.
+人々がステレオタイプや偏見をもつ理由の一つは、外集団のメンバーを自分たちとは異なる存在と見ていることである。異なる人種集団の人々との相互作用は不快になるのではないかと心配し、その不安から、そうした集団の人々との相互作用を避けることもある（Mallett, Wilson, & Gilbert, 2008）。このことは、偏見を減らすよい方法の一つが、異なる集団のメンバーとより近い結びつきをつくるのを助けることだと示唆する。他者を自分とより似ている、自分に近い存在だと見るようになり、その人についてより関心をもつようになれば、人は他者により好意的になる。
 
-*The idea that intergroup contact will reduce prejudice*, known as the contact hypothesis, is simple: If children from different ethnic groups play together in school, their attitudes toward each other should improve. And if we encourage college students to travel abroad, they will meet people from other cultures and become more positive toward them.
+*集団間接触によって偏見が減るという考え*は接触仮説として知られており、その発想は単純である。異なる民族集団の子どもたちが学校で一緒に遊べば、互いへの態度は改善するはずである。また大学生に海外へ行くことを勧めれば、別の文化の人々と出会い、その人々により肯定的になるだろう。
 
-One important example of the use of intergroup contact to influence prejudice came about as a result of the important U.S. Supreme Court case *Brown v. Board of Education* in 1954. In this case, the U.S. Supreme Court agreed, based in large part on the testimony of psychologists, that busing Black children to schools attended primarily by White children, and vice versa, would produce positive outcomes on intergroup attitudes, not only because it would provide Black children with access to better schools, but also because the resulting intergroup contact would reduce prejudice between Black and White children. This strategy seemed particularly appropriate at the time it was implemented because most schools in the United States then were highly segregated by race.
+偏見に影響を与えるために集団間接触が用いられた重要な例の一つは、1954年の米国最高裁判所の重要な判決 _Brown v. Board of Education_ から生まれた。この訴訟で米国最高裁判所は、主として心理学者の証言に基づき、黒人の子どもを主に白人の子どもが通う学校へバスで通学させ、またその逆も行うことは、黒人の子どもによりよい学校へのアクセスを与えるだけでなく、その結果生じる集団間接触が黒人と白人の子ども間の偏見を減らすため、集団間態度に肯定的結果をもたらすと判断した。この方略が導入された当時、米国の学校の大半は人種によって強く分離されていたため、特に適切な方略だと考えられた。
 
-The strategy of busing was initiated after the Supreme Court decision, and it had a profound effect on schools in the United States. For one, the policy was very effective in changing school makeup—the number of segregated schools decreased dramatically during the 1960s after the policy was begun. Busing also improved the educational and occupational achievement of Blacks and increased the desire of Blacks to interact with Whites; for instance, by forming cross-race friendships (Stephan, 1999). Overall, then, the case of desegregating schools in the United States supports the expectation that intergroup contact, at least in the long run, can be successful in changing attitudes. Nevertheless, as a result of several subsequent U.S. Supreme Court decisions, the policy of desegregating schools via busing was not continued past the 1990s.
+最高裁判所の判断後にバス通学による統合が始まり、米国の学校に大きな影響を与えた。第一に、この政策は学校の構成を変えるうえで非常に効果的であり、政策が始まった後の1960年代には、人種分離された学校の数が劇的に減少した。また、バス通学は黒人の教育上・職業上の達成を高め、人種を越えた友情を形成するなど、黒人が白人と相互作用したいという欲求も高めた（Stephan, 1999）。全体として、米国の学校統合の事例は、少なくとも長期的には、集団間接触によって態度を変えることができるという予想を支持する。しかし、その後の米国最高裁判所による複数の判決の結果、バス通学による学校統合政策は1990年代以降継続されなかった。
 
-Although student busing to achieve desegregated schools represents one prominent example of intergroup contact, such contact occurs in many other areas as well. Taken together, there is substantial support for the effectiveness of intergroup contact in improving group attitudes in a wide variety of situations, including schools, work organizations, military forces, and public housing. Pettigrew and Tropp (2006) conducted a meta-analysis in which they reviewed over 500 studies that had investigated the effects of intergroup contact on group attitudes. They found that attitudes toward groups that were in contact became more positive over time. Furthermore, positive effects of contact were found on both stereotypes and prejudice and for many different types of contacted groups.
+学校統合のための児童・生徒のバス通学は集団間接触の代表的な例の一つだが、そのような接触は他にも多くの領域で生じる。総合すると、学校、職場組織、軍、公営住宅など、さまざまな状況で集団間接触が集団間態度を改善する効果について相当な支持がある。Pettigrew and Tropp (2006)は、集団間接触が集団態度に及ぼす影響を調べた500件以上の研究をレビューするメタ分析を行った。その結果、接触していた集団への態度は時間とともにより肯定的になった。さらに、接触の肯定的効果はステレオタイプと偏見の両方について、また多くの異なる種類の集団について見いだされた。
 
-The positive effects of intergroup contact may be due in part to increases in other-concern. Galinsky and Moskowitz (2000) found that leading students to take the perspective of another group member—which increased empathy and closeness to the person—also reduced prejudice. And the behavior of students on college campuses demonstrates the importance of connecting with others and the dangers of not doing so. Sidanius, Van Laar, Levin, and Sinclair (2004) found that students who joined exclusive campus groups, including fraternities, sororities, and minority ethnic organizations (such as the African Student Union), were more prejudiced to begin with and became even less connected and more intolerant of members of other social groups over the time that they remained in the organizations. It appears that memberships in these groups focused the students on themselves and other people who were very similar to them, leading them to become less tolerant of others who are different.
+集団間接触の肯定的効果は、部分的には他者への関心の増加による可能性がある。Galinsky and Moskowitz (2000)は、学生に別集団のメンバーの視点を取らせると、その人物への共感と親近感が増し、偏見も減ることを見いだした。また、大学キャンパスでの学生の行動は、他者とつながることの重要性と、そうしないことの危険を示している。Sidanius, Van Laar, Levin, and Sinclair (2004)は、フラタニティ、ソロリティ、少数民族組織（African Student Unionなど）を含む排他的な大学内集団に加入する学生は、そもそも偏見が強く、組織に所属している間に別の社会集団のメンバーとのつながりがさらに弱くなり、不寛容になっていくことを見いだした。こうした集団への所属によって、学生の注意が自分自身と自分に非常によく似た人々に向き、その結果、自分と異なる他者への寛容性が低くなったようである。
 
-Although intergroup contact does work, it is not a panacea because the conditions necessary for it to be successful are frequently not met. Contact can be expected to work only in situations that create the appropriate opportunities for change. For one, contact will only be effective if it provides information demonstrating that the existing stereotypes held by the individuals are incorrect. When we learn more about groups that we didn’t know much about before, we learn more of the truth about them, leading us to be less biased in our beliefs. But if our interactions with the group members do not allow us to learn new beliefs, then contact cannot work.
+集団間接触には効果があるが、万能薬ではない。成功に必要な条件が満たされないことが多いからである。接触が効果をもつと期待できるのは、変化のための適切な機会を生み出す状況だけである。第一に、個人がすでにもっているステレオタイプが誤っていることを示す情報が得られる場合にのみ、接触は効果をもつ。これまであまり知らなかった集団について多くを知れば、その集団についての真実もより多く知り、信念のバイアスが減る。しかし、集団メンバーとの相互作用によって新しい信念を学べないなら、接触には効果がない。
 
-When we first meet someone from another category, we are likely to rely almost exclusively on our stereotypes (Brodt & Ross, 1998). However, when we get to know the individual well (e.g., as a student in a classroom learns to know the other students over a school year), we may get to the point where we ignore that individual’s group membership almost completely, responding to him or her entirely at the individual level (Madon et al., 1998). Thus contact is effective in part because it leads us to get past our perceptions of others as group members and to individuate them.
+別のカテゴリーの人に初めて会うとき、私たちはほぼ全面的にステレオタイプに頼りやすい（Brodt & Ross, 1998）。しかし、その人をよく知るようになると（たとえば教室の学生が1学年を通して他の学生を知るようになる場合）、その人の集団所属をほとんど完全に無視し、全面的に個人レベルで反応するところまで進むことがある（Madon et al., 1998）。したがって、接触が効果をもつ理由の一つは、他者を集団のメンバーとして知覚することを乗り越え、その人を個人化するよう導くからである。
 
-When we get past group memberships and focus more on the individuals in the groups, we begin to see that there is a great deal of variability among the group members and that our global and undifferentiating group stereotypes are actually not that informative (Rothbart & John, 1985). Successful intergroup contact tends to reduce the perception of outgroup homogeneity. Contact also helps us feel more positively about the members of the other group, and this positive affect makes us like them more.
+集団所属を越えて集団の中の個人により焦点を当てるようになると、集団メンバーの間には非常に大きな多様性があり、集団全体を一括りにするステレオタイプは実際にはそれほど有益ではないことに気づき始める（Rothbart & John, 1985）。成功した集団間接触は、外集団同質性の知覚を減らす傾向がある。また接触によって、別集団のメンバーについてより肯定的に感じるようになり、その肯定的感情によって彼らをより好むようになる。
 
-Intergroup contact is also more successful when the people involved in the contact are motivated to learn about the others. One factor that increases this motivation is interdependence—*a state in which the group members depend on each other for successful performance of the group goals* (Neuberg & Fiske, 1987). The importance of interdependence can be seen in the success of cooperative learning techniques, such as the jigsaw classroom (Aronson, Blaney, Stephan, Sikes, & Snapp, 1978; Aronson, 2004).
+集団間接触は、接触する人々が他者について学ぼうという動機をもっているときにも、より成功する。この動機を高める要因の一つが相互依存、すなわち*集団目標を成功裏に達成するために、集団メンバーが互いに依存している状態*である（Neuberg & Fiske, 1987）。相互依存の重要性は、ジグソー教室のような協同学習技法の成功からも見ることができる（Aronson, Blaney, Stephan, Sikes, & Snapp, 1978; Aronson, 2004）。
 
-The jigsaw classroom is an approach *to learning in which students from different racial or ethnic groups work together, in an interdependent way, to master material*. The class is divided into small learning groups, where each group is diverse in ethnic and gender composition. The assigned material to be learned is divided into as many parts as there are students in the group, and members of different groups who are assigned the same task meet together to help develop a strong report. Each student then learns his or her own part of the material and presents this piece of the puzzle to the other members of his or her group. The students in each group are therefore interdependent in learning all the material. A wide variety of techniques, based on principles of the jigsaw classroom, are in use in many schools around the world, and research studying these approaches has found that cooperative, interdependent experiences among students from different social groups are effective in reducing negative stereotyping and prejudice (Stephan, 1999).
+ジグソー教室は、*異なる人種または民族集団の学生が、教材を習得するため、相互依存的な形で協力して学ぶ方法*である。クラスは小さな学習集団に分けられ、各集団は民族とジェンダーの構成が多様になるようにつくられる。学習する教材は、その集団の学生数と同じ数の部分へ分割され、異なる集団の中で同じ課題を割り当てられたメンバー同士が集まり、しっかりした報告をつくるのを助け合う。その後、各学生が自分に割り当てられた教材部分を学び、自分の集団の他メンバーにそのパズルの一片を提示する。そのため、各集団の学生は教材全体を学ぶうえで相互依存する。ジグソー教室の原理に基づく多様な技法が世界中の多くの学校で用いられており、研究では、異なる社会集団の学生が協力的・相互依存的経験をすることは、否定的ステレオタイプ化と偏見を減らすのに効果があることがわかっている（Stephan, 1999）。
 
-In sum, we can say that contact will be most effective when it is easier to get to know, and become more respectful of, the members of the other group and when the social norms of the situation promote equal, fair treatment of all groups. If the groups are treated unequally, for instance, by a teacher or leader who is prejudiced and who therefore treats the different groups differently, or if the groups are in competition rather than cooperation, there will be no benefit. In cases when these conditions are not met, contact may not be effective and may in fact increase prejudice, particularly when it confirms stereotypical expectations (Stangor, Jonas, Stroebe, & Hewstone, 1996). Finally, it is important that enough time be allowed for the changes to take effect. In the case of busing in the United States, for instance, the positive effects of contact seemed to have been occurring, but they were not happening particularly fast.
+まとめると、他集団のメンバーを知り、尊重することが容易で、その状況の社会的規範がすべての集団への平等で公正な扱いを促しているとき、接触は最も効果的になる。たとえば、偏見をもつ教師やリーダーによって集団が不平等に扱われ、そのため異なる集団が異なる扱いを受けたり、集団同士が協力ではなく競争していたりすれば、利益はない。このような条件が満たされなければ、接触には効果がないだけでなく、とくにステレオタイプ的期待を確認してしまう場合には偏見を増やす可能性さえある（Stangor, Jonas, Stroebe, & Hewstone, 1996）。最後に、変化が効果を発揮するため十分な時間を与えることも重要である。米国のバス通学の事例では、たとえば接触の肯定的効果は生じていたようだが、特に速く起きていたわけではなかった。
 
-Let’s consider (in the following Research Focus) still another way that intergroup contact can reduce prejudice—*the idea that prejudice can be reduced for people who have friends who are friends with members of the outgroup*, known as the extended-contact hypothesis.
+次の「研究フォーカス」では、集団間接触が偏見を減らすもう一つの方法、すなわち*外集団のメンバーと友人である人を友人にもつ人では、偏見が減少しうるという考え*、拡張接触仮説を検討しよう。
 
-#### Research Focus
+#### 研究フォーカス
 
-The Extended-Contact Hypothesis
+拡張接触仮説
 
-Although the contact hypothesis proposes that direct contact between people from different social groups will produce more positive attitudes between them, recent evidence suggests that *prejudice can also be reduced for people who have friends who are friends with members of the outgroup*, even if the individual does not have direct contact with the outgroup members himself or herself. This hypothesis is known as the *extended-contact hypothesis*. Supporting this prediction, Wright, Aron, McLaughlin-Volpe, and Ropp (1997) found in two correlational studies that college students who reported that their own friends had friends who were from another ethnic group reported more positive attitudes toward that outgroup than did students who did not have any friends who had outgroup friends, even controlling for the participants’ own outgroup friendships.
+接触仮説は、異なる社会集団の人々が直接接触すると互いへの態度がより肯定的になると提案する。しかし最近の証拠は、*本人が外集団メンバーと直接接触していなくても、外集団メンバーを友人にもつ人を友人にもっている場合、偏見が減少しうる*ことを示唆する。この仮説は*拡張接触仮説*として知られている。この予測を支持するように、Wright, Aron, McLaughlin-Volpe, and Ropp (1997)は二つの相関研究で、自分の友人に別の民族集団の友人がいると報告した大学生は、そのような外集団の友人をもつ友人が一人もいない学生より、その外集団に肯定的な態度を報告することを見いだした。これは参加者自身の外集団との友情を統制しても見られた。
 
-Wright and his colleages (1997) also tested the extended-contact hypothesis experimentally. Participants were four groups of 14 students, and each group spent a whole day in the lab. On arrival, seven participants were assigned to the “green” group, and seven to the “blue” group, supposedly on the basis of similar interests. To create strong ingroup identity and to produce competition between the groups, the group members wore blue and green T-shirts and engaged in a series of competitive tasks. Participants then expressed their initial thoughts and feelings about the outgroup and its members.
+Wrightと同僚たち（1997）は、拡張接触仮説を実験的にも検証した。参加者は14人ずつの4集団で、各集団は丸一日研究室で過ごした。到着すると、関心が似ていることに基づくという名目で7人が「緑」集団、7人が「青」集団に割り当てられた。強い内集団アイデンティティをつくり、集団間の競争を生み出すため、集団メンバーは青または緑のTシャツを着て、一連の競争的課題に参加した。その後、参加者は外集団とそのメンバーについて最初の思考と感情を報告した。
 
-Then, supposedly as part of an entirely different study, one participant was randomly selected from each group, and the two were taken to a separate room in which they engaged in a relationship-building task that has been shown to quickly create feelings of friendship between two strangers. Then the two members from each team were then reunited with their original groups, where they were encouraged to describe their experience with the other group member in the friendship-building task.
+次に、まったく別の研究の一部という名目で、各集団から参加者一人ずつが無作為に選ばれ、その二人は別室へ連れて行かれた。そこで、見知らぬ二人の間に友情の感情を素早くつくることが示されている関係構築課題を行った。その後、各チームの二人は元の集団へ戻り、友情構築課題で別集団のメンバーと経験したことを説明するよう促された。
 
-In the final phase, the groups then engaged in another competitive task, and participants rated their thoughts and feelings about the outgroup and its members again. As you can see in Figure 11.10, and supporting the extended-contact hypothesis, results showed that the participants (including those who did not participate in the closeness task themselves) were more positive toward the outgroup after than before the two team members had met. This study, as well as many other studies, supports the importance of cross-group friendships in promoting favorable outgroup attitudes (Page-Gould, Mendoza-Denton, & Tropp, 2008; Shook & Fazio, 2008).
+最後の段階では、集団はもう一度競争的課題を行い、参加者は外集団とそのメンバーについての思考と感情を再び評価した。図11.10に示すように、拡張接触仮説を支持して、二人のチームメンバーが会う前より後のほうが、参加者は外集団について肯定的になった（親密性課題に自分自身は参加しなかった人も含む）。この研究をはじめ多くの研究は、外集団に好意的な態度を促すうえで、集団を越えた友情が重要であることを支持している（Page-Gould, Mendoza-Denton, & Tropp, 2008; Shook & Fazio, 2008）。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/4c60a36439cf5fb7eed821015dc20af1-1.jpg)
 
-*Figure 11.10 The Extended-Contact Hypothesis. This figure shows how members of the two groups, which were in competition with each other, rated each other before and after the experimental manipulation of friendship. You can see that group relationships, which were becoming more negative, changed to being more positive after the intervention. Data are from Wright, Aron, McLaughlin-Volpe, and Ropp (1997).*
+_図11.10 拡張接触仮説。この図は、互いに競争していた二つの集団のメンバーが、友情を操作する実験の前後で互いをどのように評価したかを示している。悪化しつつあった集団間関係が、介入後にはより肯定的なものへ変化したことがわかる。データはWright, Aron, McLaughlin-Volpe, and Ropp (1997)による。_
 
-### Moving Others Closer to Us: The Benefits of Recategorization
+### 他者を私たちに近づける：再カテゴリー化の利点
 
-The research on intergroup contact suggests that although contact may improve prejudice, it may make it worse if it is not implemented correctly. Improvement is likely only when the contact moves the members of the groups to feel that they are closer to each other rather than further away from each other. In short, groups are going to have better attitudes toward each other when they see themselves more similarly to each other—when they feel more like one large group than a set of smaller groups.
+集団間接触の研究は、接触によって偏見を改善できる一方、適切に実施されなければ悪化させる可能性もあることを示している。改善が生じる可能性が高いのは、接触によって集団メンバー同士が互いから遠ざかるのではなく、近づいたと感じる場合だけである。つまり、集団同士が互いをより似たものとして見るとき、すなわち複数の小さな集団ではなく、一つの大きな集団のように感じるとき、互いへの態度はよくなる。
 
-This fact was demonstrated in a very convincing way in what is now a classic social psychological study. In the “Robbers’ Cave Experiment,” Sherif, Harvey, White, Hood, and Sherif (1961) studied the group behavior of 11-year-old boys at a summer camp. Although the boys did not know it, the researchers carefully observed the behaviors of the children during the camp session, with the goal of learning about how group conflict developed and how it might be resolved among the children.
+この事実は、現在では古典的な社会心理学研究となっている研究で、非常に説得力のある形で示された。「泥棒洞窟実験（Robbers’ Cave Experiment）」で、Sherif, Harvey, White, Hood, and Sherif (1961)は、サマーキャンプに参加した11歳の男子の集団行動を研究した。男子たちは知らなかったが、研究者はキャンプ期間中の子どもたちの行動を注意深く観察し、集団間対立がどのように生まれ、子どもたちの間でどのように解決できるかを調べた。
 
-During the first week of the camp, the boys were divided into two groups that camped at two different campsites. During this time, friendly relationships developed among the boys within each of the two groups. Each group developed its own social norms and group structure and became quite cohesive, with a strong positive social identity. The two groups chose names for themselves (the Rattlers and the Eagles), and each made their own group flag and participated in separate camp activities.
+キャンプの最初の1週間、男子たちは二つの集団に分けられ、それぞれ別のキャンプサイトで過ごした。この間、それぞれの集団内の男子同士に友好的関係が発達した。各集団は独自の社会的規範と集団構造を発達させ、強い肯定的な社会的アイデンティティをもち、非常に凝集性の高い集団となった。二つの集団は自分たちに名前（RattlersとEagles）をつけ、それぞれ独自の集団旗を作り、別々のキャンプ活動に参加した。
 
-At the end of this one-week baseline period, it was arranged that the two groups of boys would become aware of each other’s presence. Furthermore, the researchers worked to create conditions that led to increases in each group’s social identity and at the same time created negative perceptions of the other group. The researchers arranged baseball games, a tug-of-war, and a treasure hunt and offered prizes for the group that won the competitions. Almost immediately, this competition created ingroup favoritism and prejudice, and discrimination quickly followed. By the end of the second week, the Eagles had sneaked up to the Rattlers’ cabin and stolen their flag. When the Rattlers discovered the theft, they in turn raided the Eagles’ cabin, stealing things. There were food fights in the dining room, which was now shared by the groups, and the researchers documented a substantial increase in name-calling and stereotypes of the outgroup. Some fistfights even erupted between members of the different groups.
+この1週間のベースライン期間の終わりに、二つの男子集団が互いの存在を知るよう仕組まれた。さらに研究者は、それぞれの集団の社会的アイデンティティを高めると同時に、別集団への否定的知覚を生み出す条件をつくった。研究者は野球、綱引き、宝探しを設定し、競争に勝った集団に賞品を用意した。ほとんど直ちに、この競争は内集団ひいきと偏見を生み、すぐに差別が続いた。第2週の終わりまでに、EaglesはRattlersの小屋に忍び込み、旗を盗んだ。Rattlersは盗難に気づくと、今度はEaglesの小屋を襲い、物を盗んだ。両集団が共同で使うようになった食堂では食べ物を投げ合う争いが起こり、研究者は外集団への悪口とステレオタイプが大幅に増えたことを記録した。異なる集団のメンバー同士の殴り合いさえ発生した。
 
-The researchers then intervened by trying to move the groups closer to each other. They began this third stage of the research by setting up a series of situations in which the boys had to work together to solve a problem. These situations were designed to create interdependence by presenting the boys with superordinate goals—*goals that were both very important to them and yet that required the cooperative efforts and resources of both the Eagles and the Rattlers to attain.* These goals involved such things as the need to pool money across both groups in order to rent a movie that all the campers wanted to view, or the need to pull together on ropes to get a food truck that had become stuck back onto the road. As the children worked together to meet these goals, the negative perceptions of the group members gradually improved; there was a reduction of hostility between the groups and an emergence of more positive intergroup attitudes.
+そこで研究者は、集団同士を近づけようと介入した。研究の第3段階では、男子たちが問題解決のために協力しなければならない一連の状況を設定した。これらは、上位目標、すなわち*男子たちにとって非常に重要であると同時に、達成するためにはEaglesとRattlers双方の協力的努力と資源を必要とする目標*を提示し、相互依存をつくるよう設計された。たとえば、キャンプ参加者全員が見たい映画を借りるため両集団でお金を出し合う必要がある、あるいは動けなくなった食料トラックを道路に戻すため皆でロープを引かなければならない、といった目標である。子どもたちがこうした目標を達成するため協力すると、集団メンバーについての否定的知覚は徐々に改善し、集団間の敵意が減少し、より肯定的な集団間態度が現れた。
 
-This strategy was effective because it led the campers to perceive both the ingroup and the outgroup as one large group (“we”) rather than as two separate groups (“us” and “them”). As differentiation between the ingroup and the outgroup decreases, so should ingroup favoritism, prejudice, and conflict. The differences between the original groups are still present, but they are potentially counteracted by perceived similarities in the second superordinate group. *The attempt to reduce prejudice by creating a superordinate categorization* is known as the goal of creating a common ingroup identity(Gaertner & Dovidio, 2008), and we can diagram the relationship as follows:
+この方略が効果的だったのは、キャンプ参加者が内集団と外集団を二つの別々の集団（「私たち」と「彼ら」）ではなく、一つの大きな集団（「私たち」）として知覚するようになったからである。内集団と外集団の区別が小さくなれば、内集団ひいき、偏見、対立も小さくなるはずである。元の集団間の違いは依然として存在するが、第2の上位集団について知覚された類似性によって、その効果が打ち消される可能性がある。*上位のカテゴリー化をつくることで偏見を減らそうとする試み*は、共通内集団アイデンティティをつくることとして知られている（Gaertner & Dovidio, 2008）。その関係は次のように表せる。
 
-interdependence and cooperation → common ingroup identity → favorable intergroup attitudes.
+相互依存と協力 → 共通内集団アイデンティティ → 好意的な集団間態度。
 
-A substantial amount of research has supported the predictions of the common ingroup identity model. For instance, Samuel Gaertner and his colleagues (Gaertner, Mann, Murrell, & Dovidio, 1989) tested the hypothesis that interdependent cooperation in groups reduces negative beliefs about outgroup members because it leads people to see the others as part of the ingroup (by creating a common identity). In this research, college students were brought to a laboratory where they were each assigned to one of two teams of three members each, and each team was given a chance to create its own unique group identity by working together. Then, the two teams were brought into a single room to work on a problem. In one condition, the two teams were told to work together as a larger, six-member team to solve the problem, whereas in the other condition, the two teams worked on the problem separately.
+多くの研究が共通内集団アイデンティティ・モデルの予測を支持している。たとえばSamuel Gaertnerと同僚たち（Gaertner, Mann, Murrell, & Dovidio, 1989）は、集団内の相互依存的協力によって外集団メンバーへの否定的信念が減るのは、他者を内集団の一部として見るようになる（共通のアイデンティティがつくられる）ためだという仮説を検証した。この研究では、大学生が研究室へ来て3人ずつの二つのチームのいずれかに割り当てられ、それぞれ一緒に作業することで独自の集団アイデンティティを形成する機会を与えられた。その後、二つのチームは一つの部屋へ集まり、問題に取り組んだ。一つの条件では、二つのチームに、6人のより大きな一つのチームとして協力して問題を解くよう伝えた。もう一つの条件では、二つのチームは別々に問題へ取り組んだ。
 
-Consistent with the expected positive results of creating a common group identity, the interdependence created in the condition where the teams worked together increased the tendency of the team members to see themselves as members of a single larger team, and this in turn reduced the tendency for each group to show ingroup favoritism.
+共通の集団アイデンティティをつくることによる肯定的結果の予測と一致して、チームが協力した条件で生じた相互依存は、チームメンバーが自分たちを一つの大きなチームのメンバーとして見る傾向を高め、それによって各集団の内集団ひいきを減らした。
 
-But the benefits of recategorization are not confined to laboratory settings—they also appear in our everyday interactions with other people. Jason Neir and his colleagues had Black and White interviewers approach White students who were attending a football game (Neir et al., 2001). The dependent measure was whether or not they agreed to help the interviewer by completing a questionnaire. However, the interviewers also wore hats representing either one of the two universities who were playing in the game. As you can see in Figure 11.11, the data were analyzed both by whether the interviewer and the student were of the same race (either both White or one White and one Black) and also by whether they wore hats from the same or different universities. As expected on the basis of recategorization and the common ingroup identity approach, the White students were significantly more likely to help the Black interviewers when they wore a hat of the same university as that worn by the interviewee. The hat evidently led the White students to recategorize the interviewer as part of the university ingroup, leading to more helping. However, whether the individuals shared university affiliation did not influence helping for the White participants, presumably because they already saw the interviewer as a member of the ingroup (the interviewer was also White).
+しかし、再カテゴリー化の利点は研究室内に限られない。日常的な他者との相互作用でも見られる。Jason Neirと同僚たちは、フットボールの試合を観戦している白人学生に、黒人と白人の面接者が近づくようにした（Neir et al., 2001）。従属変数は、質問紙への回答によって面接者を助けることに同意するかどうかだった。ただし、面接者はその試合をしている二つの大学のうち、いずれかを示す帽子もかぶっていた。図11.11に示すように、データは面接者と学生が同じ人種かどうか（双方が白人、または一方が白人でもう一方が黒人）と、同じ大学または別の大学の帽子をかぶっているかどうかの両方で分析された。再カテゴリー化と共通内集団アイデンティティの考えから予想されるように、白人学生は、黒人面接者が自分と同じ大学の帽子をかぶっていると、その面接者を助ける可能性が有意に高かった。帽子によって白人学生は、面接者を大学という内集団の一部へ再カテゴリー化し、その結果、援助が増えたようである。一方、面接者が白人の場合には、大学所属を共有しているかどうかは白人参加者の援助に影響しなかった。おそらく、面接者が白人であるため、すでに内集団のメンバーとして見ていたからである。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/6aafac47a527682c914cd01b70c5befd-1.jpg)
 
-*Figure 11.11 Recategorization and Helping Behavior.*
+_図11.11 再カテゴリー化と援助行動。_
 
-In this field study, White and Black interviewers asked White students attending a football game to help them by completing a questionnaire. The data were analyzed both by whether the request was to a White (ingroup) or Black (outgroup) student and also by whether the individual whose help was sought wore the same hat that they did or a different hat. Results supported the common ingroup identity model. Helping was much greater for outgroup members when hats were the same. Data are from Neir et al. (2001).
+このフィールド研究では、白人と黒人の面接者が、フットボールの試合を観戦する白人学生に、質問紙へ回答して助けてもらうよう依頼した。依頼した面接者が白人（内集団）か黒人（外集団）かという点と、援助を求められた人物が面接者と同じ帽子をかぶっているか、異なる帽子をかぶっているかという点の両方でデータが分析された。結果は共通内集団アイデンティティ・モデルを支持した。帽子が同じ場合には、外集団メンバーへの援助が大幅に多かった。データはNeir et al. (2001)による。
 
-Again, the implications of these results are clear and powerful. If we want to improve attitudes among people, we must get them to see each other as more similar and less different. And even relatively simple ways of doing so, such as wearing a hat that suggests an ingroup identification, can be successful.
+ここでも、この結果が示す意味は明確かつ強力である。人々の間の態度を改善したいなら、互いをより似た存在、より異なっていない存在として見るようにしなければならない。そして、内集団への同一視を示す帽子をかぶるという比較的単純な方法でさえ、効果をもつ可能性がある。
 
-:::tip[Key Takeaways]
+:::tip[要点]
 
-- Changing our stereotypes and prejudices is not easy, and attempting to suppress them may backfire. However, with appropriate effort, we can reduce our tendency to rely on our stereotypes and prejudices.
-- One approach to changing stereotypes and prejudice is by changing social norms—for instance, through education and laws enforcing equality.
-- Prejudice will change faster when it is confronted by people who see it occurring. Confronting prejudice may be embarrassing, but it also can make us feel that we have done the right thing.
-- Intergroup attitudes will be improved when we can lead people to focus more on their connections with others. Intergroup contact, extended contact with others who share friends with outgroup members, and a common ingroup identity are all examples of this process.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Watch the program “[A Class Divided](http://www.pbs.org/wgbh/frontline/film/class-divided/).” Do you think Jane Elliott’s method of teaching people about prejudice is ethical?
-2. Have you ever confronted or failed to confront a person who you thought was expressing prejudice or discriminating? Why did you confront (or not confront) that person, and how did doing so make you feel?
-3. Imagine you are a teacher in a classroom and you see that some children expressing prejudice or discrimination toward other children on the basis of their race. What techniques would you use to attempt to reduce these negative behaviors?
+- ステレオタイプや偏見を変えることは簡単ではなく、それを抑制しようとすると逆効果になる場合もある。しかし、適切な努力によって、ステレオタイプや偏見に頼る傾向を減らすことができる。
+- ステレオタイプと偏見を変える一つの方法は、たとえば教育や平等を保障する法律によって社会的規範を変えることである。
+- 偏見を目にした人がそれに立ち向かうと、偏見はより速く変化する。偏見への指摘は気まずいかもしれないが、正しいことをしたという気持ちをもたらす場合もある。
+- 他者とのつながりにより焦点を当てるよう人々を導ければ、集団間態度は改善する。集団間接触、外集団メンバーと友人である人との拡張接触、共通内集団アイデンティティは、いずれもこの過程の例である。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Aronson, E. (2004). Reducing hostility and building compassion: Lessons from the jigsaw classroom. In A. G. Miller (Ed.), *The social psychology of good and evil* (pp. 469–488). New York, NY: Guilford Press.
+1. “[A Class Divided](http://www.pbs.org/wgbh/frontline/film/class-divided/)” を視聴しなさい。Jane Elliottが偏見について教えるために用いた方法は倫理的だと思うだろうか。
+2. 偏見を表明したり差別したりしていると思った人に対して、立ち向かった、または立ち向かわなかった経験があるだろうか。なぜその人に立ち向かった（または立ち向かわなかった）のだろうか。また、そうしたことでどのように感じただろうか。
+3. あなたが教室の教師で、子どもたちの一部が、人種を理由に別の子どもたちへ偏見や差別を示しているのを見たと想像しなさい。こうした否定的行動を減らすためにどのような技法を用いるだろうか。
 
-Aronson, E., Blaney, N., Stephan, C., Sikes, J., & Snapp, M. (1978). *The jig-saw classroom*. London, England: Sage.
+:::
+
+#### 参考文献
+
+Aronson, E. (2004). Reducing hostility and building compassion: Lessons from the jigsaw classroom. In A. G. Miller (Ed.), _The social psychology of good and evil_ (pp. 469–488). New York, NY: Guilford Press.
+
+Aronson, E., Blaney, N., Stephan, C., Sikes, J., & Snapp, M. (1978). _The jig-saw classroom_. London, England: Sage.
 
 Blair, I. V. (2002). The malleability of automatic stereotypes and prejudice. Personality and Social Psychology Review, 6(3), 242–261.
 
-Blair, I. V., Ma, J. E., & Lenton, A. P. (2001). Imagining stereotypes away: The moderation of implicit stereotypes through mental imagery. *Journal of Personality and Social Psychology, 81*(5), 828–841.
+Blair, I. V., Ma, J. E., & Lenton, A. P. (2001). Imagining stereotypes away: The moderation of implicit stereotypes through mental imagery. _Journal of Personality and Social Psychology, 81_(5), 828–841.
 
-Bodenhausen, G. V., Schwarz, N., Bless, H., & Wanke, M. (1995). Effects of atypical exemplars on racial beliefs: Enlightened racism or generalized appraisals? *Journal of Experimental Social Psychology, 31*, 48–63.
+Bodenhausen, G. V., Schwarz, N., Bless, H., & Wanke, M. (1995). Effects of atypical exemplars on racial beliefs: Enlightened racism or generalized appraisals? _Journal of Experimental Social Psychology, 31_, 48–63.
 
-Brodt, S. E., & Ross, L. D. (1998). The role of stereotyping in overconfident social prediction. *Social Cognition, 16*, 225–252.
+Brodt, S. E., & Ross, L. D. (1998). The role of stereotyping in overconfident social prediction. _Social Cognition, 16_, 225–252.
 
 Czopp, A. M., Monteith, M. J., & Mark, A. Y. (2006). Standing up for a change: Reducing bias through interpersonal confrontation. Journal of Personality and Social Psychology, 90(5), 784–803.
 
-Gaertner, S. L., & Dovidio, J. F. (Eds.). (2008). *Addressing contemporary racism: The common ingroup identity model*. New York, NY: Springer Science + Business Media.
+Gaertner, S. L., & Dovidio, J. F. (Eds.). (2008). _Addressing contemporary racism: The common ingroup identity model_. New York, NY: Springer Science + Business Media.
 
-Gaertner, S. L., Mann, J., Murrell, A., & Dovidio, J. F. (1989). Reducing intergroup bias: The benefits of recategorization. *Journal of Personality and Social Psychology, 57*(2), 239–249.
+Gaertner, S. L., Mann, J., Murrell, A., & Dovidio, J. F. (1989). Reducing intergroup bias: The benefits of recategorization. _Journal of Personality and Social Psychology, 57_(2), 239–249.
 
 Galinsky, A. D., & Moskowitz, G. B. (2000). Perspective-taking: Decreasing stereotype expression, stereotype accessibility, and in-group favoritism. Journal of Personality and Social Psychology, 78(4), 708–724.
 
@@ -161,56 +162,56 @@ Jetten, J., Spears, R., & Manstead, A. S. R. (1997). Strength of identification 
 
 Kaiser, C. R., & Miller, C. T. (2001). Stop complaining! The social costs of making attributions to discrimination. Personality and Social Psychology Bulletin, 27, 254–263.
 
-Kawakami, K., Dovidio, J. F., Moll, J., Hermsen, S., & Russin, A. (2000). Just say no (to stereotyping): Effects of training in the negation of stereotypic associations on stereotype activation. *Journal of Personality and Social Psychology,78* (5), 871–888.
+Kawakami, K., Dovidio, J. F., Moll, J., Hermsen, S., & Russin, A. (2000). Just say no (to stereotyping): Effects of training in the negation of stereotypic associations on stereotype activation. _Journal of Personality and Social Psychology,78_ (5), 871–888.
 
-Klonoff, E. A., Landrine, H., & Campbell, R. (2000). Sexist discrimination may account for well-known gender differences in psychiatric symptoms. *Psychology of Women Quarterly, 24*, 93–99.
+Klonoff, E. A., Landrine, H., & Campbell, R. (2000). Sexist discrimination may account for well-known gender differences in psychiatric symptoms. _Psychology of Women Quarterly, 24_, 93–99.
 
-Klonoff, E. A., Landrine, H., & Ullman, J. B. (1999). Racial discrimination and psychiatric symptoms among blacks. *Cultural Diversity and Ethnic Minority Psychology, 5*(4), 329–339.
+Klonoff, E. A., Landrine, H., & Ullman, J. B. (1999). Racial discrimination and psychiatric symptoms among blacks. _Cultural Diversity and Ethnic Minority Psychology, 5_(4), 329–339.
 
-Macrae, C. N., Bodenhausen, G. V., Milne, A. B., & Jetten, J. (1994). Out of mind but back in sight: Stereotypes on the rebound. *Journal of Personality and Social Psychology, 67*(5), 808–817.
+Macrae, C. N., Bodenhausen, G. V., Milne, A. B., & Jetten, J. (1994). Out of mind but back in sight: Stereotypes on the rebound. _Journal of Personality and Social Psychology, 67_(5), 808–817.
 
 Madon, S., Jussim, L., Keiper, S., Eccles, J., Smith, A., & Palumbo, P. (1998). The accuracy and power of sex, social class, and ethnic stereotypes: A naturalistic study in person perception. Personality and Social Psychology Bulletin, 24(12), 1304–1318.
 
 Mallett, R. K., Wilson, T. D., & Gilbert, D. T. (2008). Expect the unexpected: Failure to anticipate similarities leads to an intergroup forecasting error. Journal of Personality and Social Psychology, 94(2), 265–277. doi: 10.1037/0022–3514.94.2.94.2.265
 
-Neir, J. A., Gaertner, S. L., Dovidio, J. F., Banker, B. S., Ward, C. M., & Rust, C. R. (2001). Changing interracial evaluations and behavior: The effects of a common group identity. *Group Processes and Intergroup Relations, 4*, 299–316.
+Neir, J. A., Gaertner, S. L., Dovidio, J. F., Banker, B. S., Ward, C. M., & Rust, C. R. (2001). Changing interracial evaluations and behavior: The effects of a common group identity. _Group Processes and Intergroup Relations, 4_, 299–316.
 
-Neuberg, S. L., & Fiske, S. T. (1987). Motivational influences on impression formation: Outcome dependency, accuracy-driven attention, and individuating processes. *Journal of Personality and Social Psychology, 53*, 431–444.
+Neuberg, S. L., & Fiske, S. T. (1987). Motivational influences on impression formation: Outcome dependency, accuracy-driven attention, and individuating processes. _Journal of Personality and Social Psychology, 53_, 431–444.
 
-Oreopolous, P. (2011). Why do skilled immigrants struggle in the labor market? A field experiment with six thousand résumés. *American Economic Journal, 3*(4), 148-171.
+Oreopolous, P. (2011). Why do skilled immigrants struggle in the labor market? A field experiment with six thousand résumés. _American Economic Journal, 3_(4), 148-171.
 
-Page-Gould, E., Mendoza-Denton, R., & Tropp, L. R. (2008). With a little help from my cross-group friend: Reducing anxiety in intergroup contexts through cross-group friendship. *Journal of Personality and Social Psychology, 95*(5), 1080–1094. doi: 10.1037/0022–3514.95.5.1080.
+Page-Gould, E., Mendoza-Denton, R., & Tropp, L. R. (2008). With a little help from my cross-group friend: Reducing anxiety in intergroup contexts through cross-group friendship. _Journal of Personality and Social Psychology, 95_(5), 1080–1094. doi: 10.1037/0022–3514.95.5.1080.
 
-Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. *Journal of Personality and Social Psychology, 90*(5), 751–783.
+Pettigrew, T. F., & Tropp, L. R. (2006). A meta-analytic test of intergroup contact theory. _Journal of Personality and Social Psychology, 90_(5), 751–783.
 
-Richeson, J. A., & Shelton, J. N. (2007). Negotiating interracial interactions: Costs, consequences, and possibilities. *Current Directions in Psychological Science, 16*(6), 316–320. doi: 10.1111/j.1467–8721.2007.00528.x
+Richeson, J. A., & Shelton, J. N. (2007). Negotiating interracial interactions: Costs, consequences, and possibilities. _Current Directions in Psychological Science, 16_(6), 316–320. doi: 10.1111/j.1467–8721.2007.00528.x
 
-Rothbart, M., & John, O. P. (1985). Social categorization and behavioral episodes: A cognitive analysis of the effects of intergroup contact. *Journal of Social Issues, 41*, 81–104.
+Rothbart, M., & John, O. P. (1985). Social categorization and behavioral episodes: A cognitive analysis of the effects of intergroup contact. _Journal of Social Issues, 41_, 81–104.
 
-Rudman, L. A., Ashmore, R. D., & Gary, M. L. (2001). “Unlearning” automatic biases: The malleability of implicit prejudice and stereotypes. *Journal of Personality and Social Psychology, 81*(5), 856–868.
+Rudman, L. A., Ashmore, R. D., & Gary, M. L. (2001). “Unlearning” automatic biases: The malleability of implicit prejudice and stereotypes. _Journal of Personality and Social Psychology, 81_(5), 856–868.
 
-Sechrist, G., & Stangor, C. (2001). Perceived consensus influences intergroup behavior and stereotype accessibility. *Journal of Personality and Social Psychology, 80*(4), 645–654.
+Sechrist, G., & Stangor, C. (2001). Perceived consensus influences intergroup behavior and stereotype accessibility. _Journal of Personality and Social Psychology, 80_(4), 645–654.
 
-Shelton, J. N., Richeson, J. A., Salvatore, J., & Hill, D. M. (Eds.). (2006). *Silence is not golden: The intrapersonal consequences of not confronting prejudice*. Mahwah, NJ: Lawrence Erlbaum.
+Shelton, J. N., Richeson, J. A., Salvatore, J., & Hill, D. M. (Eds.). (2006). _Silence is not golden: The intrapersonal consequences of not confronting prejudice_. Mahwah, NJ: Lawrence Erlbaum.
 
 Shelton, N. J., & Stewart, R. E. (2004). Confronting perpetrators of prejudice: The inhibitory effects of social costs. Psychology of Women Quarterly, 28, 215–222.
 
-Sherif, M., Harvey, O. J., White, B. J., Hood, W. R., & Sherif, C. (1961). *Intergroup conflict and cooperation: The robbers’ cave experiment*. Norman, OK: University of Oklahoma Press.
+Sherif, M., Harvey, O. J., White, B. J., Hood, W. R., & Sherif, C. (1961). _Intergroup conflict and cooperation: The robbers’ cave experiment_. Norman, OK: University of Oklahoma Press.
 
-Shook, N. J., & Fazio, R. H. (2008). Interracial roommate relationships: An experimental field test of the contact hypothesis. *Psychological Science, 19*(7), 717–723. doi: 10.1111/j.1467–9280.2008.02147.x
+Shook, N. J., & Fazio, R. H. (2008). Interracial roommate relationships: An experimental field test of the contact hypothesis. _Psychological Science, 19_(7), 717–723. doi: 10.1111/j.1467–9280.2008.02147.x
 
-Sidanius, J., Sinclair, S., & Pratto, F. (2006). Social dominance orientation, gender, and increasing educational exposure. *Journal of Applied Social Psychology, 36*(7), 1640–1653.
+Sidanius, J., Sinclair, S., & Pratto, F. (2006). Social dominance orientation, gender, and increasing educational exposure. _Journal of Applied Social Psychology, 36_(7), 1640–1653.
 
 Sidanius, J., Van Laar, C., Levin, S., & Sinclair, S. (2004). Ethnic enclaves and the dynamics of social identity on the college campus: The good, the bad, and the ugly. Journal of Personality and Social Psychology, 87(1), 96–110.
 
-Stangor, C., Jonas, K., Stroebe, W., & Hewstone, M. (1996). Development and change of national stereotypes and attitudes. *European Journal of Social Psychology, 26*, 663–675.
+Stangor, C., Jonas, K., Stroebe, W., & Hewstone, M. (1996). Development and change of national stereotypes and attitudes. _European Journal of Social Psychology, 26_, 663–675.
 
-Stephan, W. (1999). *Reducing prejudice and stereotyping in schools*. New York, NY: Teacher’s College Press.
+Stephan, W. (1999). _Reducing prejudice and stereotyping in schools_. New York, NY: Teacher’s College Press.
 
-Swim, J. K., Hyers, L. L., Cohen, L. L., & Ferguson, M. J. (2001). Everyday sexism: Evidence for its incidence, nature, and psychological impact from three daily diary studies. *Journal of Social Issues, 57*(1), 31–53.
+Swim, J. K., Hyers, L. L., Cohen, L. L., & Ferguson, M. J. (2001). Everyday sexism: Evidence for its incidence, nature, and psychological impact from three daily diary studies. _Journal of Social Issues, 57_(1), 31–53.
 
 Swim, J. K., Hyers, L. L., Cohen, L. L., Fitzgerald, D. C., & Bylsma, W. H. (2003). African American college students’ experiences with everyday racism: Characteristics of and responses to these incidents. Journal of Black Psychology, 29(1), 38–67.
 
-Williams, D. R. (1999). Race, socioeconomics status, and health: The added effect of racism and discrimination. In Adler, N. E., Boyce, T., Chesney, M. A., & Cohen, S. (1994). Socioeconomic status and health: The challenge of the gradient. *American Psychologist, 49*, 15-24.
+Williams, D. R. (1999). Race, socioeconomics status, and health: The added effect of racism and discrimination. In Adler, N. E., Boyce, T., Chesney, M. A., & Cohen, S. (1994). Socioeconomic status and health: The challenge of the gradient. _American Psychologist, 49_, 15-24.
 
-Wright, S. C., Aron, A., McLaughlin-Volpe, T., & Ropp, S. A. (1997). The extended contact effect: Knowledge of cross-group friendships and prejudice. *Journal of Personality and Social Psychology, 73*(1), 73–90.
+Wright, S. C., Aron, A., McLaughlin-Volpe, T., & Ropp, S. A. (1997). The extended contact effect: Knowledge of cross-group friendships and prejudice. _Journal of Personality and Social Psychology, 73_(1), 73–90.
