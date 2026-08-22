@@ -5,8 +5,11 @@
  *
  * Runtime dependencies: none. This file uses only Node.js built-ins.
  *
- * Default mode creates one Markdown file per top-level Pressbooks part/chapter.
- * `--mode sections` creates a chapter overview plus one page per numbered section.
+ * Converts the complete book body from the full title page through Versioning History.
+ * Default mode creates one Markdown file per top-level Pressbooks part/chapter,
+ * plus title/copyright/contents/front matter/back matter pages.
+ * `--mode sections` creates a chapter overview plus one page per numbered section,
+ * while retaining the same surrounding book matter.
  */
 
 // @ts-ignore -- Node built-in; keeping this script self-contained even without @types/node.
@@ -54,13 +57,18 @@ type Chapter = {
   sections: ElementNode[];
 };
 
+type MatterKind = 'title' | 'copyright' | 'contents' | 'front-matter' | 'back-matter';
+
 type OutputPage = {
   order: number;
   title: string;
   slug: string;
-  chapter: Chapter;
-  kind: 'chapter' | 'overview' | 'section';
+  kind: 'matter' | 'chapter' | 'overview' | 'section';
+  chapter?: Chapter;
   section?: ElementNode;
+  matterKind?: MatterKind;
+  matterNode?: ElementNode;
+  matterContent?: HtmlNode[];
 };
 
 type RenderContext = {
@@ -97,6 +105,8 @@ Options:
   --mode chapters|sections
       chapters (default): one Markdown file per top-level chapter.
       sections: chapter overview pages plus one file per 1.1/1.2-style section.
+      Both modes also include every book page from the full title page through
+      Versioning History (copyright, contents, front matter, and back matter).
 
   --route-prefix /social-psychology
       Starlight URL prefix. If output-dir is under src/content/docs, this is
@@ -497,21 +507,28 @@ function buildChapters(root: RootNode): Chapter[] {
   return chapters;
 }
 
-function buildOutputPages(chapters: Chapter[], mode: Mode): OutputPage[] {
-  if (mode === 'chapters') {
-    return chapters.map((chapter) => ({
-      order: chapter.index,
-      title: chapter.title,
-      slug: chapter.slug,
-      chapter,
-      kind: 'chapter',
-    }));
-  }
+function buildOutputPages(root: RootNode, chapters: Chapter[], mode: Mode): OutputPage[] {
+  const body = firstDescendant(root, (node) => node.tag === 'body');
+  if (!body) throw new Error('No <body> element was found in the input HTML.');
 
+  const chapterByWrapper = new Map<ElementNode, Chapter>(chapters.map((chapter) => [chapter.wrapper, chapter]));
   const pages: OutputPage[] = [];
   let order = 1;
+  let started = false;
+  let reachedVersionHistory = false;
 
-  for (const chapter of chapters) {
+  const pushChapter = (chapter: Chapter): void => {
+    if (mode === 'chapters') {
+      pages.push({
+        order: order++,
+        title: chapter.title,
+        slug: chapter.slug,
+        chapter,
+        kind: 'chapter',
+      });
+      return;
+    }
+
     pages.push({
       order: order++,
       title: chapter.title,
@@ -534,35 +551,119 @@ function buildOutputPages(chapters: Chapter[], mode: Mode): OutputPage[] {
         section,
       });
     });
+  };
+
+  for (const child of directElementChildren(body)) {
+    if (!started) {
+      if (child.attrs.id !== 'title-page') continue;
+      started = true;
+    }
+
+    const matter = buildMatterPage(child, order);
+    if (matter) {
+      pages.push(matter);
+      order++;
+
+      if (child.attrs.id === 'back-matter-versioning-history') {
+        reachedVersionHistory = true;
+        break;
+      }
+      continue;
+    }
+
+    const chapter = chapterByWrapper.get(child);
+    if (chapter) pushChapter(chapter);
+  }
+
+  if (!started) {
+    throw new Error('The full title page (#title-page) was not found in the input HTML.');
+  }
+
+  if (!reachedVersionHistory) {
+    throw new Error('Versioning History (#back-matter-versioning-history) was not found in the input HTML.');
   }
 
   return pages;
 }
 
+function buildMatterPage(node: ElementNode, order: number): OutputPage | undefined {
+  const id = node.attrs.id ?? '';
+  let matterKind: MatterKind | undefined;
+  let title = '';
+  let content = node.children;
+
+  if (id === 'title-page') {
+    matterKind = 'title';
+    const titleNode = firstDescendant(node, (child) => child.tag === 'h1' && hasClass(child, 'title'));
+    title = titleNode ? plainText(titleNode) : 'Title';
+    // Starlight renders the frontmatter title as the page H1, so do not repeat
+    // Pressbooks' title H1 in the Markdown body. Author/publisher data remains.
+    content = node.children.filter(
+      (child) => !(isElement(child) && child.tag === 'h1' && hasClass(child, 'title')),
+    );
+  } else if (id === 'copyright-page') {
+    matterKind = 'copyright';
+    title = 'Copyright and License';
+  } else if (id === 'toc') {
+    matterKind = 'contents';
+    title = 'Contents';
+    content = node.children.filter(
+      (child) => !(isElement(child) && child.tag === 'h1' && plainText(child).toLowerCase() === 'contents'),
+    );
+  } else if (hasClass(node, 'front-matter')) {
+    matterKind = 'front-matter';
+    const titleNode = firstDescendant(node, (child) => hasClass(child, 'front-matter-title'));
+    title = node.attrs.title || (titleNode ? plainText(titleNode) : 'Front Matter');
+    const body = directChildByClass(node, 'front-matter-ugc');
+    content = body?.children ?? node.children;
+  } else if (hasClass(node, 'back-matter')) {
+    matterKind = 'back-matter';
+    const titleNode = firstDescendant(node, (child) => hasClass(child, 'back-matter-title'));
+    title = node.attrs.title || (titleNode ? plainText(titleNode) : 'Back Matter');
+    const body = directChildByClass(node, 'back-matter-ugc');
+    content = body?.children ?? node.children;
+  } else {
+    return undefined;
+  }
+
+  return {
+    order,
+    title,
+    slug: matterSlug(matterKind, title),
+    kind: 'matter',
+    matterKind,
+    matterNode: node,
+    matterContent: content,
+  };
+}
 function buildIdIndex(pages: OutputPage[]): Map<string, OutputPage> {
   const index = new Map<string, OutputPage>();
 
   for (const page of pages) {
-    if (page.kind === 'chapter') {
+    if (page.kind === 'matter' && page.matterNode) {
+      for (const id of collectIds(page.matterNode)) index.set(id, page);
+      continue;
+    }
+
+    if (page.kind === 'chapter' && page.chapter) {
       for (const id of collectIds(page.chapter.wrapper)) index.set(id, page);
       continue;
     }
 
-    if (page.kind === 'overview') {
+    if (page.kind === 'overview' && page.chapter) {
       const wrapperId = page.chapter.wrapper.attrs.id;
       if (wrapperId) index.set(wrapperId, page);
       for (const id of collectIds(page.chapter.part)) index.set(id, page);
       continue;
     }
 
-    if (page.section) {
+    if (page.kind === 'section' && page.section) {
       for (const id of collectIds(page.section)) index.set(id, page);
     }
   }
 
   return index;
 }
-
 function collectReferencedIds(root: RootNode): Set<string> {
   const ids = new Set<string>();
 
@@ -613,6 +714,20 @@ function renderPage(page: OutputPage, baseContext: Omit<RenderContext, 'page' | 
     inAside: false,
   };
 
+  if (page.kind === 'matter' && page.matterNode) {
+    const matterId = page.matterNode.attrs.id;
+    if (matterId) parts.push(namedAnchor(matterId));
+
+    const content = page.matterContent ?? page.matterNode.children;
+    const matterCtx = { ...ctx, headingShift: headingShiftFor(page.matterNode, 2) };
+    parts.push(renderNodesBlock(content, matterCtx));
+    return tidyMarkdown(parts.join('\n'));
+  }
+
+  if (!page.chapter) {
+    throw new Error(`Page ${page.slug} is missing its chapter source.`);
+  }
+
   if (page.kind === 'chapter' || page.kind === 'overview') {
     const partId = page.chapter.part.attrs.id;
     if (partId) parts.push(namedAnchor(partId));
@@ -654,7 +769,6 @@ function renderPage(page: OutputPage, baseContext: Omit<RenderContext, 'page' | 
 
   return tidyMarkdown(parts.join('\n'));
 }
-
 function headingShiftFor(root: ParentNode, desiredMinimum: number): number {
   const levels = descendants(root, (node) => /^h[1-6]$/.test(node.tag))
     .map((node) => Number(node.tag.slice(1)));
@@ -1066,6 +1180,15 @@ function chapterSlug(index: number, title: string): string {
   return `${String(index).padStart(2, '0')}-${slugify(withoutNumber)}`;
 }
 
+function matterSlug(kind: MatterKind, title: string): string {
+  switch (kind) {
+    case 'title': return 'title';
+    case 'copyright': return 'copyright-and-license';
+    case 'contents': return 'contents';
+    default: return slugify(title) || kind;
+  }
+}
+
 function yamlString(value: string): string {
   // JSON strings are valid YAML double-quoted scalars.
   return JSON.stringify(value);
@@ -1148,7 +1271,7 @@ async function main(): Promise<void> {
     throw new Error('No Pressbooks .part-wrapper elements were found in the input HTML.');
   }
 
-  const pages = buildOutputPages(chapters, options.mode);
+  const pages = buildOutputPages(root, chapters, options.mode);
   const idToPage = buildIdIndex(pages);
   const referencedIds = collectReferencedIds(root);
 
@@ -1175,7 +1298,8 @@ async function main(): Promise<void> {
     console.log(`Wrote ${path.relative(process.cwd(), outputPath)}`);
   }
 
-  console.log(`\nConverted ${pages.length} page${pages.length === 1 ? '' : 's'} from ${chapters.length} chapters.`);
+  console.log(`\nConverted ${pages.length} page${pages.length === 1 ? '' : 's'} covering the full title page through Versioning History.`);
+  console.log(`Numbered chapters: ${chapters.length}`);
   console.log(`Mode: ${options.mode}`);
   console.log(`Starlight route prefix: ${routePrefix || '/'}`);
 }
