@@ -1,481 +1,482 @@
 ---
-title: "2.2 How We Use Our Expectations"
+title: "2.2 私たちは期待をどのように利用するか"
 sidebar:
   order: 17
 ---
-:::note[Learning Objectives]
 
-1. Provide examples of how salience and accessibility influence information processing.
-2. Review, differentiate, and give examples of some important cognitive heuristics that influence social judgment.
-3. Summarize and give examples of the importance of social cognition in everyday life.
+:::note[学習目標]
+
+1. 顕著性とアクセス可能性が情報処理にどのような影響を与えるか、その例を挙げる。
+2. 社会的判断に影響を与える重要な認知的ヒューリスティックを概観し、区別し、それぞれの例を挙げる。
+3. 日常生活における社会的認知の重要性を要約し、例を挙げる。
 
 :::
 
-Once we have developed a set of schemas and attitudes, we naturally use that information to help us evaluate and respond to others. Our expectations help us to think about, size up, and make sense of individuals, groups of people, and the relationships among people. If we have learned, for example, that someone is friendly and interested in us, we are likely to approach them; if we have learned that they are threatening or unlikable, we will be more likely to withdraw. And if we believe that a person has committed a crime, we may process new information in a manner that helps convince us that our judgment was correct. In this section, we will consider how we use our stored knowledge to come to accurate (and sometimes inaccurate) conclusions about our social worlds.
+スキーマや態度の体系を形成すると、私たちは自然にそれらの情報を使って他者を評価し、反応するようになる。期待は、個人、人々の集団、人々同士の関係について考え、評価し、理解するのを助けてくれる。たとえば、ある人が親しみやすく自分に関心を持っていることを学んでいれば、その人に近づく可能性が高い。一方、脅威となる、あるいは好ましくない人物だと学んでいれば、距離を取る可能性が高い。また、ある人物が犯罪を犯したと信じている場合、自分の判断が正しかったと確信できるような方法で新しい情報を処理することもある。本節では、蓄積された知識をどのように利用して、社会的世界について正確な、そしてときには不正確な結論に達するのかを検討する。
 
-## Automatic versus Controlled Cognition
+## 自動的認知と統制的認知
 
-A good part of both cognition and social cognition is spontaneous or automatic. Automatic cognition refers to *thinking that occurs out of our awareness, quickly, and without taking much effort* (Ferguson & Bargh, 2003; Ferguson, Hassin, & Bargh, 2008). The things that we do most frequently tend to become more automatic each time we do them, until they reach a level where they don’t really require us to think about them very much. Most of us can ride a bike and operate a television remote control in an automatic way. Even though it took some work to do these things when we were first learning them, it just doesn’t take much effort anymore. And because we spend a lot of time making judgments about others, many of these judgments, which are strongly influenced by our schemas, are made quickly and automatically (Willis & Todorov, 2006).
+認知と社会的認知のかなりの部分は、自発的または自動的である。自動的認知とは、*意識の外で、素早く、ほとんど努力を必要とせずに生じる思考*を意味する (Ferguson & Bargh, 2003; Ferguson, Hassin, & Bargh, 2008)。頻繁に行うことほど、繰り返すたびに自動化され、やがてほとんど意識して考えなくてもできる水準に達する。多くの人は、自転車に乗ったりテレビのリモコンを操作したりすることを自動的にできる。最初に覚えたときにはある程度の努力が必要だったが、現在ではそれほど努力を要しない。そして私たちは他者について判断することに多くの時間を費やしているため、スキーマから強い影響を受けるこうした判断の多くも、素早く自動的に行われる (Willis & Todorov, 2006)。
 
-Because automatic thinking occurs outside of our conscious awareness, we frequently have no idea that it is occurring and influencing our judgments or behaviors. You might remember a time when you returned home, unlocked the door, and 30 seconds later couldn’t remember where you had put your keys! You know that you must have used the keys to get in, and you know you must have put them somewhere, but you simply don’t remember a thing about it. Because many of our everyday judgments and behaviors are performed automatically, we may not always be aware that they are occurring or influencing us.
+自動的思考は意識的な自覚の外で生じるため、それが起きていて、判断や行動に影響していること自体に気づいていないことが多い。帰宅して鍵を開け、その30秒後には鍵をどこへ置いたのかまったく思い出せなかった経験があるかもしれない。家に入るために鍵を使ったことも、どこかに置いたはずだということもわかっているのに、まったく記憶がないのである。日常的な判断や行動の多くは自動的に行われるため、それらが起きていることや、自分に影響していることを常に意識できるわけではない。
 
-It is of course a good thing that many things operate automatically because it would be extremely difficult to have to think about them all the time. If you couldn’t drive a car automatically, you wouldn’t be able to talk to the other people riding with you or listen to the radio at the same time—you’d have to be putting most of your attention into driving. On the other hand, relying on our snap judgments about Bianca—that she’s likely to be expressive, for instance—can be erroneous. Sometimes we need to—and should—go beyond automatic cognition and consider people more carefully. *When we deliberately size up and think about something, for instance, another person,* we call it controlled cognition. Although you might think that controlled cognition would be more common and that automatic thinking would be less likely, that is not always the case. The problem is that thinking takes effort and time, and we often don’t have too much of those things available.
+多くのことが自動化されているのはもちろん良いことである。そうでなければ、すべてを常に意識して考えなければならず、非常に大変になる。自動的に車を運転できなければ、同乗者と話したり、同時にラジオを聞いたりすることはできず、注意のほとんどを運転に向ける必要があるだろう。しかし一方で、「Bianca はおそらく表現豊かな人だ」といった即断に頼ると、誤ることもある。ときには自動的認知を超えて、他者をより慎重に検討する必要があり、またそうすべきである。*他者など、ある対象について意図的に評価し考えること*を、統制的認知（controlled cognition）と呼ぶ。統制的認知のほうが一般的で、自動的思考はそれほど起こらないように思えるかもしれないが、必ずしもそうではない。考えるには努力と時間が必要であり、私たちはそのどちらも十分に持っていないことが多いからである。
 
-In the following Research Focus, we consider an example of automatic cognition in a study that uses a common social cognitive procedure known as priming, *a technique in which information is temporarily brought into memory through exposure to situational events, which can then influence judgments entirely out of awareness.*
+次の「研究フォーカス」では、プライミングと呼ばれる一般的な社会的認知の手続きを利用した研究から、自動的認知の例を見る。プライミングとは、*状況内の出来事に接することで情報を一時的に記憶内へ呼び起こし、その情報が完全に意識の外で判断に影響することを可能にする技法*である。
 
-#### Research Focus
+#### 研究フォーカス
 
-Behavioral Effects of Priming
+**プライミングが行動に与える影響**
 
-In one demonstration of how automatic cognition can influence our behaviors without us being aware of them, John Bargh and his colleagues (Bargh, Chen, & Burrows, 1996) conducted two studies, each with the exact same procedure. In the experiments, they showed college students sets of five scrambled words. The students were to unscramble the five words in each set to make a sentence. Furthermore, for half of the research participants, the words were related to the stereotype of elderly people. These participants saw words such as “in Florida retired live people” and “bingo man the forgetful plays.”
+自動的認知が意識されないまま行動に影響することを示す研究として、John Bargh とその同僚 (Bargh, Chen, & Burrows, 1996) は、まったく同じ手続きを用いた2つの実験を行った。大学生に、順序を崩した5つの単語からなるセットを見せ、各セットの5単語を並べ替えて文を作らせた。研究参加者の半数には、高齢者のステレオタイプに関連する単語が提示された。たとえば “in Florida retired live people” や “bingo man the forgetful plays” のような単語だった。
 
-The other half of the research participants also made sentences but did so out of words that had nothing to do with the elderly stereotype. The purpose of this task was to prime (activate) the schema of elderly people in memory for some of the participants but not for others.
+残り半数の参加者も文を作ったが、高齢者のステレオタイプとは無関係な単語を使った。この課題の目的は、一部の参加者についてのみ、記憶内の高齢者スキーマをプライミング、つまり活性化させることであった。
 
-The experimenters then assessed whether the priming of elderly stereotypes would have any effect on the students’ behavior—and indeed it did. When each research participant had gathered all his or her belongings, thinking that the experiment was over, the experimenter thanked him or her for participating and gave directions to the closest elevator. Then, without the participant knowing it, the experimenters recorded the amount of time that the participant spent walking from the doorway of the experimental room toward the elevator. As you can see in Figure 2.8, “Automatic Priming and Behavior,” the same results were found in both experiments—the participants who had made sentences using words related to the elderly stereotype took on the behaviors of the elderly—they walked significantly more slowly (in fact, about 12% more slowly across the two studies) as they left the experimental room.
+その後、実験者は、高齢者ステレオタイプのプライミングが学生の行動に影響するかを調べた。そして実際に影響した。参加者が実験は終了したと思い、荷物をすべてまとめると、実験者は参加に感謝し、最寄りのエレベーターへの行き方を教えた。そして参加者には知らせず、実験室の入口からエレベーターへ向かうまでにかかった時間を記録した。図2.8「自動的プライミングと行動」に示すように、2つの実験で同じ結果が得られた。高齢者ステレオタイプに関連する単語から文を作った参加者は、高齢者に関連する行動を示し、実験室から出る際に有意にゆっくり歩いた。2つの研究を合わせると、約12%遅かった。
 
 ![Automatic priming and behaviour](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Figure-2-8.png)
 
-*Figure 2.8 Automatic Priming and Behavior. In two separate experiments, Bargh, Chen, and Borroughs (1996) found that students who had been exposed to words related to the elderly stereotype walked more slowly than those who had been exposed to more neutral words.*
+_図2.8 自動的プライミングと行動。2つの別々の実験で Bargh, Chen, and Burrows (1996) は、高齢者ステレオタイプに関連する単語に接した学生は、より中立的な単語に接した学生よりゆっくり歩いたことを明らかにした。_
 
-To determine if these priming effects occurred out of the conscious awareness of the participants, Bargh and his colleagues asked a third group of students to complete the priming task and then to indicate whether they thought the words they had used to make the sentences had any relationship to each other or could possibly have influenced their behavior in any way. These students had no awareness of the possibility that the words might have been related to the elderly or could have influenced their behavior.
+このプライミング効果が参加者の意識の外で生じていたかを調べるため、Bargh と同僚は第三の学生集団にプライミング課題を行わせ、その後、文を作るために使用した単語に何らかの関連性があったと思うか、それらが何らかの形で自分の行動に影響した可能性があると思うかを尋ねた。学生たちは、単語が高齢者に関連していた可能性にも、自分の行動に影響した可能性にも気づいていなかった。
 
-The point of these experiments, and many others like them, is clear—it is quite possible that our judgments and behaviors are influenced by our social situations, and this influence may be entirely outside of our conscious awareness. To return again to Bianca, it is even possible that we notice her nationality and that our beliefs about Italians influence our responses to her, even though we have no idea that they are doing so and really believe that they have not.
+これらの実験や同様の多くの実験が示す点は明確である。私たちの判断や行動は社会的状況から影響を受ける可能性が十分にあり、しかもその影響は完全に意識の外で起こりうる。再び Bianca の例に戻れば、私たちが彼女の国籍に気づき、イタリア人についての信念が彼女への反応に影響していても、それが起きていることにまったく気づかず、本当に「影響されていない」と信じることさえある。
 
-### Salience and Accessibility Determine Which Expectations We Use
+### どの期待を利用するかは顕著性とアクセス可能性によって決まる
 
-We each have a large number of schemas that we might bring to bear on any type of judgment we might make. When thinking about Bianca, for instance, we might focus on her nationality, her gender, her physical attractiveness, her intelligence, or any of many other possible features. And we will react to Bianca differently depending on which schemas we use. Schema activation is determined both by the salience of the characteristics of the person we are judging and by the current activation or cognitive accessibility of the schema.
+私たちは、どのような判断をするときにも利用できる多数のスキーマを持っている。たとえば Bianca について考えるときには、国籍、性別、身体的魅力、知性、そのほか数多くの特徴のいずれかに注目できる。そして、どのスキーマを利用するかによって Bianca への反応も異なる。スキーマの活性化は、判断対象となる人物の特徴の顕著性と、そのスキーマが現在どの程度活性化されているか、すなわち認知的アクセス可能性の両方によって決まる。
 
-### Salience
+### 顕著性
 
 ![people](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/people-e1411063068154.png)
 
-*Figure 2.9 Which of these people are more salient and therefore more likely to attract your attention?*
+_図2.9 この中で、どの人がより顕著で、そのためあなたの注意を引きやすいだろうか。_
 
-One determinant of which schemas are likely to be used in social judgment is the extent to which we attend to particular features of the person or situation that we are responding to. We are more likely to judge people on the basis of characteristics of salience, which attract our attention when we see someone with them. For example, things that are unusual, negative, colorful, bright, and moving are more salient and thus more likely to be attended to than are things that do not have these characteristics (McArthur & Post, 1977; Taylor & Fiske, 1978).
+社会的判断でどのスキーマを利用するかを決める要因の一つは、反応対象となる人物や状況のどの特徴に注意を向けるかである。顕著性の高い特徴、すなわち、その特徴を持つ人を見たときに注意を引く特徴に基づいて人を判断する可能性が高い。たとえば、珍しいもの、否定的なもの、色鮮やかなもの、明るいもの、動くものは、そうした特徴を持たないものより顕著であり、注意を向けられやすい (McArthur & Post, 1977; Taylor & Fiske, 1978)。
 
-We are more likely to initially judge people on the basis of their sex, race, age, and physical attractiveness, rather than on, say, their religious orientation or their political beliefs, in part because these features are so salient when we see them (Brewer, 1988). Another thing that makes something particularly salient is its infrequency or unusualness. If Bianca is from Italy and very few other people in our community are, that characteristic is something that we notice, it is salient, and we are therefore likely to attend to it. That she is also a woman is, at least in this context, is less salient.
+人を初めて判断するとき、宗教的志向や政治的信念などよりも、性別、人種、年齢、身体的魅力などに基づいて判断しやすい。これは、相手を見たときにこれらの特徴が非常に顕著だからでもある (Brewer, 1988)。また、頻度が低いことや珍しいことも、ある特徴を特に顕著にする。Bianca がイタリア出身で、地域にほとんどイタリア人がいないなら、その特徴には気づきやすく、顕著になるため、注意を向ける可能性が高い。一方、彼女が女性であることは、少なくともこの文脈ではそれほど顕著ではない。
 
-The salience of the stimuli in our social worlds may sometimes lead us to make judgments on the basis of information that is actually less informative than is other less salient information. Imagine, for instance, that you wanted to buy a new smartphone for yourself. You’ve been trying to decide whether to get the iPhone or a rival product. You went online and checked out the reviews, and you found that although the phones differed on many dimensions, including price, battery life, and so forth, the rival product was nevertheless rated significantly higher by the owners than was the iPhone. As a result, you decide to go and purchase one the next day. That night, however, you go to a party, and a friend of yours shows you her iPhone. You check it out, and it seems really great. You tell her that you were thinking of buying a rival product, and she tells you that you are crazy. She says she knows someone who had one and had a lot of problems—it didn’t download music properly, the battery died right after the warranty was up, and so forth, and that she would never buy one. Would you still buy it, or would you switch your plans?
+社会的世界の刺激の顕著性によって、実際には情報量の少ない情報を、より重要だが顕著性の低い情報より重視して判断することがある。たとえば新しいスマートフォンを買いたいと思っており、iPhone と競合製品のどちらにするか迷っているとしよう。オンラインでレビューを確認すると、価格やバッテリー寿命など多くの点で違いがあるものの、競合製品のほうが所有者から有意に高く評価されていることがわかった。そのため翌日それを購入しようと決めた。しかしその夜、パーティーで友人が iPhone を見せてくれる。実際に触ってみると、とても良く思える。競合製品を買おうと思っていると話すと、その友人は「そんなのどうかしている」と言う。知人がその製品を持っていて、音楽をうまくダウンロードできなかった、保証期間が切れた直後にバッテリーが壊れたなど、たくさん問題があったので、自分なら絶対に買わないと言う。あなたはそれでも競合製品を買うだろうか。それとも予定を変えるだろうか。
 
-If you think about this question logically, the information that you just got from your friend isn’t really all that important; you now know the opinions of one more person, but that can’t really change the overall consumer ratings of the two machines very much. On the other hand, the information your friend gives you and the chance to use her iPhone are highly salient. The information is right there in front of you, in your hand, whereas the statistical information from reviews is only in the form of a table that you saw on your computer. The outcome in cases such as this is that people frequently ignore the less salient, but more important, information, such as *the likelihood that events occur across a large population**,* known as base rates***,*** in favor of the actually less important, but nevertheless more salient, information*.*
+論理的に考えれば、その友人から新しく得た情報はそれほど重要ではない。一人分の意見が加わっただけであり、2機種についての消費者全体の評価を大きく変えるものではない。しかし、友人から直接聞いた情報と、実際にその iPhone を手に取って使った経験は非常に顕著である。それは目の前、文字どおり手の中に存在する。一方、レビューによる統計情報は、コンピュータ画面で見た表にすぎない。このような場合、人々はしばしば、*大きな母集団においてある出来事が発生する確率*である**ベースレート**のような、顕著性は低いが重要な情報を無視し、実際には重要性が低くても、より顕著な情報を優先する。
 
-Another case in which we ignore base-rate information occurs when we use the representativeness heuristic, which occurs *when we base our judgments on information that seems to represent, or match, what we expect will happen, while ignoring more informative base-rate information.* Consider, for instance, the following puzzle. Let’s say that you went to a hospital this week, and you checked the records of the babies that were born on that day (Table 2.2, “Using the Representativeness Heuristic”). Which pattern of births do you think that you are most likely to find?
+ベースレート情報を無視するもう一つの例が、代表性ヒューリスティック（representativeness heuristic）の使用である。これは、*より情報価値の高いベースレート情報を無視し、起こると予想しているものを表しているように見える、またはそれに一致しているように見える情報を基準として判断するとき*に生じる。次の問題を考えてみよう。今週病院へ行き、その日に生まれた赤ちゃんの記録を調べたとする（表2.2「代表性ヒューリスティックの利用」）。どちらの出生パターンを見つける可能性が高いと思うだろうか。
 
-*Table 2.2 Using the Representativeness Heuristic*
+_表2.2 代表性ヒューリスティックの利用_
 
-|  | List A | List B |
-| --- | --- | --- |
-| 6:31 a.m. | Girl | Boy |
-| 8:15 a.m. | Girl | Girl |
-| 9:42 a.m. | Girl | Boy |
-| 1:13 p.m. | Girl | Girl |
-| 3:39 p.m. | Boy | Girl |
-| 5:12 p.m. | Boy | Boy |
-| 7:42 p.m. | Boy | Girl |
-| 11:44 p.m. | Boy | Boy |
+|           | リストA | リストB |
+| --------- | ------- | ------- |
+| 午前6:31  | 女児    | 男児    |
+| 午前8:15  | 女児    | 女児    |
+| 午前9:42  | 女児    | 男児    |
+| 午後1:13  | 女児    | 女児    |
+| 午後3:39  | 男児    | 女児    |
+| 午後5:12  | 男児    | 男児    |
+| 午後7:42  | 男児    | 女児    |
+| 午後11:44 | 男児    | 男児    |
 
-Most people think that List B is more likely, probably because it looks more random and thus matches (is “representative of”) our ideas about randomness. But statisticians know that any pattern of four girls and four boys is equally likely and thus that List B is no more likely than List A. The problem is that we have an image of what randomness should be, which doesn’t always match what is rationally the case. Similarly, people who see a coin that comes up heads five times in a row will frequently predict (and perhaps even bet!) that tails will be next—it just seems like it has to be. But mathematically, this erroneous expectation (known as the gambler’s fallacy) is simply not true: the base-rate likelihood of any single coin flip being tails is only 50%, regardless of how many times it has come up heads in the past.
+多くの人はリストBのほうが起こりやすいと考える。おそらく、Bのほうがよりランダムに見え、私たちが持つ「ランダムらしさ」のイメージを表しているからである。しかし統計学的には、女児4人、男児4人からなるどの並び方も同じ確率であり、リストBがリストAより起こりやすいわけではない。問題は、私たちが「ランダムならこう見えるはず」というイメージを持っており、それが合理的な実態と常に一致するわけではないことである。同様に、コインを5回連続で投げてすべて表が出ると、多くの人は次は裏が出るだろうと予測し、場合によっては賭けさえする。「そろそろ裏が出なければならない」ように感じるからである。しかし、この誤った期待はギャンブラーの誤謬として知られており、数学的には正しくない。過去に何回表が出たかにかかわらず、一回のコイントスで裏が出るベースレート確率は50%にすぎない。
 
-To take one more example, consider the following information:
+もう一つ例を考えてみよう。
 
-I have a friend who is analytical, argumentative, and is involved in community activism. Which of the following is she? (Choose one.)
+私は、分析的で、議論好きで、地域活動に関わっている友人を一人知っている。彼女は次のどちらだろうか。（一つ選択）
 
-—A lawyer
+—弁護士
 
-—A salesperson
+—営業職
 
-Can you see how you might be led, potentially incorrectly, into thinking that my friend is a lawyer? Why? The description (“analytical, argumentative, and is involved in community activism”) just seems more representative or stereotypical of our expectations about lawyers than salespeople. But the base rates tell us something completely different, which should make us wary of that conclusion. Simply put, the number of salespeople greatly outweighs the number of lawyers in society, and thus statistically it is far more likely that she is a salesperson. Nevertheless, the representativeness heuristic will often cause us to overlook such important information. One unfortunate consequence of this is that it can contribute to the maintenance of stereotypes. If someone you meet seems, superficially at least, to represent the stereotypical characteristics of a social group, you may incorrectly classify that person as a member of that group, even when it is highly likely that he or she is not.
+この説明から、誤って弁護士だと考えてしまう可能性がわかるだろうか。なぜだろう。「分析的で、議論好きで、地域活動に関わっている」という説明が、営業職より弁護士についての期待、つまりステレオタイプをよりよく表しているように見えるからである。しかしベースレートを見ると、まったく異なる情報が得られるため、その結論には慎重になるべきである。単純に言えば、社会には弁護士より営業職の人のほうがはるかに多いため、統計的には彼女が営業職である可能性のほうがずっと高い。それでも代表性ヒューリスティックによって、こうした重要な情報を見落とすことが多い。その不幸な結果の一つとして、ステレオタイプが維持されやすくなる。出会った人が、少なくとも表面的には、ある社会集団についてのステレオタイプ的特徴を表しているように見える場合、実際にはその集団の成員ではない可能性が非常に高くても、誤ってその集団に分類してしまうことがある。
 
-### Cognitive Accessibility
+### 認知的アクセス可能性
 
-Although the characteristics that we use to think about objects or people are determined in part by their salience, individual differences in the person who is doing the judging are also important. People vary in the type of schemas that they tend to use when judging others and when thinking about themselves. One way to consider this is in terms of the cognitive accessibility of the schema. Cognitive accessibility refers to *the extent to which a schema is activated in memory and thus likely to be used in information processing.* Simply put, the schemas we tend to typically use are often those that are most accessible to us.
+物や人について考えるときに利用する特徴は、その顕著性によって部分的に決まるが、判断を行う本人の個人差も重要である。他者を判断するときや自分自身について考えるときに利用しやすいスキーマの種類は人によって異なる。これを考える一つの方法が、スキーマの認知的アクセス可能性である。認知的アクセス可能性とは、*あるスキーマが記憶内でどの程度活性化されており、そのため情報処理に利用されやすいか*を意味する。簡単に言えば、普段から利用する傾向が強いスキーマほど、私たちにとってアクセスしやすい。
 
-You probably know people who are football nuts (or maybe tennis or some other sport nuts). All they can talk about is football. For them, we would say that football is a highly accessible construct. Because they love football, it is important to their self-concept; they set many of their goals in terms of the sport, and they tend to think about things and people in terms of it (“If he plays or watches football, he must be okay!”). Other people have highly accessible schemas about eating healthy food, exercising, environmental issues, or really good coffee, for instance. In short, when a schema is accessible, we are likely to use it to make judgments of ourselves and others.
+サッカーに夢中な人、あるいはテニスなど別のスポーツに夢中な人を知っているかもしれない。話すことは何でもサッカーに関係している。そのような人にとって、サッカーはアクセス可能性が非常に高い概念だと言える。サッカーが好きなので、自己概念にとっても重要であり、多くの目標をスポーツに関連づけ、人や物事についてもサッカーを基準に考える傾向を持つ（「サッカーをやったり観たりするなら、きっといい人だ！」）。ほかにも、健康的な食事、運動、環境問題、おいしいコーヒーなどについて非常にアクセスしやすいスキーマを持つ人がいる。要するに、あるスキーマへのアクセス可能性が高いと、それを使って自分や他者について判断しやすくなる。
 
-Although accessibility can be considered a person variable (a given idea is more highly accessible for some people than for others), accessibility can also be influenced by situational factors. When we have recently or frequently thought about a given topic, that topic becomes more accessible and is likely to influence our judgments. This is in fact a potential explanation for the results of the priming study you read about earlier—people walked slower because the concept of elderly had been primed and thus was currently highly accessible for them.
+アクセス可能性は個人変数、つまりある考えが人によってアクセスしやすかったりしにくかったりするものとして考えられるが、状況要因からも影響を受ける。あるテーマについて最近考えた、または頻繁に考えている場合、そのテーマはよりアクセスしやすくなり、判断に影響する可能性が高くなる。これは先ほどのプライミング研究の結果を説明する一つの可能性でもある。高齢者という概念がプライミングされ、その時点で非常にアクセスしやすくなっていたため、人々はよりゆっくり歩いたのである。
 
-Because we rely so heavily on our schemas and attitudes, and particularly on those that are salient and accessible, we can sometimes be overly influenced by them. Imagine, for instance, that I asked you to close your eyes and determine whether there are more words in the English language that begin with the letter *R* or that have the letter *R* as the third letter. You would probably try to solve this problem by thinking of words that have each of the characteristics. It turns out that most people think there are more words that begin with *R*, even though there are in fact more words that have *R* as the third letter.
+私たちはスキーマや態度、特に顕著でアクセスしやすいものに強く依存しているため、それらから過度に影響されることもある。たとえば目を閉じて、英語には文字 _R_ で始まる単語と、3文字目が _R_ である単語のどちらが多いか判断してほしいと言われたとしよう。おそらく、それぞれの特徴を持つ単語を思い浮かべて問題を解こうとするだろう。実際には3文字目が _R_ の単語のほうが多いにもかかわらず、多くの人は _R_ で始まる単語のほうが多いと考える。
 
-You can see that this error can occur as a result of cognitive accessibility. To answer the question, we naturally try to think of all the words that we know that begin with *R* and that have *R* in the third position. The problem is that when we do that, it is much easier to retrieve the former than the latter, because we store words by their first, not by their third, letter. We may also think that our friends are nice people because we see them primarily when they are around us (their friends). And the traffic might seem worse in our own neighborhood than we think it is in other places, in part because nearby traffic jams are more accessible for us than are traffic jams that occur somewhere else. And do you think it is more likely that you will be killed in a plane crash or in a car crash? Many people fear the former, even though the latter is much more likely: statistically, your chances of being involved in an aircraft accident are far lower than being killed in an automobile accident. In this case, the problem is that plane crashes, which are highly salient, are more easily retrieved from our memory than are car crashes, which often receive far less media coverage.
+この誤りは認知的アクセス可能性によって生じる。質問に答えるため、_R_ で始まる単語と、3文字目が _R_ の単語を記憶から探そうとする。しかし、単語は3文字目ではなく最初の文字によって記憶されやすいため、前者のほうがはるかに思い出しやすい。また、自分の友人は良い人だと思うのも、主として自分、つまりその人の友人と一緒にいる場面で会うためかもしれない。自分の地域の交通渋滞のほうが他地域よりひどいように思えるのも、近所の渋滞はほかの場所で起きる渋滞よりアクセスしやすいからかもしれない。また、飛行機事故と自動車事故のどちらで死亡する可能性が高いと思うだろうか。多くの人は前者を恐れるが、実際には後者の可能性のほうがはるかに高い。統計的に、航空事故に遭う可能性は自動車事故で死亡する可能性よりはるかに低い。この場合、非常に顕著な飛行機事故は、メディアで報道されることの少ない自動車事故より記憶から取り出しやすいことが問題となる。
 
-*The tendency to make judgments of the frequency of an event, or the likelihood that an event will occur, on the basis of the ease with which the event can be retrieved from memory* is known as the availability heuristic (Schwarz & Vaughn, 2002; Tversky & Kahneman, 1973). The idea is that things that are highly accessible (in this case, the term *availability* is used) come to mind easily and thus may overly influence our judgments. Thus, despite the clear facts, it may be easier to think of plane crashes than of car crashes because the former are more accessible. If so, the availability heuristic can lead to errors in judgments.
+*ある出来事の頻度や、その出来事が起きる可能性を、記憶からどの程度簡単に取り出せるかに基づいて判断する傾向*は、利用可能性ヒューリスティック（availability heuristic）と呼ばれる (Schwarz & Vaughn, 2002; Tversky & Kahneman, 1973)。アクセス可能性が非常に高いもの、この場合は「利用可能（available）」なものほど容易に頭に浮かび、そのため判断に過剰な影響を与えるという考え方である。したがって明確な事実が存在していても、自動車事故より飛行機事故のほうがアクセスしやすければ、飛行機事故のほうを簡単に思い出すことになる。このように利用可能性ヒューリスティックは判断の誤りにつながることがある。
 
-For example, as people tend to overestimate the risk of rare but dramatic events, including plane crashes and terrorist attacks, their responses to these estimations may not always be proportionate to the true risks. For instance, it has been widely documented that fewer people chose to use air travel in the aftermath of the September 11, 2001 (9/11), terrorist attacks on the World Trade Center, particularly in the United States. Correspondingly, many individuals chose other methods of travel, often electing to drive rather than fly to their destination. Statistics across all regions of the world confirm that driving is far more dangerous than flying, and this prompted the cognitive psychologist Gerd Gigerenzer to estimate how many extra deaths that the increased road traffic following 9/11 might have caused. He arrived at an estimate of around an additional 1,500 road deaths in the United States alone in the year following those terrorist attacks, which was six times the number of people killed on the airplanes on September 11, 2001 (Gigerenzer, 2006).
+たとえば人々は、飛行機事故やテロ攻撃など、珍しいが劇的な出来事のリスクを過大評価する傾向があるため、その評価に基づく行動が実際のリスクに見合ったものにならない場合がある。2001年9月11日の世界貿易センターへのテロ攻撃後、とりわけアメリカでは航空機を利用する人が減少したことが広く記録されている。その結果、多くの人が別の移動方法を選び、飛行機の代わりに自動車で目的地へ向かうようになった。世界のすべての地域の統計は、自動車による移動が飛行機よりはるかに危険であることを示している。認知心理学者 Gerd Gigerenzer は、9/11 後に道路交通量が増えたことによって、どれほど追加の死者が発生した可能性があるかを推定した。その結果、テロ攻撃後の1年間だけで、アメリカでは約1,500人が追加で交通事故死したと推定した。これは2001年9月11日に航空機内で死亡した人数の6倍だった (Gigerenzer, 2006)。
 
-Another way that the cognitive accessibility of constructs can influence information processing is through their effects on processing fluency. Processing fluency refers to *the ease with which we can process information in our environments.* When stimuli are highly accessible, they can be quickly attended to and processed, and they therefore have a large influence on our perceptions. This influence is due, in part, to the fact that we often react positively to information that we can process quickly, and we use this positive response as a basis of judgment (Reber, Winkielman, & Schwarz, 1998; Winkielman & Cacioppo, 2001).
+構成概念の認知的アクセス可能性が情報処理へ影響するもう一つの仕組みが、処理流暢性（processing fluency）への影響である。処理流暢性とは、*環境内の情報をどの程度容易に処理できるか*を意味する。刺激へのアクセス可能性が高い場合、素早く注意を向けて処理できるため、知覚に大きな影響を与える。この影響の一部は、素早く処理できる情報に対して肯定的に反応しやすく、その肯定的反応を判断の基準として利用することによって生じる (Reber, Winkielman, & Schwarz, 1998; Winkielman & Cacioppo, 2001)。
 
-In one study demonstrating this effect, Norbert Schwarz and his colleagues (Schwarz et al., 1991) asked one set of college students to list six occasions when they had acted either assertively or unassertively, and asked another set of college students to list 12 such examples. Schwarz determined that for most students, it was pretty easy to list six examples but pretty hard to list 12.
+Norbert Schwarz と同僚 (Schwarz et al., 1991) は、この効果を示す研究で、一部の大学生に自己主張的または非自己主張的に行動した経験を6つ挙げるよう求め、別の大学生には12の例を挙げるよう求めた。Schwarz は、多くの学生にとって6例を挙げるのは比較的簡単だが、12例を挙げるのはかなり難しいことを確認した。
 
-The researchers then asked the participants to indicate how assertive or unassertive they actually were. You can see from Figure 2.10, “Processing Fluency,” that the ease of processing influenced judgments. The participants who had an easy time listing examples of their behavior (because they only had to list six instances) judged that they did in fact have the characteristics they were asked about (either assertive or unassertive), in comparison with the participants who had a harder time doing the task (because they had to list 12 instances). Other research has found similar effects—people rate that they ride their bicycles more often after they have been asked to recall only a few rather than many instances of doing so (Aarts & Dijksterhuis, 1999), and they hold an attitude with more confidence after being asked to generate few rather than many arguments that support it (Haddock, Rothman, Reber, & Schwarz, 1999). Sometimes less really is more!
+その後、参加者に自分が実際にどの程度自己主張的または非自己主張的かを評価させた。図2.10「処理流暢性」に示すように、処理の容易さが判断に影響した。行動の例を簡単に挙げられた参加者、つまり6例だけを求められた人は、12例を求められて課題が難しかった参加者より、自分には尋ねられた特徴、自己主張性または非自己主張性が実際に強いと評価した。別の研究でも同様の効果が確認されている。自転車に乗った経験を多数ではなく少数だけ思い出すよう求められると、自転車に乗る頻度を高く評価する (Aarts & Dijksterhuis, 1999)。また、自分の態度を支持する論拠を多数ではなく少数だけ挙げるよう求められると、その態度に対する確信が強くなる (Haddock, Rothman, Reber, & Schwarz, 1999)。ときには、本当に「少ないほうが多い」のである。
 
 ![Processing Fluency](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-2-10.png)
 
-*Figure 2.10 Processing Fluency. When it was relatively easy to complete the questionnaire (only six examples were required), the student participants rated that they had more of the trait than when the task was more difficult (12 answers were required). Data are from Schwarz et al. (1991).*
+_図2.10 処理流暢性。質問票を比較的簡単に完成できた場合（6例だけ必要）、学生参加者は、課題がより難しかった場合（12回答必要）より、自分がその特性を強く持っていると評価した。データは Schwarz et al. (1991) による。_
 
-Echoing the findings mentioned earlier in relation to schemas, we are likely to use this type of quick and “intuitive” processing, based on our feelings about how easy it is to complete a task, when we don’t have much time or energy for more in-depth processing, such as when we are under time pressure, tired, or unwilling to process the stimulus in sufficient detail. Of course, it is very adaptive to respond to stimuli quickly (Sloman, 2002; Stanovich & West, 2002; Winkielman, Schwarz, & Nowak, 2002), and it is not impossible that in at least some cases, we are better off making decisions based on our initial responses than on a more thoughtful cognitive analysis (Loewenstein, Weber, Hsee, & Welch, 2001). For instance, Dijksterhuis, Bos, Nordgren, and van Baaren (2006) found that when participants were given tasks requiring decisions that were very difficult to make on the basis of a cognitive analysis of the problem, they made better decisions when they didn’t try to analyze the details carefully but simply relied on their intuitions.
+先ほどスキーマについて見た知見と同様、このような、課題をどれほど簡単に実行できると感じるかに基づく素早く「直感的」な処理は、時間やエネルギーが不足していて詳細に処理できないとき、たとえば時間に追われている、疲れている、刺激を十分詳しく検討する気がないときに利用しやすい。当然、刺激に素早く反応することは非常に適応的である (Sloman, 2002; Stanovich & West, 2002; Winkielman, Schwarz, & Nowak, 2002)。また、少なくとも一部の場合には、慎重な認知分析よりも最初の反応に基づいて意思決定したほうが良い可能性もある (Loewenstein, Weber, Hsee, & Welch, 2001)。たとえば Dijksterhuis, Bos, Nordgren, and van Baaren (2006) は、問題を認知的に分析して判断することが非常に難しい課題では、詳細を慎重に分析しようとせず、単に直感に頼った参加者のほうが良い意思決定をしたことを明らかにした。
 
-In sum, people are influenced not only by the information they get but on how they get it. We are more highly influenced by things that are salient and accessible and thus easily attended to, remembered, and processed. On the other hand, information that is harder to access from memory, is less likely to be attended to, or takes more effort to consider is less likely to be used in our judgments, even if this information is statistically more informative.
+要するに、人は得た情報の内容だけでなく、その情報をどのように得たかによっても影響される。顕著でアクセスしやすく、そのため注意を向け、記憶し、処理することが容易なものから強く影響を受ける。一方、記憶からアクセスしにくい情報、注意を向けにくい情報、検討により多くの努力を要する情報は、たとえ統計的にはより有益であっても、判断に利用されにくい。
 
-### The False Consensus Bias Makes Us Think That Others Are More Like Us Than They Really Are
+### 偽の合意バイアスによって、他者は実際以上に自分と似ていると思ってしまう
 
-The tendency to base our judgments on the accessibility of social constructs can lead to still other errors in judgment. One such error is known as the false consensus bias, *the tendency to overestimate the extent to which other people hold similar views to our own*. As our own beliefs are highly accessible to us, we tend to rely on them too heavily when asked to predict those of others. For instance, if you are in favor of abortion rights and opposed to capital punishment, then you are likely to think that most other people share these beliefs (Ross, Greene, & House, 1977). In one demonstration of the false consensus bias, Joachim Krueger and his colleagues (Krueger & Clement, 1994) gave their research participants, who were college students, a personality test. Then they asked the same participants to estimate the percentage of other students in their school who would have answered the questions the same way that they did. The students who agreed with the items often thought that others would agree with them too, whereas the students who disagreed typically believed that others would also disagree. A closely related bias to the false consensus effect is the projection bias*,* which is *the tendency to assume that others share our cognitive and affective states* (Hsee, Hastie, & Chen, 2008).
+社会的構成概念へのアクセス可能性に基づいて判断する傾向は、さらに別の判断エラーを引き起こす。その一つが偽の合意バイアス（false consensus bias）、すなわち*他者が自分と似た見解を持っている程度を過大評価する傾向*である。自分自身の信念は非常にアクセスしやすいため、他者の信念を予測するよう求められると、それに過度に依存する傾向がある。たとえば中絶の権利に賛成し、死刑に反対している場合、多くの他者も同じ信念を共有していると考えやすい (Ross, Greene, & House, 1977)。Joachim Krueger と同僚 (Krueger & Clement, 1994) は、偽の合意バイアスを示す研究で、大学生の参加者に性格検査を行った。その後、同じ参加者に、自分と同じように質問へ回答する同じ大学の学生の割合を推定させた。各項目に同意した学生は、他者も同意すると考えやすく、同意しなかった学生は他者も同意しないと考えやすかった。偽の合意効果と密接に関連するバイアスに投影バイアス（projection bias）がある。これは、*他者も自分と同じ認知状態や感情状態を共有していると仮定する傾向*である (Hsee, Hastie, & Chen, 2008)。
 
-In regards to our chapter case study, the false consensus effect has also been implicated in the potential causes of the 2008 financial collapse. Considering investor behavior within its social context, an important part of sound decision making is the ability to predict other investors’ intentions and behaviors, as this will help to foresee potential market trends. In this context, Egan, Merkle, and Weber (in press) outline how the false consensus effect can lead investors to overestimate the extent to which other investors share their judgments about the likely trends, which can in turn lead them to make inaccurate predictions of their behavior, with dire economic consequences.*<br />*
+本章の事例に関連して、偽の合意効果は2008年の金融崩壊を引き起こした可能性のある要因ともされている。投資家の行動を社会的文脈で考えると、健全な意思決定の重要な一部分は、ほかの投資家の意図や行動を予測する能力である。それによって将来の市場動向を予測しやすくなるからである。この文脈で Egan, Merkle, and Weber は、偽の合意効果によって投資家が、自分の市場動向についての判断を他者も共有している程度を過大評価し、その結果、他者の行動を不正確に予測し、深刻な経済的結果を生む可能性を指摘している。
 
-Although it is commonly observed, the false consensus bias does not occur on all dimensions. Specifically, the false consensus bias is not usually observed on judgments of positive personal traits that we highly value as important. People (falsely, of course) report that they have better personalities (e.g., a better sense of humor), that they engage in better behaviors (e.g., they are more likely to wear seatbelts), and that they have brighter futures than almost everyone else (Chambers, 2008). These results suggest that although in most cases we assume that we are similar to others, in cases of valued personal characteristics the goals of self-concern lead us to see ourselves more positively than we see the average person. There are some important cultural differences here, though, with members of collectivist cultures typically showing less of this type of self-enhancing bias, than those from individualistic cultures (Heine, Lehman, Markus, & Kitayama, 1999).
+偽の合意バイアスは一般的に観察されるが、すべての側面で生じるわけではない。特に、自分が重要だと高く評価している肯定的な個人特性を判断する際には、通常、偽の合意バイアスは見られない。人々は、当然ながら誤って、自分はほとんどの他者より良い人格を持っている（たとえばユーモアのセンスが優れている）、より良い行動をしている（たとえばシートベルトを着用する可能性が高い）、そしてより明るい未来を持っていると報告する (Chambers, 2008)。この結果は、多くの場合には自分は他者と似ていると考える一方、価値ある個人的特徴については、自己への関心という目標によって、平均的な人より自分を肯定的に見ることを示唆する。ただしここには重要な文化差があり、集団主義文化の人々は個人主義文化の人々より、この種の自己高揚バイアスを示す程度が低い (Heine, Lehman, Markus, & Kitayama, 1999)。
 
-### Perceptions of What “Might Have Been” Lead to Counterfactual Thinking
+### 「そうなっていたかもしれない」という認識が反実仮想思考を生み出す
 
-In addition to influencing our judgments about ourselves and others, the salience and accessibility of information can have an important effect on our own emotions and self-esteem. Our emotional reactions to events are often colored not only by what did happen but also by what *might have* happened. If we can easily imagine an outcome that is better than what actually happened, then we may experience sadness and disappointment; on the other hand, if we can easily imagine that a result might have been worse that what actually happened, we may be more likely to experience happiness and satisfaction. *The tendency to think about events according to what might have been* is known as counterfactual thinking (Roese, 1997).
+情報の顕著性とアクセス可能性は、自分自身や他者についての判断だけでなく、感情や自尊心にも重要な影響を与える。出来事に対する感情的反応は、実際に何が起きたかだけでなく、何が*起きていたかもしれないか*によっても左右される。実際の結果より良い結果を簡単に想像できれば、悲しみや失望を感じる可能性がある。一方、実際より悪い結果になっていた可能性を簡単に想像できれば、幸福感や満足を感じやすくなる。*「どうなっていたかもしれないか」という観点から出来事について考える傾向*を、反実仮想思考（counterfactual thinking）という (Roese, 1997)。
 
-Imagine, for instance, that you were participating in an important contest, and you won the silver medal. How would you feel? Certainly you would be happy that you won, but wouldn’t you probably also be thinking a lot about what might have happened if you had been just a little bit better—you might have won the gold medal! On the other hand, how might you feel if you won the bronze medal (third place)? If you were thinking about the counterfactual (the “what might have been”), perhaps the idea of not getting any medal at all would have been highly accessible and so you’d be happy that you got the medal you did get.
+重要な競技に出場し、銀メダルを獲得したと想像してみよう。どのように感じるだろうか。もちろんメダルを獲得できたことは嬉しいだろう。しかし、あと少しだけ良ければ金メダルだったかもしれない、とかなり考えるのではないだろうか。一方、銅メダル（3位）だったらどう感じるだろう。「そうなっていたかもしれない」という反実仮想について考えると、メダルをまったく取れなかった可能性が非常にアクセスしやすくなり、その結果、実際に獲得したメダルを嬉しく感じるかもしれない。
 
-Medvec, Madey, and Gilovich (1995) investigated exactly this idea by videotaping the responses of athletes who won medals in the 1992 summer Olympic Games. They videotaped the athletes both as they learned that they had won a silver or a bronze medal and again as they were awarded the medal. Then they showed these videos, without any sound, to people who did not know which medal which athlete had won. The raters indicated how they thought the athlete was feeling, on a range from “agony” to “ecstasy.” The results showed that the bronze medalists did indeed seem to be, on average, happier than were the silver medalists. Then, in a follow-up study, raters watched interviews with many of these same athletes as they talked about their performance. The raters indicated what we would expect on the basis of counterfactual thinking. The silver medalists often talked about their disappointments in having finished second rather than first, whereas the bronze medalists tended to focus on how happy they were to have finished third rather than fourth.
+Medvec, Madey, and Gilovich (1995) は、1992年夏季オリンピックでメダルを獲得した選手の反応を撮影し、この考えを検証した。選手が銀または銅メダルを獲得したと知ったときと、実際にメダルを授与されたときの両方を撮影した。その後、どの選手がどのメダルを取ったか知らない人々に、音声なしで映像を見せた。評価者は、選手がどのように感じていると思うかを、「苦痛」から「歓喜」までの尺度で評価した。結果、平均すると銅メダリストのほうが銀メダリストより幸福そうに見えた。さらに追跡研究では、同じ選手の多くが自分のパフォーマンスについて語るインタビューを評価者に見せた。評価結果は反実仮想思考から予想されるとおりだった。銀メダリストは1位ではなく2位になったことへの失望について頻繁に話した一方、銅メダリストは4位ではなく3位になれたことへの喜びに焦点を当てる傾向があった。
 
 ![Olympic Medalists](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-2-11.png)
 
-*Figure 2.11 Does the bronze medalist look happier to you than the silver medalist? Medvec, Madey, and Gilovich (1995) found that, on average, bronze medalists were happier than silver medalists.*
+_図2.11 銅メダリストは銀メダリストより嬉しそうに見えるだろうか。Medvec, Madey, and Gilovich (1995) は、平均すると銅メダリストのほうが銀メダリストより幸福だったことを明らかにした。_
 
-Counterfactual thinking seems to be part of the human condition and has even been studied in numerous other social settings, including juries. For example, people who were asked to award monetary damages to others who had been in an accident offered them substantially more in compensation if they were almost not injured than they did if the accident seemed more inevitable (Miller, Turnbull, & McFarland, 1988).
+反実仮想思考は人間の基本的な性質の一部であるようで、陪審を含むさまざまな社会的場面で研究されてきた。たとえば事故に遭った人への損害賠償額を決めるよう求められた人は、その事故が「あと少しで起こらなかった」ように見える場合には、事故がほぼ不可避だった場合より大幅に高い補償額を与えた (Miller, Turnbull, & McFarland, 1988)。
 
-Again, the moral of the story regarding the importance of cognitive accessibility is clear—in the case of counterfactual thinking, the accessibility of the potential alternative outcome can lead to some seemingly paradoxical effects.
+ここでも認知的アクセス可能性の重要性についての教訓は明確である。反実仮想思考の場合、代替結果へのアクセス可能性が、一見すると逆説的な効果を生み出すことがある。
 
-### Anchoring and Adjustment Lead Us to Accept Ideas That We Should Revise
+### アンカリングと調整によって、本来修正すべき考えを受け入れてしまう
 
-In some cases, we may be aware of the danger of acting on our expectations and attempt to adjust for them. Perhaps you have been in a situation where you are beginning a course with a new professor and you know that a good friend of yours does not like him. You may be thinking that you want to go beyond your negative expectation and prevent this knowledge from biasing your judgment. However, *the accessibility of the initial information frequently prevents this adjustment from occurring—leading us to weight initial information too heavily and thereby insufficiently move our judgment away from it.* This is called the problem of anchoring and adjustment*.*
+場合によっては、自分の期待に従って行動する危険性に気づき、それを補正しようとする。たとえば新しい教授の授業を履修し始めたとき、親しい友人がその教授を嫌っていると知っている場面を考えてみよう。否定的な期待を超えて、この知識によって判断が偏らないようにしたいと思うかもしれない。しかし、_最初の情報へのアクセス可能性によって十分な調整が妨げられ、最初の情報に過大な重みを置き、判断をそこから十分に移動できないことが多い。_ これをアンカリングと調整（anchoring and adjustment）の問題という。
 
-Tversky and Kahneman (1974) asked some of the student participants in one of their studies of anchoring and adjustment to solve this multiplication problem quickly and without using a calculator:
+Tversky and Kahneman (1974) は、アンカリングと調整の研究で、一部の学生参加者に電卓を使わず素早く次の掛け算を解くよう求めた。
 
 1 × 2 × 3 × 4 × 5 × 6 × 7 × 8
 
-They asked other participants to solve this problem:
+別の参加者には次の問題を出した。
 
 8 × 7 × 6 × 5 × 4 × 3 × 2 × 1
 
-They found that students who saw the first problem gave an estimated answer of about 512, whereas the students who saw the second problem estimated about 2,250. Tversky and Kahneman argued that the students couldn’t solve the whole problem in their head, so they did the first few multiplications and then used the outcome of this preliminary calculation as their starting point, or anchor. Then the participants used their starting estimate to find an answer that sounded plausible. In both cases, the estimates were too low relative to the true value of the product (which is 40,320)—but the first set of guesses were even lower because they started from a lower anchor.
+最初の問題を見た学生の推定値は約512だったのに対し、2番目の問題を見た学生は約2,250と推定した。Tversky と Kahneman は、学生は頭の中ですべてを計算できないため、最初の数回の掛け算を行い、その初期計算の結果を出発点、つまりアンカーとして使ったのだと考えた。その後、その最初の推定値から、もっともらしく聞こえる答えへ調整した。どちらの場合も、実際の積40,320より推定値は低かったが、最初の集団ではより低いアンカーから出発したため、推定値がさらに低くなった。
 
-Interestingly, the tendency to anchor on initial information seems to be sufficiently strong that in some cases, people will do so even when the anchor is clearly irrelevant to the task at hand. For example, Ariely, Loewenstein, and Prelec (2003) asked students to bid on items in an auction after having noted the last two digits of their social security numbers. They then asked the students to generate and write down a hypothetical price for each of the auction items, based on these numbers. If the last two digits were 11, then the bottle of wine, for example, was priced at $11. If the two numbers were 88, the textbook was $88. After they wrote down this initial, arbitrary price, they then had to bid for the item. People with high numbers bid up to 346% more than those with low ones! Ariely, reflecting further on these findings, concluded that the “Social security numbers were the anchor in this experiment only because we requested them. We could have just as well asked for the current temperature or the manufacturer’s suggested retail price. Any question, in fact, would have created the anchor. Does that seem rational? Of course not” (2008, p. 26). A rather startling conclusion from the effect of arbitrary, irrelevant anchors on our judgments is that we will often grab hold of any available information to guide our judgments, regardless of whether it is actually germane to the issue.
+興味深いことに、最初の情報へアンカーする傾向は非常に強く、アンカーが課題と明らかに無関係な場合でも生じることがある。Ariely, Loewenstein, and Prelec (2003) は、学生に社会保障番号の末尾2桁を書かせた後、オークションの商品へ入札させた。まず、その数字を基準に各商品の仮想価格を書かせた。末尾が11ならワインは11ドル、88なら教科書は88ドルといった具合である。その完全に恣意的な最初の価格を書いた後、実際に商品へ入札させた。その結果、高い数字を持つ人は低い数字を持つ人より最大346%高く入札した。Ariely はこの結果について、社会保障番号がアンカーになったのは単に研究者がそれを尋ねたからであり、気温やメーカー希望小売価格でもよかった、実際にはどんな質問でもアンカーを生み出しただろうと結論づけた (2008, p. 26)。このような、恣意的で無関係なアンカーが判断に与える効果から得られる驚くべき結論は、判断を導くため、問題に本当に関連しているかにかかわらず、利用可能な情報にしがみつくことが多いということである。
 
-Of course, savvy marketers have long used the anchoring phenomenon to help them. You might not be surprised to hear that people are more likely to buy more products when they are listed as four for $1.00 than when they are listed as $0.25 each (leading people to anchor on the four and perhaps adjust only a bit away). And it is no accident that a car salesperson always starts negotiating with a high price and then works down. The salesperson is trying to get the consumer anchored on the high price, with the hope that it will have a big influence on the final sale value.
+もちろん、知識のあるマーケターは長い間アンカリング現象を利用してきた。「1個25セント」と表示するより「4個1ドル」と表示したほうが、人々がより多くの商品を購入しやすいと聞いても驚かないだろう。4という数字にアンカーし、そこから少ししか調整しない可能性があるからである。また、自動車販売員が最初に高い価格を提示し、そこから値下げして交渉するのも偶然ではない。高い価格へ消費者をアンカーさせ、それが最終的な販売価格に大きな影響を与えることを期待しているのである。
 
-### Overconfidence
+### 過信
 
-Still another potential judgmental bias, and one that has powerful and often negative effects on our judgments, is the overconfidence bias*,* *a tendency to be overconfident in our own skills, abilities, and judgments*. We often have little awareness of our own limitations, leading us to act as if we are more certain about things than we should be, particularly on tasks that are difficult. Adams and Adams (1960) found that for words that were difficult to spell, people were correct in spelling them only about 80% of the time, even though they indicated that they were “100% certain” that they were correct. David Dunning and his colleagues (Dunning, Griffin, Milojkovic, & Ross, 1990) asked college students to predict how another student would react in various situations. Some participants made predictions about a fellow student whom they had just met and interviewed, and others made predictions about their roommates. In both cases, participants reported their confidence in each prediction, and accuracy was determined by the responses of the target persons themselves. The results were clear: regardless of whether they judged a stranger or a roommate, the students consistently overestimated the accuracy of their own predictions (Figure 2.12).
+さらに別の潜在的な判断バイアスであり、判断に強力でしばしば否定的な影響を与えるものが、過信バイアス（overconfidence bias）、すなわち*自分自身の技能、能力、判断を過度に信頼する傾向*である。特に難しい課題では、自分自身の限界にほとんど気づかず、本来より強い確信を持っているかのように行動することが多い。Adams and Adams (1960) は、綴りの難しい単語について、人々は「100%正しいと確信している」と答えていたにもかかわらず、実際に正しく綴れたのは約80%だったことを明らかにした。David Dunning と同僚 (Dunning, Griffin, Milojkovic, & Ross, 1990) は、大学生に、別の学生がさまざまな状況でどのように反応するかを予測させた。一部は初対面で面接したばかりの学生について、ほかの参加者は自分のルームメートについて予測した。参加者はそれぞれの予測にどの程度自信があるかも回答し、正確さは対象者本人の回答と比較して判断された。結果は明確だった。見知らぬ人を判断する場合でもルームメートを判断する場合でも、学生は一貫して自分の予測の正確さを過大評価していた（図2.12）。
 
 ![Overconfidence](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-2-12.png)
 
-*Figure 2.12 Dunning and colleagues (1990) found that, regardless of whether they were judging strangers or their roommates, students were overconfident. The percentage confidence that they assigned to their own predictions was significantly higher than the actual percentage of their predictions that were correct.*
+_図2.12 Dunning ら (1990) は、見知らぬ人を判断するときでもルームメートを判断するときでも、学生が過信していることを明らかにした。自分の予測に与えた確信度は、実際に正しかった予測の割合より有意に高かった。_
 
-Making matters even worse, Kruger and Dunning (1999) found that people who scored low rather than high on tests of spelling, logic, grammar, and humor appreciation were also most likely to show overconfidence by overestimating how well they would do. Apparently, poor performers are doubly cursed—they not only are unable to predict their own skills but also are the most unaware that they can’t do so (Dunning, Johnson, Ehrlinger, & Kruger, 2003).
+さらに悪いことに、Kruger and Dunning (1999) は、綴り、論理、文法、ユーモア理解のテストで高得点ではなく低得点だった人ほど、自分の成績を過大評価する過信を示しやすいことを明らかにした。成績の悪い人は二重の問題を抱えているようである。自分の技能を正確に予測できないだけでなく、自分にそれができないこと自体にも最も気づきにくい (Dunning, Johnson, Ehrlinger, & Kruger, 2003)。
 
-The tendency to be overconfident in our judgments can have some very negative effects. When eyewitnesses testify in courtrooms regarding their memories of a crime, they often are completely sure that they are identifying the right person. But their confidence doesn’t correlate much with their actual accuracy. This is, in part, why so many people have been wrongfully convicted on the basis of inaccurate eyewitness testimony given by overconfident witnesses (Wells & Olson, 2003). Overconfidence can also spill over into professional judgments, for example, in clinical psychology (Oskamp, 1965) and in market investment and trading (Chen, Kim, Nofsinger, & Rui, 2007). Indeed, in regards to our case study at the start of this chapter, the role of overconfidence bias in the financial crisis of 2008 and its aftermath has been well documented (Abbes, 2012).
+判断を過信する傾向は非常に否定的な結果を生む場合がある。目撃者が法廷で犯罪の記憶について証言するとき、自分が正しい人物を特定していると完全に確信していることが多い。しかし、確信の強さと実際の正確さとの相関は小さい。過信した目撃者による不正確な証言に基づいて、非常に多くの人が誤って有罪判決を受けてきた理由の一部はここにある (Wells & Olson, 2003)。過信は、臨床心理学 (Oskamp, 1965) や市場投資・取引 (Chen, Kim, Nofsinger, & Rui, 2007) など、専門家の判断にも及ぶ。実際、本章冒頭の事例に関して、2008年の金融危機とその余波に過信バイアスが果たした役割は十分に記録されている (Abbes, 2012)。
 
-This overconfidence also often seems to apply to social judgments about the future in general. A pervasive optimistic biashas been noted in members of many cultures (Sharot, 2011), which can be defined as *a tendency to believe that positive outcomes are more likely to happen than negative ones, particularly in relation to ourselves versus others.* Importantly, this optimism is often unwarranted. Most people, for example, underestimate their risk of experiencing negative events like divorce and illness, and overestimate the likelihood of positive ones, including gaining a promotion at work or living to a ripe old age (Schwarzer, 1994). There is some evidence of diversity in regards to optimism, however, across different groups. People in collectivist cultures tend not to show this bias to the same extent as those living in individualistic ones (Chang, Asakawa, & Sanna, 2001). Moreover, individuals who have clinical depression have been shown to evidence a phenomenon termed depressive realism*,* whereby their *social judgments about the future are less positively skewed and often more accurate than those who do not have depression* (Moore & Fresco, 2012).
+この過信は、将来一般についての社会的判断にも適用されることが多い。多くの文化で広く見られる楽観バイアス（optimistic bias）(Sharot, 2011) は、*否定的な結果より肯定的な結果のほうが起こりやすい、とりわけ他者より自分自身についてそう信じる傾向*と定義できる。重要なのは、この楽観性には根拠がないことが多い点である。たとえば、多くの人は離婚や病気など否定的な出来事を経験するリスクを過小評価し、昇進や長寿など肯定的な出来事が起こる可能性を過大評価する (Schwarzer, 1994)。ただし楽観性には集団間の多様性を示す証拠もある。集団主義文化の人々は、個人主義文化の人々ほどこのバイアスを強く示さない傾向がある (Chang, Asakawa, & Sanna, 2001)。また、臨床的うつ病を持つ人には、抑うつリアリズム（depressive realism）と呼ばれる現象が見られることがあり、_将来についての社会的判断が肯定的な方向へ偏りにくく、うつ病でない人より正確な場合が多い_ (Moore & Fresco, 2012)。
 
-The optimistic bias can also extend into the planning fallacy*,* defined as *a tendency to overestimate the amount that we can accomplish over a particular time frame.* This fallacy can also entail the underestimation of the resources and costs involved in completing a task or project, as anyone who has attempted to budget for home renovations can probably attest to. Everyday examples of the planning fallacy abound, in everything from the completion of course assignments to the construction of new buildings. On a grander scale, newsworthy items in any country hosting a major sporting event, for example, the Olympics or World Cup soccer always seem to include the spiralling budgets and overrunning timelines as the events approach.
+楽観バイアスは計画錯誤（planning fallacy）にも広がる。計画錯誤とは、*一定の期間内に達成できる量を過大評価する傾向*である。また、課題やプロジェクトを完成させるために必要な資源や費用を過小評価することも含まれる。住宅改修の予算を立てた経験がある人なら、よくわかるだろう。計画錯誤は、授業課題の完成から新しい建物の建設まで、日常の至るところに存在する。さらに大規模な例では、オリンピックやサッカーのワールドカップなど大規模なスポーツイベントを開催する国では、開催が近づくにつれて予算が膨らみ、予定が遅延するニュースが必ずと言ってよいほど報じられる。
 
-Why is the planning fallacy so persistent? Several factors appear to be at work here. Buehler, Griffin and Peetz (2010) argue that when planning projects, individuals orient to the future and pay too little attention to their past relevant experiences. This can cause them to overlook previous occasions where they experienced difficulties and over-runs. They also tend to plan for what time and resources are likely to be needed, if things run as planned. That is, they do not spend enough time thinking about all the things that might go wrong, for example, all the unforeseen demands on their time and resources that may occur during the completion of the task. Worryingly, the planning fallacy seems to be even stronger for tasks where we are highly motivated and invested in timely completions. It appears that wishful thinking is often at work here (Buehler et al., 2010). For some further perspectives on the advantages and disadvantages of the optimism bias, see this engaging [TED Talk by Tali Sharot](https://www.ted.com/talks/tali_sharot_the_optimism_bias).
+なぜ計画錯誤はこれほど根強いのだろうか。複数の要因が働いているようである。Buehler, Griffin and Peetz (2010) は、プロジェクトを計画するとき、人は将来に目を向けすぎ、関連する過去の経験へ十分な注意を払わないと論じている。その結果、過去に困難や遅延を経験した事例を見落とすことがある。また、すべてが予定どおりに進んだ場合に必要となる時間や資源を中心に計画する傾向もある。つまり、課題の完成中に発生する予想外の時間・資源への要求など、「何がうまくいかない可能性があるか」について十分に考えない。さらに問題なのは、期限どおりの完成への動機づけや思い入れが強い課題ほど、計画錯誤がさらに強くなるように見えることである。ここでは願望的思考が働いているようである (Buehler et al., 2010)。楽観バイアスの長所と短所について別の視点を知りたい場合は、[Tali Sharot の TED Talk](https://www.ted.com/talks/tali_sharot_the_optimism_bias) を参照。
 
-If these biases related to overconfidence appear at least sometimes to lead us to inaccurate social judgments, a key question here is why are they so pervasive? What functions do they serve? One possibility is that they help to enhance people’s motivation and self-esteem levels. If we have a positive view of our abilities and judgments, and are confident that we can execute tasks to deadlines, we will be more likely to attempt challenging projects and to put ourselves forward for demanding opportunities. Moreover, there is consistent evidence that a mild degree of optimism can predict a range of positive outcomes, including success and even physical health (Forgeard & Seligman, 2012).
+過信に関連するこうしたバイアスが、少なくともときには不正確な社会的判断につながるのであれば、重要な疑問は「なぜこれほど広く存在するのか」「どのような機能を果たしているのか」である。一つの可能性は、人々の動機づけや自尊心を高めることに役立っているというものである。自分の能力や判断について肯定的に考え、期限までに課題を実行できると確信していれば、難しいプロジェクトに挑戦し、要求の高い機会にも自ら手を挙げる可能性が高くなる。また、穏やかな程度の楽観性が、成功や身体的健康などさまざまな肯定的結果を予測することを示す一貫した証拠がある (Forgeard & Seligman, 2012)。
 
-### The Importance of Cognitive Biases in Everyday Life
+### 日常生活における認知バイアスの重要性
 
-In our review of some of the many cognitive biases that affect our social judgment, we have seen that the effects on us as individuals range from fairly trivial decisions; for example, which phone to buy (which perhaps doesn’t seem so trivial at the time) to potentially life and death decisions (about methods of travel, for instance).
+社会的判断に影響する数多くの認知バイアスを見てきたが、それらの影響は、どのスマートフォンを買うかという比較的ささいな判断から、移動手段の選択など生死に関わりうる判断まで幅広い。
 
-However, when we consider that many of these errors will not only affect us but also everyone around us, then their consequences can really add up. Why would so many people continue to buy lottery tickets or to gamble their money in casinos when the likelihood of them ever winning is so low? One possibility, of course, is the representative heuristic—people ignore the low base rates of winning and focus their attention on the salient likelihood of winning a huge prize. And the belief in astrology, which all scientific evidence suggests is not accurate, is probably driven in part by the salience of the occasions when the predictions do occur—when a horoscope is correct (which it will of course sometimes be), the correct prediction is highly salient and may allow people to maintain the (overall false) belief as they recollect confirming evidence more readily.
+さらに、こうした誤りの多くが自分自身だけでなく周囲のすべての人に影響すると考えると、その結果は非常に大きなものになる。勝つ可能性が非常に低いにもかかわらず、なぜ多くの人が宝くじを買い続けたり、カジノで賭け続けたりするのだろうか。一つの可能性は代表性ヒューリスティックである。勝利の低いベースレートを無視し、巨額の賞金を獲得するという顕著な可能性に注意を集中する。また、あらゆる科学的証拠が正確ではないことを示している占星術への信念も、予言が実際に当たった場面の顕著性によって部分的に支えられていると考えられる。星占いは当然、ときには偶然当たる。その正しい予測が非常に顕著となり、確認する証拠を思い出しやすくなるため、全体として誤った信念を維持できる。
 
-People may also take more care to prepare for unlikely events than for more likely ones because the unlikely ones are more salient or accessible. For instance, people may think that they are more likely to die from a terrorist attack or as the result of a homicide than they are from diabetes, stroke, or tuberculosis. But the odds are much greater of dying from the health problems than from terrorism or homicide. Because people don’t accurately calibrate their behaviors to match the true potential risks, the individual and societal costs are quite large (Slovic, 2000).
+また、可能性の低い出来事のほうが顕著またはアクセスしやすいため、可能性の高い出来事より入念に備えることもある。たとえば、糖尿病、脳卒中、結核よりも、テロ攻撃や殺人によって死亡する可能性のほうが高いと考えるかもしれない。しかし実際には、健康問題で死亡する確率のほうが、テロや殺人で死亡する確率よりはるかに高い。人々は実際の潜在的リスクに合わせて行動を正確に調整しないため、個人にも社会にもかなり大きなコストが生じる (Slovic, 2000)。
 
-As well as influencing our judgments relating to ourselves, salience and accessibility also color how we perceive our social worlds, which may have a big influence on our behavior. For instance, people who watch a lot of violent television shows also tend to view the world as more dangerous in comparison to those who watch less violent TV (Doob & Macdonald, 1979). This follows from the idea that our judgments are based on the accessibility of relevant constructs. We also overestimate our contribution to joint projects (Ross & Sicoly, 1979), perhaps in part because our own contributions are so obvious and salient, whereas the contributions of others are much less so. And the use of cognitive heuristics can even affect our views about global warming. Joireman, Barnes, Truelove, and Duell (2010) found that people were more likely to believe in the existence of global warming when they were asked about it on hotter rather than colder days and when they had first been primed with words relating to heat. Thus the principles of salience and accessibility, because they are such an important part of our social judgments, can create a series of biases that can make a difference on a truly global level.
+顕著性とアクセス可能性は、自分自身に関する判断だけでなく、社会的世界をどう捉えるかにも影響し、その結果、行動にも大きな影響を与える。たとえば暴力的なテレビ番組を多く見る人は、あまり見ない人より、世界を危険な場所だと捉える傾向がある (Doob & Macdonald, 1979)。これは、判断が関連する構成概念へのアクセス可能性を基礎としているという考え方と一致する。また共同プロジェクトへの自分自身の貢献を過大評価する傾向もある (Ross & Sicoly, 1979)。自分の貢献は非常に明白で顕著なのに対し、他者の貢献はそれほど顕著ではないことが一因かもしれない。認知的ヒューリスティックの利用は、地球温暖化についての見方にさえ影響する。Joireman, Barnes, Truelove, and Duell (2010) は、寒い日より暑い日に地球温暖化について尋ねられた場合、また事前に暑さに関連する単語でプライミングされた場合に、地球温暖化の存在を信じる可能性が高くなることを明らかにした。このように、顕著性とアクセス可能性は社会的判断の非常に重要な部分であるため、地球規模の違いさえ生みうる一連のバイアスにつながる。
 
-As we have already seen specifically in relation to overconfidence, research has found that even people who should know better—and who need to know better—are subject to cognitive biases in general. Economists, stock traders, managers, lawyers, and even doctors have been found to make the same kinds of mistakes in their professional activities that people make in their everyday lives (Byrne & McEleney, 2000; Gilovich, Griffin, & Kahneman, 2002; Hilton, 2001). And the use of cognitive heuristics is increased when people are under time pressure (Kruglanski & Freund, 1983) or when they feel threatened (Kassam, Koslov, & Mendes, 2009), exactly the situations that often occur when professionals are required to make their decisions.
+過信との関連ですでに見たように、研究では、本来ならより正確な判断を知っているはず、そして知る必要がある人々でさえ、一般的な認知バイアスの影響を受けることが示されている。経済学者、株式トレーダー、経営者、弁護士、さらには医師までもが、専門的活動の中で、一般の人が日常生活で犯すのと同じ種類の誤りを犯すことが示されている (Byrne & McEleney, 2000; Gilovich, Griffin, & Kahneman, 2002; Hilton, 2001)。そして認知的ヒューリスティックの利用は、時間的プレッシャーを受けているとき (Kruglanski & Freund, 1983) や、脅威を感じているとき (Kassam, Koslov, & Mendes, 2009) に増加する。まさに、専門家が意思決定を求められる際によく生じる状況である。
 
-#### Biased About Our Biases: The Bias Blind Spot
+#### 自分自身のバイアスにも偏っている：バイアスの盲点
 
-So far, we have discussed some of the most important and heavily researched social cognitive biases that affect our appraisals of ourselves in relation to our social worlds and noted some of their key limitations. Recently, some social psychologists have become interested in how aware we are of how these biases and the ways in which they can affect our own and others’ thinking. The short answer to this is that we often underestimate the extent to which our social cognition is biased, and that we typically (incorrectly) believe that we are less biased than the average person. Researchers have named this *tendency to believe that our own judgments are less susceptible to the influence of bias than those of others* as the bias blind spot (Ehrlinger, Gilovich, & Ross, 2005). Interestingly, the level of bias blind spot that people demonstrate is unrelated to the actual amount of bias they show in their social judgments (West, Meserve, & Stanovich, 2012). Moreover, those scoring higher in cognitive ability actually tend to show a larger bias blind spot (West et al., 2012).
+ここまでは、社会的世界との関係で自分自身を評価するときに影響する、特に重要で多く研究されている社会的認知バイアスについて論じ、その主な限界を見てきた。近年、一部の社会心理学者は、こうしたバイアスが自分や他者の思考にどのような影響を与えるかについて、私たち自身がどの程度気づいているかに関心を持つようになった。簡単な答えを言えば、自分の社会的認知がどれほど偏っているかを過小評価し、一般に、誤って「自分は平均的な人よりバイアスが少ない」と考える。研究者は、*自分自身の判断は他者の判断よりバイアスの影響を受けにくいと信じる傾向*を、バイアスの盲点（bias blind spot）と名づけている (Ehrlinger, Gilovich, & Ross, 2005)。興味深いことに、人が示すバイアスの盲点の程度は、社会的判断で実際に示すバイアス量とは関係がない (West, Meserve, & Stanovich, 2012)。さらに、認知能力が高い人ほど、むしろバイアスの盲点が大きい傾向さえある (West et al., 2012)。
 
-So, if our social cognition appears to be riddled with multiple biases, and we tend to show biases about these biases, what hope is there for us in reaching sound social judgments? Before we arrive at such a pessimistic conclusion, however, it is important to redress the balance of evidence a little. Perhaps just learning more about these biases, as we have done in this chapter, can help us to recognize when they are likely to be useful to our social judgments, and to take steps to reduce their effects when they hinder our understanding of our social worlds. Maybe, although many of the biases discussed tend to persist even in the face of our awareness, at the very least, learning about them could be an important first step toward reducing their unhelpful effects on our social cognition. In order to get reliably better at policing our biases, though, we probably need to go further. One of the world’s foremost authorities on social cognitive biases, Nobel Laureate Daniel Kahneman, certainly thinks so. He argues that individual awareness of biases is an important precursor to the development of a common vocabulary about them, that will then make us better able as communities to discuss their effects on our social judgments (Kahneman, 2011). Kahneman also asserts that we may be more likely to recognize and challenge bias in each other’s thinking than in our own, an observation that certainly fits with the concept of the bias blind spot. Perhaps, even if we cannot effectively police our thinking on our own, we can help to police one another’s.
+それでは、社会的認知が多数のバイアスに満ちており、さらにそのバイアスそのものについてもバイアスを持つのであれば、健全な社会的判断に到達する希望はあるのだろうか。そのような悲観的結論に達する前に、証拠のバランスを少し取り戻す必要がある。本章で行ったように、バイアスについて学ぶだけでも、それらが社会的判断に役立つ可能性がある場面を認識し、社会的世界の理解を妨げる場合には影響を減らすための行動を取れるようになるかもしれない。論じてきたバイアスの多くは、その存在に気づいていても持続する傾向があるものの、少なくともそれらについて学ぶことは、社会的認知への有害な影響を減らすための重要な第一歩となりうる。ただし、バイアスを確実に監視できるようになるには、おそらくさらに進む必要がある。社会的認知バイアス研究の世界的権威の一人で、ノーベル賞受賞者の Daniel Kahneman もそう考えている。Kahneman は、個人がバイアスを認識することは、それらについて共通の語彙を形成するための重要な前提であり、それによって社会的判断に与える影響を共同体としてよりよく議論できるようになると主張している (Kahneman, 2011)。また、自分自身の思考のバイアスより、他者の思考のバイアスのほうを認識し、異議を唱えやすい可能性も指摘している。これはまさにバイアスの盲点という概念と一致する。自分の思考を一人で十分に監視できなくても、互いの思考を監視し合うことはできるかもしれない。
 
-These arguments are consistent with some evidence that, although mere awareness is rarely enough to significantly attenuate the effects of bias, it can be helpful when accompanied by systematic cognitive retraining. Many social psychologists and other scientists are working to help people make better decisions. One possibility is to provide people with better feedback. Weather forecasters, for instance, are quite accurate in their decisions (at least in the short-term), in part because they are able to learn from the clear feedback that they get about the accuracy of their predictions. Other research has found that accessibility biases can be reduced by leading people to consider multiple alternatives rather than focusing only on the most obvious ones, and by encouraging people to think about exactly the opposite possible outcomes than the ones they are expecting (Hirt, Kardes, & Markman, 2004). And certain educational experiences can help people to make better decisions. For instance, Lehman, Lempert, and Nisbett (1988) found that graduate students in medicine, law, and chemistry, and particularly those in psychology, all showed significant improvement in their ability to reason correctly over the course of their graduate training.
+この議論は、単にバイアスの存在を知るだけではその効果を大幅に弱めるには不十分な場合が多いが、体系的な認知的再訓練を伴えば役立つことを示す研究とも一致する。多くの社会心理学者やほかの科学者が、人々の意思決定を改善する方法を研究している。一つの可能性は、より良いフィードバックを与えることである。たとえば天気予報士は、少なくとも短期的にはかなり正確な判断をする。これは自分の予測が正しかったかについて明確なフィードバックを受け、そこから学習できることが一因である。また、最も明白な選択肢だけに焦点を当てるのではなく、複数の代替案を検討させたり、期待している結果とは正反対の可能性について考えさせたりすることで、アクセス可能性に由来するバイアスを減らせることも明らかになっている (Hirt, Kardes, & Markman, 2004)。特定の教育経験も意思決定の改善に役立つ。Lehman, Lempert, and Nisbett (1988) は、医学、法律、化学、そして特に心理学の大学院生が、大学院教育を受ける間に、正しく推論する能力を有意に向上させたことを明らかにした。
 
-Another source for some optimism about the accuracy of our social cognition is that these heuristics and biases can, despite their limitations, often lead us to a broadly accurate understanding of the situations we encounter. Although we do have limited cognitive abilities, information, and time when making social judgments, that does not mean we cannot and do not make enough sense of our social worlds in order to function effectively in our daily lives. Indeed, some researchers, including Cosmides and Tooby (2000) and Gigerenzer (2004) have argued that these biases and heuristics have been sculpted by evolutionary forces to offer fast and frugal ways of reaching sound judgments about our infinitely complex social worlds enough of the time to have adaptive value. If, for example, you were asked to say which Spanish city had a larger population, Madrid or Valencia, the chances are you would quickly answer that Madrid was bigger, even if you did not know the relevant population figures. Why? Perhaps the availability heuristic and cognitive accessibility had something to do with it—the chances are that most people have just heard more about Madrid in the global media over the years, and they can more readily bring these instances to mind. From there, it is a short leap to the general rule that larger cities tend to get more media coverage. So, although our journeys to our social judgments may not be always be pretty, at least we often arrive at the right destination.
+社会的認知の正確さについて楽観できるもう一つの理由は、こうしたヒューリスティックやバイアスには限界があっても、直面する状況について大まかには正確な理解へ導いてくれることが多い点にある。社会的判断を行う際の認知能力、情報、時間には限界があるが、だからといって日常生活で効果的に機能できる程度には社会的世界を理解できないという意味ではない。Cosmides and Tooby (2000) や Gigerenzer (2004) など一部の研究者は、こうしたバイアスやヒューリスティックは進化の力によって形作られ、無限に複雑な社会的世界について、適応的価値を持つ程度には十分な頻度で健全な判断を下すための「速くて低コストな」方法を提供していると論じている。たとえばスペインの Madrid と Valencia のどちらの人口が多いか尋ねられれば、実際の人口を知らなくても、おそらくすぐ Madrid と答えるだろう。なぜだろうか。利用可能性ヒューリスティックと認知的アクセス可能性が関係しているのかもしれない。多くの人は世界のメディアを通じて Valencia より Madrid について多く聞いてきており、その例を簡単に思い出せる。そしてそこから「大きな都市ほどメディアで多く扱われる」という一般則へ移行するのは簡単である。社会的判断に至る道筋は必ずしも美しいものではないが、それでも多くの場合、正しい目的地には到達できるのである。
 
-:::note[Interactive activity]
+:::note[インタラクティブ・アクティビティ]
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3166#h5p-6](https://opentextbc.ca/socialpsychology/?p=3166#h5p-6)
+この版のテキストでは、インタラクティブな H5P 要素が除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3166#h5p-6](https://opentextbc.ca/socialpsychology/?p=3166#h5p-6)
 
 :::
 
-**H5P: TEST YOUR LEARNING: CHAPTER 2 DRAG THE WORDS – BIASES AND HEURISTICS**
+**H5P：学習内容を確認しよう：第2章 単語ドラッグ ― バイアスとヒューリスティック**
 
-To check your learning of some key concepts so far, match each of the scenarios below to one of the following social cognitive biases or heuristics that we have covered in this chapter. Match the concept that you think is most clearly shown in each scenario into the correct box.
+ここまでに扱った重要な概念の理解を確認するため、次の各シナリオを、本章で取り上げた社会的認知バイアスまたはヒューリスティックのいずれかと対応させよう。それぞれのシナリオで最も明確に示されていると思う概念を正しい欄へ入れなさい。
 
-**Concepts:** overconfidence bias, availability heuristic, bias blind spot, false consensus bias, confirmation bias
+**概念：** 過信バイアス、利用可能性ヒューリスティック、バイアスの盲点、偽の合意バイアス、確証バイアス
 
-**Scenarios:**
+**シナリオ：**
 
-1. After the 9/11 terrorist attacks in the U.S., it has been estimated that more people were killed in road accidents when driving instead of flying to their destinations than were killed in those terrorist attacks themselves. Which bias or heuristic is most relevant to people’s overestimation of the risk of another airborne terrorist attack?
-2. The ship RMS Titanic was fitted with fewer than half the lifeboat capacity needed to save her passengers and crew. Part of the reason for this was that she had been designed to be practically unsinkable, and no-one could envisage an event which would cause her to founder. On April 14th, 1912, Titanic collided with an iceberg on her maiden voyage, and sank with the loss of more than 1500 lives. Which bias or heuristic is most relevant to this underestimation of the dangers?
-3. In a recent news item, a federal judge defended his ability to impartially preside over a case involving a close friend. Many others could see that his impartiality had been compromised. Which bias or heuristic is most relevant to the judge’s inability to see this?
-4. During the COVID-19 pandemic, many people have used search engines to find support for their beliefs around things like the effectiveness of mask wearing and social distancing. Which bias or heuristic is most relevant to these types of information searches?
-5. People who talk about political candidates they like are sometimes surprised when the others around them do not share their views, which can lead to some heated arguments! Which bias or heuristic is most relevant to people being surprised here?
+1. アメリカで9/11テロが発生した後、飛行機ではなく自動車で目的地へ向かったことで交通事故死した人のほうが、そのテロ攻撃そのもので死亡した人より多かったと推定されている。新たな航空テロ攻撃のリスクを過大評価したことに最も関係するバイアスまたはヒューリスティックは何か。
+2. RMS Titanic には、乗客と乗員を救うために必要な救命艇収容人数の半分にも満たない救命艇しか搭載されていなかった。その理由の一部は、実質的に沈まない船として設計され、沈没させる出来事を誰も想像できなかったことである。1912年4月14日、Titanic は処女航海中に氷山へ衝突し、沈没して1,500人を超える死者を出した。この危険の過小評価に最も関係するバイアスまたはヒューリスティックは何か。
+3. 最近のニュースで、連邦判事が、親しい友人が関係する裁判でも公平に裁判長を務められると主張した。ほかの多くの人には、その公平性が損なわれていることがわかった。判事自身がそれに気づけなかったことに最も関係するバイアスまたはヒューリスティックは何か。
+4. COVID-19 パンデミック中、多くの人が検索エンジンを使って、マスク着用やソーシャルディスタンスの有効性などについて、自分の信念を支持する情報を探した。このような情報検索に最も関係するバイアスまたはヒューリスティックは何か。
+5. 自分が支持する政治候補者について話す人は、周囲の人が同じ意見を持っていないことに驚く場合があり、ときには激しい議論になる。ここで驚きが生じることに最も関係するバイアスまたはヒューリスティックは何か。
 
-#### Social Psychology in the Public Interest
+#### 公共の利益における社会心理学
 
-##### The Validity of Eyewitness Testimony
+##### 目撃証言の妥当性
 
-One social situation in which the accuracy of our person-perception skills is vitally important is the area of eyewitness testimony (Charman & Wells, 2007; Toglia, Read, Ross, & Lindsay, 2007; Wells, Memon, & Penrod, 2006). Every year, thousands of individuals are charged with and often convicted of crimes based largely on eyewitness evidence. In fact, many people who were convicted prior to the existence of forensic DNA have now been exonerated by DNA tests, and more than 75% of these people were victims of mistaken eyewitness identification (Wells, Memon, & Penrod, 2006; Fisher, 2011).
+人を知覚する能力の正確さがきわめて重要になる社会的状況の一つが、目撃証言である (Charman & Wells, 2007; Toglia, Read, Ross, & Lindsay, 2007; Wells, Memon, & Penrod, 2006)。毎年、目撃者の証拠を主な根拠として何千人もの人が犯罪で起訴され、多くの場合有罪となる。実際、法医学的DNA検査が存在する以前に有罪となった多くの人が、その後DNA検査によって無罪を証明されている。そのうち75%以上は、目撃者による人物特定の誤りの被害者だった (Wells, Memon, & Penrod, 2006; Fisher, 2011)。
 
-The judgments of eyewitnesses are often incorrect, and there is only a small correlation between how accurate and how confident an eyewitness is. Witnesses are frequently overconfident, and a person who claims to be absolutely certain about his or her identification is not much more likely to be accurate than someone who appears much less sure, making it almost impossible to determine whether a particular witness is accurate or not (Wells & Olson, 2003).
+目撃者の判断はしばしば誤っており、その正確さと確信の強さとの相関は小さい。目撃者は過信することが多く、「自分の特定は絶対に正しい」と主張する人が、あまり自信のない人より大幅に正確であるわけではない。そのため、ある目撃者が実際に正しいかを判断することはほとんど不可能である (Wells & Olson, 2003)。
 
-To accurately remember a person or an event at a later time, we must be able to accurately see and store the information in the first place, keep it in memory over time, and then accurately retrieve it later. But the social situation can influence any of these processes, causing errors and biases.
+後になって人物や出来事を正確に思い出すためには、最初の段階で情報を正確に見て保存し、それを時間の経過の中で記憶に保持し、その後正確に取り出す必要がある。しかし社会的状況は、これらのどの過程にも影響し、誤りやバイアスを生み出す可能性がある。
 
-In terms of initial encoding of the memory, crimes normally occur quickly, often in situations that are accompanied by a lot of stress, distraction, and arousal. Typically, the eyewitness gets only a brief glimpse of the person committing the crime, and this may be under poor lighting conditions and from far away. And the eyewitness may not always focus on the most important aspects of the scene. Weapons are highly salient, and if a weapon is present during the crime, the eyewitness may focus on the weapon, which would draw his or her attention away from the individual committing the crime (Steblay, 1997). In one relevant study, Loftus, Loftus, and Messo (1987) showed people slides of a customer walking up to a bank teller and pulling out either a pistol or a checkbook. By tracking eye movements, the researchers determined that people were more likely to look at the gun than at the checkbook and that this reduced their ability to accurately identify the criminal in a lineup that was given later.
+記憶を最初に符号化する段階について言えば、犯罪は通常短時間で起こり、強いストレス、注意散漫、覚醒を伴う状況で生じることが多い。目撃者は通常、犯罪を行っている人物を短時間しか見ることができず、照明が悪く、遠距離からの場合もある。また、場面の最も重要な部分へ注意を向けるとは限らない。武器は非常に顕著であるため、犯罪中に武器が存在すると、目撃者は武器へ注意を集中し、犯人本人への注意が逸れる可能性がある (Steblay, 1997)。Loftus, Loftus, and Messo (1987) の研究では、銀行窓口へ近づいた客が拳銃または小切手帳を取り出すスライドを参加者に見せた。眼球運動を追跡した結果、小切手帳より拳銃を見る可能性が高く、そのため後でラインナップから犯人を正確に特定する能力が低下した。
 
-People may be particularly inaccurate when they are asked to identify members of a race other than their own (Brigham, Bennett, Meissner, & Mitchell, 2007). In one field study, for example, Meissner and Brigham (2001) sent European-American, African-American, and Hispanic students into convenience stores in El Paso, Texas. Each of the students made a purchase, and the researchers came in later to ask the clerks to identify photos of the shoppers. Results showed that the clerks demonstrated the own-race bias: they were all more accurate at identifying customers belonging to their own racial or ethnic group, which may be more salient to them, than they were at identifying people from other groups. There seems to be some truth to the adage that “They all look alike”—at least if an individual is looking at someone who is not of his or her own race.
+自分とは異なる人種の人物を特定するよう求められると、とりわけ不正確になる可能性がある (Brigham, Bennett, Meissner, & Mitchell, 2007)。Meissner and Brigham (2001) のフィールド研究では、ヨーロッパ系アメリカ人、アフリカ系アメリカ人、ヒスパニックの学生をテキサス州 El Paso のコンビニエンスストアへ行かせた。それぞれが商品を購入し、その後研究者が店員に、買い物客の写真を特定するよう求めた。その結果、店員には自人種バイアス（own-race bias）が見られた。つまり、他集団の人より、自分と同じ人種・民族集団の客を正確に特定できた。少なくとも自分とは異なる人種の人物を見る場合、「みんな同じに見える」という言い回しにはある程度の真実があるようである。
 
 ![people](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/people1-e1411063269937.jpg)
 
-*Figure 2.13 One source of error in eyewitness testimony is the relative difficulty of accurately identifying people who are not of one’s own race.*
+_図2.13 目撃証言の誤りの一因は、自分とは異なる人種の人物を正確に特定することが比較的難しい点にある。_
 
-Even if information gets encoded properly, memories may become distorted over time. For one thing, people might discuss what they saw with other people, or they might read information relating to it from other bystanders or in the media. Such postevent information can distort the original memories such that the witnesses are no longer sure what the real information is and what was provided later. The problem is that the new, inaccurate information is highly cognitively accessible, whereas the older information is much less so. The reconstructive memory bias suggests that the memory may shift over time to fit the individual’s current beliefs about the crime. Even describing a face makes it more difficult to recognize the face later (Dodson, Johnson, & Schooler, 1997).
+情報が最初に正しく符号化されても、時間の経過とともに記憶が歪むことがある。目撃した内容をほかの人と話したり、ほかの目撃者やメディアから関連情報を読んだりすることがある。このような事後情報は元の記憶を歪め、何が本当に見た情報で、何が後から与えられたものかわからなくなる場合がある。新しい不正確な情報は認知的に非常にアクセスしやすい一方、古い情報はずっとアクセスしにくいことが問題である。再構成的記憶バイアスによれば、記憶は時間の経過とともに、その犯罪について本人が現在持っている信念に合うよう変化する可能性がある。顔を言葉で説明するだけでも、その後その顔を認識することが難しくなる (Dodson, Johnson, & Schooler, 1997)。
 
-In an experiment by Loftus and Palmer (1974), participants viewed a film of a traffic accident and then, according to random assignment to experimental conditions, answered one of three questions:
+Loftus and Palmer (1974) の実験では、参加者が交通事故の映像を見た後、実験条件への無作為割り当てによって次の3問のいずれかに回答した。
 
-1. About how fast were the cars going when they hit each other?
-2. About how fast were the cars going when they smashed each other?
-3. About how fast were the cars going when they contacted each other?
+1. 車同士が「ぶつかった（hit）」とき、車はおよそどのくらいの速度で走っていましたか。
+2. 車同士が「激突した（smashed）」とき、車はおよそどのくらいの速度で走っていましたか。
+3. 車同士が「接触した（contacted）」とき、車はおよそどのくらいの速度で走っていましたか。
 
-As you can see in in the Figure 2.14, “Reconstructive Memory,” although all the participants saw the same accident, their estimates of the speed of the cars varied by condition. People who had seen the “smashed” question estimated the highest average speed, and those who had seen the “contacted” question estimated the lowest.
+図2.14「再構成的記憶」に示すように、すべての参加者が同じ事故を見ていたにもかかわらず、車の速度の推定値は条件によって異なった。「smashed」という質問を見た人の平均推定速度が最も高く、「contacted」を見た人が最も低かった。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-2-14.png)
 
-*Figure 2.14 Reconstructive Memory*
+_図2.14 再構成的記憶_
 
-Participants viewed a film of a traffic accident and then answered a question about the accident. According to random assignment, the blank was filled by either “hit,” “smashed,” or “contacted” each other. The wording of the question influenced the participants’ memory of the accident. Data are from Loftus and Palmer (1974).
+参加者は交通事故の映像を見た後、その事故について質問された。無作為割り当てによって、空欄には「hit」「smashed」「contacted」のいずれかが入った。質問の言い回しが参加者の事故の記憶に影響した。データは Loftus and Palmer (1974) による。
 
-The situation is particularly problematic when the eyewitnesses are children, because research has found that children are more likely to make incorrect identifications than are adults (Pozzulo & Lindsay, 1998) and are also subject to the own-race identification bias (Pezdek, Blandon-Gitlin, & Moore, 2003). In many cases, when sex abuse charges have been filed against babysitters, teachers, religious officials, and family members, the children are the only source of evidence. The possibility that children are not accurately remembering the events that have occurred to them creates substantial problems for the legal system.
+目撃者が子どもである場合、問題は特に大きい。研究では、子どもは成人より誤った人物特定をしやすく (Pozzulo & Lindsay, 1998)、自人種特定バイアスの影響も受けることが明らかになっている (Pezdek, Blandon-Gitlin, & Moore, 2003)。ベビーシッター、教師、宗教関係者、家族などに対して性的虐待の容疑がかけられる事例では、子どもが唯一の証拠源である場合も多い。子どもが経験した出来事を正確に記憶していない可能性は、司法制度に大きな問題をもたらす。
 
-Another setting in which eyewitnesses may be inaccurate is when they try to identify suspects from mug shots or lineups. A lineup generally includes the suspect and five to seven other innocent people (the fillers), and the eyewitness must pick out the true perpetrator. The problem is that eyewitnesses typically feel pressured to pick a suspect out of the lineup, which increases the likelihood that they will mistakenly pick someone (rather than no one) as the suspect.
+目撃者が不正確になりうる別の場面が、顔写真やラインナップから容疑者を特定するときである。一般的なラインナップには容疑者と5～7人の無関係な人物（フィラー）が含まれ、目撃者は本当の犯人を選ばなければならない。問題は、目撃者がラインナップから誰かを選ばなければならないという圧力を感じることが多く、そのため「誰も選ばない」のではなく、誤って誰かを容疑者として選ぶ可能性が高まることである。
 
-Research has attempted to better understand how people remember and potentially misremember the scenes of and people involved in crimes and to attempt to improve how the legal system makes use of eyewitness testimony. In many states, efforts are being made to better inform judges, juries, and lawyers about how inaccurate eyewitness testimony can be. Guidelines have also been proposed to help ensure that child witnesses are questioned in a nonbiasing way (Poole & Lamb, 1998). Steps can also be taken to ensure that lineups yield more accurate eyewitness identifications. Lineups are more fair when the fillers resemble the suspect, when the interviewer makes it clear that the suspect might or might not be present (Steblay, Dysart, Fulero, & Lindsay, 2001), and when the eyewitness has not been shown the same pictures in a mug-shot book prior to the lineup decision. And several recent studies have found that witnesses who make accurate identifications from a lineup reach their decision faster than do witnesses who make mistaken identifications, suggesting that authorities must take into consideration not only the response but how fast it is given (Dunning & Perretta, 2002).
+研究では、人々が犯罪現場やそこにいた人物をどのように記憶し、誤って記憶する可能性があるのかをより深く理解し、司法制度が目撃証言を利用する方法を改善しようとしてきた。多くの州では、目撃証言がどれほど不正確になりうるかについて、裁判官、陪審員、弁護士へより十分な情報を与える取り組みが行われている。子どもの目撃者へ誘導的でない方法で質問するための指針も提案されている (Poole & Lamb, 1998)。ラインナップによる人物特定をより正確にするための対策も取れる。フィラーが容疑者と似ている場合、面接者が「容疑者がこの中にいる場合も、いない場合もある」と明確に説明する場合 (Steblay, Dysart, Fulero, & Lindsay, 2001)、ラインナップ前に目撃者が顔写真帳で同じ写真を見せられていない場合に、ラインナップはより公平になる。また近年の複数の研究では、ラインナップから正確な人物特定をする目撃者は、誤った人物を特定する目撃者より早く判断することが明らかになっており、当局は回答内容だけでなく、その回答がどれほど速く行われたかも考慮する必要があることが示唆される (Dunning & Perretta, 2002)。
 
-In addition to distorting our memories for events that have actually occurred, misinformation may lead us to falsely remember information that never occurred. Loftus and her colleagues asked parents to provide them with descriptions of events that did happen (e.g., moving to a new house) and did not happen (e.g., being lost in a shopping mall) to their children. Then (without telling the children which events were real or made up) the researchers asked the children to imagine both types of events. The children were instructed to “think really hard” about whether the events had occurred (Ceci, Huffman, Smith, & Loftus, 1994). More than half of the children generated stories regarding at least one of the made-up events, and they remained insistent that the events did in fact occur even when told by the researcher that they could not possibly have occurred (Loftus & Pickrell, 1995). Even college students are susceptible to manipulations that make events that did not actually occur seem as if they did (Mazzoni, Loftus, & Kirsch, 2001).
+誤情報は、実際に起きた出来事の記憶を歪めるだけでなく、一度も起きていない情報を誤って記憶させることもある。Loftus と同僚は、親から、子どもに実際に起きた出来事（たとえば新居への引っ越し）と、起きていない出来事（たとえばショッピングモールで迷子になったこと）の説明を集めた。その後、どれが本物でどれが架空かを子どもに知らせず、両種類の出来事を想像させた。子どもたちには、その出来事が本当に起きたかを「一生懸命考える」よう指示した (Ceci, Huffman, Smith, & Loftus, 1994)。半数を超える子どもが、少なくとも一つの架空の出来事について物語を作り、研究者から「その出来事は起こりえなかった」と説明されても、本当に起きたと主張し続けた (Loftus & Pickrell, 1995)。大学生でさえ、実際には起きていない出来事を、起きたかのように感じさせる操作の影響を受ける (Mazzoni, Loftus, & Kirsch, 2001)。
 
-The ease with which memories can be created or implanted is particularly problematic when the events to be recalled have important consequences. Therapists often argue that patients may repress memories of traumatic events they experienced as children, such as childhood sexual abuse, and then recover the events years later as the therapist leads them to recall the information—for instance, by using dream interpretation and hypnosis (Brown, Scheflin, & Hammond, 1998).
+記憶が容易に作られたり植えつけられたりすることは、思い出す出来事が重大な結果を持つ場合、とりわけ問題となる。セラピストの中には、患者が子どもの頃に経験した性的虐待などのトラウマ記憶を抑圧し、何年も後になって夢分析や催眠などを使ってセラピストが記憶を呼び起こすことで、その出来事を回復できると主張する者もいる (Brown, Scheflin, & Hammond, 1998)。
 
-But other researchers argue that painful memories such as sexual abuse are usually very well remembered, that few memories are actually repressed, and that even if they are, it is virtually impossible for patients to accurately retrieve them years later (McNally, Bryant, & Ehlers, 2003; Pope, Poliakoff, Parker, Boynes, & Hudson, 2007). These researchers have argued that the procedures used by the therapists to “retrieve” the memories are more likely to actually implant false memories, leading the patients to erroneously recall events that did not actually occur. Because hundreds of people have been accused, and even imprisoned, on the basis of claims about “recovered memory” of child sexual abuse, the accuracy of these memories has important societal implications. Many psychologists now believe that most of these claims of recovered memories are due to implanted, rather than real, memories (Loftus & Ketcham, 1994).
+しかし別の研究者は、性的虐待のような苦痛な記憶は通常非常によく記憶されており、実際に抑圧される記憶は少なく、たとえ抑圧されたとしても、何年も後に正確に取り出すことは事実上不可能だと論じている (McNally, Bryant, & Ehlers, 2003; Pope, Poliakoff, Parker, Boynes, & Hudson, 2007)。これらの研究者によれば、セラピストが記憶を「回復」するために用いる手続きは、実際には偽記憶を植えつけ、患者に起きていない出来事を誤って思い出させる可能性のほうが高い。児童性的虐待についての「回復記憶」を根拠として、何百人もの人々が告発され、ときには投獄されてきたため、こうした記憶の正確さには重要な社会的意味がある。現在、多くの心理学者は、回復記憶に関するこうした主張の大部分は、本物の記憶ではなく、植えつけられた記憶によるものだと考えている (Loftus & Ketcham, 1994)。
 
-Taken together, then, the problems of eyewitness testimony represent another example of how social cognition—including the processes that we use to size up and remember other people—may be influenced, sometimes in a way that creates inaccurate perceptions, by the operation of salience, cognitive accessibility, and other information-processing biases.
+以上を総合すると、目撃証言の問題は、他者を評価し記憶するために用いる過程を含む社会的認知が、顕著性、認知的アクセス可能性、その他の情報処理バイアスの働きによって影響され、ときには不正確な知覚を生み出すことを示す、もう一つの例である。
 
-:::note[Interactive activity]
+:::note[インタラクティブ・アクティビティ]
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3166#h5p-7](https://opentextbc.ca/socialpsychology/?p=3166#h5p-7)
-
-:::
-
-**H5P: TEXT YOUR LEARNING: CHAPTER 2 FIILL IN THE BLANKS – COVID-19 AND FAMILY DYNAMICS CASE STUDY**
-
-Use your understanding of some key social cognitive biases and heuristics to identify which one is most relevant to each part of the case study below. Please choose from the following alternatives, using each one only once, by typing it in the correct box: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-
-1. Cole and Kristin have been married ten years and have two school-age children. Like so many families around the world during the COVID-19 pandemic, they have had many new stressors to cope with. One has been their different beliefs about COVID-19. In the early months of the pandemic, Cole thought that it didn’t seem to be much more serious than the flu and was skeptical about things like needing to wear a mask. Kristin, on the other hand, was more frightened of getting the virus and wore a mask indoors long before it was mandatory. The search histories on their laptops are very different around COVID issues, including mask wearing. Cole’s had search terms like: “why wearing masks doesn’t work”, whereas Kristin’s had things like: “why wearing a mask could save your life”. What concept is especially relevant to their different search histories here? Choose one from the following alternatives: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-2. There have been many arguments in their household about their different beliefs, which has sometimes put a strain on their relationship. In a particularly heated debate around mask wearing, Cole mentioned a recent headline where someone who’d worn a mask at work every day at work had nonetheless contracted COVID-19. Kristin said she did not remember that headline, but did note some media stories of indoor outbreaks linked to people not wearing masks. Their tendency to remember headlines that fitted their current beliefs is most linked to which concept? Choose one from the following alternatives: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-3. As mask wearing became mandatory in indoor public spaces, Cole reluctantly adopted this practice. However, he noticed that the third wave of cases in their local area happened months after this mandate was introduced. He mentioned this to Kristin, saying “How is it that even with all this mask wearing, here we are with the case numbers increasing so fast?” Kristin replied that this wasn’t a fair question, as the number of cases that would have occurred if mask wearing had not been mandatory could have been much higher. Cole responded by saying that there was no way of knowing that for sure. This conversation about how things might have been under different conditions is most relevant to which concept? Choose one from the following alternatives: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-4. They have also discussed these issues with family and friends, and Cole tends to be more outspoken than Kristin on these issues. Sometimes, though, he has found himself surprised while sharing his views about mask wearing that not many people have agreed with him. Which concept best explains his surprise here? Choose one from the following alternatives: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-5. Another issue they clashed on was around their children’s schooling in the Fall of 2020. In their local area, the government gave parents the option of either sending their children back to school full-time, or of enrolling in remote classes online. Kristin was leaning towards the latter option, as there had been a couple of cases at local schools when schools had reopened in the Summer of 2020. Cole pointed out that the number of cases linked to schools had been low overall, and they eventually decided to send their children back full-time. Although the number of outbreaks of schools remained low, Kristin continued to feel anxious, and assessed the risks as higher than they probably were. Which concept is most relevant here to her difficulty focusing on the low base rates of transmission in schools? Choose one from the following alternatives: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-6. Cole sometimes got frustrated at Kristin’s anxiety here, and told her that she wasn’t modifying her beliefs enough based on this more recent evidence. Which concept here was Kristin’s thinking most related to? Choose one from the following alternatives: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-7. Another common topic of conversation during the pandemic was about when it would be over. In the first few months, they were both hopeful that it would be under control some time in 2020. Like many people, they underestimated how long it and would take to control, and how many different resources would be needed. Which concept most clearly relates to this underestimation? Choose one from the following alternatives: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-8. Cole thought that life would return to some normalcy earlier than Kristin, reflecting his more positive outlook in general about what the future holds. Kristin has maintained that her more cautious view is more realistic, but Cole has countered that Kristin’s view is counterproductive. Which bias is most relevant here to their different dispositions here? Choose one from the following alternatives: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-9. A final contentious issue in their household was that of vaccination. Kristin was very keen to get a vaccination as soon as a vaccine became available, whereas Cole was more skeptical. When the vaccine was rolled out for their age group in their local area, they both got their first shot. Afterwards, Cole was saying that this would allow them to return to a more normal life, and start meeting up with more people. Kristin countered by saying that they would need to wait for their second shots, and probably beyond. They began arguing, with Cole saying that he was tired of Kristin living in fear, and her saying that he was being too reckless. In the end, they agreed to disagree on this point, but these tensions are likely to continue. Which concept best relates to Cole’s reaction to having his first shot here? Choose one from the following alternatives: overconfidence bias, optimistic bias, counterfactual thinking, confirmation bias, false consensus bias, reconstructive memory bias, planning fallacy, anchoring and adjustment, availability heuristic.
-
-:::tip[Key Takeaways]
-
-- We use our schemas and attitudes to help us judge and respond to others. In many cases, this is appropriate, but our expectations can also lead to biases in our judgments of ourselves and others.
-- A good part of our social cognition is spontaneous or automatic, operating without much thought or effort. On the other hand, when we have the time and the motivation to think about things carefully, we may engage in thoughtful, controlled cognition.
-- Which expectations we use to judge others is based on both the situational salience of the things we are judging and the cognitive accessibility of our own schemas and attitudes.
-- Variations in the accessibility of schemas lead to biases such as the availability heuristic, the representativeness heuristic, the false consensus bias, biases caused by counterfactual thinking, and those elated to overconfidence.
-- The potential biases that are the result of everyday social cognition can have important consequences, both for us in our everyday lives but even for people who make important decisions affecting many other people. Although biases are common, they are not impossible to control, and psychologists and other scientists are working to help people make better decisions.
-- The operation of cognitive biases, including the potential for new information to distort information already in memory, can help explain the tendency for eyewitnesses to be overconfident and frequently inaccurate in their recollections of what occurred at crime scenes.
+この版のテキストでは、インタラクティブな H5P 要素が除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3166#h5p-7](https://opentextbc.ca/socialpsychology/?p=3166#h5p-7)
 
 :::
 
-:::note[Exercises and Critical Thinking]
+**H5P：学習内容を確認しよう：第2章 穴埋め ― COVID-19 と家族関係のケーススタディ**
 
-1. Give an example of a time when you may have committed one of the cognitive heuristics and biases discussed in this chapter. What factors (e.g., availability; salience) caused the error, and what was the outcome of your use of the shortcut or heuristic? What do you see as the general advantages and disadvantages of using this bias in your everyday life? Describe one possible strategy you could use to reduce the potentially harmful effects of this bias in your life.
-2. Go to the website [The Hot Hand in Sports](http://thehothand.blogspot.com), which analyzes the extent to which people accurately perceive “streakiness” in sports. Based on the information provided on this site, as well as that in this chapter, in what ways might our sports perceptions be influenced by our expectations and the use of cognitive heuristics and biases?
-3. Different cognitive heuristics and biases often operate together to influence our social cognition in particular situations. Describe a situation where you feel that two or more biases were affecting your judgment. How did they interact? What combined effects on your social cognition did they have? Which of the heuristics and biases outlined in this chapter do you think might be particularly likely to happen together in social situations and why?
+以下のケーススタディの各部分について、どの社会的認知バイアスまたはヒューリスティックが最も関連しているかを特定しよう。次の選択肢をそれぞれ1回だけ使用すること：過信バイアス、楽観バイアス、反実仮想思考、確証バイアス、偽の合意バイアス、再構成的記憶バイアス、計画錯誤、アンカリングと調整、利用可能性ヒューリスティック。
+
+1. Cole と Kristin は結婚して10年になり、学齢期の子どもが2人いる。COVID-19 パンデミック中の世界中の多くの家族と同様、新しいストレス要因に対処しなければならなかった。その一つが COVID-19 についての考え方の違いだった。パンデミック初期、Cole はインフルエンザよりそれほど深刻には見えないと考え、マスク着用の必要性などにも懐疑的だった。一方 Kristin は感染をより恐れ、義務化されるかなり前から屋内でマスクを着用していた。二人のパソコンの COVID-19 やマスク着用についての検索履歴も大きく異なっている。Cole は「マスク着用が効果を持たない理由」のような検索を行い、Kristin は「マスク着用が命を救う理由」のような検索を行っていた。この検索履歴の違いに特に関係する概念は何か。
+2. 二人の異なる信念をめぐって家庭内では何度も口論が起こり、関係に負担がかかることもあった。マスク着用をめぐる激しい議論で、Cole は、毎日職場でマスクを着用していたにもかかわらず COVID-19 に感染した人物についての最近のニュース見出しを挙げた。Kristin はその見出しは覚えていないと言ったが、マスクを着用していなかった人々と関連する屋内感染のニュースはいくつか覚えていた。現在の信念に合うニュースを記憶する傾向に最も関係する概念は何か。
+3. 公共の屋内空間でマスク着用が義務化されると、Cole も渋々従った。しかし、その義務化から数か月後、地域で第三波の感染者数増加が起きた。「これだけみんなマスクをしているのに、どうして感染者数がこんなに急増しているんだ？」と Cole は Kristin に言った。Kristin は、マスクが義務でなければ感染者数はもっと多かった可能性があるため、その問い方は公平ではないと答えた。Cole は、それを確かめる方法はないと返した。異なる条件だったらどうなっていたかについてのこの会話に最も関係する概念は何か。
+4. 二人は家族や友人ともこれらの問題について話しており、Cole は Kristin より自分の意見を強く表明する傾向がある。しかしマスクについて自分の意見を話したとき、あまり多くの人が同意しないことに驚くこともあった。この驚きを最もよく説明する概念は何か。
+5. 2020年秋の子どもの学校についても意見が衝突した。地域政府は、子どもを学校へ全面的に戻すか、オンラインの遠隔授業へ登録するかを親に選択させた。Kristin は後者を選びたいと考えた。2020年夏に学校が再開されたとき、地域の学校で数件の感染が起きていたからである。Cole は、学校に関連する感染者数は全体として少ないと指摘し、最終的に二人は子どもを通常どおり学校へ通わせることにした。その後も学校での集団感染数は少なかったが、Kristin は不安を感じ続け、実際よりリスクを高く評価していた。学校での感染の低いベースレートに注目することが難しかったことに最も関係する概念は何か。
+6. Cole は Kristin の不安に苛立つこともあり、最近の証拠に合わせて十分に信念を修正していないと言った。ここで Kristin の思考に最も関係している概念は何か。
+7. パンデミックがいつ終わるかも、よく話題になった。最初の数か月、二人は2020年中には制御されると期待していた。多くの人と同様、制御までにかかる期間と、必要な資源量を過小評価した。この過小評価に最も明確に関係する概念は何か。
+8. Cole は Kristin より早く生活が通常に戻ると考えており、将来について全般的により肯定的な見通しを持っていた。Kristin は自分の慎重な見方のほうが現実的だと主張したが、Cole は Kristin の見方のほうが非生産的だと反論した。この二人の傾向の違いに最も関係するバイアスは何か。
+9. 家庭内で最後に大きな対立となったのがワクチンだった。Kristin はワクチンが利用可能になればすぐ接種したいと思っていた一方、Cole はより懐疑的だった。地域で二人の年齢層への接種が始まり、二人とも1回目を受けた。その後、Cole はこれでより通常の生活に戻り、人と会えるようになると言った。Kristin は、2回目の接種まで、そしておそらくその後もしばらく待つ必要があると反論した。Cole は Kristin が恐れて暮らすことにうんざりしたと言い、Kristin は Cole が無謀すぎると言って口論になった。最終的に意見の違いを受け入れることにしたが、この緊張は続く可能性が高い。1回目の接種後の Cole の反応に最も関係する概念は何か。
+
+:::tip[重要なポイント]
+
+- 私たちはスキーマや態度を使って他者を判断し、反応する。多くの場合これは適切であるが、期待によって自分自身や他者についての判断にバイアスが生じることもある。
+- 社会的認知のかなりの部分は自発的または自動的で、ほとんど思考や努力を必要とせずに働く。一方、時間と動機があれば、慎重な統制的認知を行うこともできる。
+- 他者を判断する際にどの期待を利用するかは、判断対象の状況的な顕著性と、自分自身のスキーマや態度の認知的アクセス可能性の両方によって決まる。
+- スキーマへのアクセス可能性の違いは、利用可能性ヒューリスティック、代表性ヒューリスティック、偽の合意バイアス、反実仮想思考によるバイアス、過信に関連するバイアスなどを生み出す。
+- 日常的な社会的認知から生じる潜在的なバイアスは、私たちの日常生活だけでなく、多数の人々に影響する重要な意思決定をする人々にも重大な結果をもたらすことがある。バイアスは一般的だが、制御不可能ではなく、心理学者をはじめとする科学者は、より良い意思決定を助ける方法を研究している。
+- 新しい情報がすでに記憶されている情報を歪める可能性を含む認知バイアスの働きは、犯罪現場で起きたことについて、目撃者が過信し、頻繁に不正確な記憶を持つ傾向の説明に役立つ。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Aarts, H., & Dijksterhuis, A. (1999). How often did I do it? Experienced ease of retrieval and frequency estimates of past behavior. *Acta Psychologica, 103*(1–2), 77–89.
+1. 本章で扱った認知的ヒューリスティックやバイアスの一つを、自分が使ってしまった可能性のある経験を挙げなさい。どの要因（例：アクセス可能性、顕著性）が誤りを引き起こしたか。その近道またはヒューリスティックを利用した結果、何が起こったか。日常生活でそのバイアスを使う一般的な長所と短所は何だと思うか。自分の生活でそのバイアスの有害な影響を減らすために利用できる方略を一つ説明しなさい。
+2. スポーツにおける「好調の連続」を人々がどれほど正確に認識しているかを分析する [The Hot Hand in Sports](http://thehothand.blogspot.com) を訪れなさい。このサイトの情報と本章の内容に基づき、スポーツについての認識は、期待や認知的ヒューリスティック、バイアスの使用によってどのような影響を受ける可能性があるだろうか。
+3. 異なる認知的ヒューリスティックやバイアスは、特定の状況で同時に働いて社会的認知に影響することが多い。2つ以上のバイアスが自分の判断に影響していたと感じる状況を説明しなさい。それらはどのように相互作用したか。社会的認知にどのような複合的効果を与えたか。本章で扱ったヒューリスティックやバイアスのうち、社会的状況で特に同時に生じやすいものはどれだと思うか。また、なぜそう思うか。
 
-Abbes, M. B. (2012). Does overconfidence explain volatility during the global financial crisis? *Transition Studies Review, 19(3)*, 291-312.
+:::
 
-Adams, P. A., & Adams, J. K. (1960). Confidence in the recognition and reproduction of words difficult to spell. *American Journal of Psychology, 73*, 544–552.
+#### 参考文献
 
-Ariely, D. (2008). *Predictably irrational: The hidden forces that shape our decisions*. New York: Harper Perennial.
+Aarts, H., & Dijksterhuis, A. (1999). How often did I do it? Experienced ease of retrieval and frequency estimates of past behavior. _Acta Psychologica, 103_(1–2), 77–89.
 
-Ariely, D., Loewenstein, D., & Prelec, D. (2003). Coherent arbitrariness: Stable demand curves without stable preferences. *Quarterly Journal of Economics 118 (1),* 73–106.
+Abbes, M. B. (2012). Does overconfidence explain volatility during the global financial crisis? _Transition Studies Review, 19(3)_, 291-312.
 
-Bargh, J. A., Chen, M., & Burrows, L. (1996). Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action. *Journal of Personality and Social Psychology, 71*(2), 230–244.
+Adams, P. A., & Adams, J. K. (1960). Confidence in the recognition and reproduction of words difficult to spell. _American Journal of Psychology, 73_, 544–552.
 
-Brewer, M. B. (1988). A dual process model of impression formation. In T. K. Srull & R. S. Wyer (Eds.), *Advances in social cognition* (Vol. 1, pp. 1–36). Hillsdale, NJ: Erlbaum.
+Ariely, D. (2008). _Predictably irrational: The hidden forces that shape our decisions_. New York: Harper Perennial.
 
-Brigham, J. C., Bennett, L. B., Meissner, C. A., & Mitchell, T. L. (Eds.). (2007). *The influence of race on eyewitness memory*. Mahwah, NJ: Lawrence Erlbaum Associates Publishers.
+Ariely, D., Loewenstein, D., & Prelec, D. (2003). Coherent arbitrariness: Stable demand curves without stable preferences. _Quarterly Journal of Economics 118 (1),_ 73–106.
 
-Brown, D., Scheflin, A. W., & Hammond, D. C. (1998). *Memory, trauma treatment, and the law*. New York, NY: Norton.
+Bargh, J. A., Chen, M., & Burrows, L. (1996). Automaticity of social behavior: Direct effects of trait construct and stereotype activation on action. _Journal of Personality and Social Psychology, 71_(2), 230–244.
 
-Buehler, R., Griffin, D., & Peetz, J. (2010). The planning fallacy: Cognitive, motivational, and social origins. In M. P. Zanna, J. M. Olson (Eds.) , *Advances in experimental social psychology, Vol 43* (pp. 1-62). San Diego, CA US: Academic Press. doi:10.1016/S0065-2601(10)43001-4
+Brewer, M. B. (1988). A dual process model of impression formation. In T. K. Srull & R. S. Wyer (Eds.), _Advances in social cognition_ (Vol. 1, pp. 1–36). Hillsdale, NJ: Erlbaum.
 
-Byrne, R. M. J., & McEleney, A. (2000). Counterfactual thinking about actions and failures to act. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 26*(5), 1318–1331.
+Brigham, J. C., Bennett, L. B., Meissner, C. A., & Mitchell, T. L. (Eds.). (2007). _The influence of race on eyewitness memory_. Mahwah, NJ: Lawrence Erlbaum Associates Publishers.
 
-Ceci, S. J., Huffman, M. L. C., Smith, E., & Loftus, E. F. (1994). Repeatedly thinking about a non-event: Source misattributions among preschoolers. *Consciousness and Cognition: An International Journal, 3*(3–4), 388–407.
+Brown, D., Scheflin, A. W., & Hammond, D. C. (1998). _Memory, trauma treatment, and the law_. New York, NY: Norton.
 
-Chambers, J. R. (2008). Explaining false uniqueness: Why we are both better and worse than others. *Social and Personality Psychology Compass, 2*(2), 878–894.
+Buehler, R., Griffin, D., & Peetz, J. (2010). The planning fallacy: Cognitive, motivational, and social origins. In M. P. Zanna, J. M. Olson (Eds.) , _Advances in experimental social psychology, Vol 43_ (pp. 1-62). San Diego, CA US: Academic Press. doi:10.1016/S0065-2601(10)43001-4
 
-Chang, E. C., Asakawa, K., & Sanna, L. J. (2001). Cultural variations in optimistic and pessimistic bias: Do Easterners really expect the worst and Westerners really expect the best when predicting future life events?. *Journal of Personality and Social Psychology*,*81*(3), 476-491. doi:10.1037/0022-3514.81.3.476
+Byrne, R. M. J., & McEleney, A. (2000). Counterfactual thinking about actions and failures to act. _Journal of Experimental Psychology: Learning, Memory, and Cognition, 26_(5), 1318–1331.
 
-Charman, S. D., & Wells, G. L. (2007). Eyewitness lineups: Is the appearance-changes instruction a good idea? *Law and Human Behavior, 31*(1), 3–22.
+Ceci, S. J., Huffman, M. L. C., Smith, E., & Loftus, E. F. (1994). Repeatedly thinking about a non-event: Source misattributions among preschoolers. _Consciousness and Cognition: An International Journal, 3_(3–4), 388–407.
 
-Chen, G., Kim, K. A., Nofsinger, J. R., & Rui, O. M. (2007). Trading performance, disposition effect, overconfidence, representativeness bias, and experience of emerging market investors. *Journal of Behavioral Decision Making*, *20*(4), 425-451. doi:10.1002/bdm.561
+Chambers, J. R. (2008). Explaining false uniqueness: Why we are both better and worse than others. _Social and Personality Psychology Compass, 2_(2), 878–894.
 
-Cosmides, L., & Tooby, J. (2000). Evolutionary psychology and the emotions. In M. Lewis & J. M. Haviland-Jones (Eds.), *Handbook of emotions, 2nd edition* (pp. 91-115). New York, NY: The Guilford Press.
+Chang, E. C., Asakawa, K., & Sanna, L. J. (2001). Cultural variations in optimistic and pessimistic bias: Do Easterners really expect the worst and Westerners really expect the best when predicting future life events?. _Journal of Personality and Social Psychology_,_81_(3), 476-491.
 
-Dijksterhuis, A., Bos, M. W., Nordgren, L. F., & van Baaren, R. B. (2006). On making the right choice: The deliberation-without-attention effect. *Science, 311*(5763), 1005–1007.
+Charman, S. D., & Wells, G. L. (2007). Eyewitness lineups: Is the appearance-changes instruction a good idea? _Law and Human Behavior, 31_(1), 3–22.
 
-Dodson, C. S., Johnson, M. K., & Schooler, J. W. (1997). The verbal overshadowing effect: Why descriptions impair face recognition. *Memory & Cognition, 25*(2), 129–139.
+Chen, G., Kim, K. A., Nofsinger, J. R., & Rui, O. M. (2007). Trading performance, disposition effect, overconfidence, representativeness bias, and experience of emerging market investors. _Journal of Behavioral Decision Making_, _20_(4), 425-451.
 
-Doob, A. N., & Macdonald, G. E. (1979). Television viewing and fear of victimization: Is the relationship causal? *Journal of Personality and Social Psychology, 37*(2), 170–179.
+Cosmides, L., & Tooby, J. (2000). Evolutionary psychology and the emotions. In M. Lewis & J. M. Haviland-Jones (Eds.), _Handbook of emotions, 2nd edition_ (pp. 91-115). New York, NY: The Guilford Press.
 
-Dunning, D., & Perretta, S. (2002). Automaticity and eyewitness accuracy: A 10- to 12-second rule for distinguishing accurate from inaccurate positive identifications. *Journal of Applied Psychology, 87*(5), 951–962.
+Dijksterhuis, A., Bos, M. W., Nordgren, L. F., & van Baaren, R. B. (2006). On making the right choice: The deliberation-without-attention effect. _Science, 311_(5763), 1005–1007.
 
-Dunning, D., Griffin, D. W., Milojkovic, J. D., & Ross, L. (1990). The overconfidence effect in social prediction. *Journal of Personality and Social Psychology, 58*(4), 568–581.
+Dodson, C. S., Johnson, M. K., & Schooler, J. W. (1997). The verbal overshadowing effect: Why descriptions impair face recognition. _Memory & Cognition, 25_(2), 129–139.
 
-Dunning, D., Johnson, K., Ehrlinger, J., & Kruger, J. (2003). Why people fail to recognize their own incompetence. *Current Directions in Psychological Science, 12*(3), 83–87.
+Doob, A. N., & Macdonald, G. E. (1979). Television viewing and fear of victimization: Is the relationship causal? _Journal of Personality and Social Psychology, 37_(2), 170–179.
 
-Egan, D., Merkle, C., & Weber, M. (in press). Second-order beliefs and the individual investor. *Journal of Economic Behavior & Organization.*
+Dunning, D., & Perretta, S. (2002). Automaticity and eyewitness accuracy: A 10- to 12-second rule for distinguishing accurate from inaccurate positive identifications. _Journal of Applied Psychology, 87_(5), 951–962.
 
-Ehrlinger J., Gilovich, T.D., & Ross, L. (2005). Peering into the bias blind spot: People’s assessments of bias in themselves and others. *Personality and Social Psychology Bulletin, 31,* 1-13.
+Dunning, D., Griffin, D. W., Milojkovic, J. D., & Ross, L. (1990). The overconfidence effect in social prediction. _Journal of Personality and Social Psychology, 58_(4), 568–581.
 
-Ferguson, M. J., & Bargh, J. A. (2003). The constructive nature of automatic evaluation. In J. Musch & K. C. Klauer (Eds.), *The psychology of evaluation: Affective processes in cognition and emotion* (pp. 169–188). Mahwah, NJ: Lawrence Erlbaum Associates Publishers.
+Dunning, D., Johnson, K., Ehrlinger, J., & Kruger, J. (2003). Why people fail to recognize their own incompetence. _Current Directions in Psychological Science, 12_(3), 83–87.
 
-Ferguson, M. J., Hassin, R., & Bargh, J. A. (2008). Implicit motivation: Past, present, and future. In J. Y. Shah & W. L. Gardner (Eds.), *Handbook of motivation science* (pp. 150–166). New York, NY: Guilford Press.
+Egan, D., Merkle, C., & Weber, M. (in press). Second-order beliefs and the individual investor. _Journal of Economic Behavior & Organization._
 
-Fisher, R. P. (2011). Editor’s introduction: Special issue on psychology and law. *Current Directions in Psychological Science, 20*, 4. doi:10.1177/0963721410397654
+Ehrlinger J., Gilovich, T.D., & Ross, L. (2005). Peering into the bias blind spot: People’s assessments of bias in themselves and others. _Personality and Social Psychology Bulletin, 31,_ 1-13.
 
-Forgeard, M. C., & Seligman, M. P. (2012). Seeing the glass half full: A review of the causes and consequences of optimism.*Pratiques Psychologiques*, *18*(2), 107-120. doi:10.1016/j.prps.2012.02.002
+Ferguson, M. J., & Bargh, J. A. (2003). The constructive nature of automatic evaluation. In J. Musch & K. C. Klauer (Eds.), _The psychology of evaluation: Affective processes in cognition and emotion_ (pp. 169–188). Mahwah, NJ: Lawrence Erlbaum Associates Publishers.
 
-Gigerenzer, G. (2004). Fast and frugal heuristics: The tools of founded rationality. In D. J. Koehler & N. Harvey (Eds.), *Blackwell handbook of judgment and decision making* (pp. 62-88). Malden, MA: Blackwell Publishing.
+Ferguson, M. J., Hassin, R., & Bargh, J. A. (2008). Implicit motivation: Past, present, and future. In J. Y. Shah & W. L. Gardner (Eds.), _Handbook of motivation science_ (pp. 150–166). New York, NY: Guilford Press.
 
-Gigerenzer, G. (2006). Out of the frying pan and into the fire: Behavioral reactions to terrorist attacks. *Risk Analysis, 26,* 347-351.
+Fisher, R. P. (2011). Editor’s introduction: Special issue on psychology and law. _Current Directions in Psychological Science, 20_, 4.
 
-Gilovich, T., Griffin, D., & Kahneman, D. (Eds.). (2002). *Heuristics and biases: The psychology of intuitive judgment*. New York, NY: Cambridge University Press.
+Forgeard, M. C., & Seligman, M. P. (2012). Seeing the glass half full: A review of the causes and consequences of optimism. _Pratiques Psychologiques_, _18_(2), 107-120.
 
-Haddock, G., Rothman, A. J., Reber, R., & Schwarz, N. (1999). Forming judgments of attitude certainty, intensity, and importance: The role of subjective experiences. *Personality and Social Psychology Bulletin, 25*, 771–782.
+Gigerenzer, G. (2004). Fast and frugal heuristics: The tools of founded rationality. In D. J. Koehler & N. Harvey (Eds.), _Blackwell handbook of judgment and decision making_ (pp. 62-88). Malden, MA: Blackwell Publishing.
 
-Heine, S. J., Lehman, D. R., Markus, H. R., & Kitayama, S. (1999). Is there a universal need for positive self-regard? *Psychological Review, 106(4),* 766-794. doi: 10.1037/0033-295X.106.4.766
+Gigerenzer, G. (2006). Out of the frying pan and into the fire: Behavioral reactions to terrorist attacks. _Risk Analysis, 26,_ 347-351.
 
-Hilton, D. J. (2001). The psychology of financial decision-making: Applications to trading, dealing, and investment analysis. *Journal of Behavioral Finance, 2*, 37–53. doi: 10.1207/S15327760JPFM0201\_4
+Gilovich, T., Griffin, D., & Kahneman, D. (Eds.). (2002). _Heuristics and biases: The psychology of intuitive judgment_. New York, NY: Cambridge University Press.
 
-Hirt, E. R., Kardes, F. R., & Markman, K. D. (2004). Activating a mental simulation mind-set through generation of alternatives: Implications for debiasing in related and unrelated domains. *Journal of Experimental Social Psychology, 40*(3), 374–383.
+Haddock, G., Rothman, A. J., Reber, R., & Schwarz, N. (1999). Forming judgments of attitude certainty, intensity, and importance: The role of subjective experiences. _Personality and Social Psychology Bulletin, 25_, 771–782.
 
-Hsee, C. K., Hastie, R., & Chen, J. (2008). Hedonomics: Bridging decision research with happiness research. Perspectives On *Psychological Science, 3(3)*, 224-243. doi:10.1111/j.1745-6924.2008.00076.x
+Heine, S. J., Lehman, D. R., Markus, H. R., & Kitayama, S. (1999). Is there a universal need for positive self-regard? _Psychological Review, 106(4),_ 766-794.
 
-Joireman, J., Barnes Truelove, H., & Duell, B. (2010). Effect of outdoor temperature, heat primes and anchoring on belief in global warming. *Journal of Environmental Psychology, 30*(4), 358–367.
+Hilton, D. J. (2001). The psychology of financial decision-making: Applications to trading, dealing, and investment analysis. _Journal of Behavioral Finance, 2_, 37–53.
 
-Kahneman, D. (2011). *Thinking fast and slow.* New York: Farrar, Strauss, Giroux.
+Hirt, E. R., Kardes, F. R., & Markman, K. D. (2004). Activating a mental simulation mind-set through generation of alternatives: Implications for debiasing in related and unrelated domains. _Journal of Experimental Social Psychology, 40_(3), 374–383.
 
-Kassam, K. S., Koslov, K., & Mendes, W. B. (2009). Decisions under distress: Stress profiles influence anchoring and adjustment. *Psychological Science, 20*(11), 1394–1399.
+Hsee, C. K., Hastie, R., & Chen, J. (2008). Hedonomics: Bridging decision research with happiness research. _Perspectives On Psychological Science, 3(3)_, 224-243.
 
-Krueger, J., & Clement, R. W. (1994). The truly false consensus effect: An ineradicable and egocentric bias in social perception. *Journal of Personality and Social Psychology, 67*(4), 596–610.
+Joireman, J., Barnes Truelove, H., & Duell, B. (2010). Effect of outdoor temperature, heat primes and anchoring on belief in global warming. _Journal of Environmental Psychology, 30_(4), 358–367.
 
-Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one’s own incompetence lead to inflated self-assessments. *Journal of Personality and Social Psychology, 77*(6), 1121–1134.
+Kahneman, D. (2011). _Thinking fast and slow._ New York: Farrar, Strauss, Giroux.
 
-Kruglanski, A. W., & Freund, T. (1983). The freezing and unfreezing of lay inferences: Effects on impressional primacy, ethnic stereotyping, and numerical anchoring. *Journal of Experimental Social Psychology, 19,* 448–468.
+Kassam, K. S., Koslov, K., & Mendes, W. B. (2009). Decisions under distress: Stress profiles influence anchoring and adjustment. _Psychological Science, 20_(11), 1394–1399.
 
-Lehman, D. R., Lempert, R. O., & Nisbett, R. E. (1988). The effects of graduate training on reasoning: Formal discipline and thinking about everyday-life events. *American Psychologist, 43*(6), 431–442.
+Krueger, J., & Clement, R. W. (1994). The truly false consensus effect: An ineradicable and egocentric bias in social perception. _Journal of Personality and Social Psychology, 67_(4), 596–610.
 
-Loewenstein, G. F., Weber, E. U., Hsee, C. K., & Welch, N. (2001). Risk as feelings. *Psychological Bulletin, 127*(2), 267–286.
+Kruger, J., & Dunning, D. (1999). Unskilled and unaware of it: How difficulties in recognizing one’s own incompetence lead to inflated self-assessments. _Journal of Personality and Social Psychology, 77_(6), 1121–1134.
 
-Loftus, E. F., & Ketcham, K. (1994). *The myth of repressed memory: False memories and allegations of sexual abuse* (1st ed.). New York, NY: St. Martin’s Press.
+Kruglanski, A. W., & Freund, T. (1983). The freezing and unfreezing of lay inferences: Effects on impressional primacy, ethnic stereotyping, and numerical anchoring. _Journal of Experimental Social Psychology, 19,_ 448–468.
 
-Loftus, E. F., & Palmer, J. C. (1974). Reconstruction of automobile destruction: An example of the interaction between language and memory. *Journal of Verbal Learning & Verbal Behavior, 13*(5), 585–589.
+Lehman, D. R., Lempert, R. O., & Nisbett, R. E. (1988). The effects of graduate training on reasoning: Formal discipline and thinking about everyday-life events. _American Psychologist, 43_(6), 431–442.
 
-Loftus, E. F., & Pickrell, J. E. (1995). The formation of false memories. *Psychiatric Annals, 25*(12), 720–725.
+Loewenstein, G. F., Weber, E. U., Hsee, C. K., & Welch, N. (2001). Risk as feelings. _Psychological Bulletin, 127_(2), 267–286.
 
-Loftus, E. F., Loftus, G. R., & Messo, J. (1987). Some facts about “weapon focus.” *Law and Human Behavior, 11*(1), 55–62.
+Loftus, E. F., & Ketcham, K. (1994). _The myth of repressed memory: False memories and allegations of sexual abuse_ (1st ed.). New York, NY: St. Martin’s Press.
 
-Mazzoni, G. A. L., Loftus, E. F., & Kirsch, I. (2001). Changing beliefs about implausible autobiographical events: A little plausibility goes a long way. *Journal of Experimental Psychology: Applied, 7*(1), 51–59.
+Loftus, E. F., & Palmer, J. C. (1974). Reconstruction of automobile destruction: An example of the interaction between language and memory. _Journal of Verbal Learning & Verbal Behavior, 13_(5), 585–589.
 
-McArthur, L. Z., & Post, D. L. (1977). Figural emphasis and person perception. *Journal of Experimental Social Psychology, 13*(6), 520–535.
+Loftus, E. F., & Pickrell, J. E. (1995). The formation of false memories. _Psychiatric Annals, 25_(12), 720–725.
 
-McNally, R. J., Bryant, R. A., & Ehlers, A. (2003). Does early psychological intervention promote recovery from posttraumatic stress? *Psychological Science in the Public Interest, 4*(2), 45–79.
+Loftus, E. F., Loftus, G. R., & Messo, J. (1987). Some facts about “weapon focus.” _Law and Human Behavior, 11_(1), 55–62.
 
-Medvec, V. H., Madey, S. F., & Gilovich, T. (1995). When less is more: Counterfactual thinking and satisfaction among Olympic medalists. *Journal of Personality and Social Psychology, 69*(4), 603–610.
+Mazzoni, G. A. L., Loftus, E. F., & Kirsch, I. (2001). Changing beliefs about implausible autobiographical events: A little plausibility goes a long way. _Journal of Experimental Psychology: Applied, 7_(1), 51–59.
 
-Meissner, C. A., & Brigham, J. C. (2001). Thirty years of investigating the own-race bias in memory for faces: A meta-analytic review. *Psychology, Public Policy, and Law, 7*(1), 3–35.
+McArthur, L. Z., & Post, D. L. (1977). Figural emphasis and person perception. _Journal of Experimental Social Psychology, 13_(6), 520–535.
 
-Miller, D. T., Turnbull, W., & McFarland, C. (1988). Particularistic and universalistic evaluation in the social comparison process. *Journal of Personality and Social Psychology, 55*, 908–917.
+McNally, R. J., Bryant, R. A., & Ehlers, A. (2003). Does early psychological intervention promote recovery from posttraumatic stress? _Psychological Science in the Public Interest, 4_(2), 45–79.
 
-Moore, M. T., & Fresco, D. M. (2012). Depressive realism: A meta-analytic review. *Clinical Psychology Review*, *32*(6), 496-509. doi:10.1016/j.cpr.2012.05.004
+Medvec, V. H., Madey, S. F., & Gilovich, T. (1995). When less is more: Counterfactual thinking and satisfaction among Olympic medalists. _Journal of Personality and Social Psychology, 69_(4), 603–610.
 
-Oskamp, S. (1965). Overconfidence in case-study judgments. *Journal of Consulting Psychology, 29(3)*, 261-265.
+Meissner, C. A., & Brigham, J. C. (2001). Thirty years of investigating the own-race bias in memory for faces: A meta-analytic review. _Psychology, Public Policy, and Law, 7_(1), 3–35.
 
-Pezdek, K., Blandon-Gitlin, I., & Moore, C. (2003). Children’s face recognition memory: More evidence for the cross-race effect. *Journal of Applied Psychology, 88*(4), 760–763.
+Miller, D. T., Turnbull, W., & McFarland, C. (1988). Particularistic and universalistic evaluation in the social comparison process. _Journal of Personality and Social Psychology, 55_, 908–917.
 
-Poole, D. A., & Lamb, M. E. (1998). *The development of interview protocols*. Washington, DC: American Psychological Association.
+Moore, M. T., & Fresco, D. M. (2012). Depressive realism: A meta-analytic review. _Clinical Psychology Review_, _32_(6), 496-509.
 
-Pope, H. G., Jr., Poliakoff, M. B., Parker, M. P., Boynes, M., & Hudson, J. I. (2007). Is dissociative amnesia a culture-bound syndrome? Findings from a survey of historical literature. *Psychological Medicine: A Journal of Research in Psychiatry and the Allied Sciences, 37*(2), 225–233.
+Oskamp, S. (1965). Overconfidence in case-study judgments. _Journal of Consulting Psychology, 29(3)_, 261-265.
 
-Pozzulo, J. D., & Lindsay, R. C. L. (1998). Identification accuracy of children versus adults: A meta-analysis. *Law and Human Behavior, 22*(5), 549–570.
+Pezdek, K., Blandon-Gitlin, I., & Moore, C. (2003). Children’s face recognition memory: More evidence for the cross-race effect. _Journal of Applied Psychology, 88_(4), 760–763.
 
-Reber, R., Winkielman, P., & Schwarz, N. (1998). Effects of perceptual fluency on affective judgments. *Psychological Science, 9*(1), 45–48.
+Poole, D. A., & Lamb, M. E. (1998). _The development of interview protocols_. Washington, DC: American Psychological Association.
 
-Roese, N. J. (1997). Counterfactual thinking. *Psychological Bulletin, 121*(1), 133–148.
+Pope, H. G., Jr., Poliakoff, M. B., Parker, M. P., Boynes, M., & Hudson, J. I. (2007). Is dissociative amnesia a culture-bound syndrome? Findings from a survey of historical literature. _Psychological Medicine: A Journal of Research in Psychiatry and the Allied Sciences, 37_(2), 225–233.
 
-Ross, L., Greene, D., & House, P. (1977). The false consensus effect: An egocentric bias in social perception and attribution processes. *Journal of Experimental Social Psychology, 13*(3), 279–301.
+Pozzulo, J. D., & Lindsay, R. C. L. (1998). Identification accuracy of children versus adults: A meta-analysis. _Law and Human Behavior, 22_(5), 549–570.
 
-Ross, M., & Sicoly, F. (1979). Egocentric biases in availability and attribution. *Journal of Personality and Social Psychology, 37*(3), 322–336.
+Reber, R., Winkielman, P., & Schwarz, N. (1998). Effects of perceptual fluency on affective judgments. _Psychological Science, 9_(1), 45–48.
 
-Schwarz, N., & Vaughn, L. A. (Eds.). (2002). *The availability heuristic revisited: Ease of recall and content of recall as distinct sources of information*. New York, NY: Cambridge University Press.
+Roese, N. J. (1997). Counterfactual thinking. _Psychological Bulletin, 121_(1), 133–148.
 
-Schwarz, N., Bless, H., Strack, F., Klumpp, G., Rittenauer-Schatka, H., & Simons, A. (1991). Ease of retrieval as information: Another look at the availability heuristic. *Journal of Personality and Social Psychology, 61,* 195–202.
+Ross, L., Greene, D., & House, P. (1977). The false consensus effect: An egocentric bias in social perception and attribution processes. _Journal of Experimental Social Psychology, 13_(3), 279–301.
 
-Sharot, T. (2011). *The optimism bias: A tour of the irrationally positive brain.* New York: Pantheon Books.
+Ross, M., & Sicoly, F. (1979). Egocentric biases in availability and attribution. _Journal of Personality and Social Psychology, 37_(3), 322–336.
 
-Sloman, S. A. (Ed.). (2002). *Two systems of reasoning*. New York, NY: Cambridge University Press.
+Schwarz, N., & Vaughn, L. A. (Eds.). (2002). _The availability heuristic revisited: Ease of recall and content of recall as distinct sources of information_. New York, NY: Cambridge University Press.
 
-Slovic, P. (Ed.). (2000). *The perception of risk*. London, England: Earthscan Publications.
+Schwarz, N., Bless, H., Strack, F., Klumpp, G., Rittenauer-Schatka, H., & Simons, A. (1991). Ease of retrieval as information: Another look at the availability heuristic. _Journal of Personality and Social Psychology, 61,_ 195–202.
 
-Stanovich, K. E., & West, R. F. (Eds.). (2002). *Individual differences in reasoning: Implications for the rationality debate?* New York, NY: Cambridge University Press.
+Sharot, T. (2011). _The optimism bias: A tour of the irrationally positive brain._ New York: Pantheon Books.
 
-Steblay, N. M. (1997). Social influence in eyewitness recall: A meta-analytic review of lineup instruction effects. *Law and Human Behavior, 21*(3), 283–297.
+Sloman, S. A. (Ed.). (2002). _Two systems of reasoning_. New York, NY: Cambridge University Press.
 
-Steblay, N., Dysart, J., Fulero, S., & Lindsay, R. C. L. (2001). Eyewitness accuracy rates in sequential and simultaneous lineup presentations: A meta-analytic comparison. *Law and Human Behavior, 25*(5), 459–473.
+Slovic, P. (Ed.). (2000). _The perception of risk_. London, England: Earthscan Publications.
 
-Taylor, S. E., & Fiske, S. T. (1978). Salience, attention and attribution: Top of the head phenomena. *Advances in Experimental Social Psychology, 11,* 249–288.
+Stanovich, K. E., & West, R. F. (Eds.). (2002). _Individual differences in reasoning: Implications for the rationality debate?_ New York, NY: Cambridge University Press.
 
-Toglia, M. P., Read, J. D., Ross, D. F., & Lindsay, R. C. L. (Eds.). (2007). *The handbook of eyewitness psychology* (Vols. 1 & 2). Mahwah, NJ: Lawrence Erlbaum Associates Publishers.
+Steblay, N. M. (1997). Social influence in eyewitness recall: A meta-analytic review of lineup instruction effects. _Law and Human Behavior, 21_(3), 283–297.
 
-Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. *Cognitive Psychology, 5*, 207–232.
+Steblay, N., Dysart, J., Fulero, S., & Lindsay, R. C. L. (2001). Eyewitness accuracy rates in sequential and simultaneous lineup presentations: A meta-analytic comparison. _Law and Human Behavior, 25_(5), 459–473.
 
-Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. *Science, 185*(4157), 1124–1131.
+Taylor, S. E., & Fiske, S. T. (1978). Salience, attention and attribution: Top of the head phenomena. _Advances in Experimental Social Psychology, 11,_ 249–288.
 
-Wells, G. L., & Olson, E. A. (2003). Eyewitness testimony. *Annual Review of Psychology, 54*, 277–295.
+Toglia, M. P., Read, J. D., Ross, D. F., & Lindsay, R. C. L. (Eds.). (2007). _The handbook of eyewitness psychology_ (Vols. 1 & 2). Mahwah, NJ: Lawrence Erlbaum Associates Publishers.
 
-Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. *Psychological Science in the Public Interest, 7*(2), 45–75.
+Tversky, A., & Kahneman, D. (1973). Availability: A heuristic for judging frequency and probability. _Cognitive Psychology, 5_, 207–232.
 
-West, R. F., Meserve, R. J., & Stanovich, K. E. (2012). Cognitive sophistication does not attenuate the bias blind spot. *Journal Of Personality and Social Psychology*, *103*(3), 506-519. doi:10.1037/a0028857
+Tversky, A., & Kahneman, D. (1974). Judgment under uncertainty: Heuristics and biases. _Science, 185_(4157), 1124–1131.
 
-Willis, J., & Todorov, A. (2006). First impressions: Making up your mind after a 100-Ms exposure to a face. *Psychological Science, 17*(7), 592–598.
+Wells, G. L., & Olson, E. A. (2003). Eyewitness testimony. _Annual Review of Psychology, 54_, 277–295.
 
-Winkielman, P., & Cacioppo, J. T. (2001). Mind at ease puts a smile on the face: Psychophysiological evidence that processing facilitation elicits positive affect. *Journal of Personality and Social Psychology, 81*(6), 989–1000.
+Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. _Psychological Science in the Public Interest, 7_(2), 45–75.
 
-Winkielman, P., Schwarz, N., & Nowak, A. (Eds.). (2002). *Affect and processing dynamics: Perceptual fluency enhances evaluations*. Amsterdam, Netherlands: John Benjamins Publishing Company.
+West, R. F., Meserve, R. J., & Stanovich, K. E. (2012). Cognitive sophistication does not attenuate the bias blind spot. _Journal Of Personality and Social Psychology_, _103_(3), 506-519.
 
-#### Media Attributions
+Willis, J., & Todorov, A. (2006). First impressions: Making up your mind after a 100-Ms exposure to a face. _Psychological Science, 17_(7), 592–598.
+
+Winkielman, P., & Cacioppo, J. T. (2001). Mind at ease puts a smile on the face: Psychophysiological evidence that processing facilitation elicits positive affect. _Journal of Personality and Social Psychology, 81_(6), 989–1000.
+
+Winkielman, P., Schwarz, N., & Nowak, A. (Eds.). (2002). _Affect and processing dynamics: Perceptual fluency enhances evaluations_. Amsterdam, Netherlands: John Benjamins Publishing Company.
+
+#### メディアの帰属表示
 
 - “[Man with a moustache, Chambal, India](https://commons.wikimedia.org/wiki/File:Man_with_a_moustache,_Chambal,_India.jpg)” by [Yann](https://commons.wikimedia.org/wiki/User:Yann) is licensed under a [GNU Free Documentation License](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License).
 - “[Jill Jackson](https://web.archive.org/web/20190215143148/https://www.flickr.com/photos/kriskesiak/6493819855/)” by Kris Kesiak used under [CC BY-NC 2.0 licence](https://creativecommons.org/licenses/by-nc/2.0/).

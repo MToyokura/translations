@@ -1,42 +1,43 @@
 ---
-title: "2.4 Thinking Like a Social Psychologist about Social Cognition"
+title: "2.4 社会的認知について社会心理学者のように考える"
 sidebar:
   order: 19
 ---
-Consider your schemas and attitudes toward some of the many people you have met in your life—perhaps those you knew in school, the people in your family, or those in your wider social groups or other organizations. And also think about people you have only heard about rather than have met—maybe those from other countries or cultures. Did operant learning influence your opinions about them? Did you model your behavior after them? Or perhaps you had a single negative encounter with one person and disliked that person or his or her social group for a long time after.
 
-Perhaps you can remember some times when you may have misinterpreted events or judged people incorrectly because your opinions were influenced by the operation of your existing expectations. Did you ever falsely assume that someone had a given characteristic and assimilate information into your existing expectations more than you might have? For instance, did you ever find yourself thinking that the referees in a sports game were favoring the other team rather than your own, or that the media was treating the political candidate that you oppose better than the one you prefer? Could this have occurred because your attitudes or beliefs influenced your interpretation of the information?
+これまでの人生で出会った多くの人々について、自分が持っているスキーマや態度を考えてみよう。学校で知り合った人、家族、より広い社会集団や組織に属する人々などである。また、実際には会ったことがなく、話を聞いただけの人々、たとえば別の国や文化の人々についても考えてみよう。オペラント学習は、その人々についての意見に影響しただろうか。彼らをモデルとして行動をまねしたことはあるだろうか。あるいは、ある人物と一度だけ否定的な経験をしたために、その人物やその人の属する社会集団をその後長い間嫌い続けたことがあるかもしれない。
 
-And perhaps you can remember times when you were influenced by salience, accessibility, or other information-processing biases. Did you ever feel bad when you got a 94 on your test when a 95 would have given you an A, or when you changed an answer on an exam rather than sticking with it? In these cases, you might have fallen victim to counterfactual thinking. Perhaps you erroneously judged someone on the basis of your beliefs about what they “should have been like” rather than on the basis of more accurate statistical information—the misuse of the representativeness heuristic.
+既存の期待の働きによって意見が影響され、出来事を誤って解釈したり、人を誤って判断したりした経験を思い出すこともできるかもしれない。ある人物が特定の特徴を持っていると誤って仮定し、本来以上に情報を既存の期待へ同化させたことはないだろうか。たとえばスポーツの試合で、審判が自分のチームより相手チームをひいきしていると思ったり、メディアが、自分の支持する政治候補者より反対している候補者を好意的に扱っていると思ったりしたことはないだろうか。それは、自分の態度や信念が情報の解釈に影響したために生じた可能性はないだろうか。
 
-Maybe you can now more fully reflect on all the ways in which your social cognition and affective states influence each other, and just how intertwined they are in understanding your social worlds.
+また、顕著性、アクセス可能性、その他の情報処理バイアスから影響を受けた経験を思い出せるかもしれない。テストで94点を取り、95点ならAだったために落ち込んだことはないだろうか。試験で最初の回答のままにせず変更した結果、不正解になり後悔したことはないだろうか。このような場合、反実仮想思考の影響を受けていた可能性がある。また、より正確な統計情報ではなく、その人物が「こういう人であるはずだ」という信念に基づいて他者を誤って判断したこともあるかもしれない。これは代表性ヒューリスティックの誤用である。
 
-Finally, think back once more on the story with which we opened this chapter. Can you see how important social cognitive biases can be in how we understand the world we live in, and how useful it is to understand the ways in which our thinking operates to produce accurate, and yet sometimes inaccurate, judgments? In many ways, our lives are influenced by our social cognition.
+ここまで学んだことで、自分の社会的認知と感情状態が互いに影響し合っているさまざまな方法と、社会的世界を理解するうえで両者がどれほど密接に結びついているかを、より十分に振り返ることができるだろう。
 
-We hope that this chapter has provided you with some new and useful ideas about how you and others form impressions and has reminded you how others are forming (potentially erroneous) impressions of you. Most important, perhaps you have learned to be more modest about your judgments. Please remember to consider the possibility that your judgments and decisions, no matter how right and accurate they feel to you, may simply be wrong.
+最後にもう一度、本章冒頭の物語を思い返してみよう。私たちが暮らす世界をどのように理解するかについて、社会的認知バイアスがどれほど重要なものになりうるかがわかるだろうか。また、思考がどのように働き、正確ではあるものの、ときには不正確な判断を生み出すのかを理解することが、どれほど有用かわかるだろうか。多くの意味で、私たちの人生は社会的認知から影響を受けている。
 
-:::note[Interactive activity]
+本章によって、自分や他者がどのように印象を形成するのかについて、新しく有用な考え方を得られたこと、そして他者もあなたについて、場合によっては誤った印象を形成していることを改めて意識できたことを願っている。最も重要なのは、自分の判断について少し控えめになることを学んだかもしれないということである。自分にはどれほど正しく正確に感じられる判断や決定であっても、単純に間違っている可能性があることを忘れないでほしい。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3173#h5p-8](https://opentextbc.ca/socialpsychology/?p=3173#h5p-8)
+:::note[インタラクティブ・アクティビティ]
+
+この版のテキストでは、インタラクティブな H5P 要素が除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3173#h5p-8](https://opentextbc.ca/socialpsychology/?p=3173#h5p-8)
 
 :::
 
-**H5P: TEST YOUR LEARNING: CHAPTER 2 TRUE OF FALSE QUIZ**
+**H5P：学習内容を確認しよう：第2章 正誤クイズ**
 
-Try this quick true-false quiz to see how well you have remembered some key concepts from this chapter. You can check your answers as you go, or wait for overall feedback at the end. Good luck!
+本章の重要な概念をどの程度覚えているか確認するため、短い正誤クイズに挑戦してみよう。各問題ごとに答えを確認してもよいし、最後にまとめてフィードバックを確認してもよい。
 
-1. Social cognition is a topic that explores how we process and utilize information about our social worlds.
-  1. True
-  2. False
-2. Our schemas about our social worlds make it easier for us to notice information that confirms rather than disconfirms them.
-  1. True
-  2. False
-3. As heuristics are cognitive shortcuts, more often than not they cause us to make mistakes in our social cognition.
-  1. True
-  2. False
-4. When Hector underestimates the time and effort that a school project will take to complete, this is an example of the planning fallacy.
-  1. True
-  2. False
-5. The mood congruence effect occurs when we remember information that is inconsistent with our current moods, but disregard that information quickly.
-  1. True
-  2. False
+1. 社会的認知は、社会的世界についての情報を私たちがどのように処理し、利用するかを研究するテーマである。
+   1. 正しい
+   2. 誤り
+2. 社会的世界についてのスキーマによって、スキーマを否定する情報より、それを確認する情報に気づきやすくなる。
+   1. 正しい
+   2. 誤り
+3. ヒューリスティックは認知的な近道であるため、多くの場合、社会的認知で誤りを犯す原因となる。
+   1. 正しい
+   2. 誤り
+4. Hector が学校のプロジェクトを完成させるために必要な時間と努力を過小評価することは、計画錯誤の例である。
+   1. 正しい
+   2. 誤り
+5. 気分一致効果とは、現在の気分と一致しない情報を思い出すものの、その情報をすぐに無視する現象である。
+   1. 正しい
+   2. 誤り

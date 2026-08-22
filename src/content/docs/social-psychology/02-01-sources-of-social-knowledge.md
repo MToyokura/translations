@@ -1,265 +1,268 @@
 ---
-title: "2.1 Sources of Social Knowledge"
+title: "2.1 社会的知識の源泉"
 sidebar:
   order: 16
 ---
-:::note[Learning Objectives]
 
-1. Review the principles of operant, associational, and observational learning, and explain the similarities and differences between them.
-2. Explain how and when schemas and attitudes do and do not change as a result of the operation of accommodation and assimilation.
-3. Outline the ways that schemas are likely to be maintained through processes that create assimilation.
+:::note[学習目標]
+
+1. オペラント学習、連合学習、観察学習の原理を概観し、それらの類似点と相違点を説明する。
+2. 調節と同化の働きによって、スキーマや態度がいつ、どのように変化するのか、また変化しないのかを説明する。
+3. 同化を生み出す過程を通じて、スキーマがどのように維持されやすいかを概説する。
 
 :::
 
-Human beings have proportionately very large brains and highly developed cognitive capacities in comparison with other species. Thus it should come as no surprise that we meet the challenges of everyday life largely by thinking about them and then planning what to do. Over time, we develop a huge amount of knowledge about ourselves, other people, social relationships, and social groups. This knowledge guides our responses to the people we interact with every day. But where does this social knowledge come from?
+人間は、ほかの種と比較して体の大きさに対して非常に大きな脳を持ち、高度に発達した認知能力を備えている。そのため、日常生活で直面する問題に対して、主としてそれについて考え、その後どう行動するかを計画することで対処しているのは驚くことではない。時間の経過とともに、私たちは自分自身、他者、社会的関係、社会集団について膨大な知識を形成する。こうした知識が、日々相互作用する人々に対する私たちの反応を導いている。では、この社会的知識はどこから生まれるのだろうか。
 
-## Our Knowledge Accumulates as a Result of Learning
+## 私たちの知識は学習の結果として蓄積される
 
-People have many memories about their experiences with other people, and they use this information to make predictions about what people will do in the future. This knowledge is gained through learning. The study of learning is closely associated with the behaviorist school of psychology, which includes the psychologists John B. Watson and B. F. Skinner. For behaviorists, the fundamental aspect of learning is the process of conditioning, *the ability to connect stimuli (things or events in the environment) with responses (behaviors or other actions).* The behaviorists described two types of conditioning that are particularly important: operant conditioning *(also known as instrumental conditioning)* and classical conditioning *(also known as respondent conditioning).* When applied to human behavior, these two processes are frequently called, respectively, *operant learning* and *associational learning*.
+人々は他者との経験について多くの記憶を持ち、それらの情報を使って、将来人々がどのような行動をするのかを予測する。この知識は学習を通じて獲得される。学習の研究は、John B. Watson や B. F. Skinner などの心理学者を含む、心理学の行動主義学派と密接に関連している。行動主義者にとって、学習の基本的側面は条件づけ、すなわち*刺激（環境内の物や出来事）と反応（行動やその他の行為）を結びつける能力*である。行動主義者は、特に重要な2種類の条件づけを説明した。オペラント条件づけ（_道具的条件づけとも呼ばれる_）と古典的条件づけ（_レスポンデント条件づけとも呼ばれる_）である。人間の行動に適用する場合、この2つの過程はそれぞれ、*オペラント学習*と*連合学習*と呼ばれることが多い。
 
-### Operant Learning
+### オペラント学習
 
-If a child touches a hot radiator, he or she quickly learns that the radiator is dangerous and is not likely to touch it again. Through stimulus generalization*,* the child will also learn that radiators in general are not to be touched. If we have unpleasant experiences with people from a certain city, region, or country, or a positive relationship with a person who has blond hair or green eyes, we may develop negative or positive attitudes about people with these particular characteristics and attempt to reduce or increase our interactions with them. These changes in our understanding of our environments represent operant learning, *the principle that experiences that are followed by positive emotions (reinforcements or rewards) are likely to be repeated, whereas experiences that are followed by negative emotions (punishments) are less likely to be repeated*. In operant learning, the person thus learns from the consequences of his or her own actions.
+子どもが熱い暖房器具に触れれば、それが危険だということをすぐに学び、おそらく二度と触らなくなる。*刺激般化*を通じて、その子どもは暖房器具一般に触れてはいけないことも学ぶ。特定の都市、地域、国の出身者との間で不快な経験をした場合や、金髪や緑色の目を持つ人と肯定的な関係を築いた場合には、そうした特徴を持つ人々に対して否定的または肯定的な態度を形成し、彼らとの交流を減らしたり増やしたりしようとする可能性がある。このような環境理解の変化は、オペラント学習を表している。オペラント学習とは、*肯定的な感情（強化または報酬）が後に続く経験は繰り返されやすく、否定的な感情（罰）が後に続く経験は繰り返されにくいという原理*である。したがってオペラント学習では、人は自分自身の行動の結果から学ぶ。
 
-Although its principles are very simple, operant learning is probably the most important form of human learning. For example, operant learning occurs when a schoolroom bully threatens his classmates because doing so allows him to get his way, or when a child gets good grades because her parents threaten to punish her if she doesn’t, or when we begin to like someone who smiles at us frequently, and in hundreds of other cases every day. Operant learning can also be used to help explain how people learn complex behaviors, such as how to read, and to understand complex social behaviors, such as the development of social norms and culture.
+その原理は非常に単純ではあるが、オペラント学習はおそらく人間の学習の中で最も重要な形態である。たとえば、学校のいじめっ子が、自分の思いどおりにできるためクラスメートを脅す場合、親から罰すると脅されるため子どもが良い成績を取る場合、頻繁に微笑みかけてくれる人を好きになり始める場合など、毎日数え切れないほどの場面でオペラント学習が生じている。オペラント学習は、読み方の習得のような複雑な行動を学習する仕組みや、社会規範や文化の形成のような複雑な社会的行動を理解するためにも利用できる。
 
-The application of operant learning to social psychology can help us to explain how we know which behaviors are most appropriate in a social situation. We learn, in part, because we have been reinforced for engaging in the appropriate ones and punished for engaging in the inappropriate ones. It does not take us long to learn that Margette is more likely to give us the kiss we have been hoping for if we are nice to her or that our children are more likely to share their toys with others if we reward them for doing it. Operant learning has even been used to explain why some people choose to engage in antisocial and criminal behavior. According to this approach, criminal behavior is determined by the reinforcements and punishments that the individual experiences (e.g., with peers and with parents) as a result of his or her behavior (Akers, 1998).
+オペラント学習を社会心理学に応用することで、ある社会的状況でどの行動が最も適切なのかを、なぜ私たちが知っているのかを説明できる。私たちが学ぶ理由の一つは、適切な行動をしたときには強化され、不適切な行動をしたときには罰されてきたからである。Margette に親切にすれば、期待していたキスをしてもらえる可能性が高くなることや、子どもがおもちゃを他者と分け合ったときに報酬を与えれば、その行動を再び行う可能性が高まることを学ぶのに、それほど時間はかからない。オペラント学習は、なぜ反社会的・犯罪的行動を選択する人がいるのかを説明するためにも用いられてきた。このアプローチによれば、犯罪行動は、本人の行動の結果として経験する強化と罰、たとえば仲間や親との関係の中で経験する強化と罰によって決定される (Akers, 1998)。
 
-### Associational Learning
+### 連合学習
 
-Associational learning occurs *when an object or event comes to be associated with a natural response, such as an automatic behavior or a positive or negative emotion.* If you have ever become hungry when you drive by one of your favorite pizza stores, it is probably because the sight of the pizzeria has become associated with your experiences of enjoying the pizzas. We may enjoy smoking cigarettes, drinking coffee, and eating not only because they give us pleasure themselves but also because they have been associated with pleasant social experiences in the past.
+連合学習は、*ある物や出来事が、自動的な行動や肯定的・否定的な感情のような自然な反応と結びつくとき*に生じる。お気に入りのピザ店の前を車で通っただけで空腹になったことがあるなら、おそらくその店の光景が、ピザをおいしく食べた経験と結びついているからである。タバコを吸うこと、コーヒーを飲むこと、食べることを楽しむのも、それ自体が快感を与えるからだけではなく、過去の楽しい社会的経験と結びついているからかもしれない。
 
-Associational learning also influences our knowledge and judgment about other people. For instance, research has shown that people more favorably view men and women who are seen alongside other people who are attractive, or who are said to have attractive girlfriends or boyfriends, than they do the same people who are seen alongside more average-looking others (Sigall & Landy, 1973). This liking is due to associational learning: we have positive feelings toward the people simply because those people are associated with the positive features of the attractive others.
+連合学習は、他者についての知識や判断にも影響する。たとえば研究では、魅力的な人と一緒にいるところを見られた男女や、魅力的な恋人がいると言われた男女は、平均的な外見の人と一緒にいる同じ人物よりも好意的に評価されることが示されている (Sigall & Landy, 1973)。この好意は連合学習によるものである。魅力的な他者が持つ肯定的な特徴と結びついているというだけで、その人物自身に対しても肯定的な感情を持つのである。
 
-Associational learning has long been, and continues to be, an effective tool in marketing and advertising (Hawkins, Best, & Coney, 1998). The general idea is to create an advertisement that has positive features so that it creates enjoyment in the person exposed to it. Because the product being advertised is mentioned in the ad, it becomes associated with the positive feelings that the ad creates. In the end, if everything has gone well, seeing the product online or in a store will then create a positive response in the buyer, leading him or her to be more likely to purchase the product.![qrcode.video7.1](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/qrcode.video7_.1-1.png)
+連合学習は長い間、マーケティングや広告における効果的な手法として利用されており、現在もそうである (Hawkins, Best, & Coney, 1998)。基本的な考え方は、広告に接した人が楽しさを感じるような肯定的特徴を持つ広告を作ることである。広告の中では商品について言及されるため、その商品が広告によって生み出された肯定的な感情と結びつく。最終的にうまくいけば、オンラインや店舗で商品を見たときに購入者の中に肯定的反応が生じ、その商品を購入する可能性が高くなる。
 
-One or more interactive elements has been excluded from this version of the text. You can view them online here: [https://opentextbc.ca/socialpsychology/?p=3157#oembed-3](#oembed-3)
+![qrcode.video7.1](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/qrcode.video7_.1-1.png)
 
-*Video 2.1 [Funny Commercials](https://www.youtube.com/watch?v=_Km-2ecLrPo) uploaded by kin100.*
+この版のテキストでは、1つ以上のインタラクティブ要素が除外されている。オンライン版はこちらから閲覧できる：[https://opentextbc.ca/socialpsychology/?p=3157#oembed-3](#oembed-3)
 
-Can you determine how associational learning is being used in these ads?
+_動画2.1 [Funny Commercials](https://www.youtube.com/watch?v=_Km-2ecLrPo) uploaded by kin100._
 
-A similar strategy is used by corporations that sponsor teams or events. For instance, if people enjoy watching a particular sports team, and if that team is sponsored by a product, such as Pepsi, then people may end up experiencing the positive feelings they have for their team when they view a can of Pepsi.
+これらの広告で連合学習がどのように使われているか、わかるだろうか。
 
-Advertisers use a variety of techniques to create positive advertisements, including enjoyable music, cute babies, attractive models, and funny spokespeople. In one study, Gorn (1982) showed research participants pictures of different colored writing pens, but paired one of the pens with pleasant music and another with unpleasant music. When given a choice as a free gift, more people chose the pen that had been associated with the pleasant music. In another study, Schemer, Matthes, Wirth, and Textor (2008) found that people were more interested in products that had been embedded in music videos of artists that they liked and less likely to be interested when the products were in videos featuring artists that they did not like.
+企業がチームやイベントのスポンサーになるときにも、同様の戦略が使われる。たとえば、あるスポーツチームを見ることを人々が楽しんでおり、そのチームを Pepsi のような商品がスポンサーしている場合、Pepsi の缶を見たときに、そのチームに対して持っている肯定的な感情を経験するようになる可能性がある。
 
-Another type of ad that is based on principles of classical conditioning is one that associates fear with the use of a product or behavior, such as those that show pictures of deadly automobile accidents to encourage seatbelt use or images of lung cancer surgery to discourage smoking. Indeed, many governments around the world have recently created negative and graphic images to place on cigarette packs in order to increase an association between negative responses and cigarettes. The idea is that when we see a cigarette and the fear of dying is associated with it, we will be less likely to light up. These ads have also been found to be effective largely because of conditioning (Das, de Wit, & Stroebe, 2003; Perloff, 2003; Witte & Allen, 2000).
+広告主は、楽しい音楽、かわいい赤ちゃん、魅力的なモデル、面白い広告出演者など、肯定的な広告を作るためにさまざまな手法を利用する。Gorn (1982) の研究では、研究参加者に異なる色のペンの写真を見せ、一方のペンを心地よい音楽と、もう一方を不快な音楽と組み合わせた。その後、無料の贈り物としてどちらかを選ばせると、心地よい音楽と結びついていたペンを選ぶ人のほうが多かった。別の研究では、Schemer, Matthes, Wirth, and Textor (2008) は、好きなアーティストのミュージックビデオの中に商品が登場していた場合にはその商品への関心が高まり、嫌いなアーティストのビデオに登場していた場合には関心が低下することを明らかにした。
+
+古典的条件づけの原理に基づく別の種類の広告として、商品や行動に恐怖を結びつけるものがある。たとえば、シートベルトの使用を促すために死亡事故の写真を見せたり、喫煙を思いとどまらせるために肺癌手術の画像を見せたりする広告である。実際、近年では世界各国の政府が、タバコと否定的な反応との結びつきを強めるため、タバコの箱に否定的で生々しい画像を掲載している。タバコを見たときに死への恐怖が結びついていれば、火をつける可能性が低くなるという考え方である。こうした広告が効果を持つことも明らかになっており、その大部分は条件づけによって説明できる (Das, de Wit, & Stroebe, 2003; Perloff, 2003; Witte & Allen, 2000)。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-2-2.png)
 
-*Figure 2.2 The goal of these images is to associate the fear of dying with cigarette smoking.*
+_図2.2 これらの画像の目的は、死への恐怖を喫煙と結びつけることである。_
 
-Taken together then, research studies provide ample evidence of the utility of associational learning in advertising. This does not mean, however, that we are always influenced by these ads. The likelihood that associational learning will be successful is greater when we do not know much about the products, where the differences between products are relatively minor, and when we do not think too carefully about the choices (Schemer, Matthes, Wirth, & Textor, 2008).
+以上を総合すると、広告における連合学習の有用性を示す研究上の証拠は豊富に存在する。ただし、私たちが常にこうした広告の影響を受けるという意味ではない。連合学習が成功する可能性は、商品についてあまり知識がない場合、商品同士の違いが比較的小さい場合、そして選択についてあまり慎重に考えない場合に高くなる (Schemer, Matthes, Wirth, & Textor, 2008)。
 
-Associational learning has also been implicated in the development of unfair and unjustified racial prejudices. We may dislike people from certain racial or ethnic groups because we frequently see them portrayed in the media as associated with violence, drug use, or terrorism. And we may avoid people with certain physical characteristics simply because they remind us of other people we do not like. For example, Lewicki (1985) conducted an experiment where high school students first had a brief interaction with a female experimenter who had short hair and wore glasses. The study was set up so that the students had to ask the experimenter a question, and (according to random assignment) the experimenter responded in either a negative way or a neutral way toward the participants. Then the students were told to go into a second room in which two experimenters were present and to approach either one of them. The researchers arranged it so that one of the two experimenters looked a lot like the original experimenter and the other one did not (she had longer hair and did not wear glasses). The students were significantly more likely to avoid the experimenter who looked like the original experimenter when that experimenter had been negative to them than when she had treated them neutrally. As a result of associational learning, the negative behavior of the first experimenter unfairly “rubbed off” onto the second.
+連合学習は、不公平で正当化できない人種的偏見の形成にも関係していると考えられている。特定の人種・民族集団が、メディアの中で暴力、薬物使用、テロリズムなどと頻繁に結びつけて描かれているために、その集団を嫌うようになることがある。また、嫌いな別の人物を思い出させるというだけで、特定の身体的特徴を持つ人を避けることもある。たとえば Lewicki (1985) は、高校生がまず、短髪で眼鏡をかけた女性実験者と短時間交流する実験を行った。学生は実験者に質問しなければならず、無作為割り当てによって、実験者は参加者に否定的または中立的な態度で応答した。その後、学生は2人の実験者がいる別の部屋へ行き、どちらか一人に近づくよう指示された。2人のうち一人は最初の実験者によく似ており、もう一人は似ていないように設定されていた。後者は髪が長く、眼鏡もかけていなかった。最初の実験者から否定的に扱われた学生は、中立的に扱われた学生よりも、最初の実験者に似た二人目の実験者を有意に避ける傾向を示した。連合学習によって、最初の実験者の否定的な行動が、不当に二人目の人物にまで「波及」したのである。
 
 ![social_group](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/social_group-e1410977771938.jpg)
 
-*Figure 2.3 Are your beliefs about people from different social groups influenced by associational learning?*
+_図2.3 異なる社会集団の人々についてあなたが持つ信念は、連合学習から影響を受けているだろうか。_
 
-Donal Carlston and his colleagues discovered still another way that associational learning can occur: when we say good or bad things about another person in public, the people who hear us say these things associate those characteristics with us, such that they like people who say positive things and dislike people who say negative things (Mae & Carlston, 2005; Skowronski, Carlston, Mae, & Crawford, 1998). The moral is clear—associational learning is powerful, so be careful what you do and say.
+Donal Carlston とその同僚たちは、連合学習が生じる別の仕組みも発見した。公の場で他者について良いことや悪いことを言うと、それを聞いた人々は、話された特徴を話し手自身と結びつける。つまり、肯定的なことを言う人は好かれ、否定的なことを言う人は嫌われるのである (Mae & Carlston, 2005; Skowronski, Carlston, Mae, & Crawford, 1998)。教訓は明確である。連合学習は強力なので、自分が何をし、何を言うかには注意したほうがよい。
 
-### Observational Learning
+### 観察学習
 
-In addition to operant and associational learning, *people learn by observing the behavior of others.* This is known as observational learning. To demonstrate the importance of observational learning in children, Bandura and Walters (1959) made a film of a young woman beating up a bobo doll—an inflatable balloon with a weight in the bottom that makes it bob back up when you knock it down. The woman violently hit the doll, shouting “Sockeroo!” She also kicked it, sat on it, and hit it with a hammer.
+オペラント学習と連合学習に加えて、_人は他者の行動を観察することによって学習する。_ これを観察学習という。子どもにおける観察学習の重要性を示すため、Bandura and Walters (1959) は、若い女性がボボ人形を殴る映像を制作した。ボボ人形は、下部に重りが入っており、倒しても起き上がってくる空気入りの人形である。女性は「Sockeroo!」と叫びながら人形を激しく殴った。さらに蹴り、上に座り、ハンマーでも叩いた。
 
-Bandura showed his film to groups of nursery school children and then let them play in a room in which there were some really fun toys. To create some frustration in the children, Bandura let the children play with the fun toys for only a couple of minutes before taking them away. Then Bandura gave the children a chance to play with the bobo doll. You probably won’t be surprised to hear that many of the children imitated the young woman in the film. They punched the bobo doll, shouted “Sockeroo!” and hit the doll with a hammer.
+Bandura は保育園児の集団にこの映像を見せ、その後、とても魅力的なおもちゃが置かれた部屋で遊ばせた。子どもたちに欲求不満を生じさせるため、楽しいおもちゃで遊ばせたのは数分間だけで、その後取り上げた。次に、ボボ人形で遊ぶ機会を与えた。多くの子どもが映像の女性をまねしたと聞いても、おそらく驚かないだろう。子どもたちはボボ人形を殴り、「Sockeroo!」と叫び、ハンマーで人形を叩いた。
 
-One or more interactive elements has been excluded from this version of the text. You can view them online here: [https://opentextbc.ca/socialpsychology/?p=3157#oembed-4](#oembed-4)
+この版のテキストでは、1つ以上のインタラクティブ要素が除外されている。オンライン版はこちらから閲覧できる：[https://opentextbc.ca/socialpsychology/?p=3157#oembed-4](#oembed-4)
 
 ![QR Code](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/qrcode.22528007.png)
 
-*Video 2.2 [Bandura Discussing Clips From His Modeling Studies](https://www.youtube.com/watch?v=8ZXOp5PopIA) uploaded by Heath Kaplan*.
+_動画2.2 [Bandura Discussing Clips From His Modeling Studies](https://www.youtube.com/watch?v=8ZXOp5PopIA) uploaded by Heath Kaplan._
 
-Take a moment to see how Albert Bandura explains his research into the modeling of aggression in children.
+Albert Bandura が子どもの攻撃性のモデリング研究についてどのように説明しているかを見てみよう。
 
-For some of the children, the female model was shown being rewarded for engaging in the behavior, and for other children, she was punished. In support of the principles of operant learning, Bandura’s study found that the children were more likely to be aggressive when the model had been rewarded for the behavior and were less likely to be so when the model had been punished. But even the children who did not see the model receive any reward nevertheless imitated the behavior to some extent. One of the major contributions of this study is the demonstration that children learned new types of aggressive behaviors simply by observing and imitating others. Bandura’s seminal research has inspired a generation of inquiry into the role of social learning in aggressive behavior, including studies of the relationship between exposure to violent media and violent conduct.
+一部の子どもには、女性モデルがその行動に対して報酬を受ける場面を見せ、別の子どもには罰を受ける場面を見せた。オペラント学習の原理を支持する結果として、モデルがその行動に対して報酬を受けていた場合には、子どもはより攻撃的になりやすく、罰を受けていた場合には攻撃的になりにくかった。しかし、モデルが報酬を受ける場面をまったく見なかった子どもでさえ、ある程度その行動を模倣した。この研究の大きな貢献の一つは、子どもが単に他者を観察して模倣するだけで、新しい種類の攻撃的行動を学習することを示した点にある。Bandura の先駆的研究は、暴力的メディアへの接触と暴力行為との関係を扱う研究を含め、攻撃的行動における社会的学習の役割について一世代にわたる研究を促した。
 
-Observational learning is involved in much of our learning about our social worlds. For example, it teaches us that Ravi is friendly, that Joanna is selfish, and that Frankie has a crush on Malik. In other cases, our knowledge comes more indirectly, from what we read in books or see on TV, or from what our friends tell us, for instance.
+観察学習は、社会的世界についての私たちの学習の多くに関与している。たとえば、Ravi は親しみやすい、Joanna は利己的である、Frankie は Malik に恋をしている、といったことを観察学習によって知る。別の場合には、本で読んだこと、テレビで見たこと、友人から聞いたことなど、より間接的な形で知識を得る。
 
-Observational learning is useful because it allows people to learn without having to actually engage in what might be a risky behavior. As Bandura put it:
+観察学習が有用なのは、危険かもしれない行動を実際に自分自身で行うことなく学習できるからである。Bandura は次のように述べている。
 
-> the prospects for \[human\] survival would be slim indeed if one could learn only by suffering the consequences of trial and error. For this reason, one does not teach children to swim, adolescents to drive automobiles, and novice medical students to perform surgery by having them discover the appropriate behavior through the consequences of their successes and failures. The more costly and hazardous the possible mistakes, the heavier is the reliance on observational learning from competent learners. (1977, p. 12).
+> 試行錯誤の結果を自ら被ることによってしか学べないのであれば、［人間が］生存できる見込みは実に乏しいものになるだろう。そのため、子どもに泳ぎを、青年に自動車の運転を、医学を学び始めた学生に外科手術を教える際、成功と失敗の結果を通じて適切な行動を自ら発見させるという方法は取らない。起こりうる誤りの代償や危険が大きいほど、熟練者からの観察学習への依存は大きくなる。(1977, p. 12)
 
-Bandura considered observational learning to be a fundamental determinant of all social behavior, particularly when people pay attention to the behavior of models and are highly motivated to imitate them.
+Bandura は、特に人々がモデルの行動に注意を払い、そのモデルを模倣する動機を強く持っている場合、観察学習はあらゆる社会的行動を決定する基本的な要因であると考えた。
 
-### Schemas as Social Knowledge
+### 社会的知識としてのスキーマ
 
-The outcome of learning is knowledge, and this knowledge is stored in the form of schemas, which are *knowledge representations that include information about a person, group, or situation*. In the brain, our schemas reside primarily in the prefrontal cortex *the part of the brain that lies in front of the motor areas of the cortex and that helps us remember the characteristics and actions of other people, plan complex social behaviors, and coordinate our behaviors with those of others* (Mitchell, Mason, Macrae, & Banaji, 2006). The prefrontal cortex is the “social” part of the brain. It is also the newest part of the brain, evolutionarily speaking, and has enlarged as the social relationships among humans have become more frequent, important, and complex. Demonstrating its importance in social behaviors, people with damage to the prefrontal cortex are likely to experience changes in social behaviors, including memory, personality, planning, and morality (Koenigs et al., 2007).
+学習の結果として得られるものが知識であり、この知識はスキーマの形で保存される。スキーマとは、*人、集団、状況についての情報を含む知識表象*である。脳内では、スキーマは主として前頭前野に存在する。前頭前野とは、*大脳皮質の運動領域より前方に位置し、他者の特徴や行動を記憶し、複雑な社会的行動を計画し、自分の行動を他者の行動と調整するのを助ける脳領域*である (Mitchell, Mason, Macrae, & Banaji, 2006)。前頭前野は脳の「社会的」部分である。また進化的に見れば脳の最も新しい領域でもあり、人間同士の社会的関係がより頻繁で、重要で、複雑になるにつれて拡大してきた。社会的行動における重要性を示すように、前頭前野を損傷した人では、記憶、人格、計画、道徳性などの社会的行動に変化が生じやすい (Koenigs et al., 2007)。
 
 ![Prefrontal Cortex](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-2-4.png)
 
-*Figure 2.4 The prefrontal cortex is the area of the brain that stores information about people and our interactions with them.*
+_図2.4 前頭前野は、人々や私たちと彼らとの相互作用についての情報を保存する脳領域である。_
 
-#### How Schemas Develop: Accommodation and Assimilation
+#### スキーマはどのように形成されるか：調節と同化
 
-Because they represent our past experience, and because past experience is useful for prediction, our schemas influence our expectations about future events. For instance, if you have watched Italian movies or if you have visited Italy, you might have come to the conclusion that Italians frequently gesture a lot with their hands when they talk—that they are quite nonverbally expressive. If so, this knowledge will be contained in your group schema about Italians. Therefore, when you meet someone who is Italian, or even when you meet someone who reminds you of an Italian person, you may well expect that he or she will gesture when talking.
+スキーマは過去の経験を表しており、過去の経験は予測に役立つため、将来の出来事についての期待に影響する。たとえば、イタリア映画を見たり、イタリアを訪れたりした経験から、「イタリア人は会話するときに手をよく動かし、非言語的な表現が豊かである」と結論づけたとしよう。この知識は、イタリア人についての集団スキーマに含まれることになる。したがって、イタリア人と会った場合、あるいはイタリア人を思い出させる人と会っただけでも、その人は話すときに身振りを使うだろうと期待するかもしれない。
 
-Having a database of social knowledge to draw on is obviously extremely useful. If we didn’t know or couldn’t remember anything about anyone or about anything that we had encountered in the past, our life would be very difficult because we would continually have to start our learning over again. Our schemas allow us to better understand people and help us make sense of information, particularly when the information is unclear or ambiguous. They also allow us to “fill in the blanks” by making guesses about what other people are probably like or probably going to do in cases where things are uncertain. Furthermore, the fact that different people have different past experiences—and thus that their schemas and attitudes are different—helps explain why different people draw different conclusions about the same events.
+利用できる社会的知識のデータベースを持つことは、明らかに非常に有用である。過去に出会った人や物について何も知らず、何も記憶できなければ、常に学習を最初からやり直さなければならず、人生は非常に困難になる。スキーマは他者をよりよく理解し、情報、とりわけ不明瞭または曖昧な情報を理解するのに役立つ。また、状況が不確かな場合には、他者がおそらくどのような人物で、どのようなことをする可能性が高いかを推測し、「空欄を埋める」ことも可能にする。さらに、人によって過去の経験が異なり、そのためスキーマや態度も異なるという事実は、同じ出来事から人によって異なる結論が導かれる理由の説明にもなる。
 
-Once they have developed, schemas influence our subsequent learning, such that the new people and situations we encounter are interpreted and understood in terms of our existing knowledge (Piaget & Inhelder, 1962; Taylor & Crocker, 1981). Imagine, for instance, that you have a schema—and thus an expectation—that Italians are very expressive, and you now meet Bianca, who has arrived at your school directly from Rome. You immediately expect her to be outgoing and expressive. However, as you get to know Bianca, you discover that she is not at all expressive and does not “talk with her hands.” In fact, she is quite shy and reserved. How does existing information influence how you react to the new information you receive?
+いったん形成されると、スキーマはその後の学習に影響を与える。そのため、新たに出会う人や状況は、既存の知識を通して解釈され、理解される (Piaget & Inhelder, 1962; Taylor & Crocker, 1981)。たとえば、「イタリア人は非常に表現豊かである」というスキーマ、したがって期待を持っているとしよう。そして今、ローマからあなたの学校に来た Bianca と出会った。すぐに、彼女は社交的で表現豊かな人だろうと期待する。しかし、Bianca のことを知っていくと、彼女はまったく表現豊かではなく、「手で話す」ような人でもないことがわかる。実際には非常に内気で控えめである。このとき、既存の情報は新しく受け取った情報への反応にどのような影響を与えるだろうか。
 
-One possibility is that the new information simply updates existing expectations. You might decide, for instance, that there is more variation among Italians in terms of expressiveness than you had previously realized, and you might resolve that Italians can sometimes be very shy and thoughtful. Or perhaps you note that although Bianca is Italian, she is also a woman. This might lead you to change your schema to believe that although Italian men are expressive, Italian women are not.
+一つの可能性は、新しい情報によって既存の期待を単純に更新することである。たとえば、イタリア人の表現性には自分が以前考えていた以上に幅があり、非常に内気で思慮深いイタリア人もいると考え直すかもしれない。あるいは、Bianca はイタリア人であると同時に女性でもあることに注目し、「イタリア人男性は表現豊かだが、イタリア人女性はそうではない」とスキーマを変更するかもしれない。
 
-*When existing schemas change on the basis of new information,* we call the process accommodation. In other cases, however, we engage in assimilation, *a process in which our existing knowledge influences new conflicting information to better fit with our existing knowledge, thus reducing the likelihood of schema change.* In the scenario above, if you used assimilation, instead of changing your expectations about Italians, you might try to reinterpret Bianca’s unexpected behavior to make it more consistent with your expectations. For instance, you might decide that Bianca’s behavior is actually more expressive than you thought it was at first, or that she is acting in a more shy and reserved manner because she is trying to impress you with her thoughtfulness or because she is not yet comfortable at the new school. Or you might assume that she is expressive at home with her family but not around you. In these cases, the process of assimilation has led you to process the new information about Bianca in a way that allows you to keep your existing expectations about Italians more generally intact.
+*新しい情報に基づいて既存のスキーマが変化すること*を、調節（accommodation）と呼ぶ。一方、同化（assimilation）を行う場合もある。同化とは、*既存の知識が新しい矛盾する情報に影響を与え、その情報を既存の知識により合うように解釈することで、スキーマが変化する可能性を低くする過程*である。先ほどの例で同化を行うなら、イタリア人に対する期待を変える代わりに、Bianca の予想外の行動を、既存の期待と一致するよう再解釈するかもしれない。たとえば、Bianca の行動は最初に思ったより実際には表現豊かだったと考えるかもしれないし、思慮深い人だと思ってもらおうとしているために内気で控えめに振る舞っている、あるいは新しい学校にまだ慣れていないためだと考えるかもしれない。また、家族と一緒にいるときには表現豊かだが、自分の前ではそうではないと考えることもできる。このような場合、同化によって Bianca についての新しい情報が処理され、イタリア人一般についての既存の期待を維持できる。
 
-#### How Schemas Maintain Themselves: The Power of Assimilation
+#### スキーマはどのように自らを維持するか：同化の力
 
-As we have seen in our earlier discussion, accommodation (i.e., the changing of beliefs on the basis of new information) does occur; indeed it is the process of learning itself. For example, your belief about Italians may well change through your encounters with Bianca. However, there are many factors that lead us to assimilate information into our expectations rather than to accommodate our expectations to fit new information. In fact, we can say that in most cases, once a schema is developed, it will be difficult to change it because the expectation leads us to process new information in ways that serve to strengthen it rather than to weaken it.
+これまでの議論で見てきたように、調節、すなわち新しい情報に基づいて信念を変化させることは実際に生じる。事実、それ自体が学習の過程である。たとえば、Bianca と交流することを通じて、イタリア人についてのあなたの信念は変化するかもしれない。しかし、新しい情報に合わせて期待を調節するのではなく、情報を既存の期待へ同化させる方向へ私たちを導く要因も数多くある。実際、いったんスキーマが形成されると、多くの場合それを変えるのは難しいと言える。期待そのものが、新しい情報を弱めるのではなく、むしろその期待を強化するような方法で処理させるからである。
 
-The tendency toward assimilation is so strong that it has substantial effects on our everyday social cognition. One outcome of assimilation is the confirmation bias, *the tendency for people to seek out and favor information that confirms their expectations and beliefs,* which in turn can further help to explain the often self-fulfilling nature of our schemas. The confirmation bias has been shown to occur in many contexts and groups, although there is some evidence of cultural differences in its extent and prevalence. Kastenmuller and colleagues (2010), for instance, found that the bias was stronger among people with individualist versus collectivist cultural backgrounds, and argued that this partly stemmed from collectivist cultures putting greater importance in being self-critical, which is less compatible with seeking out confirming as opposed to disconfirming evidence.
+同化への傾向は非常に強いため、日常的な社会的認知に大きな影響を与える。同化の結果の一つが確証バイアス（confirmation bias）、すなわち*自分の期待や信念を裏づける情報を探し、それを好む傾向*である。この傾向はさらに、私たちのスキーマがしばしば自己成就的な性質を持つ理由の説明にもなる。確証バイアスは多くの状況や集団で確認されているが、その程度や広がりには文化差があることを示す証拠もある。たとえば Kastenmuller ら (2010) は、このバイアスが集団主義文化の背景を持つ人より個人主義文化の背景を持つ人で強いことを明らかにし、その理由の一部として、集団主義文化では自己批判がより重視されることを挙げた。自己批判は、反証する証拠よりも確認する証拠を探す姿勢とは相容れにくいからである。
 
-##### Research Focus
+##### 研究フォーカス
 
-**The Confirmation Bias**
+**確証バイアス**
 
-Consider the results of a research study conducted by Ross, Lepper, and Hubbard (1975) that demonstrated the confirmation bias. In this research, high school students were asked to read a set of 25 pairs of cards, in which each pair supposedly contained one real and one fake suicide note. The students’ task was to examine both cards and to decide which of the two notes was written by an actual suicide victim. After the participants read each card and made their decision, the experimenter told them whether their decision was correct or incorrect. However, the feedback was not at all based on the participants’ responses. Rather, the experimenters arranged the feedback so that, on the basis of random assignment, different participants were told either that they were successful at the task (they got 24 out of 25 correct), average at the task (they got 17 out of 25 correct), or poor at the task (they got 10 out of 25 correct), regardless of their actual choices.
+Ross, Lepper, and Hubbard (1975) が実施した、確証バイアスを示す研究結果を考えてみよう。この研究では、高校生に25組のカードを読ませた。各組には、本物の自殺者が書いた遺書と偽物の遺書が1枚ずつ含まれていると説明された。学生の課題は、2枚のカードを調べ、どちらが実際の自殺者によって書かれたものかを判断することだった。参加者が各カードを読んで判断するたびに、実験者はその判断が正しかったか間違っていたかを伝えた。しかし、このフィードバックは参加者の実際の回答とはまったく関係していなかった。実験者は無作為割り当てによって、実際の選択にかかわらず、ある参加者には課題が得意だった（25問中24問正解）、別の参加者には平均的だった（25問中17問正解）、さらに別の参加者には不得意だった（25問中10問正解）と伝えた。
 
-At this point, the experimenters stopped the experiment and explained to the participants what had happened, including how the feedback they had received was predetermined so that they would learn that they were either successful, average, or poor at the task. They were even shown the schedule that the experimenters had used to give them the feedback. Then the participants were asked, as a check on their reactions to the experiment, to indicate how many answers they thought they would get correct on a subsequent—and real—series of 25 card pairs.
+この時点で実験者は実験を中止し、参加者に何が起きていたのかを説明した。受け取ったフィードバックがあらかじめ決められており、課題が得意、平均的、不得意のいずれかだと思わせるために与えられていたことも説明した。実験者がフィードバックを与える際に使用した予定表さえ見せた。その後、参加者に実験への反応を確認するため、次に本物の25組のカードに取り組んだ場合、自分は何問正解できると思うかを尋ねた。
 
-As you can see in Figure 2.5, the results of this experiment showed a clear tendency for expectations to be maintained even in the face of information that should have discredited them. Students who had been told that they were successful at the task indicated that they thought they would get more responses correct in a real test of their ability than those who thought they were average at the task, and students who thought they were average thought they would do better than those told they were poor at the task. In short, once students had been convinced that they were either good or bad at the task, they really believed it. It then became very difficult to remove their beliefs, even by providing information that should have effectively done so.
+図2.5に示すように、この実験では、期待を否定するはずの情報を提示されても期待が維持される明確な傾向が見られた。課題が得意だと伝えられた学生は、平均的だと思っていた学生より、本当の能力テストでも多く正解できると予想した。そして平均的だと思っていた学生は、不得意だと伝えられた学生より良い成績を予想した。要するに、いったん自分がその課題を得意または不得意だと信じ込むと、本当にそうだと考えるようになったのである。その後、それを効果的に否定するはずの情報を与えられても、その信念を取り除くことは非常に難しくなった。
 
 ![Prediction of future success](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-2-5.png)
 
-*Figure 2.5 In this demonstration of the power of assimilation, participants were given initial feedback that they were good, average, or poor at a task but then told that the feedback was entirely false. The feedback, which should have been discounted, nevertheless continued to influence participants’ estimates of how well they would do on a future task. Data are from Ross, Lepper, and Hubbard (1975).*
+_図2.5 同化の力を示すこの実験では、参加者に、課題が得意、平均的、不得意のいずれかであるという最初のフィードバックが与えられ、その後、そのフィードバックが完全に虚偽だったと説明された。本来なら無視されるべきフィードバックであったにもかかわらず、その後の課題でどれくらいうまくできるかという参加者の予測に影響し続けた。データは Ross, Lepper, and Hubbard (1975) による。_
 
-Why do we tend to hold onto our beliefs rather than change them? One reason that our beliefs often outlive the evidence on which they are supposed to be based is that people come up with reasons to support their beliefs. People who learned that they were good at detecting real suicide notes probably thought of a lot of reasons why this might be the case—“I predicted that Suzy would break up with Billy,” or “I knew that my mother was going to be sad after I left for university”—whereas the people who learned that they were not good at the task probably thought of the opposite types of reasons—“I had no idea that Jean was going to drop out of high school.” You can see that these tendencies will produce assimilation—the interpretation of our experiences in ways that support our existing beliefs. Indeed, research has found that perhaps the only way to reduce our tendencies to assimilate information into our existing belief is to explicitly force people to think about exactly the opposite belief (Anderson & Sechler, 1986).
+なぜ私たちは信念を変えるより、維持しようとするのだろうか。信念が、本来その根拠となっていた証拠よりも長く残る理由の一つは、人々がその信念を支持する理由を自分で作り出すからである。本物の自殺遺書を見分けることが得意だと言われた人は、「Suzy が Billy と別れると予想できた」「自分が大学へ行った後、母が悲しむだろうとわかっていた」など、自分が得意である理由を数多く考えた可能性がある。一方、不得意だと言われた人は、「Jean が高校を中退するとはまったくわからなかった」など、反対の理由を考えた可能性がある。このような傾向が同化、すなわち既存の信念を支持する形で経験を解釈することを生み出す。実際、研究では、情報を既存の信念へ同化させる傾向を弱めるには、正反対の信念について明示的に考えるよう強制することがおそらく唯一の方法であることが示されている (Anderson & Sechler, 1986)。
 
-In some cases, our existing knowledge acts to direct our attention toward information that matches our expectations and prevents us from attempting to attend to or acknowledge conflicting information (Fiske & Neuberg, 1990). To return to our example of Bianca from Rome, when you first meet her, you may immediately begin to look for signs of expressiveness in her behavior and personality. Because we expect people to confirm our expectations, we frequently respond to new people as if we already know what they are going to be like. For example, Trope and Thompson (1997) found in their research that individuals addressed fewer questions to people about whom they already had strong expectations and that the questions they did ask were likely to confirm the expectations they already had. If you believe that Italians are expressive, you would expect to see that behavior in Bianca, you would preferentially attend to information that confirms those beliefs, and you would tend to ignore any disconfirming information. The outcome is that expectations resist change (Fazio, Ledbetter, & Towles-Schwen, 2000).
+場合によっては、既存の知識が期待に一致する情報へ注意を向けさせ、矛盾する情報に注意を払ったり認めたりすることを妨げる (Fiske & Neuberg, 1990)。ローマ出身の Bianca の例に戻れば、最初に彼女に会ったとき、すぐにその行動や人格の中に表現豊かさの兆候を探し始めるかもしれない。私たちは他者が自分の期待を確認してくれると考えるため、新しく出会った人に対して、すでにどのような人かわかっているかのように反応することが多い。Trope and Thompson (1997) は、すでに強い期待を持っている相手に対しては質問する数が少なくなり、しかも尋ねる質問も既存の期待を確認しやすいものになることを明らかにした。イタリア人は表現豊かだと信じていれば、Bianca にその行動を期待し、信念を裏づける情報に選択的に注意し、それに反する情報を無視する傾向を示す。その結果、期待は変化しにくくなる (Fazio, Ledbetter, & Towles-Schwen, 2000)。
 
-Not only do we often seek out evidence more readily if it fits our pre-existing beliefs, but we also tend to evaluate its credibility more favorably than we do evidence that runs against what we believe (Stanovich, West, & Toplak, 2013). These tendencies in turn help to explain the inertia that our beliefs often display, and their resistance to contradictory evidence, even when they are inaccurate or dysfuntional.
+さらに、私たちは既存の信念に合う証拠をより積極的に探すだけでなく、その信頼性も、自分の信念に反する証拠より高く評価する傾向がある (Stanovich, West, & Toplak, 2013)。こうした傾向は、信念がたとえ不正確または機能不全であっても、矛盾する証拠に抵抗し、容易には変化しない理由を説明する。
 
-Applying these insights to the case study that opened this chapter, perhaps the financial meltdown of 2008 was caused in part by key decision-makers continuing with high-risk investment strategies, even in the face of growing evidence of the potential negative consequences. Seen through the lens of the confirmation bias, these judgments start to make sense. Confirmation bias can lead investors to be overconfident, ignoring evidence that their strategies will lose money (Kida, 2006). It seems, then, that too much effort was spent on finding evidence confirming the wisdom of the current strategies and not enough time was allocated to finding the counterevidence.
+本章冒頭の事例にこの知見を当てはめれば、2008年の金融危機は、重要な意思決定者が潜在的な悪影響を示す証拠が増えていたにもかかわらず、高リスクの投資戦略を継続したことによって、部分的には生じたのかもしれない。確証バイアスという観点から見ると、こうした判断は理解しやすくなる。確証バイアスは投資家を過信させ、自分たちの戦略が損失を生むという証拠を無視させる可能性がある (Kida, 2006)。当時は、既存戦略の賢明さを裏づける証拠を探すことに労力をかけすぎ、それに反する証拠を探すための時間が十分ではなかったようである。
 
-Our reliance on confirmatory thinking can also make it more difficult for us to “think outside the box.” Peter Wason (1960) asked college students to determine the rule that was used to generate the numbers 2-4-6 by asking them to generate possible sequences and then telling them if those numbers followed the rule. The first guess that students made was usually “consecutive ascending even numbers,” and they then asked questions designed to confirm their hypothesis (“Does 102-104-106 fit?” “What about 434-436-438?”). Upon receiving information that those guesses did fit the rule, the students stated that the rule was “consecutive ascending even numbers.” But the students’ use of the confirmation bias led them to ask only about instances that confirmed their hypothesis and not about those that would disconfirm it. They never bothered to ask whether 1-2-3 or 3-11-200 would fit; if they had, they would have learned that the rule was not “consecutive ascending even numbers” but simply “any three ascending numbers.” Again, you can see that once we have a schema (in this case, a hypothesis), we continually retrieve that schema from memory rather than other relevant ones, leading us to act in ways that tend to confirm our beliefs.
+確証的な思考への依存は、「既存の枠を超えて考える」ことも難しくする。Peter Wason (1960) は大学生に、2-4-6 という数字を生み出した規則を見つけるよう求めた。学生は可能な数列を提示し、その数列が規則に従っているかを教えてもらった。最初に学生が推測する規則は通常「連続して増加する偶数」であり、その後、「102-104-106 は当てはまるか」「434-436-438 はどうか」など、仮説を確認する質問をした。これらが規則に適合すると聞くと、学生は規則が「連続して増加する偶数」だと結論づけた。しかし確証バイアスによって、仮説を確認する例だけを尋ね、それを反証する例については尋ねなかった。1-2-3 や 3-11-200 が当てはまるかを尋ねていれば、規則が「連続して増加する偶数」ではなく、単に「昇順に並んだ任意の3つの数字」であることを知ることができたはずである。ここでも、一度スキーマ、この場合は仮説を持つと、別の関連するスキーマではなく、そのスキーマを繰り返し記憶から取り出し、自分の信念を確認するような行動をとる傾向があることがわかる。
 
-Because expectations influence what we attend to, they also influence what we remember. One frequent outcome is that information that confirms our expectations is more easily processed and understood, and thus has a bigger impact than does disconfirming information. There is substantial research evidence indicating that when processing information about social groups, individuals tend to remember information better that confirms their existing beliefs about those groups (Fyock & Stangor, 1994; Van Knippenberg & Dijksterhuis, 1996). If we have the (statistically erroneous) stereotype that women are bad drivers, we tend to remember the cases where we see a woman driving poorly but to forget the cases where we see a woman driving well. This of course strengthens and maintains our beliefs and produces even more assimilation. And our schemas may also be maintained because when people get together, they talk about other people in ways that tend to express and confirm existing beliefs, including stereotypes (Ruscher & Duval, 1998; Schaller & Conway, 1999).
+期待は私たちが何に注意するかに影響するため、何を記憶するかにも影響する。よく見られる結果の一つは、期待を裏づける情報のほうが処理・理解しやすく、そのため期待に反する情報より大きな影響を持つことである。社会集団についての情報を処理するとき、人はその集団についての既存の信念を裏づける情報をよりよく記憶する傾向があることを、多くの研究が示している (Fyock & Stangor, 1994; Van Knippenberg & Dijksterhuis, 1996)。たとえば「女性は運転が下手だ」という統計的には誤ったステレオタイプを持っている場合、女性が下手に運転している場面は記憶するが、上手に運転している場面は忘れる傾向がある。これは当然、信念を強化・維持し、さらに同化を促進する。また、人々が集まって他者について話す際、ステレオタイプを含む既存の信念を表現し、確認するような話し方をする傾向があることによっても、スキーマが維持される可能性がある (Ruscher & Duval, 1998; Schaller & Conway, 1999)。
 
-Darley and Gross (1983) demonstrated how schemas about social class could influence memory. In their research, they gave participants a picture and some information about a girl in grade 4, named Hannah. To activate a schema about her social class, Hannah was pictured sitting in front of a nice suburban house for one half of the participants and in front of an impoverished house in an urban area for the other half. Then the participants watched a video that showed Hannah taking an intelligence test. As the test went on, Hannah got some of the questions right and some of them wrong, but the number of correct and incorrect answers was the same in both conditions. Then the participants were asked to remember how many questions Hannah got right and wrong. Demonstrating that stereotypes had influenced memory, the participants who thought that Hannah had come from an upper-class background judged that she had gotten more correct answers than those who thought she was from a lower-class background. It seems, then, that we have a **reconstructive memory bias**, as we often *remember things that match our current beliefs better than those that don’t and reshape those memories to better align with our current beliefs* (Hilsabeck, Gouvier, & Bolter, 1998).
+Darley and Gross (1983) は、社会階級についてのスキーマが記憶にどのような影響を与えるかを示した。研究では、参加者に Hannah という小学4年生の少女の写真と情報を提示した。Hannah の社会階級についてのスキーマを活性化するため、参加者の半数には彼女が郊外の立派な住宅の前に座っている写真を、残り半数には都市部の貧しい住宅の前に座っている写真を見せた。その後、Hannah が知能検査を受けている映像を見せた。検査中、Hannah はいくつかの問題に正解し、いくつかを間違えたが、正答数と誤答数は両条件で同じだった。その後、Hannah が何問正解し、何問間違えたかを参加者に思い出してもらった。ステレオタイプが記憶に影響したことを示すように、Hannah が上流階級出身だと思っていた参加者は、下層階級出身だと思っていた参加者より、彼女の正答数を多く見積もった。このことから、私たちは**再構成的記憶バイアス**を持つと考えられる。つまり、*現在の信念に合うことを、合わないことよりよく記憶し、さらに現在の信念により一致するよう記憶を作り変えることが多い*のである (Hilsabeck, Gouvier, & Bolter, 1998)。
 
-This is not to say that we only remember information that matches our expectations. Sometimes we encounter information that is so extreme and so conflicting with our expectations that we cannot help but attend to and remember it (Srull & Wyer, 1989). Imagine that you have formed an impression of a good friend of yours as a very honest person. One day you discover, however, that he has taken some money from your wallet without getting your permission or even telling you. It is likely that this new information—because it is so personally involving and important—will have a dramatic effect on your perception of your friend and that you will remember it for a long time. In short, information that is either consistent with, or very inconsistent with, an existing schema or attitude is likely to be well remembered.
+もちろん、期待に一致する情報しか覚えないわけではない。ときには、期待からあまりにも大きく外れ、非常に強く矛盾する情報に出会うため、注意を向けずにはいられず、記憶にも強く残る場合がある (Srull & Wyer, 1989)。非常に誠実な人だと思っていた親しい友人が、ある日、許可も取らず何も言わずにあなたの財布からお金を取っていたことを知ったと想像してほしい。この新しい情報は自分にとって深く関係し、重要であるため、その友人に対する認識に劇的な影響を与え、長く記憶に残る可能性が高い。要するに、既存のスキーマや態度に一致する情報、または非常に強く矛盾する情報のどちらも、よく記憶されやすい。
 
-Still another way that our expectations tend to maintain themselves is by leading us to act toward others on the basis of our expectations, creating a self-fulfilling prophecy. A self-fulfilling prophecy is *a process that occurs when our expectations about others lead us to behave toward those others in ways that make our expectations come true*. If I have a stereotype that Italians are friendly, then I may act toward Bianca in a friendly way. My friendly behavior may be reciprocated by Bianca, and if many other people also engage in the same positive behaviors with her, in the long run she may actually become a friendlier person, thus confirming my initial expectations. Of course, the opposite is also possible—if I believe that Italian people are boring, my behavior toward them may lead me to maintain those more negative, and probably inaccurate, beliefs as well (Figure 2.6).
+期待が自らを維持するさらに別の方法は、その期待に基づいて他者に行動するよう私たちを導き、自己成就予言を生み出すことである。自己成就予言とは、*他者についての期待が、その期待を現実のものにするような方法で他者に対して行動させる過程*である。「イタリア人は親しみやすい」というステレオタイプを持っていれば、Bianca に親しみやすく接するかもしれない。Bianca もその友好的な態度に応じる可能性がある。そして多くの人が同じように肯定的に接すれば、長期的には実際に彼女がより親しみやすい人物になり、最初の期待を裏づけることになるかもしれない。当然、逆もありうる。「イタリア人は退屈だ」と信じていれば、その人々に対する自分の行動によって、より否定的で、おそらく不正確な信念を維持することにもなる（図2.6）。
 
 ![Self-fulling prophecy](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-2-6.png)
 
-*Figure 2.6 Self-fulfilling prophecy effects have been implicated in a wide variety of social domains, including client responses to psychotherapy (Tambling, 2012), negative perceptions of aging (Wurm, Zielgelmann, Wolff, & Schuz, 2013), and parents’ beliefs about their children’s marijuana use (Lamb & Crano, 2014).*
+_図2.6 自己成就予言の効果は、心理療法に対するクライアントの反応 (Tambling, 2012)、老化についての否定的認識 (Wurm, Zielgelmann, Wolff, & Schuz, 2013)、子どものマリファナ使用についての親の信念 (Lamb & Crano, 2014) など、非常に幅広い社会的領域と関係している。_
 
-We can now begin to see why an individual who initially makes a judgment that a person has engaged in a given behavior (e.g., an eyewitness who believes that he or she saw a given person commit a crime) will find it very difficult to change his or her mind about that decision later. Even if the individual is provided with evidence that suggests that he or she was wrong, that individual will likely assimilate that information to the existing belief. Assimilation is thus one of many factors that help account for the inaccuracy of eyewitness testimony.
+ここまでくれば、ある人が最初に「この人物がある行動をした」と判断した場合、たとえば目撃者が「ある人物が犯罪を犯すのを見た」と信じた場合、後になってその判断を変えることが非常に難しい理由がわかり始めるだろう。本人が間違っていたことを示す証拠を与えられても、その情報を既存の信念に同化させる可能性が高い。したがって同化は、目撃証言が不正確になる理由を説明する多くの要因の一つである。
 
-##### Research Focus
+##### 研究フォーカス
 
-Schemas as Energy Savers
+**エネルギー節約手段としてのスキーマ**
 
-If schemas serve in part to help us make sense of the world around us, then we should be particularly likely to use them in situations where there is a lot of information to learn about, or when we have few cognitive resources available to process information. Schemas function like energy savers, to help us keep track of things when information processing gets complicated.
+スキーマが、私たちの周囲の世界を理解するために役立つのであれば、学習しなければならない情報が大量にある状況や、情報処理に利用できる認知的資源が少ない状況で、とりわけスキーマを利用するはずである。スキーマは一種のエネルギー節約装置として働き、情報処理が複雑になったときでも物事を把握しやすくしてくれる。
 
-Stangor and Duan (1991) tested the hypothesis that people would be more likely to develop schemas when they had a lot of information to learn about. In the research, participants were shown information describing the behaviors of people who supposedly belonged to different social groups, although the groups were actually fictitious and were labeled only as the “red group,” the “blue group,” the “yellow group,” and the “green group.” Each group engaged in behaviors that were primarily either honest, dishonest, intelligent, or unintelligent. Then, after they had read about the groups, the participants were asked to judge the groups and to recall as much information that they had read about them as they could.
+Stangor and Duan (1991) は、学習しなければならない情報量が多いほど、人はスキーマを形成しやすくなるという仮説を検証した。研究では、参加者に異なる社会集団に属するとされる人々の行動についての情報を見せた。実際には架空の集団であり、「赤集団」「青集団」「黄集団」「緑集団」とだけ名づけられていた。各集団は主として、正直、不正直、知的、非知的のいずれかの行動をしていた。集団について読んだ後、参加者は各集団を評価し、読んだ情報をできる限り多く思い出すよう求められた。
 
-Stangor and Duan found that participants remembered more stereotype-supporting information about the groups when they were required to learn about four different groups than when they only needed to learn about one or two groups. This result is consistent with the idea that we use our stereotypes more when “the going gets rough”—that is, when we need to rely on them to help us make sense of new information.
+Stangor と Duan は、一つまたは二つの集団についてだけ学習する場合より、四つの異なる集団について学習しなければならない場合のほうが、その集団についてステレオタイプを支持する情報を多く記憶していることを明らかにした。この結果は、「状況が厳しくなる」とき、つまり新しい情報を理解するためにステレオタイプへ頼る必要性が高いときに、ステレオタイプをより利用するという考え方と一致する。
 
 ![Judgment of guilt schema](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-2-7.png)
 
-*Figure 2.7 Schemas are particularly powerful when we are tired. Participants were asked to judge the degree to which a defendant was guilty of a crime for which he was accused (however unfairly) and for which the crime fit the stereotype (e.g., that student athletes were likely to cheat on exams). Participants had previously indicated whether they were “morning people” or “night people” on a questionnaire and were tested in either the morning or the evening. Data from Bodenhausen (1990).*
+_図2.7 スキーマは疲れているときに特に強い力を持つ。参加者は、被告人が、ステレオタイプに適合する犯罪（たとえば「学生アスリートは試験でカンニングをしやすい」というステレオタイプ）について、たとえ不当にであっても告発されているとき、その被告人がどの程度有罪だと思うかを判断した。参加者は事前の質問票で自分が「朝型」か「夜型」かを回答しており、午前または夜に実験を受けた。データは Bodenhausen (1990) による。_
 
-Bodenhausen (1990) presented research participants with information about court cases in jury trials. Furthermore, he had obtained self-reports from the participants about whether they considered themselves to be primarily “morning people” (those who feel better and are more alert in the morning) or “evening people” (those who are more alert in the evening). As shown in Figure 2.7, Bodenhausen found that participants were more likely to make use of their stereotypes when they were judging the guilt or innocence of the individuals on trial at the time of day when the participants acknowledged that they were normally more fatigued. People who reported being most alert in the morning stereotyped more at night, and vice versa. This experiment thus provides more support for the idea that schemas—in this case, those about social groups—serve, in part, to make our lives easier and that we rely on them when we need to rely on cognitive efficiency—for instance, when we are tired.
+Bodenhausen (1990) は、陪審裁判の事例についての情報を研究参加者に提示した。さらに参加者から、自分を主として「朝型」（朝のほうが気分がよく、覚醒度が高い人）と考えるか、「夜型」（夜のほうが覚醒度が高い人）と考えるかについて自己報告を得ていた。図2.7に示すように、参加者は、自分が通常より疲れていると認識する時間帯に被告人の有罪・無罪を判断するとき、ステレオタイプをより多く利用する傾向を示した。朝に最も覚醒していると答えた人は夜によりステレオタイプ的な判断を行い、その逆も見られた。この実験は、社会集団についてのスキーマが、人生を容易にする機能を一部持っており、疲れているときなど認知的効率性を必要とする際に、私たちがそれへ依存するという考え方をさらに支持している。
 
-:::tip[Key Takeaways]
+:::tip[重要なポイント]
 
-- Human beings respond to the social challenges they face by relying on their substantial cognitive capacities.
-- Our knowledge about and our responses to social events are developed and influenced by operant learning, associational learning, and observational learning.
-- One outcome of our experiences is the development of mental representations about our environments—schemas and attitudes. Once they have developed, our schemas influence our subsequent learning, such that the new people and situations we encounter are interpreted and understood in terms of our existing knowledge.
-- Accommodation occurs when existing schemas change on the basis of new information. Assimilation occurs when our knowledge acts to influence new information in a way that makes the conflicting information fit with our existing schemas.
-- Because our expectations influence our attention and responses to, and our memory for, new information, often in a way that leads our expectations to be maintained, assimilation is generally more likely than accommodation.
-- Schemas serve as energy savers. We are particularly likely to use them when we are tired or when the situation that we must analyze is complex.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Describe a time when you learned new social information or new behaviors through operant, associational, or observational learning.
-2. Think about a time when you made a snap judgment about another person. How did your expectations about people influence your judgment of this person? Looking back on this, to what extent do you think that the judgment fair or unfair?
-3. Consider some of your beliefs about the people you know. Were these beliefs formed through assimilation, accommodation, or a combination of both? To what degree do you think that your expectations now influence how you respond to these people?
-4. Describe a time when you had a strong expectation about another person’s likely behavior. In what ways and to what extent did that expectation serve as an energy saver?
+- 人間は、豊かな認知能力を利用して、直面する社会的な課題に対応している。
+- 社会的出来事についての知識と、それに対する反応は、オペラント学習、連合学習、観察学習によって形成され、影響を受ける。
+- 経験の結果の一つとして、環境についての心的表象、すなわちスキーマや態度が形成される。いったん形成されると、スキーマはその後の学習に影響し、新しく出会う人や状況は既存の知識を通じて解釈・理解される。
+- 調節は、新しい情報に基づいて既存のスキーマが変化するときに生じる。同化は、既存の知識が新しい情報に影響し、矛盾する情報を既存のスキーマに合うように処理するときに生じる。
+- 期待は、新しい情報への注意、反応、記憶に影響し、しかもその期待を維持するような方向に働くことが多いため、一般に調節より同化のほうが生じやすい。
+- スキーマはエネルギー節約手段として働く。疲れているときや、分析しなければならない状況が複雑なときには、とりわけスキーマを利用しやすい。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Akers, R. L. (1998). *Social learning and social structure: A general theory of crime and deviance.* Boston, MA: Northeastern University Press.
+1. オペラント学習、連合学習、または観察学習を通じて、新しい社会的情報や行動を学んだ経験について説明しなさい。
+2. 他者について即座に判断したときのことを考えてみよう。人々についてのあなたの期待は、その人物に対する判断にどのような影響を与えただろうか。振り返って、その判断はどの程度公平または不公平だったと思うだろうか。
+3. 自分が知っている人々について持っている信念をいくつか考えてみよう。それらの信念は、同化、調節、それとも両方の組み合わせによって形成されただろうか。現在、その人々にどう反応するかに、あなたの期待はどの程度影響しているだろうか。
+4. 他者がどのように行動するかについて強い期待を持っていた経験を説明しなさい。その期待は、どのような点で、またどの程度、認知的なエネルギー節約手段として働いただろうか。
 
-Anderson, C. A., & Sechler, E. S. (1986). Effects of explanation and counterexplanation on the development and use of social theories. *Journal of Personality and Social Psychology, 50*(1), 24–34.
+:::
 
-Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavior change. *Psychological Review, 84*, 191–215.
+#### 参考文献
 
-Bandura, A., & Walters, R. H. (1959). *Adolescent aggression*. New York, NY: Ronald Press.
+Akers, R. L. (1998). _Social learning and social structure: A general theory of crime and deviance._ Boston, MA: Northeastern University Press.
 
-Bodenhausen, G. V. (1990). Stereotypes as judgmental heuristics: Evidence of circadian variations in discrimination. *Psychological Science, 1*, 319–322.
+Anderson, C. A., & Sechler, E. S. (1986). Effects of explanation and counterexplanation on the development and use of social theories. _Journal of Personality and Social Psychology, 50_(1), 24–34.
 
-Darley, J. M., & Gross, P. H. (1983). A hypothesis-confirming bias in labeling effects. *Journal of Personality and Social Psychology, 44*, 20–33.
+Bandura, A. (1977). Self-efficacy: Toward a unifying theory of behavior change. _Psychological Review, 84_, 191–215.
 
-Das, E. H. H. J., de Wit, J. B. F., & Stroebe, W. (2003). Fear appeals motivate acceptance of action recommendations: Evidence for a positive bias in the processing of persuasive messages. *Personality and Social Psychology Bulletin, 29*(5), 650–664.
+Bandura, A., & Walters, R. H. (1959). _Adolescent aggression_. New York, NY: Ronald Press.
 
-Fazio, R. H., Ledbetter, J. E., & Towles-Schwen, T. (2000). On the costs of accessible attitudes: Detecting that the attitude object has changed. *Journal of Personality and Social Psychology, 78*(2), 197–210.
+Bodenhausen, G. V. (1990). Stereotypes as judgmental heuristics: Evidence of circadian variations in discrimination. _Psychological Science, 1_, 319–322.
 
-Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 23, pp. 1–74). New York, NY: Academic.
+Darley, J. M., & Gross, P. H. (1983). A hypothesis-confirming bias in labeling effects. _Journal of Personality and Social Psychology, 44_, 20–33.
 
-Fyock, J., & Stangor, C. (1994). The role of memory biases in stereotype maintenance. *British Journal of Social Psychology, 33,* 331–343.
+Das, E. H. H. J., de Wit, J. B. F., & Stroebe, W. (2003). Fear appeals motivate acceptance of action recommendations: Evidence for a positive bias in the processing of persuasive messages. _Personality and Social Psychology Bulletin, 29_(5), 650–664.
 
-Gorn, G. J. (1982). The effects of music in advertising on choice behavior: A classical conditioning approach. *Journal of Marketing, 46*(1), 94–101.
+Fazio, R. H., Ledbetter, J. E., & Towles-Schwen, T. (2000). On the costs of accessible attitudes: Detecting that the attitude object has changed. _Journal of Personality and Social Psychology, 78_(2), 197–210.
 
-Hawkins, D., Best, R., & Coney, K. (1998.) *Consumer behavior: Building marketing strategy* (7th ed.). Boston, MA: McGraw-Hill
+Fiske, S. T., & Neuberg, S. L. (1990). A continuum of impression formation, from category based to individuating processes: Influences of information and motivation on attention and interpretation. In M. P. Zanna (Ed.), _Advances in experimental social psychology_ (Vol. 23, pp. 1–74). New York, NY: Academic.
 
-Hilsabeck, R. C., Gouvier, W., & Bolter, J. F. (1998). Reconstructive memory bias in recall of neuropsychological symptomatology. *Journal of Clinical and Experimental Neuropsychology, 20(3)*, 328-338 doi:10.1076/jcen.20.3.328.813
+Fyock, J., & Stangor, C. (1994). The role of memory biases in stereotype maintenance. _British Journal of Social Psychology, 33,_ 331–343.
 
-Kastenmuller, A., Greitemeyer, T., Jonas, E., Fischer, P., & Frey. D. (2010). Selective exposure: The impact of individualism and collectivism. *British Journal of Social Psychology, 49,* 745-763.
+Gorn, G. J. (1982). The effects of music in advertising on choice behavior: A classical conditioning approach. _Journal of Marketing, 46_(1), 94–101.
 
-Kida, Thomas E. (2006), *Don’t believe everything you think: the 6 basic mistakes we make in thinking*, Amherst, New York: Prometheus Books.
+Hawkins, D., Best, R., & Coney, K. (1998.) _Consumer behavior: Building marketing strategy_ (7th ed.). Boston, MA: McGraw-Hill.
 
-Koenigs, M., Young, L., Adolphs, R., Tranel, D., Cushman, F., Hauser, M., & Damasio, A. (2007). Damage to the prefontal cortex increases utilitarian moral judgments. *Nature, 446*(7138), 908–911.
+Hilsabeck, R. C., Gouvier, W., & Bolter, J. F. (1998). Reconstructive memory bias in recall of neuropsychological symptomatology. _Journal of Clinical and Experimental Neuropsychology, 20(3)_, 328-338 doi:10.1076/jcen.20.3.328.813
 
-Lamb, C. S., & Crano, W. D. (2014). Parent’s beliefs and children’s marijuana use: Evidence for a self-fulfilling prophecy effect. *Addictive Behaviors, 39(1)*, 127-132.
+Kastenmuller, A., Greitemeyer, T., Jonas, E., Fischer, P., & Frey. D. (2010). Selective exposure: The impact of individualism and collectivism. _British Journal of Social Psychology, 49,_ 745-763.
 
-Lewicki, P. (1985). Nonconscious biasing effects of single instances on subsequent judgments. *Journal of Personality and Social Psychology, 48*, 563–574.
+Kida, Thomas E. (2006), _Don’t believe everything you think: the 6 basic mistakes we make in thinking_, Amherst, New York: Prometheus Books.
 
-Mae, L., & Carlston, D. E. (2005). Hoist on your own petard: When prejudiced remarks are recognized and backfire on speakers. *Journal of Experimental Social Psychology, 41*(3), 240–255.
+Koenigs, M., Young, L., Adolphs, R., Tranel, D., Cushman, F., Hauser, M., & Damasio, A. (2007). Damage to the prefontal cortex increases utilitarian moral judgments. _Nature, 446_(7138), 908–911.
 
-Mitchell, J. P., Mason, M. F., Macrae, C. N., & Banaji, M. R. (2006). Thinking about others: The neural substrates of social cognition. In J. T. Cacioppo, P. S. Visser, & C. L. Pickett (Eds.), *Social neuroscience: People thinking about thinking people* (pp. 63–82). Cambridge, MA: MIT Press.
+Lamb, C. S., & Crano, W. D. (2014). Parent’s beliefs and children’s marijuana use: Evidence for a self-fulfilling prophecy effect. _Addictive Behaviors, 39(1)_, 127-132.
 
-Perloff, R. M. (2003). *The dynamics of persuasion: Communication and attitudes in the 21st century* (2nd ed.). Mahwah, NJ: Lawrence Erlbaum Associates.
+Lewicki, P. (1985). Nonconscious biasing effects of single instances on subsequent judgments. _Journal of Personality and Social Psychology, 48_, 563–574.
 
-Piaget, J., and Inhelder, B. (1962). *The psychology of the child*. New York, NY: Basic Books.
+Mae, L., & Carlston, D. E. (2005). Hoist on your own petard: When prejudiced remarks are recognized and backfire on speakers. _Journal of Experimental Social Psychology, 41_(3), 240–255.
 
-Ross, L., Lepper, M. R., & Hubbard, M. (1975). Perseverance in self-perception and social perception: Biased attributional processes in the debriefing paradigm. *Journal of Personality & Social Psychology, 32*, 880–892.
+Mitchell, J. P., Mason, M. F., Macrae, C. N., & Banaji, M. R. (2006). Thinking about others: The neural substrates of social cognition. In J. T. Cacioppo, P. S. Visser, & C. L. Pickett (Eds.), _Social neuroscience: People thinking about thinking people_ (pp. 63–82). Cambridge, MA: MIT Press.
 
-Ruscher, J. B., & Duval, L. L. (1998). Multiple communicators with unique target information transmit less stereotypical impressions. *Journal of Personality and Social Psychology, 74*(2), 329–344.
+Perloff, R. M. (2003). _The dynamics of persuasion: Communication and attitudes in the 21st century_ (2nd ed.). Mahwah, NJ: Lawrence Erlbaum Associates.
 
-Schaller, M., & Conway, G. (1999). Influence of impression-management goals on the emerging content of group stereotypes: Support for a social-evolutionary perspective. *Personality and Social Psychology Bulletin, 25*, 819–833.
+Piaget, J., and Inhelder, B. (1962). _The psychology of the child_. New York, NY: Basic Books.
 
-Schemer, C., Matthes, J. R., Wirth, W., & Textor, S. (2008). Does “passing the Courvoisier” always pay off? Positive and negative evaluative conditioning effects of brand placements in music videos. *Psychology & Marketing, 25*(10), 923–943.
+Ross, L., Lepper, M. R., & Hubbard, M. (1975). Perseverance in self-perception and social perception: Biased attributional processes in the debriefing paradigm. _Journal of Personality & Social Psychology, 32_, 880–892.
 
-Sigall, H., & Landy, D. (1973). Radiating beauty: Effects of having a physically attractive partner on person perception. *Journal of Personality and Social Psychology, 28*(2), 218–224.
+Ruscher, J. B., & Duval, L. L. (1998). Multiple communicators with unique target information transmit less stereotypical impressions. _Journal of Personality and Social Psychology, 74_(2), 329–344.
 
-Skowronski, J. J., Carlston, D. E., Mae, L., & Crawford, M. T. (1998). Spontaneous trait transference: Communicators take on the qualities they describe in others. *Journal of Personality and Social Psychology, 74*(4), 837–848.
+Schaller, M., & Conway, G. (1999). Influence of impression-management goals on the emerging content of group stereotypes: Support for a social-evolutionary perspective. _Personality and Social Psychology Bulletin, 25_, 819–833.
 
-Srull, T., & Wyer, R. (1989). Person memory and judgment. *Psychological Review, 96*(1), 58–83.
+Schemer, C., Matthes, J. R., Wirth, W., & Textor, S. (2008). Does “passing the Courvoisier” always pay off? Positive and negative evaluative conditioning effects of brand placements in music videos. _Psychology & Marketing, 25_(10), 923–943.
 
-Stangor, C., & Duan, C. (1991). Effects of multiple task demands upon memory for information about social groups. *Journal of Experimental Social Psychology, 27*, 357–378.
+Sigall, H., & Landy, D. (1973). Radiating beauty: Effects of having a physically attractive partner on person perception. _Journal of Personality and Social Psychology, 28_(2), 218–224.
 
-Stanovich, K. E., West, R. F., & Toplak, M. E. (2013). Myside bias, rational thinking, and intelligence. *Current Directions In Psychological Science*, *22*(4), 259-264. doi:10.1177/0963721413480174
+Skowronski, J. J., Carlston, D. E., Mae, L., & Crawford, M. T. (1998). Spontaneous trait transference: Communicators take on the qualities they describe in others. _Journal of Personality and Social Psychology, 74_(4), 837–848.
 
-Tambling, R. B. (2012). A literature review of expectancy effects. *Contemporary Family Therapy, 34(3)**,* 402-415.
+Srull, T., & Wyer, R. (1989). Person memory and judgment. _Psychological Review, 96_(1), 58–83.
 
-Taylor, S. E., & Crocker, J. (1981). Schematic bases of social information processing. In E. T. Higgins, C. P. Herman, & M. P. Zanna (Eds.), *Social cognition: The Ontario symposium* (Vol. 1, pp. 89–134). Hillsdale, NJ: Lawrence Erlbaum Associates.
+Stangor, C., & Duan, C. (1991). Effects of multiple task demands upon memory for information about social groups. _Journal of Experimental Social Psychology, 27_, 357–378.
 
-Van Knippenberg, A., & Dijksterhuis, A. (1996). A posteriori sterotype activation: The preservation of sterotypes through memory distortion. *Social Cognition, 14*, 21–54.
+Stanovich, K. E., West, R. F., & Toplak, M. E. (2013). Myside bias, rational thinking, and intelligence. _Current Directions In Psychological Science_, _22_(4), 259-264. doi:10.1177/0963721413480174
 
-Wason, P. (1960). On the failure to eliminate hypotheses in a conceptual task. *The Quarterly Journal of Experimental Psychology, 12*(3), 129–140.
+Tambling, R. B. (2012). A literature review of expectancy effects. _Contemporary Family Therapy, 34(3)\*\*,_ 402-415.
 
-Wurm, S. W., Ziegelmann, L. M., Wolff, J. K., & Schuz, B. (2013). How do negative self-perceptions of aging become a self-fulfilling prophecy? *Psychology and Aging, 28(4)*, 1088-1097.
+Taylor, S. E., & Crocker, J. (1981). Schematic bases of social information processing. In E. T. Higgins, C. P. Herman, & M. P. Zanna (Eds.), _Social cognition: The Ontario symposium_ (Vol. 1, pp. 89–134). Hillsdale, NJ: Lawrence Erlbaum Associates.
 
-Witte, K., & Allen, M. (2000). A meta-analysis of fear appeals: Implications for effective public health campaigns. *Health Education & Behavior, 27*(5), 591–615.
+Van Knippenberg, A., & Dijksterhuis, A. (1996). A posteriori sterotype activation: The preservation of sterotypes through memory distortion. _Social Cognition, 14_, 21–54.
 
-#### Media Attributions
+Wason, P. (1960). On the failure to eliminate hypotheses in a conceptual task. _The Quarterly Journal of Experimental Psychology, 12_(3), 129–140.
+
+Wurm, S. W., Ziegelmann, L. M., Wolff, J. K., & Schuz, B. (2013). How do negative self-perceptions of aging become a self-fulfilling prophecy? _Psychology and Aging, 28(4)_, 1088-1097.
+
+Witte, K., & Allen, M. (2000). A meta-analysis of fear appeals: Implications for effective public health campaigns. _Health Education & Behavior, 27_(5), 591–615.
+
+#### メディアの帰属表示
 
 - “[Funny Commercials](https://www.youtube.com/watch?v=_Km-2ecLrPo)” by [kin100](https://www.youtube.com/user/kin100) is licensed under a Standard YouTube License.
 - “[Cigarettes brazil](https://en.wikipedia.org/wiki/File:Cigarettes_brazil.JPG)” by [Brazilian Health Ministry (MS) – Instituto Nacional do Câncer (INCA)](https://www.inca.gov.br/tabagismo/publicacoes/brasil_advertencias_sanitarias_nos_produtos_de_tabaco2009b.pdf) is licensed under a [CC0 1.0 licence](https://creativecommons.org/publicdomain/zero/1.0/).

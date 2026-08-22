@@ -1,56 +1,57 @@
 ---
-title: "2.5 Chapter Summary"
+title: "2.5 章のまとめ"
 sidebar:
   order: 20
 ---
-This chapter has focused primarily on one central topic in social psychology: namely, the ways that we learn about and judge other people—our social cognition. The ability to make accurate judgments about our social situation is critical. For example, if we cannot understand others and predict how they will respond to us, our social interactions will be difficult indeed.
 
-We have seen that social cognition is efficient, frequently operating quickly and even out of our awareness, and generally accurate. However, although we are often quite accurate at evaluating other people and in creating effective social interactions, we are not perfect. The errors we make frequently occur because of our reliance on our mental knowledge (our schemas and attitudes) as well our tendency to take shortcuts through the use of cognitive heuristics. We use schemas and heuristics as energy savers, because we are often overwhelmed by the amount of information we need to process.
+本章では、社会心理学の中心的なテーマの一つ、すなわち他者についてどのように学び、判断するのかという社会的認知を主に扱ってきた。社会的状況について正確に判断する能力は非常に重要である。たとえば、他者を理解し、その人が自分にどのように反応するかを予測できなければ、社会的相互作用は非常に困難になる。
 
-Social knowledge is gained as the result of learning—the relatively permanent change in thoughts, feelings, or behavior that occurs as a result of experience. Some learning is based on the principles of operant learning—experiences that are followed by positive emotions (rewards) are more likely to be repeated, whereas experiences that are followed by negative emotions (punishments) are less likely to be repeated. Associational learning occurs when an object or event comes to be associated with a response, such as a behavior or a positive or negative emotion. We also learn through observational learning by modeling the behavior of others.
+社会的認知は効率的であり、しばしば素早く、意識の外でも働き、一般には正確であることを見てきた。しかし、他者を評価し、効果的な社会的相互作用を築くことについて多くの場合かなり正確であっても、完全ではない。私たちが犯す誤りは、心の中にある知識、つまりスキーマや態度へ依存することや、認知的ヒューリスティックを利用して近道をする傾向によって生じることが多い。私たちは処理しなければならない情報量に圧倒されることが多いため、スキーマやヒューリスティックをエネルギー節約手段として利用する。
 
-Accommodation occurs when our existing schemas or attitudes change on the basis of new information. Assimilation, on the other hand, occurs when our existing knowledge influences new information in a way that makes the conflicting information fit with our existing knowledge. Assimilation is often more powerful than is accommodation.
+社会的知識は学習の結果として獲得される。学習とは、経験の結果として生じる、思考、感情、行動の比較的永続的な変化である。学習の一部はオペラント学習の原理に基づいている。肯定的な感情（報酬）が後に続く経験は繰り返されやすく、否定的な感情（罰）が後に続く経験は繰り返されにくい。連合学習は、物や出来事が、行動や肯定的・否定的な感情などの反応と結びついたときに生じる。また、他者の行動をモデルとして観察する観察学習によっても学習する。
 
-Much of our social cognition is automatic, meaning that it occurs quickly and without taking much effort. In other cases, when we have the time and motivation, we think about things more deliberately and carefully. In this case, we are engaging in more thoughtful, controlled cognition.
+調節は、新しい情報に基づいて既存のスキーマや態度が変化するときに生じる。一方、同化は、既存の知識が新しい情報に影響し、矛盾する情報を既存の知識に合うように処理するときに生じる。同化は、調節より強く働くことが多い。
 
-We pay particular attention to stimuli that are salient—things that are unique, negative, colorful, bright, and moving. In many cases, we base our judgments on information that seems to represent, or match, what we expect will happen. When we do so, we are using the representativeness heuristic.
+社会的認知の多くは自動的であり、素早く、ほとんど努力を必要とせずに生じる。一方、時間と動機がある場合には、より意図的かつ慎重に物事について考える。この場合、より熟慮的な統制的認知を行っている。
 
-Cognitive accessibility refers to the extent to which knowledge is activated in memory and thus likely to be used to guide our reactions to others. The tendency to overuse accessible social constructs can lead to errors in judgment, such as the availability heuristic and the false consensus bias. Counterfactual thinking about what might have happened and the tendency to anchor on an initial construct and not adjust sufficiently from it are also influenced by cognitive accessibility. We also have a tendency to be overconfident in our judgments of ourselves, others, and the future. We should also be mindful that we tend to have blind spots about our own biases and how much they affect our social cognition. Perhaps the best hope, then, for us going forward is that we become better at recognizing and challenging biases in each other’s thinking.
+私たちは、独特なもの、否定的なもの、色鮮やかなもの、明るいもの、動くものなど、顕著性の高い刺激へ特に注意を向ける。多くの場合、起こると予想しているものを表している、またはそれに一致しているように見える情報に基づいて判断する。このような場合、代表性ヒューリスティックを利用している。
 
-Ultimately, perhaps we can use our understanding of social cognition to understand more fully how we think accurately—but also sometimes inaccurately—about ourselves and others.
+認知的アクセス可能性とは、知識が記憶内でどの程度活性化されており、そのため他者への反応を導くために利用されやすいかを意味する。アクセスしやすい社会的構成概念を過度に利用する傾向は、利用可能性ヒューリスティックや偽の合意バイアスなどの判断エラーにつながる可能性がある。「どうなっていたかもしれないか」について考える反実仮想思考や、最初の構成概念へアンカーした後、そこから十分に調整できない傾向も、認知的アクセス可能性から影響を受ける。また、自分自身、他者、将来についての判断を過信する傾向もある。さらに、自分自身のバイアスと、それが社会的認知にどの程度影響しているかについては盲点を持ちやすいことにも注意すべきである。今後に向けた最も有望な方法は、互いの思考に存在するバイアスをより上手に認識し、問い直せるようになることかもしれない。
 
-:::note[Interactive activity]
+最終的には、社会的認知についての理解を利用して、自分自身や他者について、私たちがどのように正確に、しかしときには不正確に考えているのかを、より十分に理解できるかもしれない。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3175#h5p-9](https://opentextbc.ca/socialpsychology/?p=3175#h5p-9)
+:::note[インタラクティブ・アクティビティ]
+
+この版のテキストでは、インタラクティブな H5P 要素が除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3175#h5p-9](https://opentextbc.ca/socialpsychology/?p=3175#h5p-9)
 
 :::
 
-**H5P: TEST YOUR LEARNING: CHAPTER 2 MULTIPLE-CHOICE QUIZ**
+**H5P：学習内容を確認しよう：第2章 選択式クイズ**
 
-To round out your review of social cognition, try this multiple-choice quiz. You can check your answers as you go, or wait until after the last question for feedback. Good luck!
+社会的認知の復習を仕上げるため、次の選択式クイズに挑戦してみよう。各問題ごとに答えを確認してもよいし、最後の問題が終わってからフィードバックを確認してもよい。
 
-1. In the last week of the semester, Aman is convinced that he will be able to do all four major assignments for his classes. He is shocked when he barely finishes two. What has he fallen victim of here?
-  1. the pessimistic bias
-  2. the availability heuristic
-  3. the planning fallacy
-  4. the representativeness heuristic
-2. Events that are easier to recall specific examples of are assumed to be more frequently occurring and/or important. This is known as:
-  1. the base rate heuristic
-  2. the planning fallacy
-  3. the availability heuristic
-  4. automatic priming
-3. Ken has been experiencing more frequent low moods linked to social isolation during the COVID-19 pandemic. He has found that sad memories often come to mind when he is in these low moods. This is an example of:
-  1. the affect heuristic
-  2. the mood congruence effect
-  3. affective state determined retrieval
-  4. mood dependent memory
-4. Which heuristic would individuals likely use if they were asked the following question: “Which sequence of coin flips is more likely: H H H T T T or H T T H T H ?”
-  1. representativeness heuristic
-  2. fluency heuristic
-  3. affect heuristic
-  4. availability heuristic
-5. The tendency to recall events in ways that fit our current schemas is known as:
-  1. the mood congruence effect
-  2. the self-fulfilling prophecy
-  3. mood dependent memory
-  4. reconstructive memory bias
+1. 学期最後の週、Aman は授業の4つの大きな課題をすべて完成できると確信している。しかし実際には2つを終えるのがやっとで、驚いた。ここで Aman は何の影響を受けていたか。
+   1. 悲観バイアス
+   2. 利用可能性ヒューリスティック
+   3. 計画錯誤
+   4. 代表性ヒューリスティック
+2. 具体的な例を簡単に思い出せる出来事ほど、頻繁に起こる、または重要であると考える傾向は何と呼ばれるか。
+   1. ベースレート・ヒューリスティック
+   2. 計画錯誤
+   3. 利用可能性ヒューリスティック
+   4. 自動的プライミング
+3. Ken は COVID-19 パンデミック中の社会的孤立と関連して、気分が落ち込むことが以前より多くなった。そして気分が落ち込んでいるときには、悲しい記憶がよく浮かんでくることに気づいた。これは何の例か。
+   1. 感情ヒューリスティック
+   2. 気分一致効果
+   3. 感情状態決定型検索
+   4. 気分依存記憶
+4. 「次のコイントスの並びのうち、どちらが起こりやすいか：表 表 表 裏 裏 裏、または 表 裏 裏 表 裏 表」と尋ねられた場合、人はどのヒューリスティックを利用する可能性が高いか。
+   1. 代表性ヒューリスティック
+   2. 流暢性ヒューリスティック
+   3. 感情ヒューリスティック
+   4. 利用可能性ヒューリスティック
+5. 現在のスキーマに合うような形で出来事を思い出す傾向は何と呼ばれるか。
+   1. 気分一致効果
+   2. 自己成就予言
+   3. 気分依存記憶
+   4. 再構成的記憶バイアス

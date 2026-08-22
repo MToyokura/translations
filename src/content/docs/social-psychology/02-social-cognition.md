@@ -1,54 +1,55 @@
 ---
-title: "Chapter 2. Social Cognition"
+title: "第2章 社会的認知"
 sidebar:
   order: 15
 ---
-:::note[Chapter Learning Objectives]
 
-1. Sources of Social Knowledge
+:::note[章の学習目標]
 
-- Review the principles of operant, associational, and observational learning, and explain the similarities and differences between them.
-- Explain how and when schemas and attitudes do and do not change as a result of the operation of accommodation and assimilation.
-- Outline the ways that schemas are likely to be maintained through processes that create assimilation.
+1. 社会的知識の源泉
 
-2. How We Use Our Expectations
+- オペラント学習、連合学習、観察学習の原理を概観し、それらの類似点と相違点を説明する。
+- 調節と同化の働きによって、スキーマや態度がいつ、どのように変化するのか、また変化しないのかを説明する。
+- 同化を生み出す過程を通じて、スキーマがどのように維持されやすいのかを概説する。
 
-- Provide examples of how salience and accessibility influence information processing.
-- Review, differentiate, and give examples of some important cognitive heuristics that influence social judgment.
-- Summarize and give examples of the importance of social cognition in everyday life.
+2. 私たちは期待をどのように利用するか
 
-3. Social Cognition and Affect
+- 顕著性とアクセス可能性が情報処理にどのような影響を与えるか、その例を挙げる。
+- 社会的判断に影響を与える重要な認知的ヒューリスティックを概観し、それぞれを区別して例を挙げる。
+- 日常生活における社会的認知の重要性を要約し、例を挙げる。
 
-- Describe important ways in which our affective states can influence our social cognition, both directly and indirectly, for example, through the operation of the affect heuristic.
-- Outline mechanisms through which our social cognition can alter our affective states, for instance, through the mechanism of misattribution of arousal.
-- Review the role that strategies, including cognitive reappraisal, can play in successful self-regulation.
-- Explore the relationship between positive cognition, affect, and behaviors.
-- Outline important findings in relation to our affective forecasting abilities.
+3. 社会的認知と感情
+
+- 感情ヒューリスティックの働きなどを例として、私たちの感情状態が社会的認知に直接的・間接的に影響を与える重要な仕組みを説明する。
+- 覚醒の誤帰属などを例として、社会的認知が感情状態を変化させる仕組みを概説する。
+- 認知的再評価を含むさまざまな方略が、効果的な自己調整に果たす役割を概観する。
+- 肯定的な認知、感情、行動の関係を検討する。
+- 感情予測能力に関する重要な研究知見を概説する。
 
 :::
 
-In this chapter, our focus will be on social cognition—cognition that relates to social activities and that helps us understand and predict the behavior of ourselves and others (Fiske & Taylor, 2007; Macrae & Quadflieg, 2010). A fundamental part of social cognition involves learning, the relatively permanent change in knowledge that is acquired through experience. We will see that a good part of our learning and our judgment of other people operates out of our awareness—we are profoundly affected by things that we do not know are influencing us. However, we also consciously think about and analyze our lives and our relationships with others, seeking out the best ways to fulfill our goals and aspirations.
+本章では、社会的認知、すなわち社会的活動に関連し、自分自身や他者の行動を理解・予測するのに役立つ認知に焦点を当てる (Fiske & Taylor, 2007; Macrae & Quadflieg, 2010)。社会的認知の基本的な一部分を構成するのが学習である。学習とは、経験を通じて獲得される、比較的永続的な知識の変化を意味する。本章では、私たちの学習や他者についての判断のかなりの部分が、私たち自身の意識の外で生じていることを見ることになる。つまり、自分では影響を受けていることに気づいていないものから、私たちは強く影響されているのである。一方で私たちは、自分の人生や他者との関係について意識的に考え、分析し、自分の目標や願望を実現する最善の方法を探すこともある。
 
-As we investigate the role of cognition in everyday life, we will consider the ways that people use their cognitive abilities to make good decisions and to inform their behavior in a useful and accurate way. We will also consider the potential for mistakes and biases in human judgment. We will see that although we are generally pretty good at sizing up other people and creating effective social interactions, we are not perfect. And we will further see that the errors we make frequently occur because of our reliance on our schemas and and a general tendency to take shortcuts through the use of cognitive heuristics, information-processing rules of thumb that enable us to think in ways that are quick and easy but that may sometimes lead to error. In short, although our cognitive abilities are often “good enough,” there is definitely room for improvement in our social cognition.
+日常生活における認知の役割を検討する中で、人々が認知能力を利用して適切な意思決定を行い、有用かつ正確な方法で自分の行動を導く仕組みを考えていく。また、人間の判断に誤りやバイアスが生じる可能性についても検討する。私たちは一般に、他者を評価し、効果的な社会的相互作用を築くことにはかなり優れているが、完全ではない。さらに、私たちが犯す誤りは、スキーマへの依存と、認知的ヒューリスティックを利用して近道をする一般的な傾向によってしばしば生じることを見る。認知的ヒューリスティックとは、素早く簡単に考えることを可能にする情報処理上の経験則であるが、ときには誤りにつながることもある。要するに、私たちの認知能力は多くの場合「十分に良い」ものではあるが、社会的認知には改善の余地が確実に存在する。
 
-## Huge Fall in Global Markets Causes Fear and Panic for Investors
+## 世界市場の大暴落が投資家に恐怖とパニックを引き起こす
 
-September 16, 2008, as a result of the failure of over a dozen large banks in the United States, was the beginning of a global stock market crisis. On October 11, 2008, the head of the International Monetary Fund (IMF) warned that the world financial system was teetering on “the brink of systemic meltdown.” Over the next year, the crash erased $8.3 trillion in shareholder wealth.
+2008年9月16日、アメリカで十数行を超える大手銀行が破綻したことをきっかけに、世界的な株式市場危機が始まった。2008年10月11日には、国際通貨基金（IMF）のトップが、世界の金融システムは「システム全体の崩壊寸前」にあると警告した。その後1年間で、この暴落によって株主資産8兆3,000億ドルが失われた。
 
-Since these calamitous financial events, the repercussions of which are still being felt in many regions of the world, much ink has been spilled about the reasons for this global economic meltdown. How could so many highly educated, intelligent people in so many important positions make so many judgments that now seem, albeit with the benefit of hindsight, to have incurred such high risks? Why didn’t enough people in key positions see the collapse coming? The study of social cognition can perhaps provide some clues. Through studying the factors that affect our social judgments, social psychologists have helped to shed some important light on why we often have difficulty making sound decisions about an uncertain world.
+世界の多くの地域で今なお影響が続いているこの壊滅的な金融危機以降、世界経済崩壊の原因について膨大な議論がなされてきた。重要な地位に就く、高度な教育を受けた知的な人々が、なぜこれほど多く、今から振り返れば非常に高いリスクを伴っていたとわかる判断を下したのだろうか。なぜ重要な立場にいた十分な数の人々が、崩壊が近づいていることに気づかなかったのだろうか。社会的認知の研究は、その手がかりを与えてくれるかもしれない。社会心理学者は、社会的判断に影響する要因を研究することによって、不確実な世界について私たちが健全な意思決定を行うことがしばしば難しい理由を明らかにしてきた。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/800px-Sao_Paulo_Stock_Exchange-e1410975199218.jpg)
 
-*Figure 2.1 Stock traders are expected to make rational decisions about their investments, but their emotions can influence their decisions.*
+_図2.1 株式トレーダーには投資について合理的な判断を下すことが期待されているが、感情がその意思決定に影響を与えることがある。_
 
-## References
+## 参考文献
 
-Fiske, S. T., & Taylor, S. E. (2007). *Social cognition, from brains to culture*. New York, NY: McGraw-Hill.
+Fiske, S. T., & Taylor, S. E. (2007). _Social cognition, from brains to culture_. New York, NY: McGraw-Hill.
 
-Macrae, C. N., & Quadflieg, S. (2010). Perceiving people. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 1, pp. 428–463). Hoboken, NJ: John Wiley & Sons.
+Macrae, C. N., & Quadflieg, S. (2010). Perceiving people. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (5th ed., Vol. 1, pp. 428–463). Hoboken, NJ: John Wiley & Sons.
 
-Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. *Psychological Science in the Public Interest, 7*(2), 45–75.
+Wells, G. L., Memon, A., & Penrod, S. D. (2006). Eyewitness evidence: Improving its probative value. _Psychological Science in the Public Interest, 7_(2), 45–75.
 
-## Media Attributions
+## メディアの帰属表示
 
 - “[Sao Paulo Stock Exchange](https://en.wikipedia.org/wiki/File:Sao_Paulo_Stock_Exchange.jpg)” by [Rafael Matsunaga](https://www.flickr.com/photos/rednuht/) is licensed under a [CC BY 2.0 licence.](https://creativecommons.org/licenses/by/2.0/deed.en)
