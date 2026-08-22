@@ -1153,10 +1153,10 @@ function rewriteHref(href: string, ctx: RenderContext, fallbackHref?: string): s
 
   if (!targetId) return href;
   const targetPage = ctx.idToPage.get(targetId);
-  if (!targetPage) return fallbackHref?.trim() || href;
+  if (!targetPage) return trimmed.startsWith("#") ? href : fallbackHref?.trim() || href;
 
-  if (targetPage.slug === ctx.page.slug) return `#${targetId}`;
-  return `${routeFor(ctx.routePrefix, targetPage.slug)}#${targetId}`;
+  if (targetPage.slug === ctx.page.slug) return routeFor(ctx.routePrefix, targetPage.slug);
+  return routeFor(ctx.routePrefix, targetPage.slug);
 }
 
 // ---------------------------------------------------------------------------
@@ -1229,8 +1229,8 @@ function escapeMarkdownAlt(value: string): string {
 }
 
 function markdownDestination(value: string): string {
-  // Angle-bracket destinations avoid having to hand-escape URL parentheses.
-  return `<${value.replace(/>/g, '%3E').replace(/\s/g, '%20')}>`;
+  // Encode characters that would interfere with Markdown destinations.
+  return value.replace(/>/g, '%3E').replace(/\s/g, '%20');
 }
 
 function escapeHtmlAttribute(value: string): string {
@@ -1261,7 +1261,8 @@ async function main(): Promise<void> {
   const options = parseArgs(process.argv.slice(2));
   const inputPath = path.resolve(options.input);
   const outputDir = path.resolve(options.outputDir);
-  const routePrefix = normalizeRoutePrefix(options.routePrefix ?? inferRoutePrefix(outputDir));
+  const inferredRoute = inferRoutePrefix(outputDir);
+  const routePrefix = normalizeRoutePrefix(options.routePrefix ?? `/translations${inferredRoute}`);
 
   const html = await readFile(inputPath, 'utf8');
   const root = parseHtml(html);
