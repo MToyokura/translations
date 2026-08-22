@@ -1,34 +1,35 @@
 ---
-title: "6.5 Chapter Summary"
+title: "6.5 章のまとめ"
 sidebar:
   order: 45
 ---
-Conformity refers to the change in beliefs, opinions, and behaviors that occurs as the result of social influence. The typical outcome of conformity is that people’s beliefs and behaviors become more similar to those of others around them.
 
-The change in opinions or behavior that occurs when we conform to people who we believe have accurate information is known as informational social influence. Informational social influence usually results in private acceptance, which is real change in opinions on the part of the individual.
+同調とは、社会的影響の結果として生じる信念、意見、行動の変化を指す。同調の典型的な結果は、人々の信念や行動が周囲の他者のものとより似ることである。
 
-Normative social influence occurs when we express opinions or behave in ways that help us to be accepted or that keep us from being isolated or rejected by those we care about. The outcome of normative social influence is frequently public compliance—a change in behavior that is not accompanied by an actual change in one’s private opinion.
+正確な情報を持っていると信じる人々へ同調することで生じる意見や行動の変化を、情報的社会的影響という。情報的社会的影響は通常、私的受容、すなわち本人の意見そのものの実質的変化をもたらす。
 
-Majority influence occurs when the views or behaviors of a larger number of individuals in the current social group prevail. Majority influence may frequently produce public compliance. One powerful example of majority influence can be found in the line-judging studies of Solomon Asch.
+規範的社会的影響は、受け入れられるのに役立つ、または自分にとって重要な人々から孤立・拒絶されることを避けるのに役立つ意見を表明したり、行動したりするときに生じる。規範的社会的影響の結果はしばしば公的追従、すなわち自分の私的な意見そのものの変化を伴わない行動の変化である。
 
-Minority influence occurs when the views of a smaller number of individuals prevail. Although less frequent than majority influence, minority influence can occur if the minority expresses their views consistently and confidently. An example is Moscovici’s color-judgment study. Because minorities force group members to think more fully about a topic, they can produce more creative thinking.
+多数派影響は、現在の社会集団の中で、より多数の人々の見解や行動が優勢になるときに生じる。多数派影響はしばしば公的追従を生み出す場合がある。多数派影響の強力な例の一つが Solomon Asch の線分判断研究である。
 
-The extent to which we conform is influenced by the size of the majority group. The increase in the amount of conformity that is produced by adding new members to the majority group, known as the social impact of each group member, is greater for initial majority members than it is for later members.
+少数派影響は、より少数の人々の見解が優勢になるときに生じる。多数派影響より頻度は低いが、少数派が一貫して自信を持って見解を表明する場合、少数派影響は生じうる。その例が Moscovici の色判断研究である。少数派は集団成員へテーマについてより十分に考えさせるため、より創造的な思考を生み出すことができる。
 
-Conformity decreases sharply when there is any disagreement among the members of the group that is trying to create influence. Unanimity is powerful in part because being the only person who is different is potentially embarrassing, and because we want to be liked by others, we may naturally want to avoid this.
+私たちがどの程度同調するかは、多数派集団の大きさから影響を受ける。多数派集団へ新しい成員を加えることで生じる同調量の増加は、各集団成員の社会的インパクトと呼ばれ、後から加わる多数派成員より、最初の多数派成員のほうが大きい。
 
-Milgram’s study on obedience is an example of the power of an authority to create obedience. Milgram found that when an authority figure accepted responsibility for the behavior of the individuals, 65% of the participants followed his instructions and administered what they thought was a severe and dangerous shock to another person.
+影響を生み出そうとする集団の成員間に何らかの不一致があると、同調は急激に減少する。全員一致が強力なのは、一つには自分一人だけが異なることが気まずい可能性があり、他者から好かれたいという欲求のため、それを自然に避けようとするからである。
 
-The conformity observed in Milgram’s study was due in part to the authority of the experimenter. In a replication when the experimenter had lower status, obedience was reduced. Obedience was also reduced when the experimenter’s ability to express his authority was limited by having him sit in an adjoining room and communicate to the teacher by telephone. Milgram’s studies also confirmed the role of unanimity in producing conformity.
+Milgram の服従研究は、権威が服従を生み出す力を示す例である。Milgram は、権威者が個人の行動について責任を引き受けた場合、参加者の65%がその指示へ従い、自分では激しく危険なものだと思っていた電撃を別の人へ与えたことを見いだした。
 
-Social power is the ability of one individual to create behavioral or belief changes in another person. Five types of social power—reward, coercive, legitimate, referent, and expert power—vary in terms of whether they are more likely to create private acceptance or public compliance.
+Milgram の研究で観察された同調には、実験者の権威が一部関係していた。実験者の地位を低くした追試では、服従が減少した。また、実験者を隣室へ座らせ、電話で教師へ指示することで、権威を表現する能力を制限すると、服従はさらに低下した。Milgram の研究は、同調を生み出す全員一致の役割も確認した。
 
-Leaders use many types of power to influence others. Some approaches to understanding the nature of leadership have focused on the personality of the leader, finding that variables such as intelligence and sociability are associated with good leaders. Other leadership styles, such as those exhibited by charismatic and transformational leaders, have also been studied. Other approaches, including the contingency model of leadership effectiveness, examine the conditions under which different types of leaders are most likely to be effective.
+社会的勢力とは、一人の個人が別の人物の行動や信念を変化させる能力である。報酬勢力、強制勢力、正当勢力、準拠勢力、専門勢力という5種類の社会的勢力は、私的受容または公的追従のどちらをより生み出しやすいかという点で異なる。
 
-People with lower self-esteem are more likely to conform than are those with higher self-esteem, and people who are dependent on and who have a strong need for approval from others are also more conforming.
+リーダーは、他者へ影響するためさまざまな種類の勢力を使う。リーダーシップの性質を理解する一部のアプローチはリーダーの性格へ焦点を当て、知能や社交性などの変数が優れたリーダーと関連することを見いだしている。カリスマ的リーダーや変革型リーダーが示すような別のリーダーシップ・スタイルも研究されている。また、リーダーシップ有効性のコンティンジェンシー・モデルを含む別のアプローチでは、異なる種類のリーダーがどのような条件で最も有効になるかを検討している。
 
-Men, on average, are more concerned about appearing to have high status by acting independently from the opinions of others; they are more likely to resist changing their beliefs in public than are women. In contrast, women, on average, are more concerned with connecting to others and maintaining group harmony; they are more likely to conform to the opinions of others in order to prevent social disagreement.
+自尊心の低い人は高い人より同調しやすく、他者へ依存している人や、他者からの承認への強い欲求を持つ人も、より同調しやすい。
 
-Men and women differ in their preferred leadership styles, such that women use more relationship-oriented approaches than men use. Although men are *perceived* to be better leaders than women, and often are more likely to *become* leaders, there is no evidence that either men or women are more effective leaders.
+男性は平均的に、他者の意見から独立して行動することで高い地位を持っているように見えることをより重視し、女性より、公の場で自分の信念を変えることへ抵抗しやすい。一方、女性は平均的に、他者とのつながりや集団の調和を維持することをより重視し、社会的不一致を避けるため他者の意見へ同調しやすい。
 
-When individuals feel that their freedom is being threatened by influence attempts, and yet they also have the ability to resist that persuasion, they may develop psychological reactance and not conform at all. Reactance has been shown to occur in many real-world contexts.
+男女では好むリーダーシップ・スタイルにも違いがあり、女性は男性より関係志向的なアプローチを用いる。男性は女性より優れたリーダーだと*知覚*され、実際にリーダーへ*なりやすい*場合が多いものの、男女のどちらかがより有効なリーダーであることを示す証拠はない。
+
+影響を与えようとする試みによって自分の自由が脅かされていると感じながら、同時にその説得へ抵抗する能力がある場合、心理的リアクタンスが生じ、まったく同調しなくなる可能性がある。リアクタンスは、現実世界の多くの文脈で生じることが示されている。

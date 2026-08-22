@@ -1,12 +1,17 @@
 ---
-title: "6.4 Thinking Like a Social Psychologist about Social Influence"
+title: "6.4 社会的影響について社会心理学者のように考える"
 sidebar:
   order: 44
 ---
-This chapter has concerned the many and varied ways that social influence pervades our everyday lives. Perhaps you were surprised about the wide variety of phenomena—ranging from the unaware imitation of others to leadership to blind obedience to authority—that involve social influence. Yet because you are thinking like a social psychologist, you will realize why social influence is such an important part of our everyday life. For example, we conform to better meet the basic goals of self-concern and other-concern. Conforming helps us do better by helping us make accurate, informed decisions. And conformity helps us be accepted by those we care about.
 
-Because you are now more aware of these factors, you will naturally pay attention to the times when you conform to or obey others and when you influence others to conform or obey you. You will see how important—indeed how amazing—the effects of social influence are. You will realize that almost everything we do involves social influence, or perhaps the desire to avoid being too influenced. Furthermore, you will realize (and hopefully use this knowledge to inform your everyday decisions) that social influence is sometimes an important part of societal functioning and that at other times social influence creates bad—indeed horrible—outcomes.
+本章では、社会的影響が日常生活へ浸透している多様な方法を扱ってきた。他者を無自覚に模倣することから、リーダーシップ、権威への盲目的服従まで、非常に幅広い現象に社会的影響が関係していることへ驚いたかもしれない。しかし、社会心理学者のように考えている今なら、社会的影響がなぜ日常生活のこれほど重要な一部なのか理解できるだろう。たとえば私たちは、自己への関心と他者への関心という基本的な目標をよりよく満たすために同調する。同調は、正確で十分な情報に基づいた意思決定をする助けとなり、より良い成果を得ることに役立つ。また同調は、自分にとって重要な人々から受け入れられる助けにもなる。
 
-You can use your understanding of social influence to help understand your own behavior. Do you think you conform too much, or too little? Do you think about when you do or don’t conform? Are you more of a conformist or an independent thinker—and why do you prefer to be that way? What motivates you to obey the instructions of your professor? Is it expert power, coercive power, or referent power? And perhaps you will use your understanding of the power of social influence when you judge others. When you think about the behavior of ordinary Germans during World War II, do you now better understand how much they were influenced by the social situation?
+こうした要因を以前より意識できるようになった今、他者へ同調または服従しているときや、自分が他者へ影響し、自分へ同調または服従させているときへ自然に注意を向けるようになるだろう。社会的影響の効果がどれほど重要で、実際どれほど驚くべきものかが見えてくる。私たちが行うほとんどすべてのことに社会的影響が関係しているか、あるいは少なくとも、影響されすぎることを避けたいという欲求が関係していることに気づくだろう。
 
-Your understanding of social influence may also help you develop more satisfying relations with others. Because you now understand the importance of social influence, you will also understand how to make use of these powers to influence others. If you are in a leadership position, you now have a better idea about the many influence techniques that are available to you and better understand their likely outcomes on others.
+さらに、社会的影響は社会を機能させるため重要な場合がある一方、別の場合には悪い、場合によっては恐ろしい結果を生み出すことも理解するだろう。そしてできれば、この知識を日常的な意思決定へ役立てることができる。
+
+社会的影響についての理解を、自分自身の行動を理解するためにも利用できる。自分は同調しすぎていると思うだろうか、それとも少なすぎるだろうか。どのような場合に同調し、どのような場合に同調しないかを考えているだろうか。自分は同調しやすい人だろうか、それとも独立した思考者だろうか。そして、なぜそのようであることを好むのだろうか。
+
+教授の指示へ服従するようあなたを動機づけているのは何だろうか。専門勢力だろうか、強制勢力だろうか、準拠勢力だろうか。また、他者を判断するときにも社会的影響の力についての理解を利用するかもしれない。第二次世界大戦中の普通のドイツ人の行動について考えるとき、彼らが社会的状況からどれほど強く影響されたかを、以前より理解できるだろうか。
+
+社会的影響についての理解は、他者とのより満足できる関係を築く助けにもなるかもしれない。社会的影響の重要性を理解した今では、こうした力を利用して他者へ影響する方法も理解できる。リーダーの立場にいるなら、自分が利用できる多くの影響技法について以前よりよく理解し、それぞれが他者へどのような結果をもたらす可能性があるかも、よりよく理解できる。

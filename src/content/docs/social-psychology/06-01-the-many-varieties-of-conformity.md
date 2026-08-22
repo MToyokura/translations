@@ -1,268 +1,269 @@
 ---
-title: "6.1 The Many Varieties of Conformity"
+title: "6.1 同調の多様な形態"
 sidebar:
   order: 41
 ---
-:::note[Learning Objectives]
 
-1. Describe some of the active and passive ways that conformity occurs in our everyday lives.
-2. Compare and contrast informational social influence and normative social influence.
-3. Summarize the variables that create majority and minority social influence.
-4. Outline the situational variables that influence the extent to which we conform.
+:::note[学習目標]
+
+1. 日常生活で同調が生じる能動的および受動的な方法をいくつか説明する。
+2. 情報的社会的影響と規範的社会的影響を比較・対照する。
+3. 多数派影響と少数派影響を生み出す変数を要約する。
+4. 私たちが同調する程度へ影響する状況変数を概説する。
 
 :::
 
-The typical outcome of social influence is that our beliefs and behaviors become more similar to those of others around us. At times, this change occurs in a spontaneous and automatic sense, without any obvious intent of one person to change the other. Perhaps you learned to like jazz or rap music because your roommate was playing a lot of it. You didn’t really want to like the music, and your roommate didn’t force it on you—your preferences changed in passive way. Robert Cialdini and his colleagues (Cialdini, Reno, & Kallgren, 1990) found that college students were more likely to throw litter on the ground when they had just seen another person throw some paper on the ground and were least likely to litter when they had just seen another person pick up and throw paper into a trash can. The researchers interpreted this as a kind of spontaneous conformity—a tendency to follow the behavior of others, often entirely out of our awareness. Even our emotional states become more similar to those we spend more time with (Anderson, Keltner, & John, 2003).
+社会的影響の典型的な結果は、私たちの信念や行動が周囲の他者のものとより似ることである。ときには、一方がもう一方を変えようとする明白な意図がないまま、この変化が自発的かつ自動的に生じる。ルームメートがジャズやラップを頻繁に流していたため、自分もその音楽を好きになったかもしれない。本当に好きになりたいと思っていたわけでもなく、ルームメートから強制されたわけでもない。好みが受動的に変化したのである。Robert Cialdini とその同僚 (Cialdini, Reno, & Kallgren, 1990) は、大学生が、別の人が紙を地面へ捨てるのを直前に見た場合には、自分もごみを地面へ捨てる可能性が高くなり、別の人が紙を拾ってごみ箱へ捨てるのを直前に見た場合には、最もごみを捨てにくくなることを見いだした。研究者はこれを一種の自発的同調、すなわち、しばしば完全に意識しないまま他者の行動へ従う傾向と解釈した。私たちの感情状態でさえ、多くの時間を一緒に過ごす人々の感情状態へ似てくる (Anderson, Keltner, & John, 2003)。
 
-#### Research Focus
+#### 研究フォーカス
 
-Imitation as Subtle Conformity
+微妙な同調としての模倣
 
-Perhaps you have noticed in your own behavior a type of very subtle conformity—the tendency to imitate other people who are around you. Have you ever found yourself talking, smiling, or frowning in the same way that a friend does? Tanya Chartrand and John Bargh (1999) investigated whether the tendency to imitate others would occur even for strangers, and even in very short periods of time.
+自分自身の行動の中に、非常に微妙な同調の一種、すなわち周囲にいる人を模倣する傾向に気づいたことがあるかもしれない。友人と同じ話し方、笑い方、顔のしかめ方をしている自分に気づいたことはないだろうか。Tanya Chartrand and John Bargh (1999) は、他者を模倣する傾向が、見知らぬ人に対しても、また非常に短時間でも生じるかどうかを調べた。
 
-In their first experiment, students worked on a task with another student, who was actually an experimental confederate. The two worked together to discuss photographs taken from current magazines. While they were working together, the confederate engaged in some unusual behaviors to see if the research participant would mimic them. Specifically, the confederate either rubbed his or her face or shook his or her foot. It turned out that the students did mimic the behavior of the confederate, by themselves either rubbing their own faces or shaking their own feet. And when the experimenters asked the participants if they had noticed anything unusual about the behavior of the other person during the experiment, none of them indicated awareness of any face rubbing or foot shaking.
+最初の実験では、学生は別の学生と一緒に課題を行ったが、その「学生」は実際には実験協力者だった。2人は一緒に、当時の雑誌から取られた写真について話し合った。共同作業をしている間、実験協力者は研究参加者が模倣するかどうかを見るため、いくつか普通ではない行動を行った。具体的には、自分の顔をこするか、足を揺すった。すると、学生たちは実際に実験協力者の行動を模倣し、自分の顔をこすったり、自分の足を揺すったりした。そして実験終了後、相手の行動に何か普通ではない点へ気づいたかと尋ねても、顔をこすることや足を揺することに気づいていた参加者は一人もいなかった。
 
-It is said that imitation is a form of flattery, and we might therefore expect that we would like people who imitate us. Indeed, in a second experiment, Chartrand and Bargh found exactly this. Rather than creating the behavior to be mimicked, in this study the confederate imitated the behaviors of the participant. While the participant and the confederate discussed the magazine photos, the confederate mirrored the posture, movements, and mannerisms displayed by the participant.
+「模倣はお世辞の一形態」と言われるため、自分を模倣する人を好むと予想できるかもしれない。実際、2番目の実験で Chartrand and Bargh はまさにそのことを見いだした。この研究では、模倣される行動を実験協力者が作り出す代わりに、実験協力者が参加者の行動を模倣した。参加者と実験協力者が雑誌の写真について話している間、実験協力者は参加者の姿勢、動き、身振りをまねた。
 
-As you can see in Figure 6.2, the participants who had been mimicked liked the other person more and indicated that they thought the interaction had gone more smoothly, in comparison with the participants who had not been imitated.
+図6.2から分かるように、模倣された参加者は、模倣されなかった参加者より相手を好ましく感じ、相互作用もうまく進んだと答えた。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/d1396fcb7b6c7012292346ac7e62d0ad-1.jpg)
 
-*Figure 6.2*
+_図6.2_
 
-Participants who had been mimicked indicated that they liked the person who had imitated them more and that the interaction with that person had gone more smoothly, in comparison with participants who had not been mimicked. Data are from Chartrand and Bargh (1999).
+模倣された参加者は、模倣されなかった参加者と比べ、自分を模倣した人物をより好きだと答え、その人物との相互作用もより円滑だったと答えた。Data are from Chartrand and Bargh (1999).
 
-Imitation is an important part of social interaction. We easily and frequently mimic others without being aware that we are doing so. We may communicate to others that we agree with their viewpoints by mimicking their behaviors, and we tend to get along better with people with whom we are well “coordinated.” We even expect people to mimic us in social interactions, and we become distressed when they do not (Dalton, Chartrand, & Finkel, 2010). This unconscious conformity may help explain why we hit it off immediately with some people and never get it together with others (Chartrand & Dalton, 2009; Tickle-Degnen & Rosenthal, 1990, 1992).
+模倣は社会的相互作用の重要な一部である。私たちは、自分がそうしていることに気づかないまま、容易かつ頻繁に他者を模倣する。行動を模倣することで、相手の見解に同意していることを伝えている可能性があり、うまく「同調」できている相手とは、より良い関係を築く傾向がある。社会的相互作用では相手が自分を模倣することさえ期待しており、そうしない場合には不快感を覚える (Dalton, Chartrand, & Finkel, 2010)。この無意識の同調は、会った直後から意気投合する人がいる一方、いつまでたってもうまくかみ合わない人がいる理由の一部を説明するかもしれない (Chartrand & Dalton, 2009; Tickle-Degnen & Rosenthal, 1990, 1992)。
 
-## Informational Social Influence: Conforming to Be Accurate
+## 情報的社会的影響：正確であるために同調する
 
-Although mimicry represents the more subtle side, social influence also occurs in a more active and thoughtful sense, for instance, when we actively look to our friends’ opinions to determine appropriate behavior, when a car salesperson attempts to make a sale, or even when a powerful dictator uses physical aggression to force the people in his country to engage in the behaviors that he desires. In these cases, the influence is obvious. We know we are being influenced and we may attempt—sometimes successfully, and sometimes less so—to counteract the pressure.
+模倣はより微妙な側面を表すが、社会的影響は、より能動的かつ熟慮的な形でも生じる。たとえば、適切な行動を判断するため積極的に友人の意見を参考にするとき、自動車販売員が販売を成立させようとするとき、あるいは強力な独裁者が身体的攻撃を用いて国民に自分の望む行動を強制するときである。このような場合、影響は明白である。自分が影響を受けていると認識でき、その圧力へ対抗しようとすることもある。成功することもあれば、そうでないこともある。
 
-Influence also sometimes occurs because we believe that other people have valid knowledge about an opinion or issue, and we use that information to help us make good decisions. For example, if you take a flight and land at an unfamiliar airport you may follow the flow of other passengers who disembarked before you. In this case your assumption might be that they know where they are going and that following them will likely lead you to the baggage carousel.
+他者がある意見や問題について妥当な知識を持っていると信じ、その情報を良い意思決定のために利用することによっても影響は生じる。たとえば飛行機で初めて訪れる空港へ着陸したとき、自分より先に降りた乗客の流れについていくかもしれない。この場合、「あの人たちは行き先を知っていて、ついていけば荷物受取所へ着けるだろう」と仮定しているのかもしれない。
 
-Informational social influence is *the change in opinions or behavior that occurs when we conform to people who we believe have accurate information*. We base our beliefs on those presented to us by reporters, scientists, doctors, and lawyers because we believe they have more expertise in certain fields than we have. But we also use our friends and colleagues for information; when we choose a jacket on the basis of our friends’ advice about what looks good on us, we are using informational conformity—we believe that our friends have good judgment about the things that matter to us.
+情報的社会的影響とは、*正確な情報を持っていると信じる人々へ同調することによって生じる、意見または行動の変化*である。記者、科学者、医師、弁護士から提示された情報を信念の基礎にするのは、自分より特定分野について専門知識を持っていると考えるからである。しかし友人や同僚も情報源として利用する。自分には何が似合うかについて友人から助言され、それをもとにジャケットを選ぶ場合、情報的同調を利用している。自分にとって重要なことについて、友人には優れた判断力があると信じているのである。
 
-Informational social influence is often the end result of social comparison, *the process of comparing our opinions with those of others to gain an accurate appraisal of the validity of an opinion or behavior* (Festinger, Schachter, & Back, 1950; Hardin & Higgins, 1996; Turner, 1991). Informational social influence leads to real, long-lasting changes in beliefs. The result of conformity due to informational social influence is normally private acceptance: *real change in opinions on the part of the individual*. We believe that choosing the jacket was the right thing to do and that the crowd will lead us to the baggage carousel.
+情報的社会的影響はしばしば社会的比較、すなわち*ある意見や行動が妥当かどうかを正確に評価するため、自分の意見を他者の意見と比較する過程*の最終的な結果である (Festinger, Schachter, & Back, 1950; Hardin & Higgins, 1996; Turner, 1991)。情報的社会的影響は、信念の実質的で長期にわたる変化につながる。情報的社会的影響による同調は通常、私的受容、すなわち*本人の意見そのものが実際に変化すること*をもたらす。ジャケットを選んだのは正しかったと信じ、人の流れについていけば荷物受取所へ着けると本当に信じるのである。
 
-## Normative Social Influence: Conforming to Be Liked and to Avoid Rejection
+## 規範的社会的影響：好かれ、拒絶を避けるために同調する
 
-In other cases we conform not because we want to have valid knowledge but rather to meet the goal of belonging to and being accepted by a group that we care about (Deutsch & Gerard, 1955). When we start smoking cigarettes or buy shoes that we cannot really afford in order to impress others, we do these things not so much because we think they are the right things to do but rather because we want to be liked.
+別の場合には、正確な知識を得たいからではなく、自分にとって重要な集団へ所属し、受け入れられるという目標を満たすために同調する (Deutsch & Gerard, 1955)。他者へ良い印象を与えるために喫煙を始めたり、本当は買う余裕のない靴を買ったりする場合、それが正しいことだと思ってするというより、好かれたいから行っている。
 
-We fall prey to normative social influence *when we express opinions or behave in ways that help us to be accepted or that keep us from being isolated or rejected by others*. When we engage in conformity due to normative social influence we conform to social norms—*socially accepted beliefs about what we do or should do in particular social contexts* (Cialdini, 1993; Sherif, 1936; Sumner, 1906).
+私たちは、_他者から受け入れられるのに役立つ、あるいは孤立や拒絶を避けるのに役立つ意見を表明したり、行動をしたりするとき_、規範的社会的影響を受けている。規範的社会的影響によって同調するとき、私たちは社会規範、すなわち*特定の社会的文脈において、何をする、または何をすべきかについて社会的に受け入れられた信念*へ同調する (Cialdini, 1993; Sherif, 1936; Sumner, 1906)。
 
-In contrast to informational social influence, in which the attitudes or opinions of the individual change to match that of the influencers, the outcome of normative social influence often represents public compliance rather than private acceptance. Public compliance is *a superficial change in behavior (including the public expression of opinions) that is not accompanied by an actual change in one’s private opinion*. Conformity may appear in our public behavior even though we may believe something completely different in private. We may obey the speed limit or wear a uniform to our job (behavior) to conform to social norms and requirements, even though we may not necessarily believe that it is appropriate to do so (opinion). We may use drugs with our friends without really wanting to, and without believing it is really right, because our friends are all using drugs. However, behaviors that are originally performed out of a desire to be accepted (normative social influence) may frequently produce changes in beliefs to match them, and the result becomes private acceptance. Perhaps you know someone who started smoking to please his friends but soon convinced himself that it was an acceptable thing to do.
+個人の態度や意見そのものが影響源のものへ変化する情報的社会的影響とは対照的に、規範的社会的影響の結果は、私的受容ではなく公的追従となることが多い。公的追従とは、*自分の私的な意見そのものの変化を伴わない、行動上の表面的変化（意見を公に表明することを含む）*である。内心ではまったく別のことを信じていても、公的な行動には同調が現れる場合がある。社会規範や要求へ従うため、制限速度を守ったり、職場で制服を着たりする（行動）かもしれないが、それが適切だと必ずしも信じているわけではない（意見）。本当はしたくもなく、正しいとも思っていないのに、友人が全員薬物を使っているため、自分も一緒に使うことがあるかもしれない。しかし、もともと受け入れられたいという欲求（規範的社会的影響）から始めた行動が、その行動へ一致するよう信念そのものを変化させ、最終的に私的受容となることもよくある。友人を喜ばせるため喫煙を始めた後、すぐに「喫煙は許容できる行動だ」と自分自身を納得させた人を知っているかもしれない。
 
-Although in some cases conformity may be purely informational or purely normative, in most cases the goals of being accurate and being accepted go hand-in-hand, and therefore informational and normative social influence often occur at the same time. When soldiers obey their commanding officers, they probably do it both because others are doing it (normative conformity) and because they think it is the right thing to do (informational conformity). And when you start working at a new job you may copy the behavior of your new colleagues because you want them to like you as well as because you assume they know how things should be done. It has been argued that the distinction between informational and normative conformity is more apparent than real and that it may not be possible to fully differentiate them (Turner, 1991).
+同調が純粋に情報的、または純粋に規範的である場合もあるが、ほとんどの場合、「正確でありたい」という目標と「受け入れられたい」という目標は同時に働くため、情報的社会的影響と規範的社会的影響はしばしば同時に生じる。兵士が指揮官へ服従するとき、ほかの人々もそうしているから（規範的同調）でもあり、それが正しいことだと思うから（情報的同調）でもある可能性が高い。また、新しい職場で働き始めたとき、新しい同僚から好かれたいという理由と、同僚のほうが仕事のやり方を知っていると仮定するという理由の両方から、その行動をまねるかもしれない。情報的同調と規範的同調との区別は、実際の違い以上に見かけ上のものであり、完全に区別することは不可能かもしれないとも論じられている (Turner, 1991)。
 
-## Majority Influence: Conforming to the Group
+## 多数派影響：集団へ同調する
 
-Although conformity occurs whenever group members change their opinions or behaviors as a result of their perceptions of others, we can divide such influence into two types. Majority influence occurs *when the beliefs held by the larger number of individuals in the current social group prevail*. In contrast, minority influence occurs when *the beliefs held by the smaller number of individuals in the current social group prevail*. Not surprisingly, majority influence is more common, and we will consider it first.
+集団成員が他者についての知覚の結果として意見や行動を変えるときにはいつでも同調が生じるが、その影響を2種類へ分けることができる。多数派影響は、*現在の社会集団で、より多数の人々が持つ信念が優勢になるとき*に生じる。一方、少数派影響は、*現在の社会集団で、より少数の人々が持つ信念が優勢になるとき*に生じる。驚くことではないが、多数派影響のほうが一般的なので、まずこちらを検討する。
 
-In a series of important studies on conformity, Muzafer Sherif (1936) used a perceptual phenomenon known as the *autokinetic effect* to study the outcomes of conformity on the development of group norms. The autokinetic effect is caused by the rapid, small movements of our eyes that occur as we view objects and that allow us to focus on stimuli in our environment. However, when individuals are placed in a dark room that contains only a single small, stationary pinpoint of light, these eye movements produce an unusual effect for the perceiver—they make the point of light appear to move.
+Muzafer Sherif (1936) は、同調についての一連の重要な研究で、*自動運動効果*と呼ばれる知覚現象を使い、同調が集団規範の形成へ与える影響を研究した。自動運動効果は、物体を見るときに生じる、目の素早く小さな動きによって起こる。こうした眼球運動によって環境内の刺激へ焦点を合わせることができる。しかし、暗い部屋の中に静止した小さな一点の光だけを置くと、この眼球運動が知覚者へ普通とは異なる効果を生み出し、光点が動いているように見える。
 
-Sherif took advantage of this natural effect to study how group norms develop in ambiguous situations. In his studies, college students were placed in a dark room with the point of light and were asked to indicate, each time the light was turned on, how much it appeared to move. Some participants first made their judgments alone. Sherif found that although each participant who was tested alone made estimates that were within a relatively narrow range (as if they had their own “individual” norm), there were wide variations in the size of these judgments among the different participants he studied.
+Sherif は、この自然に生じる効果を利用し、曖昧な状況で集団規範がどのように形成されるかを調べた。研究では大学生を光点のある暗い部屋へ入れ、光が点灯するたびに、どの程度動いたように見えたかを答えてもらった。一部の参加者は、まず一人で判断した。Sherif は、一人で検査された各参加者の推定値は比較的狭い範囲へ収まり、それぞれが自分なりの「個人的」規範を持っているようだった一方、異なる参加者同士を比較すると、推定値には大きなばらつきがあることを見いだした。
 
-Sherif also found that when individuals who initially had made very different estimates were then placed in groups along with one or two other individuals, and in which all the group members gave their responses on each trial aloud (each time in a different random order), the initial differences in judgments among the participants began to disappear, such that the group members eventually made very similar judgments. You can see that this pattern of change, which is shown in Figure 6.3, “Outcomes of Sherif’s Study,” illustrates the fundamental principle of social influence—over time, people come more and more to share their beliefs with each other. Sherif’s study is thus a powerful example of the development of group norms.
+さらに、最初は大きく異なる推定を行った人々を、その後ほかの1人または2人と集団へ入れ、各試行で全員が声に出して回答するようにすると、参加者間にあった初期判断の違いが徐々に消え、最終的には集団成員が非常によく似た判断をするようになった。図6.3「Sherif の研究結果」に示されているこの変化のパターンは、社会的影響の基本原理、すなわち時間がたつにつれ、人々が互いの信念をますます共有するようになることを示している。そのため Sherif の研究は、集団規範の形成を示す強力な例である。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/18a0100bc5bea84f04cf5caaf674c9e8.jpg)
 
-*Figure 6.3 Outcomes of Sherif’s Study*
+_図6.3 Sherif の研究結果_
 
-The participants in the studies by Muzafer Sherif (1936) initially had different beliefs about the degree to which a point of light appeared to be moving. (You can see these differences as expressed on Day 1.) However, as they shared their beliefs with other group members over several days, a common group norm developed. Shown here are the estimates made by a group of three participants who met together on four different days.
+Muzafer Sherif (1936) の研究参加者は当初、光点がどの程度動いているように見えるかについて異なる信念を持っていた（1日目の違いとして示されている）。しかし、数日間にわたってほかの集団成員と信念を共有するうちに、共通の集団規範が形成された。ここでは、4日間一緒に集まった3人の参加者集団による推定値が示されている。
 
-Furthermore, the new group norms continued to influence judgments when the individuals were again tested alone, indicating that Sherif had created private acceptance. The participants did not revert back to their initial opinions, even though they were quite free to do so; rather, they stayed with the new group norms. And these conformity effects appear to have occurred entirely out of the awareness of most participants. Sherif reported that the majority of the participants indicated after the experiment was over that their judgments had not been influenced by the judgments made by the other group members.
+さらに、新しく形成された集団規範は、参加者が再び一人で検査された場合にも判断へ影響し続けた。これは Sherif が私的受容を生み出したことを示している。参加者は、自由にそうすることができたにもかかわらず、最初の意見へ戻らず、新しい集団規範を維持した。また、こうした同調効果は、ほとんどの参加者が完全に自覚しないまま生じたようである。Sherif によれば、実験終了後、ほかの集団成員の判断から自分の判断は影響を受けなかったと答えた参加者が多数を占めた。
 
-Sherif also found that the norms that were developed in groups could continue over time. When the original research participants were moved into groups with new people, their opinions subsequently influenced the judgments of the new group members (Jacobs & Campbell, 1961). The norms persisted through several “generations” (MacNeil & Sherif, 1976) and could influence individual judgments up to a year after the individual was last tested (Rohrer, Baron, Hoffman, & Swander, 1954).
+Sherif は、集団で形成された規範が時間を超えて持続することも見いだした。元の研究参加者を新しい人々と一緒の集団へ移すと、その意見が新しい集団成員の判断へ影響した (Jacobs & Campbell, 1961)。規範は数「世代」にわたって持続し (MacNeil & Sherif, 1976)、本人が最後に検査されてから最大1年後まで個人の判断へ影響することがあった (Rohrer, Baron, Hoffman, & Swander, 1954)。
 
-When Solomon Asch (Asch, 1952, 1955) heard about Sherif’s studies, he responded in perhaps the same way that you might have: “Well of course people conformed in this situation, because after all the right answer was very unclear,” you might have thought. Since the study participants didn’t know the right answer (or indeed the “right” answer was no movement at all), it is perhaps not that surprising that people conformed to the beliefs of others.
+Solomon Asch (Asch, 1952, 1955) が Sherif の研究について知ったとき、おそらくあなたと同じ反応をした。「この状況で同調したのは当然だ。正しい答えが非常に曖昧なのだから」と考えるかもしれない。参加者自身が正答を知らず、実際の「正解」はそもそも「動いていない」だったのだから、他者の信念へ同調したことは、それほど驚くべきことではない。
 
-Asch conducted studies in which, in complete contrast to the autokinetic effect experiments of Sherif, the correct answers to the judgments were entirely obvious. In these studies, the research participants were male college students who were told that they were to be participating in a test of visual abilities. The men were seated in a small semicircle in front of a board that displayed the visual stimuli that they were going to judge. The men were told that there would be 18 trials during the experiment, and on each trial they would see two cards. The standard card had a single line that was to be judged. And the test card had three lines that varied in length between about 2 and 10 inches:
+そこで Asch は、Sherif の自動運動効果実験とは正反対に、判断の正解が完全に明白な研究を行った。この研究の参加者は男子大学生で、視覚能力の検査へ参加すると説明された。男性たちは、判断する視覚刺激を示すボードの前に、小さな半円状になって座った。実験は18試行あり、各試行で2枚のカードを見ると説明された。標準カードには判断対象となる1本の線が描かれ、テストカードには約2インチから10インチまで長さの異なる3本の線が描かれていた。
 
-![standard card has 1 line, test card has 3 lines of different lengths](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/dcfff51ac2493f0180d56b4be5abb424.jpg)
+![標準カードには1本の線、テストカードには長さの異なる3本の線がある](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/dcfff51ac2493f0180d56b4be5abb424.jpg)
 
-*Figure 6.4 Standard Card and Test Card.*
+_図6.4 標準カードとテストカード。_
 
-The men’s task was simply to indicate which line on the test card was the same length as the line on the standard card. As you can see from the Asch card sample above, there is no question that correct answer is Line 1. In fact, Asch found that people made virtually no errors on the task when they made their judgments alone.
+課題は単純に、テストカードのどの線が標準カードの線と同じ長さかを答えることだった。上の Asch のカード例から分かるように、正解が1番の線であることにはほとんど疑問の余地がない。実際、一人で判断した場合、ほぼまったく誤答しなかった。
 
-On each trial, each person answered out loud, beginning with one end of the semicircle and moving to the other end. Although the participant did not know it, the other group members were not true participants but experimental confederates who gave predetermined answers on each trial. Because the participant was seated next to last in the row, he always made his judgment after most of the other group members made theirs. Although on the first two trials the confederates each gave the correct answer, on the third trial, and on 11 of the subsequent trials, they all had been instructed to give the same incorrect answer. For instance, even though the correct answer was Line 1, they would all say it was Line 2. Thus when it became the participant’s turn to answer, he could either give the clearly correct answer or conform to the incorrect responses of the confederates.
+各試行では、半円の一方の端から順に一人ずつ声に出して回答した。参加者には知らされていなかったが、ほかの集団成員は本当の参加者ではなく、各試行であらかじめ決められた回答をする実験協力者だった。本当の参加者は列の最後から2番目に座っていたため、常にほとんどの集団成員が答えた後で判断した。最初の2試行では実験協力者全員が正解したが、3試行目とその後11回の試行では、全員が同じ誤答をするよう指示されていた。たとえば本当の正解が1番の線であるにもかかわらず、全員が「2番」と答えた。したがって、本当の参加者の番になると、明らかに正しい答えを言うか、実験協力者の誤答へ同調するかを選ぶことになった。
 
-Asch found that about 76% of the 123 men who were tested gave at least one incorrect response when it was their turn, and 37% of the responses, overall, were conforming. This is indeed evidence for the power of normative social influence because the research participants were giving clearly incorrect answers out loud. However, conformity was not absolute—in addition to the 24% of the men who never conformed, only 5% of the men conformed on all 12 of the critical trials.
+Asch は、検査された男性123人の約76%が少なくとも1回は誤答し、全回答の37%が集団へ同調した回答だったことを見いだした。参加者が明らかに誤った答えを声に出していたため、これは規範的社会的影響の力を示す証拠である。しかし同調は絶対的ではなかった。まったく同調しなかった男性が24%いたほか、12回の重要試行すべてで同調した男性はわずか5%だった。
 
-## Minority Influence: Resisting Group Pressure
+## 少数派影響：集団圧力へ抵抗する
 
-The research that we have discussed to this point involves conformity in which the opinions and behaviors of individuals become more similar to the opinions and behaviors of the majority of the people in the group—majority influence. But we do not always blindly conform to the beliefs of the majority. Although more unusual, there are nevertheless cases in which a smaller number of individuals are able to influence the opinions or behaviors of the group—this is *minority influence*.
+ここまで扱ってきた研究は、個人の意見や行動が、集団内の多数の人々の意見や行動へ似ていく同調、すなわち多数派影響を扱っていた。しかし、私たちは常に多数派の信念へ盲目的に同調するわけではない。より珍しくはあるものの、少数の人々が集団の意見や行動へ影響できる場合もあり、これを*少数派影響*という。
 
-It is a good thing that minorities can be influential; otherwise, the world would be pretty boring. When we look back on history we find that it is the unusual, divergent, innovative minority groups or individuals, who—although frequently ridiculed at the time for their unusual ideas—end up being respected for producing positive changes. The work of scientists, religious leaders, philosophers, writers, musicians, and artists who go against group norms by expressing new and unusual ideas frequently is not liked at first. Galileo and Copernicus were scientists who did not conform to the opinions and behaviors of those around them. In the end, their innovative ideas changed the thinking of the masses. These novel thinkers may be punished—in some cases even killed—for their beliefs. In the end, however, if the ideas are interesting and important, the majority may conform to these new ideas, producing social change. In short, although conformity to majority opinions is essential to provide a smoothly working society, if individuals only conformed to others there would be few new ideas and little social change.
+少数派が影響力を持てることは重要である。そうでなければ、世界はかなり退屈になるだろう。歴史を振り返れば、普通とは異なり、主流から外れ、革新的な少数派集団や個人が、その当時には普通ではない考えのため嘲笑されることが多かったにもかかわらず、最終的には肯定的変化を生み出したことで尊敬されるようになった例が数多くある。新しく普通ではない考えを表明し、集団規範へ逆らう科学者、宗教指導者、哲学者、作家、音楽家、芸術家の仕事は、当初はしばしば嫌われる。Galileo や Copernicus は、周囲の人々の意見や行動へ同調しなかった科学者だった。最終的に、その革新的な考えは大衆の思考を変えた。このような新しい考えを持つ人々は、信念のため処罰され、ときには殺されることさえある。しかし最終的に、その考えが興味深く重要であれば、多数派が新しい考えへ同調し、社会変化が生じることがある。要するに、多数派の意見へ同調することは社会を円滑に機能させるために不可欠だが、個人が他者へ同調するだけなら、新しい考えも社会変化もほとんど生じない。
 
-The French social psychologist Serge Moscovici was particularly interested in the situations under which minority influence might occur. In fact, he argued that all members of all groups are able, at least in some degree, to influence others, regardless of whether they are in the majority or the minority. To test whether minority group members could indeed produce influence, he and his colleagues (Moscovici, Lage, & Naffrechoux, 1969) created the opposite of Asch’s line perception study, such that there was now a minority of confederates in the group (two) and a majority of experimental participants (four). All six individuals viewed a series of slides depicting colors, supposedly as a study of color perception, and as in Asch’s research, each voiced out loud an opinion about the color of the slide.
+フランスの社会心理学者 Serge Moscovici は、少数派影響がどのような状況で生じるかへ特に関心を持った。実際彼は、多数派か少数派かにかかわらず、すべての集団のすべての成員が、少なくともある程度は他者へ影響できると論じた。少数派の集団成員が本当に影響を生み出せるかを検証するため、彼とその同僚 (Moscovici, Lage, & Naffrechoux, 1969) は Asch の線分知覚研究とは逆の状況を作った。今度は実験協力者が少数派（2人）で、実際の実験参加者が多数派（4人）だった。6人全員が色知覚の研究という名目で、色を示す一連のスライドを見た。そして Asch の研究と同じように、一人ずつスライドの色について声に出して意見を述べた。
 
-Although the color of the slides varied in brightness, they were all clearly blue. Moreover, demonstrating that the slides were unambiguous, just as the line judgments of Asch had been, participants who were asked to make their judgments alone called the slides a different color than blue less than 1% of the time. (When it happened, they called the slides green.)
+スライドの明るさは異なっていたが、すべて明らかに青色だった。また、Asch の線分判断と同じように刺激が曖昧ではないことを示すように、一人で判断するよう求められた参加者が青以外の色と答えた割合は1%未満だった。その場合に答えた色は緑だった。
 
-In the experiment, the two confederates had been instructed to give one of two patterns of answers that were different from the normal responses. In the *consistent-minority* condition, the two confederates gave the unusual response (green) on every trial. In the *inconsistent-minority* condition the confederates called the slides green on two-thirds of their responses and called them blue on the other third.
+実験では、2人の実験協力者に、通常の回答とは異なる2種類の回答パターンのどちらかをするよう指示した。*一貫した少数派*条件では、2人の実験協力者はすべての試行で普通とは異なる答え（緑）をした。*一貫しない少数派*条件では、回答の3分の2で緑、残り3分の1で青と答えた。
 
-The minority of two was able to change the beliefs of the majority of four, but only when they were unanimous in their judgments. As shown in Figure 6.5, “The Power of Consistent Minorities,” Moscovici found that the presence of a minority who gave consistently unusual responses influenced the judgments made by the experimental participants. When the minority was consistent, 32% of the majority group participants said green at least once and 18% of the responses of the majority group were green. However, the inconsistent minority had virtually no influence on the judgments of the majority.
+2人からなる少数派は4人からなる多数派の信念を変えることができたが、それは判断が一致していた場合だけだった。図6.5「一貫した少数派の力」に示されているように、Moscovici は、一貫して普通とは異なる回答をする少数派が存在すると、実験参加者の判断へ影響することを見いだした。少数派が一貫していた場合、多数派参加者の32%が少なくとも一度「緑」と答え、多数派による全回答の18%が「緑」だった。しかし、一貫しない少数派は、多数派の判断へほとんど影響しなかった。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/6b7a5defb594a8d91582f94c3a274bee.jpg)
 
-*Figure 6.5 The Power of Consistent Minorities*
+_図6.5 一貫した少数派の力_
 
-In the studies of minority influence by Serge Moscovici, only a consistent minority (in which each individual gave the same incorrect response) was able to produce conformity in the majority participants. Data are from Moscovici, Lage, and Naffrechoux (1969).
+Serge Moscovici による少数派影響の研究では、一人ひとりが同じ誤答を示す一貫した少数派だけが、多数派参加者へ同調を生み出すことができた。Data are from Moscovici, Lage, and Naffrechoux (1969).
 
-On the basis of this research, Moscovici argued that minorities could have influence over majorities, provided they gave consistent, unanimous responses. Subsequent research has found that minorities are most effective when they express consistent opinions over time and with each other, when they show that they are invested in their position by making significant personal and material sacrifices, and when they seem to be acting out of principle rather than from ulterior motives (Hogg, 2010). Although they may want to adopt a relatively open-minded and reasonable negotiating style on issues that are less critical to the attitudes they are trying to change, successful minorities must be absolutely consistent with their core arguments (Mugny & Papastamou, 1981).
+この研究に基づき、Moscovici は、少数派が一貫した全員一致の回答を示すなら、多数派へ影響できると論じた。その後の研究では、少数派が最も効果的なのは、時間を通じても互いの間でも一貫した意見を表明し、自分の立場のため大きな個人的・物質的犠牲を払うことでその立場へ真剣に関与していることを示し、隠れた動機ではなく原則に基づいて行動しているように見える場合だと分かっている (Hogg, 2010)。変えようとしている態度の核心ではない問題については、比較的柔軟で合理的な交渉スタイルを取ることが望ましいかもしれないが、成功する少数派は中心的主張については完全に一貫していなければならない (Mugny & Papastamou, 1981)。
 
-When minorities are successful at producing influence, they are able to produce strong and lasting attitude change—true private acceptance—rather than simply public compliance. People conform to minorities because they think that they are right, and not because they think it is socially acceptable. Minorities have another, potentially even more important, outcome on the opinions of majority group members—the presence of minority groups can lead majorities to engage in fuller, as well as more divergent, innovative and creative thinking about the topics being discussed (Martin & Hewstone, 2003; Martin, Martin, Smith, & Hewstone, 2007).
+少数派が影響を生み出すことに成功すると、単なる公的追従ではなく、強く持続的な態度変化、すなわち真の私的受容を生み出すことができる。人々が少数派へ同調するのは、それが社会的に受け入れられると思うからではなく、少数派が正しいと思うからである。さらに少数派には、多数派成員の意見へ、場合によってはさらに重要な効果がある。少数派集団が存在すると、多数派は議論されている問題について、より十分に、またより発散的・革新的・創造的に考えるようになる (Martin & Hewstone, 2003; Martin, Martin, Smith, & Hewstone, 2007)。
 
-Nemeth and Kwan (1987) had participants work in groups of four on a creativity task in which they were presented with letter strings such as *tdogto* and asked to indicate which word came to their mind first as they looked at the letters. The judgments were made privately, which allowed the experimenters to provide false feedback about the responses of the other group members. All participants indicated the most obvious word (in this case, *dog*) as their response on each of the initial trials. However, the participants were told (according to experimental condition) either that three of the other group members had also reported seeing *dog* and that one had reported seeing *god* or that three out of the four had reported seeing *god* whereas only one had reported *dog*. Participants then completed other similar word strings on their own, and their responses were studied.
+Nemeth and Kwan (1987) は参加者を4人組にし、_tdogto_ のような文字列を見せ、それを見たとき最初に思い浮かんだ単語を答えさせる創造性課題を行った。判断は非公開で行われたため、実験者はほかの集団成員の回答について偽のフィードバックを与えることができた。最初の各試行では、すべての参加者が最も明白な単語、この場合は _dog_ と答えた。しかし実験条件に応じて、ほかの集団成員3人も _dog_ と答え、1人だけが _god_ と答えた、または4人中3人が _god_ と答え、1人だけが _dog_ と答えたと知らされた。その後、参加者は似た別の文字列へ一人で回答し、その反応が調べられた。
 
-Results showed that when the participants thought that the unusual response (for instance, *god* rather than *dog*) was given by a minority of one individual in the group rather than by a majority of three individuals, they subsequently answered more of the new word strings using novel solutions, such as finding words made backwards or using a random order of the letters. On the other hand, the individuals who thought that the majority of the group had given the novel response did not develop more creative ideas. Evidently, when the participants thought that the novel response came from a group minority (one person), they thought about the responses more carefully, in comparison with the same behaviors performed by majority group members, and this led them to adopt new and creative ways to think about the problems. This result, along with other research showing similar findings, suggests that messages that come from minority groups lead us to think more fully about the decision, which can produce innovative, creative thinking in majority group members (Crano & Chen, 1998).
+結果、普通とは異なる回答（たとえば _dog_ ではなく _god_）を3人の多数派ではなく1人の少数派が出したと思った場合、参加者はその後の新しい文字列について、逆向きに単語を見つけたり、文字をランダムな順序で使ったりするなど、新しい解決策をより多く示した。一方、集団の多数派が新しい回答を出したと思った人は、より創造的な考えを生み出すようにはならなかった。参加者は、新しい回答が少数派（1人）から出たと思うと、多数派が同じ行動をした場合より、その回答についてより慎重に考え、その結果、問題について新しく創造的な考え方を採用したようである。この結果と同様の知見を示すほかの研究を合わせると、少数派集団から来るメッセージは意思決定についてより十分に考えさせ、多数派成員の革新的で創造的な思考を生み出しうることが示唆される (Crano & Chen, 1998)。
 
-In summary, we can conclude that minority influence, although not as likely as majority influence, does sometimes occur. The few are able to influence the many when they are consistent and confident in their judgments but are less able to have influence when they are inconsistent or act in a less confident manner. Furthermore, although minority influence is difficult to achieve, if it does occur it is powerful. When majorities are influenced by minorities they really change their beliefs—the outcome is deeper thinking about the message, private acceptance of the message, and in some cases even more creative thinking.
+まとめると、少数派影響は多数派影響ほど生じやすくはないが、ときには生じる。少数の人々でも、自分の判断に一貫性と自信を持っていれば多数へ影響できる一方、一貫性がなかったり、自信のない態度を取ったりすれば影響力は弱い。さらに少数派影響を実現することは難しいものの、いったん生じれば強力である。多数派が少数派から影響を受ける場合、信念そのものが実際に変化する。その結果は、メッセージについてのより深い思考、メッセージの私的受容、そして場合によっては、より創造的な思考である。
 
-### Situational Determinants of Conformity
+### 同調の状況的決定因
 
-The studies of Asch, Sherif, and Moscovici demonstrate the extent to which individuals—both majorities and minorities—can create conformity in others. Furthermore, these studies provide information about the characteristics of the social situation that are important in determining the extent to which we conform to others. Let’s consider some of those variables.
+Asch、Sherif、Moscovici の研究は、多数派であれ少数派であれ、個人が他者へどの程度同調を生み出せるかを示している。さらに、こうした研究は、他者へどの程度同調するかを決めるうえで重要な社会的状況の特徴についても情報を与えている。いくつかの変数を考えてみよう。
 
-### The Size of the Majority
+### 多数派の大きさ
 
-As the number of people in the majority increases relative to the number of persons in the minority, pressure on the minority to conform also increases (Latané, 1981; Mullen, 1983). Asch conducted replications of his original line-judging study in which he varied the number of confederates (the majority subgroup members) who gave initial incorrect responses from one to 16 people, while holding the number in the minority subgroup constant at one (the single research participant). You may not be surprised to hear the results of this research: when the size of the majorities got bigger, the lone participant was more likely to give the incorrect answer.
+少数派の人数に対して多数派の人数が増えるほど、少数派へ同調を求める圧力も強くなる (Latané, 1981; Mullen, 1983)。Asch は元の線分判断研究を何度も追試し、少数派を1人、つまり本当の研究参加者1人に固定しながら、最初に誤答する実験協力者、つまり多数派成員の人数を1人から16人まで変化させた。その結果は予想どおりかもしれない。多数派が大きくなるほど、一人だけの参加者は誤答をする可能性が高くなった。
 
-Increases in the size of the majority increase conformity regardless of whether the conformity is informational or normative. In terms of informational conformity, if more people express an opinion, their opinions seem more valid. Thus bigger majorities should result in more informational conformity. But larger majorities will also produce more normative conformity because being different will be harder when the majority is bigger. As the majority gets bigger, the individual giving the different opinion becomes more aware of being different, and this produces a greater need to conform to the prevailing norm.
+多数派の大きさが増えると、それが情報的同調でも規範的同調でも、同調は強くなる。情報的同調について考えると、より多くの人が同じ意見を表明すれば、その意見はより妥当に見える。そのため大きな多数派は、より強い情報的同調を生み出すはずである。しかし大きな多数派は規範的同調も増加させる。多数派が大きいほど、異なる立場を取ることが難しくなるからである。多数派が大きくなるにつれ、異なる意見を示す人は自分が違っていることをより強く意識し、支配的な規範へ同調する必要性が高くなる。
 
-Although increasing the size of the majority does increase conformity, this is only true up to a point. *The increase in the amount of conformity that is produced by adding new members to the majority group* (known as the social impact of each group member) is greater for initial majority members than it is for later members (Latané, 1981). This pattern is shown in Figure 6.6 , “Social Impact,” which presents data from a well-known experiment by Stanley Milgram and his colleagues (Milgram, Bickman, & Berkowitz, 1969) that studied how people are influenced by the behavior of others on the streets of New York City.
+多数派の人数を増やすと同調は増えるが、それはある点までである。_多数派集団へ新しい成員を加えることで生じる同調量の増加_、すなわち各集団成員の社会的インパクトは、後から加わる成員より最初の数人の成員のほうが大きい (Latané, 1981)。このパターンは、Stanley Milgram とその同僚 (Milgram, Bickman, & Berkowitz, 1969) が New York City の路上で他者の行動から人々がどのように影響を受けるかを調べた有名な実験のデータを示す図6.6「社会的インパクト」に表れている。
 
-Milgram had confederates gather in groups on 42nd Street in New York City, in front of the Graduate Center of the City University of New York, each looking up at a window on the sixth floor of the building. The confederates were formed into groups ranging from one to 15 people. A video camera in a room on the sixth floor above recorded the behavior of 1,424 pedestrians who passed along the sidewalk next to the groups.
+Milgram は New York City の42nd Street、City University of New York の Graduate Center の前で、実験協力者を1人から15人までの集団にして集め、全員に建物6階の窓を見上げさせた。6階の部屋に置かれたビデオカメラによって、集団の横の歩道を通った1,424人の歩行者の行動が記録された。
 
-As you can see in Figure 6.6, “Social Impact,” larger groups of confederates increased the number of people who also stopped and looked up, but the influence of each additional confederate was generally weaker as size increased. Groups of three confederates produced more conformity than did a single person, and groups of five produced more conformity than groups of three. But after the group reached about six people, it didn’t really matter very much. Just as turning on the first light in an initially dark room makes more difference in the brightness of the room than turning on the second, third, and fourth lights does, adding more people to the majority tends to produce diminishing returns—less additional effect on conformity.
+図6.6「社会的インパクト」から分かるように、実験協力者の集団が大きいほど、立ち止まって上を見る人も増えた。しかし、人数が増えるにつれ、実験協力者を一人追加するごとの影響は全般に弱くなった。3人の実験協力者は1人より多くの同調を生み、5人は3人より多くの同調を生んだ。しかし集団が約6人に達すると、それ以上増えても大きな違いはなかった。最初は暗い部屋で1個目の照明を点けるほうが、2個目、3個目、4個目を点けるより明るさへ大きな違いを生み出すのと同じように、多数派へ人を追加する効果には逓減があり、同調へ追加的に与える効果は小さくなる。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/cabe6ea582c736c4350230dfee82852f.jpg)
 
-*Figure 6.6 Social Impact*
+_図6.6 社会的インパクト_
 
-One reason that the impact of new group members decreases so rapidly is because as the number in the group increases, the individuals in the majority are soon seen more as a group rather than as separate individuals. When there are only a couple of individuals expressing opinions, each person is likely to be seen as an individual, holding his or her own unique opinions, and each new individual adds to the impact. As a result, two people are more influential than one, and three more influential than two. However, as the number of individuals grows, and particularly when those individuals are perceived as being able to communicate with each other, the individuals are more likely to be seen as a group rather than as individuals. At this point, adding new members does not change the perception; regardless of whether there are four, five, six, or more members, the group is still just a group. As a result, the expressed opinions or behaviors of the group members no longer seem to reflect their own characteristics as much as they do that of the group as a whole, and thus increasing the number of group members is less effective in increasing influence (Wilder, 1977).
+新しい集団成員の影響が急速に弱くなる理由の一つは、人数が増えるにつれ、多数派の個々人が別々の個人としてではなく、一つの集団として知覚されるようになるからである。意見を表明している人が2、3人しかいなければ、それぞれが独自の意見を持つ個人として捉えられ、新しい人を一人加えるたび影響が増える。そのため1人より2人、2人より3人のほうが影響力を持つ。しかし人数が増え、とりわけその人々が互いにコミュニケーションできると知覚されると、個人というより集団として見られるようになる。この段階では、新しい成員を増やしても知覚は変わらない。4人、5人、6人、それ以上であっても、依然として「一つの集団」である。その結果、集団成員が表す意見や行動は、個々人自身の特徴より集団全体の特徴を反映しているように見えるため、人数を増やしても影響力を高める効果は小さくなる (Wilder, 1977)。
 
-Group size is an important variable that influences a wide variety of behaviors of the individuals in groups. People leave proportionally smaller tips in restaurants as the number in their party increases, and people are less likely to help as the number of bystanders to an incident increases (Latané, 1981). The number of group members also has an important influence on group performance: as the size of a working group gets larger, the contributions of each individual member to the group effort become smaller. In each case, the influence of group size on behavior is found to be similar to that shown in Figure 6.6, “Social Impact.”
+集団の大きさは、集団内の個人による多様な行動へ影響する重要な変数である。レストランでは、一緒に食事をする人数が増えるほど一人当たりのチップの割合が小さくなり、ある事件の傍観者数が増えるほど、人は助ける可能性が低くなる (Latané, 1981)。集団成員数は集団のパフォーマンスにも重要な影響を与える。作業集団が大きくなるほど、集団全体の努力に対する個々の成員の貢献は小さくなる。それぞれの場合、集団の大きさが行動へ与える影響は図6.6「社会的インパクト」に示したものと似ている。
 
-### The Unanimity of the Majority
+### 多数派の全員一致
 
-Although the number of people in the group is an important determinant of conformity, it cannot be the only thing—if it were, minority influence would be impossible. It turns out that the *consistency or unanimity* of the group members is even more important. In Asch’s study, as an example, conformity occurred not so much because many confederates gave a wrong answer but rather because each of the confederates gave the *same* wrong answer. In one follow-up study that he conducted, Asch increased the number of confederates to 16 but had just one of those confederates give the correct answer. He found that in this case, even though there were 15 incorrect and only one correct answer given by the confederates, conformity was nevertheless sharply reduced—to only about 5% of the participants’ responses. And you will recall that in the minority influence research of Moscovici, the same thing occurred; conformity was observed only when the minority group members were completely consistent in their expressed opinions.
+集団の人数は同調を決める重要な要因だが、それだけではありえない。もし人数だけなら、少数派影響は不可能だからである。実際には、集団成員間の*一貫性または全員一致*のほうがさらに重要である。たとえば Asch の研究で同調が生じたのは、多くの実験協力者が誤答したこと以上に、すべての実験協力者が*同じ*誤答をしたからである。追試の一つで Asch は実験協力者を16人へ増やしたが、そのうち1人だけに正解を言わせた。この場合、実験協力者による誤答が15人、正答が1人だったにもかかわらず、同調率は参加者の回答の約5%にまで急減した。また Moscovici の少数派影響研究でも同じことが生じ、少数派成員が表明する意見に完全な一貫性があるときだけ同調が観察されたことを思い出してほしい。
 
-Although you might not be surprised to hear that conformity decreases when one of the group members gives the right answer, you may be more surprised to hear that conformity is reduced even when the dissenting confederate gives a different *wrong* answer. For example, conformity is reduced dramatically in Asch’s line-judging situation, such that virtually all participants give the correct answer (assume it is Line 3 in this case) even when the majority of the confederates have indicated that Line 2 is the correct answer and a single confederate indicates that Line 1 is correct. In short, conformity is reduced when there is any inconsistency among the members of the majority group—even when one member of the majority gives an answer that is even more incorrect than that given by the other majority group members (Allen & Levine, 1968).
+集団成員の一人が正解を言えば同調が減ると聞いても驚かないかもしれない。しかし、反対する実験協力者が別の*誤答*をした場合でさえ同調が減ると聞けば、より驚くかもしれない。たとえば Asch の線分判断状況では、仮に正解が3番だとすると、多数派が2番を正解だと答え、一人だけが1番を正解だと答えた場合でも、同調は劇的に低下し、ほぼ全員が3番という正解を答える。要するに、多数派集団の成員間に何らかの不一致があるだけで同調は減少する。それは、多数派の一人がほかの多数派成員よりさらに誤った答えをする場合でさえ同じである (Allen & Levine, 1968)。
 
-Why should unanimity be such an important determinant of conformity? For one, when there is complete agreement among the majority members, the individual who is the target of influence stands completely alone and must be the first to break ranks by giving a different opinion. Being the only person who is different is potentially embarrassing, and people who wish to make a good impression on, or be liked by, others may naturally want to avoid this. If you can convince your friend to wear blue jeans rather than a coat and tie to a wedding, then you’re naturally going to feel a lot less conspicuous when you wear jeans too.
+なぜ全員一致がこれほど重要な同調の決定要因なのだろうか。第一に、多数派成員が完全に同意している場合、影響を受ける対象者は完全に一人になり、異なる意見を言って最初に隊列を乱す人物にならなければならない。自分だけが違っていることは気まずい可能性があり、他者へ良い印象を与えたい、好かれたいと思う人は、自然にこれを避けようとする。たとえば結婚式にコートとネクタイではなくブルージーンズを着ていくよう友人を説得できれば、自分もジーンズを着ていくとき、はるかに目立たないと感じるだろう。
 
-Second, when there is complete agreement—once again, remember the consistent minority in the studies by Moscovici—the participant may become less sure of his or her own perceptions. Because everyone else is holding the exact same opinion, it seems that they must be correctly responding to the external reality. When such doubt occurs, the individual may be likely to conform due to informational social influence. Finally, when one or more of the other group members gives a different answer than the rest of the group (so that the unanimity of the majority group is broken), that person is no longer part of the group that is doing the influencing and becomes (along with the participant) part of the group being influenced. You can see that another way of describing the effect of unanimity is to say that as soon as the individual has someone who agrees with him or her that the others may not be correct (a supporter or ally), then the pressure to conform is reduced. Having one or more supporters who challenge the status quo validates one’s own opinion and makes disagreeing with the majority more likely (Allen, 1975; Boyanowsky & Allen, 1973).
+第二に、完全な一致があると、Moscovici の研究における一貫した少数派をもう一度思い出してほしいが、参加者は自分自身の知覚へ自信を持てなくなる可能性がある。ほかの全員がまったく同じ意見を持っているので、それが外的現実へ正しく反応した結果のように見える。このような疑いが生じると、情報的社会的影響によって同調しやすくなる。最後に、ほかの集団成員の一人以上が集団の残りとは異なる答えを出し、多数派の全員一致が崩れると、その人はもはや影響を与える側の集団の一員ではなく、参加者とともに影響を受ける側の集団の一員になる。全員一致の効果について別の言い方をすれば、「ほかの人たちが正しいとは限らない」という自分の考えへ同意してくれる支持者や味方が一人でも現れると、同調圧力は弱くなる。現状へ異議を唱える支持者が一人以上いることで、自分の意見が正当化され、多数派へ反対しやすくなる (Allen, 1975; Boyanowsky & Allen, 1973)。
 
-### The Importance of the Task
+### 課題の重要性
 
-Still another determinant of conformity is the perceived importance of the decision. The studies of Sherif, Asch, and Moscovici may be criticized because the decisions that the participants made—for instance, judging the length of lines or the colors of objects—seem rather trivial. But what would happen when people were asked to make an important decision? Although you might think that conformity would be less when the task becomes more important (perhaps because people would feel uncomfortable relying on the judgments of others and want to take more responsibility for their own decisions), the influence of task importance actually turns out to be more complicated than that.
+同調を決めるもう一つの要因は、その意思決定がどの程度重要だと知覚されるかである。Sherif、Asch、Moscovici の研究は、参加者が行った判断、たとえば線の長さや物体の色の判断があまりにも些細だという批判を受けるかもしれない。では、重要な意思決定を求められた場合にはどうなるのだろうか。課題が重要になれば同調は減ると考えるかもしれない。他者の判断へ依存することを不快に感じ、自分の意思決定についてより多くの責任を取ろうとするかもしれないからである。しかし実際には、課題の重要性の影響はそれほど単純ではない。
 
-#### Research Focus
+#### 研究フォーカス
 
-How Task Importance and Confidence Influence Conformity
+課題の重要性と自信は同調へどのように影響するか
 
-The joint influence of an individual’s confidence in his or her beliefs and the importance of the task was demonstrated in an experiment conducted by Baron, Vandello, and Brunsman (1996) that used a slight modification of the Asch procedure to assess conformity. Participants completed the experiment along with two other students, who were actually experimental confederates. The participants worked on several different types of trials, but there were 26 that were relevant to the conformity predictions. On these trials, a photo of a single individual was presented first, followed immediately by a “lineup” photo of four individuals, one of whom had been viewed in the initial slide (but who might have been dressed differently):
+自分の信念に対する個人の自信と課題の重要性が共同で与える影響は、Baron, Vandello, and Brunsman (1996) による実験で示された。この実験では、Asch の手続きを少し変更して同調を測定した。参加者はほかの学生2人と実験へ参加したが、その2人は実際には実験協力者だった。さまざまな種類の試行を行ったが、そのうち26試行が同調の予測に関係していた。その試行では、まず一人の人物の写真を提示し、その直後に4人が並んだ「ラインナップ」写真を提示した。その4人のうち一人は最初のスライドに出てきた人物だったが、服装が違っていることもあった。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/f85d9a9778763321c347d1a0d40a05e0.jpg)
 
-*Figure 6.7*
+_図6.7_
 
-The participants’ task was to call out which person in the lineup was the same as the original individual using a number between 1 (the person on the far left) and 4 (the person on the far right). In each of the critical trials, the two confederates went before the participant and they each gave the same wrong response.
+参加者の課題は、ラインナップのどの人物が最初の人物と同じかを、1（最も左の人物）から4（最も右の人物）までの数字で声に出して答えることだった。重要試行では毎回、2人の実験協力者が参加者より先に答え、2人とも同じ誤答をした。
 
-Two experimental manipulations were used. First, the researchers manipulated task importance by telling some participants (the *high-importance condition*) that their performance on the task was an important measure of eyewitness ability and that the participants who performed most accurately would receive $20 at the end of the data collection. (A lottery using all the participants was actually held at the end of the semester, and some participants were paid the $20.) Participants in the *low-importance condition*, on the other hand, were told that the test procedure was part of a pilot study and that the decisions were not that important. Second, task difficulty was varied by showing the test and the lineup photos for 5 and 10 seconds, respectively (*easy condition*) or for only ½ and 1 second, respectively (*difficult condition*). The conformity score was defined as the number of trials in which the participant offered the same (incorrect) response as the confederates.
+2つの実験操作が行われた。第一に、課題の重要性を操作した。一部の参加者（_高重要性条件_）には、この課題での成績は目撃者としての能力を測る重要な尺度であり、最も正確な成績を示した参加者にはデータ収集終了後20ドルが支払われると説明した（実際に学期末、全参加者を対象とする抽選が行われ、一部の参加者へ20ドルが支払われた）。一方、*低重要性条件*の参加者には、この検査手続きは予備研究の一部であり、判断はそれほど重要ではないと説明した。第二に課題の難易度を変えた。テスト写真とラインナップ写真をそれぞれ5秒と10秒見せる*容易条件*と、それぞれわずか0.5秒と1秒だけ見せる*困難条件*を設定した。同調得点は、参加者が実験協力者と同じ誤答をした試行数として定義された。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/e9b4eb2b8e9539ccb8c41770ad8cf397.jpg)
 
-*Figure 6.8*
+_図6.8_
 
-On easy tasks, participants conformed less when they thought that the decision was of high (versus low) importance, whereas on difficult tasks, participants conformed more when they thought the decision was of high importance. Data are from Baron et al. (1996).
+容易な課題では、意思決定の重要性が低い場合より高い場合に参加者は同調しにくかった。一方、困難な課題では、意思決定の重要性が高いと考えた場合のほうが、より同調した。Data are from Baron et al. (1996).
 
-As you can see in Figure 6.8, an interaction between task difficulty and task importance was observed. On easy tasks, participants conformed less to the incorrect judgments of others when the decision had more important consequences for them. In these cases, they seemed to rely more on their own opinions (which they were convinced were correct) when it really mattered, but were more likely to go along with the opinions of the others when things were not that critical (probably a result of normative social influence).
+図6.8から分かるように、課題の難易度と課題の重要性との間に相互作用が観察された。容易な課題では、その意思決定が自分にとってより重大な結果を持つ場合、他者の誤った判断へ同調する程度が低かった。このような場合、本当に重要なときには、自分が正しいと確信している自分自身の意見へより依存する一方、それほど重大でないときには他者の意見へ合わせやすかったようである。これはおそらく規範的社会的影響の結果である。
 
-On the difficult tasks, however, results were the opposite. In this case, participants conformed more when they thought the decision was of high, rather than low, importance. In the cases in which they were more unsure of their opinions and yet they really wanted to be correct, they used the judgments of others to inform their own views (informational social influence).
+しかし困難な課題では、結果は逆だった。この場合、意思決定の重要性が低いと考えたときより、高いと考えたときにより同調した。自分の意見へ自信がない一方で、本当に正解したい場合、他者の判断を利用して自分の考えを形成したのである。これは情報的社会的影響である。
 
-:::tip[Key Takeaways]
+:::tip[重要ポイント]
 
-- Social influence creates conformity.
-- Influence may occur in more passive or more active ways.
-- We conform both to gain accurate knowledge (informational social influence) and to avoid being rejected by others (normative social influence).
-- Both majorities and minorities may create social influence, but they do so in different ways.
-- The characteristics of the social situation, including the number of people in the majority and the unanimity of the majority, have a strong influence on conformity.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Describe a time when you conformed to the opinions or behaviors of others. Interpret the conformity in terms of informational and/or normative social influence.
-2. Imagine you were serving on a jury in which you found yourself the only person who believed that the defendant was innocent. What strategies might you use to convince the majority?
+- 社会的影響は同調を生み出す。
+- 影響は、より受動的な方法でも、より能動的な方法でも生じうる。
+- 私たちは正確な知識を得るため（情報的社会的影響）にも、他者から拒絶されることを避けるため（規範的社会的影響）にも同調する。
+- 多数派も少数派も社会的影響を生み出しうるが、その方法は異なる。
+- 多数派の人数や多数派の全員一致など、社会的状況の特徴は同調へ強い影響を与える。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Allen, V. L. (1975). Social support for nonconformity. In L. Berkowitz (Ed.), *Advances in experimental social psychology* (Vol. 8). New York, NY: Academic Press;
+1. 他者の意見または行動へ同調した経験を説明しなさい。その同調を、情報的社会的影響および／または規範的社会的影響という観点から解釈しなさい。
+2. 陪審員を務めていて、被告人は無実だと信じているのが自分一人だけだったと想像しなさい。多数派を説得するため、どのような方略を使えるだろうか。
 
-Allen, V. L., & Levine, J. M. (1968). Social support, dissent and conformity. *Sociometry, 31*(2), 138–149.
+:::
 
-Anderson, C., Keltner, D., & John, O. P. (2003). Emotional convergence between people over time. *Journal of Personality and Social Psychology, 84*(5), 1054–1068.
+#### 参考文献
 
-Asch, S. E. (1952). *Social psychology*. Englewood Cliffs, NJ: Prentice-Hall;
+Allen, V. L. (1975). Social support for nonconformity. In L. Berkowitz (Ed.), _Advances in experimental social psychology_ (Vol. 8). New York, NY: Academic Press;
 
-Asch, S. E. (1955). Opinions and social pressure. *Scientific American, 11*, 32.
+Allen, V. L., & Levine, J. M. (1968). Social support, dissent and conformity. _Sociometry, 31_(2), 138–149.
 
-Baron, R. S., Vandello, J. A., & Brunsman, B. (1996). The forgotten variable in conformity research: Impact of task importance on social influence. *Journal of Personality and Social Psychology, 71,* 915–927.
+Anderson, C., Keltner, D., & John, O. P. (2003). Emotional convergence between people over time. _Journal of Personality and Social Psychology, 84_(5), 1054–1068.
 
-Boyanowsky, E. O., & Allen, V. L. (1973). Ingroup norms and self-identity as determinants of discriminatory behavior. *Journal of Personality and Social Psychology, 25*, 408–418.
+Asch, S. E. (1952). _Social psychology_. Englewood Cliffs, NJ: Prentice-Hall;
 
-Chartrand, T. L., & Bargh, J. A. (1999). The chameleon effect: The perception-behavior link and social interaction. *Journal of Personality and Social Psychology, 76*(6), 893–910.
+Asch, S. E. (1955). Opinions and social pressure. _Scientific American, 11_, 32.
 
-Chartrand, T. L., & Dalton, A. N. (2009). Mimicry: Its ubiquity, importance, and functionality. In E. Morsella, J. A. Bargh, & P. M. Gollwitzer (Eds.), *Oxford handbook of human action* (pp. 458–483). New York, NY: Oxford University Press;
+Baron, R. S., Vandello, J. A., & Brunsman, B. (1996). The forgotten variable in conformity research: Impact of task importance on social influence. _Journal of Personality and Social Psychology, 71,_ 915–927.
 
-Cialdini, R. B. (1993). *Influence: Science and practice* (3rd ed.). New York, NY: Harper Collins; Sherif, M. (1936). *The psychology of social norms*. New York, NY: Harper & Row;
+Boyanowsky, E. O., & Allen, V. L. (1973). Ingroup norms and self-identity as determinants of discriminatory behavior. _Journal of Personality and Social Psychology, 25_, 408–418.
 
-Cialdini, R. B., Reno, R. R., & Kallgren, C. A. (1990). A focus theory of normative conduct: Recycling the concept of norms to reduce littering in public places. *Journal of Personality and Social Psychology, 58*, 1015–1026.
+Chartrand, T. L., & Bargh, J. A. (1999). The chameleon effect: The perception-behavior link and social interaction. _Journal of Personality and Social Psychology, 76_(6), 893–910.
 
-Crano, W. D., & Chen, X. (1998). The leniency contract and persistence of majority and minority influence. *Journal of Personality and Social Psychology, 74*, 1437–1450.
+Chartrand, T. L., & Dalton, A. N. (2009). Mimicry: Its ubiquity, importance, and functionality. In E. Morsella, J. A. Bargh, & P. M. Gollwitzer (Eds.), _Oxford handbook of human action_ (pp. 458–483). New York, NY: Oxford University Press;
 
-Dalton, A. N., Chartrand, T. L., & Finkel, E. J. (2010). The schema-driven chameleon: How mimicry affects executive and self-regulatory resources. *Journal of Personality and Social Psychology, 98*(4), 605–617.
+Cialdini, R. B. (1993). _Influence: Science and practice_ (3rd ed.). New York, NY: Harper Collins; Sherif, M. (1936). _The psychology of social norms_. New York, NY: Harper & Row;
 
-Deutsch, M., & Gerard, H. B. (1955). A study of normative and informational social influences upon individual judgment. *Journal of Abnormal and Social Psychology, 51*, 629–636.
+Cialdini, R. B., Reno, R. R., & Kallgren, C. A. (1990). A focus theory of normative conduct: Recycling the concept of norms to reduce littering in public places. _Journal of Personality and Social Psychology, 58_, 1015–1026.
 
-Festinger, L., Schachter, S., & Back, K. (1950). *Social pressures in informal groups*. New York, NY: Harper;
+Crano, W. D., & Chen, X. (1998). The leniency contract and persistence of majority and minority influence. _Journal of Personality and Social Psychology, 74_, 1437–1450.
 
-Hardin, C., & Higgins, T. (1996). Shared reality: How social verification makes the subjective objective. In R. M. Sorrentino & E. T. Higgins (Eds.), *Handbook of motivation and cognition: Foundations of social behavior* (Vol. 3, pp. 28–84). New York, NY: Guilford;
+Dalton, A. N., Chartrand, T. L., & Finkel, E. J. (2010). The schema-driven chameleon: How mimicry affects executive and self-regulatory resources. _Journal of Personality and Social Psychology, 98_(4), 605–617.
 
-Hogg, M. A. (2010). Influence and leadership. In S. F. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (Vol. 2, pp. 1166–1207). New York, NY: Wiley.
+Deutsch, M., & Gerard, H. B. (1955). A study of normative and informational social influences upon individual judgment. _Journal of Abnormal and Social Psychology, 51_, 629–636.
 
-Jacobs, R. C., & Campbell, D. T. (1961). The perpetuation of an arbitrary tradition through several generations of a laboratory microculture. *Journal of Abnormal and Social Psychology, 62*, 649–658.
+Festinger, L., Schachter, S., & Back, K. (1950). _Social pressures in informal groups_. New York, NY: Harper;
 
-Latané, B. (1981). The psychology of social impact. *American Psychologist, 36*, 343–356;
+Hardin, C., & Higgins, T. (1996). Shared reality: How social verification makes the subjective objective. In R. M. Sorrentino & E. T. Higgins (Eds.), _Handbook of motivation and cognition: Foundations of social behavior_ (Vol. 3, pp. 28–84). New York, NY: Guilford;
 
-MacNeil, M. K., & Sherif, M. (1976). Norm change over subject generations as a function of arbitrariness of prescribed norms. *Journal of Personality and Social Psychology, 34*, 762–773.
+Hogg, M. A. (2010). Influence and leadership. In S. F. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (Vol. 2, pp. 1166–1207). New York, NY: Wiley.
 
-Martin, R., & Hewstone, M. (2003). Majority versus minority influence: When, not whether, source status instigates heuristic or systematic processing. *European Journal of Social Psychology, 33*(3), 313–330;
+Jacobs, R. C., & Campbell, D. T. (1961). The perpetuation of an arbitrary tradition through several generations of a laboratory microculture. _Journal of Abnormal and Social Psychology, 62_, 649–658.
 
-Martin, R., Martin, P. Y., Smith, J. R., & Hewstone, M. (2007). Majority versus minority influence and prediction of behavioral intentions and behavior. *Journal of Experimental Social Psychology, 43*(5), 763–771.
+Latané, B. (1981). The psychology of social impact. _American Psychologist, 36_, 343–356;
 
-Milgram, S., Bickman, L., & Berkowitz, L. (1969). Note on the drawing power of crowds of different size. *Journal of Personality and Social Psychology, 13*, 79–82.
+MacNeil, M. K., & Sherif, M. (1976). Norm change over subject generations as a function of arbitrariness of prescribed norms. _Journal of Personality and Social Psychology, 34_, 762–773.
 
-Moscovici, S., Lage, E., & Naffrechoux, M. (1969). Influence of a consistent minority on the responses of a majority in a colour perception task. *Sociometry, 32*, 365–379.
+Martin, R., & Hewstone, M. (2003). Majority versus minority influence: When, not whether, source status instigates heuristic or systematic processing. _European Journal of Social Psychology, 33_(3), 313–330;
 
-Mugny, G., & Papastamou, S. (1981). When rigidity does not fail: Individualization and psychologicalization as resistance to the diffusion of minority innovation. *European Journal of Social Psychology, 10*, 43–62.
+Martin, R., Martin, P. Y., Smith, J. R., & Hewstone, M. (2007). Majority versus minority influence and prediction of behavioral intentions and behavior. _Journal of Experimental Social Psychology, 43_(5), 763–771.
 
-Mullen, B. (1983). Operationalizing the effect of the group on the individual: A self-attention perspective. *Journal of Experimental Social Psychology, 19*, 295–322.
+Milgram, S., Bickman, L., & Berkowitz, L. (1969). Note on the drawing power of crowds of different size. _Journal of Personality and Social Psychology, 13_, 79–82.
 
-Nemeth, C. J., & Kwan, J. L. (1987). Minority influence, divergent thinking, and the detection of correct solutions. *Journal of Applied Social Psychology, 17*, 788–799.
+Moscovici, S., Lage, E., & Naffrechoux, M. (1969). Influence of a consistent minority on the responses of a majority in a colour perception task. _Sociometry, 32_, 365–379.
 
-Rohrer, J. H., Baron, S. H., Hoffman, E. L., & Swander, D. V. (1954). The stability of autokinetic judgments. *American Journal of Psychology, 67*, 143–146.
+Mugny, G., & Papastamou, S. (1981). When rigidity does not fail: Individualization and psychologicalization as resistance to the diffusion of minority innovation. _European Journal of Social Psychology, 10_, 43–62.
 
-Sherif, M. (1936). *The psychology of social norms*. New York, NY: Harper & Row.
+Mullen, B. (1983). Operationalizing the effect of the group on the individual: A self-attention perspective. _Journal of Experimental Social Psychology, 19_, 295–322.
 
-Sumner, W. G. (1906). *Folkways*. Boston, MA: Ginn.
+Nemeth, C. J., & Kwan, J. L. (1987). Minority influence, divergent thinking, and the detection of correct solutions. _Journal of Applied Social Psychology, 17_, 788–799.
 
-Tickle-Degnen, L., & Rosenthal, R. (1990). The nature of rapport and its nonverbal correlates. *Psychological Inquiry, 1*(4), 285–293;
+Rohrer, J. H., Baron, S. H., Hoffman, E. L., & Swander, D. V. (1954). The stability of autokinetic judgments. _American Journal of Psychology, 67_, 143–146.
 
-Tickle-Degnen, L., & Rosenthal, R. (Eds.). (1992). *Nonverbal aspects of therapeutic rapport*. Hillsdale, NJ: Lawrence Erlbaum.
+Sherif, M. (1936). _The psychology of social norms_. New York, NY: Harper & Row.
 
-Turner, J. C. (1991). *Social influence*. Pacific Grove, CA: Brooks Cole.
+Sumner, W. G. (1906). _Folkways_. Boston, MA: Ginn.
 
-Wilder, D. A. (1977). Perception of groups, size of opposition, and social influence. *Journal of Experimental Social Psychology, 13*(3), 253–268.
+Tickle-Degnen, L., & Rosenthal, R. (1990). The nature of rapport and its nonverbal correlates. _Psychological Inquiry, 1_(4), 285–293;
+
+Tickle-Degnen, L., & Rosenthal, R. (Eds.). (1992). _Nonverbal aspects of therapeutic rapport_. Hillsdale, NJ: Lawrence Erlbaum.
+
+Turner, J. C. (1991). _Social influence_. Pacific Grove, CA: Brooks Cole.
+
+Wilder, D. A. (1977). Perception of groups, size of opposition, and social influence. _Journal of Experimental Social Psychology, 13_(3), 253–268.

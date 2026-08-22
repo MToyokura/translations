@@ -1,172 +1,183 @@
 ---
-title: "6.3 Person, Gender, and Cultural Differences in Conformity"
+title: "6.3 同調における人物、ジェンダー、文化の違い"
 sidebar:
   order: 43
 ---
-:::note[Learning Objectives]
 
-1. Summarize the social psychological literature concerning differences in conformity between men and women.
-2. Review research concerning the relationship between culture and conformity.
-3. Explain the concept of psychological reactance and describe how and when it might occur.
+:::note[学習目標]
+
+1. 男女の同調の違いに関する社会心理学の研究文献を要約する。
+2. 文化と同調との関係についての研究を概観する。
+3. 心理的リアクタンスの概念を説明し、それがどのように、またどのような場合に生じるかを説明する。
 
 :::
 
-Although we have focused to this point on the situational determinants of conformity, such as the number of people in the majority and their unanimity, we have not yet considered the question of which people are likely to conform and which people are not. In this section, we will consider how personality variables, gender, and culture influence conformity.
+ここまでは、多数派の人数やその全員一致など、同調の状況的決定因へ焦点を当ててきた。しかし、どのような人が同調しやすく、どのような人が同調しにくいのかという問いはまだ扱っていない。本節では、性格変数、ジェンダー、文化が同調へどのように影響するかを検討する。
 
-## Person Differences
+## 個人差
 
-Even in cases in which the pressure to conform is strong and a large percentage of individuals do conform (such as in Solomon Asch’s line-judging research), not everyone does so. There are usually some people willing and able to go against the prevailing norm. In Asch’s study, for instance, despite the strong situational pressures, 24% of the participants never conformed on any of the trials.
+Solomon Asch の線分判断研究のように、同調圧力が強く、多くの人が実際に同調する場合でも、全員がそうするわけではない。通常、支配的な規範へ逆らう意思と能力を持つ人が何人か存在する。たとえば Asch の研究では、強い状況的圧力にもかかわらず、24%の参加者はどの試行でも一度も同調しなかった。
 
-People prefer to have an “optimal” balance between being similar to, and different from, others (Brewer, 2003). When people are made to feel too similar to others, they tend to express their individuality, but when they are made to feel too different from others, they attempt to increase their acceptance by others. Supporting this idea, research has found that people who have lower self-esteem are more likely to conform in comparison with those who have higher self-esteem. This makes sense because self-esteem rises when we know we are being accepted by others, and people with lower self-esteem have a greater need to belong. And people who are dependent on and who have a strong need for approval from others are also more conforming (Bornstein, 1992).
+人は、他者と似ていることと異なっていることの間に「最適な」バランスを持つことを好む (Brewer, 2003)。他者と似すぎていると感じさせられると、自分の個性を表そうとする。一方、他者と違いすぎていると感じさせられると、他者からより受け入れられようとする。この考えを支持するように、自尊心の高い人より低い人のほうが同調しやすいことが研究で示されている。他者から受け入れられていると分かると自尊心は高まり、自尊心の低い人ほど所属する必要性が強いため、これは理にかなっている。また、他者へ依存している人や、他者からの承認への強い欲求を持つ人も、より同調しやすい (Bornstein, 1992)。
 
-Age also matters, with individuals who are either younger or older being more easily influenced than individuals who are in their 40s and 50s (Visser & Krosnick, 1998). People who highly identify with the group that is creating the conformity are also more likely to conform to group norms, in comparison to people who don’t really care very much (Jetten, Spears, & Manstead, 1997; Terry & Hogg, 1996).
+年齢も重要であり、40代や50代の人と比べ、より若い人とより高齢の人のほうが影響を受けやすい (Visser & Krosnick, 1998)。また、同調を生み出している集団へ強く同一視している人は、その集団をあまり重要だと思っていない人より、集団規範へ同調しやすい (Jetten, Spears, & Manstead, 1997; Terry & Hogg, 1996)。
 
-However, although there are some differences among people in terms of their tendency to conform (it has even been suggested that some people have a “need for uniqueness” that leads them to be particularly likely to resist conformity; Snyder & Fromkin, 1977), research has generally found that the impact of person variables on conformity is smaller than the influence of situational variables, such as the number and unanimity of the majority.
+しかし、人によって同調傾向には多少の違いがあり、「独自性への欲求」の強い人は特に同調へ抵抗しやすいとさえ提案されているものの (Snyder & Fromkin, 1977)、一般に研究では、同調に対する人物変数の影響は、多数派の人数や全員一致などの状況変数による影響より小さいことが示されている。
 
-## Gender Differences
+## ジェンダー差
 
-Several reviews and meta-analyses of the existing research on conformity and leadership in men and women have now been conducted, and so it is possible to draw some strong conclusions in this regard. In terms of conformity, the overall conclusion from these studies is that that there are only small differences between men and women in the amount of conformity they exhibit, and these differences are influenced as much by the social situation in which the conformity occurs as by gender differences themselves.
+男女の同調とリーダーシップについての既存研究を扱った複数のレビューとメタ分析が行われているため、この点についてはいくつかかなり確かな結論を導ける。同調についての全体的な結論は、男女が示す同調の量の違いは小さく、その差はジェンダーそのものの違いと同程度に、同調が生じる社会的状況から影響を受けているということである。
 
-On average, men and women have different levels of self-concern and other-concern. Men are, on average, more concerned about appearing to have high status and may be able to demonstrate this status by acting independently from the opinions of others. On the other hand, and again although there are substantial individual differences among them, women are, on average, more concerned with connecting to others and maintaining group harmony. Taken together, this means that, at least when they are being observed by others, men are likely to hold their ground, act independently, and refuse to conform, whereas women are more likely to conform to the opinions of others in order to prevent social disagreement. These differences are less apparent when the conformity occurs in private (Eagly, 1978, 1983).
+平均すると、男女は自己への関心と他者への関心の程度が異なる。男性は平均的に、高い地位を持っているように見えることをより重視し、他者の意見から独立して行動することで、その地位を示せる場合がある。一方、女性にも大きな個人差はあるものの、平均的には他者とのつながりや集団の調和を維持することをより重視する。
 
-The observed gender differences in conformity have social explanations—namely that women are socialized to be more caring about the desires of others—but there are also evolutionary explanations. Men may be more likely to resist conformity to demonstrate to women that they are good mates. Griskevicius, Goldstein, Mortensen, Cialdini, and Kenrick (2006) found that men, but not women, who had been primed with thoughts about romantic and sexual attraction were less likely to conform to the opinions of others on a subsequent task than were men who had not been primed to think about romantic attraction.
+これらを合わせると、少なくとも他者から観察されている場合、男性は自分の立場を維持し、独立して行動し、同調を拒否しやすい一方、女性は社会的不一致を避けるため他者の意見へ同調しやすいことになる。この違いは、同調が非公開で行われる場合には目立ちにくくなる (Eagly, 1978, 1983)。
 
-In addition to the public versus private nature of the situation, the topic being discussed also is important, with both men and women being less likely to conform on topics that they know a lot about, in comparison with topics on which they feel less knowledgeable (Eagly & Chravala, 1986). When the topic is sports, women tend to conform to men, whereas the opposite is true when the topic is fashion. Thus it appears that the small observed differences between men and women in conformity are due, at least in part, to informational influence.
+観察される同調のジェンダー差には、女性は他者の欲求をより気遣うよう社会化されるという社会的説明があるが、進化的説明もある。男性は、自分が良い配偶相手であることを女性へ示すため、同調へ抵抗しやすいのかもしれない。Griskevicius, Goldstein, Mortensen, Cialdini, and Kenrick (2006) は、恋愛や性的魅力についての思考でプライミングされた男性は、そうした思考でプライミングされなかった男性より、その後の課題で他者の意見へ同調しにくいことを見いだした。女性ではこの効果は見られなかった。
 
-Because men have higher status in most societies, they are more likely to be perceived as effective leaders (Eagly, Makhijani, & Klonsky, 1992; Rojahn & Willemsen, 1994; Shackelford, Wood, & Worchel, 1996). And men are more likely to be leaders in most cultures. For instance, women hold only about 20% of the key elected and appointed political positions in the world (World Economic Forum, 2013). There are also more men than women in leadership roles, particularly in high-level administrative positions, in many different types of businesses and other organizations. Women are not promoted to positions of leadership as fast as men are in real working groups, even when actual performance is taken into consideration (Geis, Boston, & Hoffman, 1985; Heilman, Block, & Martell, 1995).
+状況が公的か私的かという点に加え、議論されているテーマも重要である。男女とも、自分があまり知識を持たないテーマより、多くの知識を持つテーマについて同調しにくい (Eagly & Chravala, 1986)。テーマがスポーツなら女性が男性へ同調する傾向がある一方、ファッションなら逆になる。したがって、男女の同調に観察される小さな違いは、少なくとも一部、情報的影響によるものだと考えられる。
 
-Men are also more likely than women to emerge and act as leaders in small groups, even when other personality characteristics are accounted for (Bartol & Martin, 1986; Megargee, 1969; Porter, Geis, Cooper, & Newman, 1985). In one experiment, Nyquist and Spence (1986) had pairs of same- and mixed-sex students interact. In each pair there was one highly dominant and one low dominant individual, as assessed by previous personality measures. They found that in pairs in which there was one man and one woman, the dominant man became the leader 90% of the time, but the dominant woman became the leader only 35% of the time.
+ほとんどの社会では男性のほうが高い地位を持つため、有効なリーダーだと知覚されやすい (Eagly, Makhijani, & Klonsky, 1992; Rojahn & Willemsen, 1994; Shackelford, Wood, & Worchel, 1996)。また、ほとんどの文化で男性のほうがリーダーになりやすい。たとえば世界の主要な選挙・任命による政治的地位のうち、女性が占めるのは約20%だけである (World Economic Forum, 2013)。さまざまな企業やその他の組織でも、特に上級管理職では、リーダー的役割に就く男性のほうが女性より多い。実際の業績を考慮した場合でも、現実の作業集団では、女性は男性ほど速くリーダー的地位へ昇進しない (Geis, Boston, & Hoffman, 1985; Heilman, Block, & Martell, 1995)。
 
-Keep in mind, however, that the fact that men are perceived as effective leaders, and are more likely to become leaders, does not necessarily mean that they are actually better, more effective leaders than women. Indeed, a meta-analysis studying the *effectiveness* of male and female leaders did not find that there were any gender differences overall (Eagly, Karau, & Makhijani, 1995) and even found that women excelled over men in some domains. Furthermore, the differences that were found tended to occur primarily when a group was first forming but dissipated over time as the group members got to know one another individually.
+また、ほかの性格特徴を考慮しても、小集団では男性のほうが女性よりリーダーとして現れ、行動しやすい (Bartol & Martin, 1986; Megargee, 1969; Porter, Geis, Cooper, & Newman, 1985)。ある実験で Nyquist and Spence (1986) は、同性および男女混合の学生ペアを相互作用させた。それぞれのペアには、以前の性格測定によって評価された、高支配性の人物と低支配性の人物が一人ずついた。男女一人ずつのペアでは、支配性の高い男性は90%の確率でリーダーになった一方、支配性の高い女性がリーダーになったのは35%だけだった。
 
-One difficulty for women as they attempt to lead is that traditional leadership behaviors, such as showing independence and exerting power over others, conflict with the expected social roles for women. The norms for what constitutes success in corporate life are usually defined in masculine terms, including assertiveness or aggressiveness, self-promotion, and perhaps even macho behavior. It is difficult for women to gain power because to do so they must conform to these masculine norms, and often this goes against their personal beliefs about appropriate behavior (Rudman & Glick, 1999). And when women do take on male models of expressing power, it may backfire on them because they end up being disliked because they are acting nonstereotypically for their gender. A recent experimental study with MBA students simulated the initial public offering (IPO) of a company whose chief executive was either male or female (personal qualifications and company financial statements were held constant across both conditions). The results indicated a clear gender bias as female chief executive officers were perceived as being less capable and having a poorer strategic position than their male counterparts. Furthermore, IPOs led by female executives were perceived as less attractive investments (Bigelow, Lundmark, McLean Parks, & Wuebker, 2012). Little wonder then that women hold fewer than 5% of Fortune 500 chief executive positions.
+しかし、男性が有効なリーダーだと*知覚*され、リーダーに*なりやすい*という事実が、実際に女性より優れ、より有効なリーダーであることを必ずしも意味しないことを覚えておこう。実際、男女のリーダーの*有効性*を調べたメタ分析では、全体としてジェンダー差は見いだされず (Eagly, Karau, & Makhijani, 1995)、一部の領域では女性が男性を上回っていた。さらに、見いだされた違いは主として集団が最初に形成された時期に生じ、集団成員が互いを個人として知るにつれて消えていく傾向があった。
 
-One way that women can react to this “double-bind” in which they must take on masculine characteristics to succeed, but if they do they are not liked, is to adopt more feminine leadership styles, in which they use more interpersonally oriented behaviors such as agreeing with others, acting in a friendly manner, and encouraging subordinates to participate in the decision-making process (Eagly & Johnson, 1990; Eagly et al., 1992; Wood, 1987). In short, women are more likely to take on a transformational leadership style than are men—doing so allows them to be effective leaders while not acting in an excessively masculine way (Eagly & Carli, 2007; Eagly, Johannesen-Schmidt, & van Egen, 2003).
+女性がリーダーになろうとする際の難しさの一つは、独立性を示したり他者へ勢力を行使したりするような伝統的リーダー行動が、女性に期待される社会的役割と衝突することである。企業社会で成功を構成するとされる規範は通常、自己主張、攻撃性、自己宣伝、場合によってはマッチョな行動など、男性的な言葉で定義される。
 
-In sum, women may conform somewhat more than men, although these differences are small and limited to situations in which the responses are made publicly. In terms of leadership effectiveness, there is no evidence that men, overall, make better leaders than do women. However, men do better as leaders on tasks that are “masculine” in the sense that they require the ability to direct and control people. On the other hand, women do better on tasks that are more “feminine” in the sense that they involve creating harmonious relationships among the group members.
+女性が勢力を得ることが難しいのは、それを得るためにはこのような男性的規範へ同調しなければならないが、それが適切な行動についての本人の信念へ反する場合が多いからである (Rudman & Glick, 1999)。そして女性が男性型の勢力表現を採用すると、今度はジェンダーのステレオタイプに反する行動をしているため嫌われ、逆効果になる場合がある。
 
-## Cultural Differences
+MBA の学生を対象にした比較的新しい実験研究では、最高経営責任者が男性または女性である企業の新規株式公開（IPO）をシミュレーションした。本人の資格と会社の財務諸表は両条件で同じにした。結果は明確なジェンダーバイアスを示した。女性 CEO は、男性 CEO より能力が低く、戦略的立場も弱いと知覚された。さらに女性経営者が率いる IPO は、投資先としても魅力が低いと知覚された (Bigelow, Lundmark, McLean Parks, & Wuebker, 2012)。Fortune 500 企業の最高経営責任者のうち、女性が5%未満しかいないことも不思議ではない。
 
-In addition to gender differences, there is also evidence that conformity is greater in some cultures than others. Your knowledge about the cultural differences between individualistic and collectivistic cultures might lead you to think that collectivists will be more conforming than individualists, and there is some support for this. Bond and Smith (1996) analyzed results of 133 studies that had used Asch’s line-judging task in 17 different countries. They then categorized each of the countries in terms of the degree to which it could be considered collectivist versus individualist in orientation. They found a significant relationship: conformity was greater in more collectivistic than in individualistic countries.
+成功するには男性的特徴を取らなければならないが、そうすると嫌われるというこの「二重拘束」へ女性が対応する一つの方法は、より女性的なリーダーシップ・スタイルを採用することである。たとえば他者へ同意する、親しみやすく行動する、意思決定過程へ参加するよう部下を励ますなど、より対人的な行動を用いる (Eagly & Johnson, 1990; Eagly et al., 1992; Wood, 1987)。要するに、女性は男性より変革型リーダーシップ・スタイルを取りやすい。この方法なら、過度に男性的に行動せず、有効なリーダーになることができる (Eagly & Carli, 2007; Eagly, Johannesen-Schmidt, & van Egen, 2003)。
 
-Kim and Markus (1999) analyzed advertisements from popular magazines in the United States and in Korea to see if they differentially emphasized conformity and uniqueness. As you can see in Figure 6.14, “Culture and Conformity,” they found that while U.S. magazine ads tended to focus on uniqueness (e.g., “Choose your own view!”; “Individualize”) Korean ads tended to focus more on themes of conformity (e.g., “Seven out of 10 people use this product”; “Our company is working toward building a harmonious society”).
+まとめると、女性は男性より多少同調しやすい可能性があるが、その違いは小さく、回答が公に行われる状況へ限定される。リーダーシップの有効性については、全体として男性のほうが女性より優れたリーダーであることを示す証拠はない。しかし、人を指揮・統制する能力を必要とするという意味で「男性的」な課題では、男性のほうがリーダーとして優れた成果を出す。一方、集団成員の間に調和の取れた関係を作るという意味でより「女性的」な課題では、女性のほうが優れている。
+
+## 文化差
+
+ジェンダー差に加え、一部の文化ではほかの文化より同調が強いことを示す証拠もある。個人主義文化と集団主義文化の違いについて知っているなら、集団主義者のほうが個人主義者より同調しやすいのではないかと考えるだろう。そして、この考えにはある程度の支持がある。Bond and Smith (1996) は、17か国で Asch の線分判断課題を用いた133件の研究結果を分析した。その後、各国が集団主義対個人主義という方向性のどの程度に位置づけられるかを分類した。その結果、有意な関係が見られ、個人主義的な国より集団主義的な国のほうが同調が強かった。
+
+Kim and Markus (1999) は、United States と Korea の人気雑誌の広告を分析し、同調と独自性が異なる形で強調されているかを調べた。図6.14「文化と同調」から分かるように、U.S. の雑誌広告は独自性、たとえば「自分だけの見方を選ぼう！」「個性化しよう」といったテーマへ焦点を当てる傾向があった。一方、Korean ads は「10人中7人がこの製品を使っています」「当社は調和の取れた社会づくりへ取り組んでいます」など、同調をテーマにする傾向が強かった。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/e8944359ad45e2baef6477059cacba42-1.jpg)
 
-*Figure 6.14 Culture and Conformity*
+_図6.14 文化と同調_
 
-Kim and Markus (1999) found that U.S. magazine ads tended to focus on uniqueness whereas Korean ads tended to focus more on conformity.
+Kim and Markus (1999) は、U.S. の雑誌広告は独自性へ焦点を当てる傾向がある一方、Korean ads は同調へより強く焦点を当てることを見いだした。
 
-In summary, although the effects of individual differences on conformity tend to be smaller than those of the social context, they do matter. And gender and cultural differences can also be important. Conformity, like most other social psychological processes, represents an interaction between the situation and the person.
+まとめると、同調に対する個人差の効果は社会的文脈の効果より小さい傾向があるものの、それでも重要である。またジェンダー差と文化差も重要になりうる。同調は、ほかの多くの社会心理学的過程と同様、状況と人物との相互作用を表している。
 
-## Psychological Reactance
+## 心理的リアクタンス
 
-Conformity is usually quite adaptive overall, both for the individuals who conform and for the group as a whole. Conforming to the opinions of others can help us enhance and protect ourselves by providing us with important and accurate information and can help us better relate to others. Following the directives of effective leaders can help a group attain goals that would not be possible without them. And if only half of the people in your neighborhood thought it was appropriate to stop on red and go on green but the other half thought the opposite—and behaved accordingly—there would be problems indeed.
+同調は全体として、同調する個人にとっても集団全体にとっても、通常かなり適応的である。他者の意見へ同調することは、重要で正確な情報を与えることで自分を高め、守る助けになり、他者とのより良い関係にも役立つ。有効なリーダーの指示へ従うことで、そのリーダーなしでは不可能だった集団目標を達成できることもある。また、近所の半分の人が「赤信号で止まり、青信号で進むのが適切」と考え、もう半分が正反対だと考え、その通りに行動したなら、大きな問題が起こるだろう。
 
-But social influence does not always produce the intended result. If we feel that we have the choice to conform or not conform, we may well choose to do so in order to be accepted or to obtain valid knowledge. On the other hand, if we perceive that others are trying to force or manipulate our behavior, the influence pressure may backfire, resulting in the opposite of what the influencer intends.
+しかし、社会的影響が常に意図した結果を生み出すわけではない。同調するかしないかを自分で選べると感じるなら、受け入れられるため、または妥当な知識を得るために同調することを選ぶかもしれない。一方、他者が自分の行動を強制または操作しようとしていると知覚すると、影響圧力が逆効果となり、影響を与える側が意図したものと反対の結果を生み出す場合がある。
 
-Consider an experiment conducted by Pennebaker and Sanders (1976), who attempted to get people to stop writing graffiti on the walls of campus restrooms. In some restrooms they posted a sign that read “Do not write on these walls under any circumstances!” whereas in other restrooms they placed a sign that simply said “Please don’t write on these walls.” Two weeks later, the researchers returned to the restrooms to see if the signs had made a difference. They found that there was much less graffiti in the second restroom than in the first one. It seems as if people who were given strong pressures to not engage in the behavior were more likely to react against those directives than were people who were given a weaker message.
+Pennebaker and Sanders (1976) の実験を考えてみよう。研究者は大学構内のトイレの壁への落書きをやめさせようとした。一部のトイレには「どのような事情があっても、この壁に書いてはいけない！」という掲示を置き、別のトイレには単に「この壁には書かないでください」と書いた掲示を置いた。2週間後、研究者は掲示に違いがあったかを見るためトイレへ戻った。その結果、2番目のトイレのほうが、最初のトイレより落書きがはるかに少なかった。ある行動をしないよう強い圧力を受けた人は、より弱いメッセージを受けた人より、その指示へ反発しやすかったようである。
 
-When individuals feel that their freedom is being threatened by influence attempts and yet they also have the ability to resist that persuasion, they may experience psychological reactance, *a strong motivational state that resists social influence* (Brehm, 1966; Miron & Brehm, 2006). Reactance is aroused when our ability to choose which behaviors to engage in is eliminated or threatened with elimination. The outcome of the experience of reactance is that people may not conform or obey at all and may even move their opinions or behaviors away from the desires of the influencer.
+人が、影響を与えようとする試みによって自分の自由を脅かされていると感じながら、同時にその説得へ抵抗する能力もある場合、心理的リアクタンス、すなわち*社会的影響へ抵抗する強い動機づけ状態*を経験する場合がある (Brehm, 1966; Miron & Brehm, 2006)。リアクタンスは、どの行動を行うかを選ぶ能力が失われた、または失われそうになったときに喚起される。リアクタンスを経験した結果、人はまったく同調も服従もしなくなり、意見や行動を、影響を与えようとする人の望みとは反対方向へ動かすことさえある。
 
-Reactance represents a desire to restore freedom that is being threatened. A child who feels that his or her parents are forcing him to eat his asparagus may react quite vehemently with a strong refusal to touch the plate. And an adult who feels that she is being pressured by a car sales representative might feel the same way and leave the showroom entirely, resulting in the opposite of the sales rep’s intended outcome.
+リアクタンスは、脅かされた自由を回復したいという欲求を表している。親からアスパラガスを食べるよう強制されていると感じた子どもは、皿へ触ること自体を激しく拒否するかもしれない。また、自動車販売員から圧力を受けていると感じた成人も同じように反応し、ショールームから完全に立ち去り、販売員が意図したのと反対の結果になる場合がある。
 
-Of course, parents are sometimes aware of this potential, and even use “reverse psychology”—for example, telling a child that he or she cannot go outside when they really want the child to do so, hoping that reactance will occur. In the musical *The Fantasticks*, neighboring fathers set up to make the daughter of one of them and the son of the other fall in love with each other by building a fence between their properties. The fence is seen by the children as an infringement on their freedom to see each other, and as predicted by the idea of reactance, they ultimately fall in love.
+もちろん親もこの可能性を理解している場合があり、「逆心理」を利用することさえある。たとえば、本当は子どもに外へ行ってほしいのに、「外へ行ってはいけない」と言い、リアクタンスが起こることを期待するのである。ミュージカル _The Fantasticks_ では、隣人同士の父親が、一方の娘ともう一方の息子を恋に落とすため、2つの敷地の間へ柵を作る。子どもたちは、その柵を互いに会う自由への侵害と感じ、リアクタンスの考えから予測されるように、最終的に恋に落ちる。
 
-In addition to helping us understand the affective determinants of conformity and of failure to conform, reactance has been observed to have its ironic effects in a number of real-world contexts. For instance, Wolf and Montgomery (1977) found that when judges give jury members instructions indicating that they absolutely must not pay any attention to particular information that had been presented in a courtroom trial (because it had been ruled as inadmissible), the jurors were *more* likely to use that information in their judgments. And Bushman and Stack (1996) found that warning labels on violent films (for instance, “This film contains extreme violence—viewer discretion advised”) created more reactance (and thus led participants to be *more* interested in viewing the film) than did similar labels that simply provided information (“This film contains extreme violence”). In another relevant study, Kray, Reb, Galinsky, and Thompson (2004) found that when women were told that they were poor negotiators and would be unable to succeed on a negotiation task, this information led them to work even harder and to be more successful at the task.
+リアクタンスは、同調する、または同調しないことの感情的決定因を理解する助けになるだけでなく、現実世界のさまざまな文脈でも皮肉な効果を生み出すことが観察されている。たとえば Wolf and Montgomery (1977) は、裁判官が陪審員へ、法廷で提示された特定の情報が証拠として認められないため「絶対に考慮してはならない」と指示すると、陪審員はかえってその情報を判断へ利用しやすくなることを見いだした。
 
-Finally, within clinical therapy, it has been argued that people sometimes are less likely to try to reduce the harmful behaviors that they engage in, such as smoking or drug abuse, when the people they care about try too hard to press them to do so (Shoham, Trost, & Rohrbaugh, 2004). One patient was recorded as having reported that his wife kept telling him that he should quit drinking, saying, “If you loved me enough, you’d give up the booze.” However, he also reported that when she gave up on him and said instead, “I don’t care what you do anymore,” he then enrolled in a treatment program (Shoham et al., 2004, p. 177).
+Bushman and Stack (1996) は、暴力映画の警告ラベル、たとえば「この映画には極端な暴力表現が含まれています―視聴には十分ご注意ください」は、単に「この映画には極端な暴力表現が含まれています」と情報を提示するラベルより強いリアクタンスを生み出し、その結果、参加者は映画を見ることへ*より*強い関心を示すことを見いだした。
 
-:::tip[Key Takeaways]
+関連する別の研究で Kray, Reb, Galinsky, and Thompson (2004) は、女性へ「女性は交渉が不得意で、この交渉課題では成功できない」と伝えると、その情報によって、かえってさらに努力し、課題でより成功することを見いだした。
 
-- Although some person variables predict conformity, overall situational variables are more important.
-- There are some small gender differences in conformity. In public situations, men are somewhat more likely to hold their ground, act independently, and refuse to conform, whereas women are more likely to conform to the opinions of others in order to prevent social disagreement. These differences are less apparent when the conformity occurs in private.
-- Conformity to social norms is more likely in Eastern, collectivistic cultures than in Western, independent cultures.
-- Psychological reactance occurs when people feel that their ability to choose which behaviors to engage in is eliminated or threatened with elimination. The outcome of the experience of reactance is that people may not conform or obey at all and may even move their opinions or behaviors away from the desires of the influencer.
+最後に臨床療法の領域では、喫煙や薬物乱用のような有害な行動を減らすよう、本人にとって大切な人があまりにも強く圧力をかけると、本人はかえって行動を減らそうとしにくくなる場合があると論じられている (Shoham, Trost, & Rohrbaugh, 2004)。ある患者は、妻が「私を本当に愛しているなら、酒をやめるはず」と繰り返し禁酒を求めていたと報告した。しかし妻がとうとう諦め、「もうあなたが何をしても気にしない」と言うようになると、本人は治療プログラムへ登録したという (Shoham et al., 2004, p. 177)。
 
-:::
+:::tip[重要ポイント]
 
-:::note[Exercises and Critical Thinking]
-
-1. Following this paragraph are some examples of social influence and conformity. In each case, the person who is conforming has changed his or her behavior because of the expressed opinions or behaviors of another person. In some cases, the influence of the others is more obvious; in other cases, less so. Using the principles discussed in “[Chapter 1. Introducing Social Psychology](/translations/social-psychology/01-introducing-social-psychology/)“, first consider the likely role of the social situation versus the individual person. Did the person freely engage in the behavior, did the social situation force him to engage in the behavior, or was there some combination of both? Then consider the role of underlying human goals—concern for self and concern for others. Did the conformity occur primarily because the person wanted to feel good about himself or herself or because he or she cared for those around him or her? Then ask yourself about the role of cognition, affect, and behavior. Do you think the conformity was primarily behavioral, or did it involve a real change in the person’s thoughts and feelings?
-  1. Bill laughed at the movie, even though he didn’t think it was all that funny; he realized he was laughing just because all his friends were laughing.
-  2. Frank realized that he was starting to like jazz music, in part because his roommate liked it.
-  3. Jennifer went to the mall with her friends so that they could help her choose a gown for the upcoming prom.
-  4. Sally tried a cigarette at a party because all her friends urged her to.
-  5. Phil spent over $150 on a pair of sneakers, even though he couldn’t really afford them, because his best friend had a pair.
+- 同調を予測する人物変数はいくつかあるが、全体として状況変数のほうが重要である。
+- 同調には小さなジェンダー差がある。公的な状況では、男性は女性よりやや自分の立場を維持し、独立して行動し、同調を拒否しやすい。一方、女性は社会的不一致を避けるため他者の意見へ同調しやすい。この違いは、同調が非公開で行われる場合には目立ちにくい。
+- 社会規範への同調は、西洋の独立的文化より東洋の集団主義文化で生じやすい。
+- 心理的リアクタンスは、どのような行動を行うかを選択する能力が失われた、または失われそうになったと感じたときに生じる。その結果、人はまったく同調や服従をしなくなり、意見や行動を、影響を与えようとする人が望む方向とは反対へ動かすことさえある。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Bartol, K. M., & Martin, D. C. (1986). Women and men in task groups. In R. D. Ashmore & F. K. Del Boca (Eds.), *The social psychology of female-male relations*. New York, NY: Academic Press.
+1. 以下は社会的影響と同調の例である。いずれの場合も、同調している人物は、別の人が表明した意見または行動のために自分の行動を変えている。他者の影響が明白な場合もあれば、それほど明白でない場合もある。「[第1章 社会心理学への導入](/translations/social-psychology/01-introducing-social-psychology/)」で扱った原理を使い、まず社会的状況と個人本人がそれぞれ果たした可能性のある役割を考えなさい。本人は自由にその行動を行ったのだろうか、社会的状況から強制されたのだろうか、それとも両方の組み合わせだろうか。次に、根底にある人間の目標、自己への関心と他者への関心の役割を考えなさい。同調は主として、本人が自分自身について良く感じたかったために生じたのだろうか、それとも周囲の人々を気遣っていたためだろうか。最後に、認知、感情、行動の役割を考えなさい。その同調は主として行動上のものだったと思うか、それとも本人の思考や感情そのものの本当の変化を伴っていただろうか。
+   1. Bill は映画をそれほど面白いと思っていなかったが笑った。友人全員が笑っていたから自分も笑っているのだと気づいた。
+   2. Frank はジャズを好きになり始めていることへ気づいた。その一因はルームメートがジャズを好きだったことだった。
+   3. Jennifer は、近づいているプロムへ着ていくドレスを友人に選ぶのを手伝ってもらうため、一緒にショッピングモールへ行った。
+   4. Sally は、友人全員から勧められたため、パーティーでたばこを一本試した。
+   5. Phil は本当は買う余裕がなかったにもかかわらず、親友が同じものを持っていたため、スニーカー一足へ150ドル以上を使った。
 
-Bigelow, L. S., Lundmark, L., McLean Parks, J. M., & Wuebker, R. (2012). Skirting the issues? Experimental evidence of gender bias in IPO prospectus evaluations. *Social Science Research Network.* Retrieved from http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=1556449
+:::
 
-Bond, R., & Smith, P. B. (1996). Culture and conformity: A meta-analysis of studies using Asch’s (1952b, 1956) line judgment task. *Psychological Bulletin, 119*(1), 111–137.
+#### 参考文献
 
-Bornstein, R. F. (1992). The dependent personality: Developmental, social, and clinical perspectives. *Psychological Bulletin, 112*, 3–23.
+Bartol, K. M., & Martin, D. C. (1986). Women and men in task groups. In R. D. Ashmore & F. K. Del Boca (Eds.), _The social psychology of female-male relations_. New York, NY: Academic Press.
 
-Brehm, J. (1966). *A theory of psychological reactance*. New York, NY: Academic Press;
+Bigelow, L. S., Lundmark, L., McLean Parks, J. M., & Wuebker, R. (2012). Skirting the issues? Experimental evidence of gender bias in IPO prospectus evaluations. _Social Science Research Network._ Retrieved from http://papers.ssrn.com/sol3/papers.cfm?abstract\_id=1556449
 
-Brewer, M. B. (2003). Optimal distinctiveness, social identity, and the self. In M. R. Leary & J. P. Tangney (Eds.), *Handbook of self and identity* (pp. 480–491). New York, NY: Guilford Press.
+Bond, R., & Smith, P. B. (1996). Culture and conformity: A meta-analysis of studies using Asch’s (1952b, 1956) line judgment task. _Psychological Bulletin, 119_(1), 111–137.
 
-Bushman, B. J., & Stack, A. D. (1996). Forbidden fruit versus tainted fruit: Effects of warning labels on attraction to television violence. *Journal of Experimental Psychology: Applied, 2*, 207–226.
+Bornstein, R. F. (1992). The dependent personality: Developmental, social, and clinical perspectives. _Psychological Bulletin, 112_, 3–23.
 
-Eagly, A. H. (1978). Sex differences in influenceability. *Psychological Bulletin, 85*, 86–116;
+Brehm, J. (1966). _A theory of psychological reactance_. New York, NY: Academic Press;
 
-Eagly, A. H. (1983). Gender and social influence: A social psychological analysis. *American Psychologist, 38*, 971–981.
+Brewer, M. B. (2003). Optimal distinctiveness, social identity, and the self. In M. R. Leary & J. P. Tangney (Eds.), _Handbook of self and identity_ (pp. 480–491). New York, NY: Guilford Press.
 
-Eagly, A. H., & Carli, L. L. (2007). *Through the labyrinth: The truth about how women become leaders*. Boston, MA: Harvard Business School Press;
+Bushman, B. J., & Stack, A. D. (1996). Forbidden fruit versus tainted fruit: Effects of warning labels on attraction to television violence. _Journal of Experimental Psychology: Applied, 2_, 207–226.
 
-Eagly, A. H., & Chravala, C. (1986). Sex differences in conformity: Status and gender-role interpretations. *Psychology of Women Quarterly, 10*, 203–220.
+Eagly, A. H. (1978). Sex differences in influenceability. _Psychological Bulletin, 85_, 86–116;
 
-Eagly, A. H., & Johnson, B. T. (1990). Gender and leadership style: A meta-analysis. *Psychological Bulletin, 108*, 233–256;
+Eagly, A. H. (1983). Gender and social influence: A social psychological analysis. _American Psychologist, 38_, 971–981.
 
-Eagly, A. H., Johannesen-Schmidt, M. C., & van Engen, M. L. (2003). Transformational, transactional, and laissez-faire leadership styles: A meta-analysis comparing men and women. *Psychological Bulletin, 129*, 569–591.
+Eagly, A. H., & Carli, L. L. (2007). _Through the labyrinth: The truth about how women become leaders_. Boston, MA: Harvard Business School Press;
 
-Eagly, A. H., Karau, S. J., & Makhijani, M. G. (1995). Gender and the effectiveness of leaders: A meta-analysis. *Psychological Bulletin, 117*, 125–145.
+Eagly, A. H., & Chravala, C. (1986). Sex differences in conformity: Status and gender-role interpretations. _Psychology of Women Quarterly, 10_, 203–220.
 
-Eagly, A. H., Makhijani, M. G., & Klonsky, B. G. (1992). Gender and evaluation of leaders: A meta-analysis. *Psychological Bulletin, 111*, 3–22;
+Eagly, A. H., & Johnson, B. T. (1990). Gender and leadership style: A meta-analysis. _Psychological Bulletin, 108_, 233–256;
 
-Geis, F. L., Boston, M. B., and Hoffman, N. (1985). Sex of authority role models and achievement by men and women: Leadership performance and recognition, *Journal of Personality and Social Psychology, 49*, 636–653;
+Eagly, A. H., Johannesen-Schmidt, M. C., & van Engen, M. L. (2003). Transformational, transactional, and laissez-faire leadership styles: A meta-analysis comparing men and women. _Psychological Bulletin, 129_, 569–591.
 
-Griskevicius, V., Goldstein, N. J., Mortensen, C. R., Cialdini, R. B., & Kenrick, D. T. (2006). Going along versus going alone: When fundamental motives facilitate strategic (non)conformity. *Journal of Personality and Social Psychology, 91*, 281–294.
+Eagly, A. H., Karau, S. J., & Makhijani, M. G. (1995). Gender and the effectiveness of leaders: A meta-analysis. _Psychological Bulletin, 117_, 125–145.
 
-Heilman, M. E., Block, C. J., & Martell, R. (1995). Sex stereotypes: Do they influence perceptions of managers? *Journal of Social Behavior and Personality, 10*, 237–252.
+Eagly, A. H., Makhijani, M. G., & Klonsky, B. G. (1992). Gender and evaluation of leaders: A meta-analysis. _Psychological Bulletin, 111_, 3–22;
 
-Jetten, J., Spears, R., & Manstead, A. S. R. (1997). Strength of identification and intergroup differentiation: The influence of group norms. *European Journal of Social Psychology, 27*, 603–609;
+Geis, F. L., Boston, M. B., and Hoffman, N. (1985). Sex of authority role models and achievement by men and women: Leadership performance and recognition, _Journal of Personality and Social Psychology, 49_, 636–653;
 
-Kim, H., & Markus, H. R. (1999). Deviance or uniqueness, harmony or conformity? A cultural analysis. *Journal of Personality and Social Psychology, 77*, 785–800.
+Griskevicius, V., Goldstein, N. J., Mortensen, C. R., Cialdini, R. B., & Kenrick, D. T. (2006). Going along versus going alone: When fundamental motives facilitate strategic (non)conformity. _Journal of Personality and Social Psychology, 91_, 281–294.
 
-Kray, L. J., Reb, J., Galinsky, A. D., & Thompson, L. (2004). Stereotype reactance at the bargaining table: The effect of stereotype activation and power on claiming and creating value. *Personality and Social Psychology Bulletin, 30*, 399–411.
+Heilman, M. E., Block, C. J., & Martell, R. (1995). Sex stereotypes: Do they influence perceptions of managers? _Journal of Social Behavior and Personality, 10_, 237–252.
 
-Megargee, E. I. (1969). Influence of sex roles on the manifestation of leadership. *Journal of Applied Psychology, 53*, 377–382;
+Jetten, J., Spears, R., & Manstead, A. S. R. (1997). Strength of identification and intergroup differentiation: The influence of group norms. _European Journal of Social Psychology, 27_, 603–609;
 
-Miron, A. M., & Brehm, J. W. (2006). Reaktanz theorie—40 Jahre spärer. *Zeitschrift fur Sozialpsychologie, 37*, 9–18. doi: 10.1024/0044-3514.37.1.9.
+Kim, H., & Markus, H. R. (1999). Deviance or uniqueness, harmony or conformity? A cultural analysis. _Journal of Personality and Social Psychology, 77_, 785–800.
 
-Nyquist, L. V., & Spence, J. T. (1986). Effects of dispositional dominance and sex role expectations on leadership behaviors. *Journal of Personality and Social Psychology, 50*, 87–93.
+Kray, L. J., Reb, J., Galinsky, A. D., & Thompson, L. (2004). Stereotype reactance at the bargaining table: The effect of stereotype activation and power on claiming and creating value. _Personality and Social Psychology Bulletin, 30_, 399–411.
 
-Pennebaker, J. W., & Sanders, D. Y. (1976). American graffiti: Effects of authority and reactance arousal. *Personality and Social Psychology Bulletin, 2*, 264–267.
+Megargee, E. I. (1969). Influence of sex roles on the manifestation of leadership. _Journal of Applied Psychology, 53_, 377–382;
 
-Porter, N., Geis, F. L., Cooper, E., & Newman, E. (1985). Androgyny and leadership in mixed-sex groups. *Journal of Personality and Social Psychology, 49*, 808–823.
+Miron, A. M., & Brehm, J. W. (2006). Reaktanz theorie—40 Jahre spärer. _Zeitschrift fur Sozialpsychologie, 37_, 9–18. doi: 10.1024/0044-3514.37.1.9.
 
-Rojahn, K., & Willemsen, T. M. (1994). The evaluation of effectiveness and likability of gender-role congruent and gender-role incongruent leaders. *Sex Roles, 30*, 109–119;
+Nyquist, L. V., & Spence, J. T. (1986). Effects of dispositional dominance and sex role expectations on leadership behaviors. _Journal of Personality and Social Psychology, 50_, 87–93.
 
-Rudman, L. A., & Glick, P. (1999). Feminized management and backlash toward agentic women: The hidden costs to women of a kinder, gentler image of middle-managers. *Journal of Personality and Social Psychology, 77*, 1004–1010.
+Pennebaker, J. W., & Sanders, D. Y. (1976). American graffiti: Effects of authority and reactance arousal. _Personality and Social Psychology Bulletin, 2_, 264–267.
 
-Shackelford, S., Wood, W., & Worchel, S. (1996). Behavioral styles and the influence of women in mixed-sex groups. *Social Psychology Quarterly, 59*, 284–293.
+Porter, N., Geis, F. L., Cooper, E., & Newman, E. (1985). Androgyny and leadership in mixed-sex groups. _Journal of Personality and Social Psychology, 49_, 808–823.
 
-Shoham, V., Trost, S. E., & Rohrbaugh, M. J. (Eds.). (2004). *From state to trait and back again: Reactance theory goes clinical*. Mahwah, NJ: Lawrence Erlbaum.
+Rojahn, K., & Willemsen, T. M. (1994). The evaluation of effectiveness and likability of gender-role congruent and gender-role incongruent leaders. _Sex Roles, 30_, 109–119;
 
-Snyder, C. R., & Fromkin, H. L. (1977). Abnormality as a positive characteristic: The development and validation of a scale measuring need for uniqueness. *Journal of Abnormal Psychology, 86*(5), 518–527.
+Rudman, L. A., & Glick, P. (1999). Feminized management and backlash toward agentic women: The hidden costs to women of a kinder, gentler image of middle-managers. _Journal of Personality and Social Psychology, 77_, 1004–1010.
 
-Terry, D., & Hogg, M. (1996). Group norms and the attitude-behavior relationship: A role for group identification. *Personality and Social Psychology Bulletin, 22*, 776–793.
+Shackelford, S., Wood, W., & Worchel, S. (1996). Behavioral styles and the influence of women in mixed-sex groups. _Social Psychology Quarterly, 59_, 284–293.
 
-Visser, P. S., & Krosnick, J. A. (1998). The development of attitude strength over the life cycle: Surge and decline. *Journal of Personality and Social Psychology, 75*, 1389–1410.
+Shoham, V., Trost, S. E., & Rohrbaugh, M. J. (Eds.). (2004). _From state to trait and back again: Reactance theory goes clinical_. Mahwah, NJ: Lawrence Erlbaum.
 
-Wolf, S., & Montgomery, D. A. (1977). Effects of inadmissible evidence and level of judicial admonishment to disregard on the judgments of mock jurors. *Journal of Applied Social Psychology, 7*, 205–219.
+Snyder, C. R., & Fromkin, H. L. (1977). Abnormality as a positive characteristic: The development and validation of a scale measuring need for uniqueness. _Journal of Abnormal Psychology, 86_(5), 518–527.
 
-Wood, W. (1987). A meta-analytic review of sex differences in group performance. *Psychological Bulletin, 102*, 53–71.
+Terry, D., & Hogg, M. (1996). Group norms and the attitude-behavior relationship: A role for group identification. _Personality and Social Psychology Bulletin, 22_, 776–793.
 
-World Economic Forum. (2013). *The global gender gap report 2013*. Retrieved from http://reports.weforum.org/global-gender-gap-report-2013/
+Visser, P. S., & Krosnick, J. A. (1998). The development of attitude strength over the life cycle: Surge and decline. _Journal of Personality and Social Psychology, 75_, 1389–1410.
+
+Wolf, S., & Montgomery, D. A. (1977). Effects of inadmissible evidence and level of judicial admonishment to disregard on the judgments of mock jurors. _Journal of Applied Social Psychology, 7_, 205–219.
+
+Wood, W. (1987). A meta-analytic review of sex differences in group performance. _Psychological Bulletin, 102_, 53–71.
+
+World Economic Forum. (2013). _The global gender gap report 2013_. Retrieved from http://reports.weforum.org/global-gender-gap-report-2013/
