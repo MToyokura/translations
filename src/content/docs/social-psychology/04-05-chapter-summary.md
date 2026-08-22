@@ -1,22 +1,23 @@
 ---
-title: "4.5 Chapter Summary"
+title: "4.5 章のまとめ"
 sidebar:
   order: 32
 ---
-Attitudes are our positive or negative evaluations of an attitude object. Our attitudes are based on the ABCs of affect, behavior, and cognition. Some attitudes are more important than others because they are more useful to us and thus have more impact on our daily lives. The importance of an attitude, as assessed by how quickly it comes to mind, is known as attitude strength.
 
-The affective, behavioral, and cognitive components of attitudes normally line up or match—this is the idea of attitude consistency. Because of this consistency, our attitudes (as assessed on self-report measures) normally predict our behavior.
+態度とは、態度対象について行う肯定的または否定的な評価である。私たちの態度は、感情、行動、認知というABCに基づいている。一部の態度は、私たちにとってより役に立ち、そのため日常生活へより大きな影響を与えるという意味で、ほかの態度より重要である。どれほど素早く頭に浮かぶかによって評価される態度の重要性を、態度の強さという。
 
-We may be able to change attitudes by using persuasive communicators who deliver persuasive messages to message recipients. In general, persuasion will be greater when the communicator appeals to our self-interest. Thus attractive, trustworthy, and expert communicators, who present their messages confidently and fairly and who do not appear to be influenced by situational forces, are most effective.
+態度の感情的、行動的、認知的構成要素は通常、互いに一致する。これが態度の一貫性という考えである。この一貫性があるため、自己報告尺度などで測定された態度は、通常、私たちの行動を予測する。
 
-Persuasive messages may be processed either spontaneously or thoughtfully. In some cases, the spontaneous and emotional processing of messages may be effective because the positive or negative affect makes the message more salient, causing it to grab our attention. We are more willing and able to process information thoughtfully when the information allows us to meet underlying goals—for instance, when the message is personally relevant to us. We also process more thoughtfully when we have the ability and motivation to do so.
+説得力のあるコミュニケーターが説得的メッセージをメッセージ受け手へ伝えることで、態度を変えられる場合がある。一般に、コミュニケーターが私たちの自己利益へ訴えるほど、説得は強くなる。したがって、魅力的で、信頼でき、専門的であり、自信を持って公正にメッセージを提示し、状況的な力によって影響されているように見えないコミュニケーターが最も効果的である。
 
-We may be able to help people develop a resistance to persuasion by reminding them that a persuasive message will be coming and having them practice how they will respond to influence attempts. These techniques are called forewarning and inoculation, respectively. Persuasion attempts may sometimes create reactance and thus be ineffective.
+説得的メッセージは、自発的にも熟慮的にも処理される場合がある。肯定的または否定的な感情によってメッセージの顕著性が高まり、注意を引くため、メッセージを自発的かつ感情的に処理することが効果を持つ場合もある。その情報が自分の根底にある目標を満たすのに役立つとき、たとえばメッセージが自分自身に関連している場合、私たちは情報を熟慮的に処理する意欲と能力をより強く持つ。また、それを行う能力と動機がある場合にも、より熟慮的に処理する。
 
-Self-perception occurs when individuals use their own behavior to help them determine their attitudes toward an attitude object. That is, we may use our own behavior as a guide to help us determine our own thoughts and feelings, based on the assumption that our thoughts and feelings should be consistent with our behaviors.
+説得的なメッセージが来ることをあらかじめ知らせ、影響を与えようとする試みにどのように反応するかを練習させることで、説得への抵抗力を形成するのを助けられる場合がある。こうした技法を、それぞれ事前警告と接種という。一方、説得の試みがリアクタンスを生み、そのため効果を失う場合もある。
 
-When the social situation actually causes a behavior but the individual does not realize that the social situation was the cause, we call the phenomenon insufficient justification. Overjustification occurs when we view our behavior as caused by the situation, leading us to discount the extent to which our behavior was actually caused by our own interest in it.
+自己知覚は、自分自身の行動を使って、態度対象への自分の態度を判断するときに生じる。つまり、思考や感情は行動と一貫しているはずだという仮定に基づき、自分自身の行動を手がかりとして、自分の思考や感情を判断する場合がある。
 
-The discomfort that occurs when we behave in ways that we see as inappropriate, such as when we fail to live up to our own expectations, is called cognitive dissonance. Dissonance can be reduced by changing behavior, by convincing ourselves that the behavior was not so negative, or by creating new consonant cognitions.
+社会的状況が実際には行動を引き起こしているにもかかわらず、その人自身が社会的状況こそ原因だったと気づかない現象を、不十分な正当化という。過剰正当化は、自分の行動が状況によって引き起こされたと捉えることで、その行動が実際には自分自身の関心によって生じていた程度を割り引くときに生じる。
 
-Persuaders may use principles of attitude-behavior consistency to create attitude change, for instance, through techniques such as the foot-in-the-door technique, the low-ball technique, and the bait-and-switch technique.
+自分自身の期待に応えられない場合など、自分では不適切だとみなす形で行動したときに生じる不快感を、認知的不協和という。不協和は、行動を変える、その行動はそれほど否定的ではなかったと自分へ納得させる、または新しい協和的認知を作ることで減少させられる。
+
+説得者は、態度と行動の一貫性の原理を利用して態度変化を生み出す場合がある。その例には、フット・イン・ザ・ドア技法、ローボール技法、ベイト・アンド・スイッチ技法などがある。

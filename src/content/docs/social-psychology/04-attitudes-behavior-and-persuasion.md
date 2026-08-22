@@ -1,59 +1,60 @@
 ---
-title: "Chapter 4. Attitudes, Behavior, and Persuasion"
+title: "第4章 態度、行動、説得"
 sidebar:
   order: 27
 ---
-:::note[Chapter Learning Objectives]
 
-1. Exploring Attitudes
+:::note[章の学習目標]
 
-- Define the concept of an attitude and explain why it is of such interest to social psychologists.
-- Review the variables that determine attitude strength.
-- Outline the factors that affect the strength of the attitude-behavior relationship.
+1. 態度を探る
 
-2. Changing Attitudes through Persuasion
+- 態度という概念を定義し、なぜ社会心理学者がこれほど強い関心を持っているのかを説明する。
+- 態度の強さを決定する変数を概観する。
+- 態度と行動の関係の強さに影響を与える要因を概説する。
 
-- Outline how persuasion is determined by the choice of effective communicators and effective messages.
-- Review the conditions under which attitudes are best changed using spontaneous versus thoughtful strategies.
-- Summarize the variables that make us more or less resistant to persuasive appeals.
+2. 説得による態度の変化
 
-3. Changing Attitudes by Changing Behavior
+- 効果的なコミュニケーターと効果的なメッセージの選択によって、説得がどのように決まるかを概説する。
+- 自発的方略と熟慮的方略のそれぞれを用いたときに、どのような条件で態度が最も変化しやすいかを概観する。
+- 説得的な働きかけに対する抵抗を強くしたり弱くしたりする変数を要約する。
 
-- Outline the principles of self-perception and explain how they can account for the influences of behavior on attitude.
-- Outline the principles of cognitive dissonance and explain how they can account for the influences of behavior on attitude.
+3. 行動を変えることによる態度の変化
+
+- 自己知覚の原理を概説し、それによって行動が態度へ与える影響をどのように説明できるかを述べる。
+- 認知的不協和の原理を概説し、それによって行動が態度へ与える影響をどのように説明できるかを述べる。
 
 :::
 
-## The Effective Use of Persuasion by Apple to Drive Sales
+## Apple は説得を効果的に利用して売上を伸ばした
 
-On January 9, 2007, Steve Jobs, the enigmatic co-founder and CEO of Apple, Inc., introduced the first iPhone to the world. The device quickly revolutionized the smartphone industry and changed what consumers came to expect from their phones. In the years since, smartphones have changed from being regarded as status symbols (Apple sold close to 1.4 million iPhones during their first year on the market) to fairly commonplace and essential tools. One out of every five people in the world now owns a smartphone, there are more smartphones in use in the world than PCs, and it is difficult for many young people to imagine how anyone ever managed to function without them. If you consider the relatively high cost of these devices, this transformation has been truly remarkable.
+2007年1月9日、Apple, Inc. の謎めいた共同創業者兼 CEO である Steve Jobs は、世界に初代 iPhone を披露した。この端末はすぐにスマートフォン業界へ革命を起こし、消費者が携帯電話に期待するものを変えた。それ以降、スマートフォンはステータス・シンボルとみなされる存在から（Apple は発売初年度に約140万台の iPhone を販売した）、かなり一般的で不可欠な道具へと変化した。現在では世界の5人に1人がスマートフォンを所有し、世界で使用されているスマートフォンの数は PC を上回っている。また、多くの若者にとって、スマートフォンなしで人々がどうやって生活していたのかを想像することさえ難しくなっている。こうした端末が比較的高価であることを考えれば、この変化は実に驚くべきものである。
 
-![Steve Jobs introduces the iPhone 4](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Steve_Jobs_Headshot_2010-e1411066336440.jpg)
+![Steve Jobs が iPhone 4 を紹介する](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Steve_Jobs_Headshot_2010-e1411066336440.jpg)
 
-*Figure 4.1 Steve Jobs introduces the iPhone 4*
+_図4.1 Steve Jobs が iPhone 4 を紹介する。_
 
-Much of this shift in attitude can be credited to the impressive use of tactics of persuasion employed by smartphone manufacturers like Apple and Samsung. The typical marketing campaign for a new model of an iPhone delivers a carefully crafted message that cleverly weaves together stories, visuals, and music to create an emotional experience for the viewing public. These messages are often designed to showcase the range of uses of the device and to evoke a sense of need. Apple also strives to form relationships with its customers, something that is illustrated by the fact that 86 percent of those who purchased the iPhone 5S were upgrading from a previous model. This strategy has benefited Apple tremendously as it has sold over 400 million iPhones since 2007, making it one of the wealthiest companies in the world.
+こうした態度の変化の大部分は、Apple や Samsung のようなスマートフォンメーカーが説得の戦術を巧みに利用したことによると考えられる。新しい iPhone モデルの典型的なマーケティング・キャンペーンでは、物語、映像、音楽を巧みに織り合わせ、視聴者に感情的な体験を生み出すよう慎重に作られたメッセージが提示される。こうしたメッセージは、端末の多様な用途を示し、それを「必要だ」と感じさせるよう設計されることが多い。Apple は顧客との関係形成にも力を入れている。このことは、iPhone 5S を購入した人の86%が以前のモデルからの買い替えだったという事実にも表れている。この戦略は Apple に大きな利益をもたらし、2007年以降4億台を超える iPhone を販売して、世界でも最も豊かな企業の一つとなった。
 
-Sources: Borchers, T. A. (2013). *Persuasion in the media age (3rd ed.)*. Long Grove, IL: Waveland Press.
+出典：Borchers, T. A. (2013). _Persuasion in the media age (3rd ed.)_. Long Grove, IL: Waveland Press.
 
-Global Apple iPhone sales in the fiscal years 2007 to 2013 (in million units). (2014). In *Statista*. Retrieved from http://www.statista.com/statistics/276306/global-apple-iphone-sales-since-fiscal-year-2007/
+Global Apple iPhone sales in the fiscal years 2007 to 2013 (in million units). (2014). In _Statista_. Retrieved from http://www.statista.com/statistics/276306/global-apple-iphone-sales-since-fiscal-year-2007/
 
-Heggestuen, J. (2013). One in every 5 people in the world own a smartphone, one in every 17 own a tablet. *Business insider*. Retrieved from http://www.businessinsider.com/smartphone-and-tablet-penetration-2013-10
+Heggestuen, J. (2013). One in every 5 people in the world own a smartphone, one in every 17 own a tablet. _Business insider_. Retrieved from http://www.businessinsider.com/smartphone-and-tablet-penetration-2013-10
 
-iPhone 5S sales statistics. (2013). In *Statistic brain*. Retrieved from http://www.statisticbrain.com/iphone-5s-sales-statistics/
+iPhone 5S sales statistics. (2013). In _Statistic brain_. Retrieved from http://www.statisticbrain.com/iphone-5s-sales-statistics/
 
-One of the most central concepts in social psychology is that of *attitudes* (Banaji & Heiphetz, 2010). In this chapter, we will focus on attitude formation, attitude change, and the influence of attitudes on behavior. We will see that attitudes are an essential component of our lives because they play a vital role in helping us effectively interact with our environment. Our attitudes allow us to make judgments about events (e.g., “I don’t mind waiting in a queue for these concert tickets”), individuals (e.g., “I really admire the Dalai Lama”), social groups (e.g., “I love my university”), and many other things.
+社会心理学の中でも最も中心的な概念の一つが*態度*である (Banaji & Heiphetz, 2010)。本章では、態度の形成、態度の変化、そして態度が行動へ及ぼす影響に焦点を当てる。態度は、私たちが環境とうまく相互作用するうえで不可欠な役割を果たしているため、生活の本質的な構成要素である。態度によって、私たちは出来事（たとえば「このコンサートのチケットを買うためなら列に並んでも構わない」）、個人（たとえば「私は Dalai Lama を本当に尊敬している」）、社会集団（たとえば「私は自分の大学が大好きだ」）、その他多くの対象について判断できる。
 
-We will begin our discussion by looking at how attitudes are defined by the ABCs of social psychology—affect, behavior, and cognition—noting that some attitudes are more affective in nature, some more cognitive in nature, and some more behavioral in nature. We will see that attitudes vary in terms of their strength such that some attitudes are stronger and some are weaker. And we will see that the strength of our attitudes is one of the determinants of when our attitudes successfully predict our behaviors.
+まず、社会心理学のABC、すなわち感情、行動、認知によって態度がどのように定義されるのかを見ていく。その際、より感情的な性質を持つ態度もあれば、より認知的な態度、より行動的な態度もあることに注目する。また、態度には強いものと弱いものがあり、その強さに違いがあることを見る。そして、態度の強さが、その態度から行動をうまく予測できるかどうかを左右する要因の一つであることを確認する。
 
-Then we will explore how attitudes can be created and changed—the basic stuff of persuasion, advertising, and marketing. We will look at which types of *communicators* can deliver the most effective *messages* to which types of *message recipients*. And we will see that the same message can be more effective for different people in different social situations. We will see that persuasive messages may be processed either *automatically* (i.e., in a rather cursory or superficial way) or *thoughtfully* (with a greater focus on the argument presented) and that the amount and persistence of persuasion will vary on the processing route that we use. Most generally, we will see that persuasion is effective when the communication resonates with the message recipient’s motivations, desires, and goals (Kruglanski & Stroebe, 2005).
+次に、態度がどのように形成され、変化するのかを探る。これは説得、広告、マーケティングの基本そのものである。どのような*コミュニケーター*が、どのような*メッセージ*を、どのような*メッセージ受け手*へ伝えると最も効果的なのかを検討する。同じメッセージでも、人や社会的状況が異なれば効果が変わることも見る。説得的メッセージは、_自動的に_、つまり比較的ざっと表面的に処理される場合もあれば、_熟慮的に_、つまり提示された論拠へより強く注意を向けながら処理される場合もある。そして、どの処理経路を用いるかによって、説得の程度と持続性が変わる。最も一般的には、コミュニケーションがメッセージ受け手の動機、欲求、目標と共鳴するとき、説得は効果を持つ (Kruglanski & Stroebe, 2005)。
 
-Because the ABCs of social psychology tend to be consistent, persuasive appeals that change our thoughts and feelings will be effective in changing our behavior as well. This *attitude consistency* means that if a company can make you think and feel more positively about its product, then you will be more likely to buy it.
+社会心理学のABCには互いに一貫する傾向があるため、私たちの思考や感情を変える説得的な働きかけは、行動を変えるうえでも効果を持つ。この*態度の一貫性*とは、ある企業が自社製品について私たちにより肯定的に考え、感じさせることができれば、私たちがその製品を購入する可能性も高くなるということである。
 
-But attitude consistency works in the other direction too, such that when our behaviors change, our thoughts and beliefs about the attitude object may also change. Once we buy a product, we will find even more things to like about it, and our attitudes toward the company behind the product will become even more positive. Although this possibility is less intuitive and therefore may seem more surprising, it also follows from the basic consistencies among affect, cognition, and behavior. We will discuss two theories—*self-perception theory* and *cognitive dissonance theory*—each of which makes this prediction but for different reasons.
+しかし、態度の一貫性は逆方向にも働く。つまり行動が変わると、態度対象についての思考や信念も変化する場合がある。一度ある製品を購入すると、その製品の好きなところをさらに見つけ、その製品を作った企業への態度までさらに肯定的になることがある。この可能性は直感的には分かりにくく、より意外に思えるかもしれないが、これも感情、認知、行動の基本的な一貫性から導かれる。本章では、*自己知覚理論*と*認知的不協和理論*という2つの理論を扱う。どちらもこの予測を行うが、その理由は異なっている。
 
-## References
+## 参考文献
 
-Banaji, M. R., & Heiphetz, L. (2010). Attitudes. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 1, pp. 353–393). Hoboken, NJ: John Wiley & Sons.
+Banaji, M. R., & Heiphetz, L. (2010). Attitudes. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (5th ed., Vol. 1, pp. 353–393). Hoboken, NJ: John Wiley & Sons.
 
-Kruglanski, A. W., & Stroebe, W. (2005). The influence of beliefs and goals on attitudes: Issues of structure, function, and dynamics. In D. Albarracín, B. T. Johnson, & M. P. Zanna (Eds.), *The handbook of attitudes* (pp. 323–368). Mahwah, NJ: Lawrence Erlbaum.
+Kruglanski, A. W., & Stroebe, W. (2005). The influence of beliefs and goals on attitudes: Issues of structure, function, and dynamics. In D. Albarracín, B. T. Johnson, & M. P. Zanna (Eds.), _The handbook of attitudes_ (pp. 323–368). Mahwah, NJ: Lawrence Erlbaum.

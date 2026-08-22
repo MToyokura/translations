@@ -1,254 +1,255 @@
 ---
-title: "4.2 Changing Attitudes through Persuasion"
+title: "4.2 説得による態度の変化"
 sidebar:
   order: 29
 ---
-:::note[Learning Objectives]
 
-1. Outline how persuasion is determined by the choice of effective communicators and effective messages.
-2. Review the conditions under which attitudes are best changed using spontaneous versus thoughtful strategies.
-3. Summarize the variables that make us more or less resistant to persuasive appeals.
+:::note[学習目標]
+
+1. 効果的なコミュニケーターと効果的なメッセージの選択によって、説得がどのように決まるかを概説する。
+2. 自発的方略と熟慮的方略のそれぞれを用いたときに、どのような条件で態度が最も変化しやすいかを概観する。
+3. 説得的な働きかけに対する抵抗を強くしたり弱くしたりする変数を要約する。
 
 :::
 
-Every day we are bombarded by advertisements of every sort. The goal of these ads is to sell us cars, computers, video games, clothes, and even political candidates. The ads appear on billboards, website popup ads, buses, TV infomercials, and…well, you name it! It’s been estimated that over $500 billion is spent annually on advertising worldwide (Johnson, 2013).
+私たちは毎日、ありとあらゆる広告を浴びている。こうした広告の目的は、自動車、コンピュータ、ビデオゲーム、衣服、さらには政治家候補までを私たちへ「売る」ことである。広告は看板、ウェブサイトのポップアップ広告、バス、テレビ通販番組など、文字どおり至るところに現れる。世界では毎年5,000億ドルを超える金額が広告へ費やされていると推定されている (Johnson, 2013)。
 
-There is substantial evidence that advertising is effective in changing attitudes. After the R. J. Reynolds Company started airing its Joe Camel ads for cigarettes on TV in the 1980s, Camel’s share of cigarette sales to children increased dramatically. But persuasion can also have more positive outcomes. For instance, a review of the research literature indicates that mass-media anti-smoking campaigns are associated with reduced smoking rates among both adults and youth (Friend & Levy, 2001). Persuasion is also used to encourage people to donate to charitable causes, to volunteer to give blood, and to engage in healthy behaviors.
+広告が態度を変えるうえで効果を持つことを示す証拠は数多くある。R. J. Reynolds Company が1980年代に Joe Camel のタバコ広告をテレビで放映し始めると、子ども向けタバコ販売に占める Camel の割合は劇的に増加した。しかし説得は、より肯定的な結果をもたらすこともできる。たとえば研究文献のレビューによれば、マスメディアを利用した禁煙キャンペーンは、成人と若者の両方で喫煙率の低下と関連している (Friend & Levy, 2001)。説得は、慈善団体への寄付、献血への協力、健康的な行動などを促すためにも用いられている。
 
-If you think that advertisers and marketers have too much influence, then this section will help you understand how to resist such attempts at persuasion. Following the approach used by some of the earliest social psychologists and that still forms the basis of thinking about the power of communication, we will consider which *communicators* can deliver the most effective *messages* to which types of *message recipients* (Hovland, Lumsdaine, & Sheffield (1949).
+広告関係者やマーケターの影響が強すぎると思うなら、本節は、そうした説得の試みに抵抗する方法を理解する助けになるだろう。初期の社会心理学者の一部が用い、現在でもコミュニケーションの力を考える基礎となっているアプローチに従い、どのような*コミュニケーター*が、どのような*メッセージ*を、どのような*メッセージ受け手*へ伝えると最も効果的なのかを考える (Hovland, Lumsdaine, & Sheffield, 1949)。
 
-## Choosing Effective Communicators
+## 効果的なコミュニケーターを選ぶ
 
-In order to be effective persuaders, we must first get people’s attention, then send an effective message to them, and then ensure that they process the message in the way we would like them to. Furthermore, to accomplish these goals, persuaders must consider the cognitive, affective, and behavioral aspects of their methods. Persuaders also must understand how the communication they are presenting relates to the message recipient—his or her motivations, desires, and goals.
+効果的に説得するには、まず人々の注意を引き、次に効果的なメッセージを送り、さらに相手がこちらの望む方法でそのメッセージを処理するようにしなければならない。そのため説得者は、自分の方法の認知的、感情的、行動的側面を考慮する必要がある。また、提示するコミュニケーションがメッセージ受け手、すなわちその人の動機、欲求、目標とどのように関係するかも理解する必要がある。
 
-Research has demonstrated that the same message will be more effective if is delivered by a more persuasive communicator. In general, we can say that communicators are more effective when they help their recipients feel good about themselves—that is, by appealing to self-concern. For instance, attractive communicators are frequently more effective persuaders than are unattractive communicators. Attractive communicators create a positive association with the product they are trying to sell and put us in a good mood, which makes us more likely to accept their messages. And as the many marketers who include free gifts, such as mailing labels or small toys, in their requests for charitable donations well know, we are more likely to respond to communicators who offer us something personally beneficial.
+研究から、同じメッセージでも、より説得力のあるコミュニケーターが伝えると効果が高まることが示されている。一般に、コミュニケーターは、受け手が自分自身について良い気分になれるようにするとき、すなわち自己への関心へ訴えるときに、より効果的である。たとえば魅力的なコミュニケーターは、魅力的でないコミュニケーターより説得力が高いことが多い。魅力的なコミュニケーターは、売ろうとしている製品との肯定的な連合を作り、私たちを良い気分にするため、そのメッセージを受け入れやすくなる。また、慈善寄付を求める手紙へ宛名ラベルや小さなおもちゃなどの無料プレゼントを同封する多くのマーケターがよく知っているように、私たちは自分に何らかの利益を与えてくれるコミュニケーターへ応じやすい。
 
-We’re also more persuaded by people who are similar to us in terms of opinions and values than by those whom we perceive as being different. This is of course why advertisements targeted at teenagers frequently use teenagers to present the message, and why advertisements targeted at the elderly use older communicators.
+また、意見や価値観について自分と似ている人のほうが、自分とは異なると感じる人より説得力を持つ。10代向け広告で10代の若者がメッセージを伝え、高齢者向け広告では年配のコミュニケーターが使われるのは、もちろんこのためである。
 
-When communicators are perceived as attractive and similar to us, we tend to like them. And we also tend to trust the people that we like. The success of Tupperware parties, in which friends get together to buy products from other friends, may be due more to the fact that people like the “salesperson” than to the nature of the product. People such as the media mogul Oprah Winfrey, tennis star Roger Federer, and the musician Bono have been used as communicators for products in part because we see them as trustworthy and thus likely to present an unbiased message. Trustworthy communicators are effective because they allow us to feel good about ourselves when we accept their message, often without critically evaluating its content (Priester & Petty, 2003).
+コミュニケーターが魅力的で自分と似ていると感じると、私たちはその人を好きになる傾向がある。そして、好きな人を信頼する傾向もある。友人同士が集まって別の友人から商品を買う Tupperware パーティーが成功するのは、製品そのものの性質よりも、「販売員」が好かれているからかもしれない。メディア界の大物 Oprah Winfrey、テニス選手 Roger Federer、ミュージシャン Bono などが製品のコミュニケーターとして利用されてきたのは、一部には、私たちが彼らを信頼でき、偏りのないメッセージを伝える可能性が高いと考えるためである。信頼できるコミュニケーターは、その内容を批判的に評価しなくても、メッセージを受け入れたときに自分自身について良い気分になれるようにするため、効果的である (Priester & Petty, 2003)。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/winfrey-federer-bono-e1411068042893.jpg)
 
-*Figure 4.4*
+_図4.4_
 
-*Expert communicators* may sometimes be perceived as trustworthy because they know a lot about the product they are selling. When a doctor recommends that we take a particular drug, we are likely to be influenced because we know that he or she has expertise about the effectiveness of drugs. It is no surprise that advertisers use race car drivers to sell cars and basketball players to sell athletic shoes.
+*専門家であるコミュニケーター*は、販売している製品について多くを知っているため、信頼できるとみなされることがある。医師から特定の薬を飲むよう勧められると、その人が薬の有効性について専門知識を持っていると知っているため、影響を受けやすい。広告主が自動車を売るためにレーシングドライバーを、スポーツシューズを売るためにバスケットボール選手を起用するのも不思議ではない。
 
-Although expertise comes in part from having knowledge, it can also be communicated by how one presents a message. Communicators who speak confidently, quickly, and in a straightforward way are seen as more expert than those who speak in a more hesitating and slower manner. Taking regular speech and speeding it up by deleting very small segments of it, so that it sounds the same but actually goes faster, makes the same communication more persuasive (MacLachlan & Siegel, 1980; Moore, Hausknecht, & Thamodaran, 1986). This is probably in part because faster speech makes the communicator seem more like an expert but also because faster speech reduces the listener’s ability to come up with counterarguments as he or she listens to the message (Megehee, Dobie, & Grant, 2003). Effective speakers frequently use this technique, and some of the best persuaders are those who speak quickly.
+専門性は知識を持っていることから生じる部分もあるが、メッセージをどのように提示するかによって伝えることもできる。自信を持ち、速く、率直に話すコミュニケーターは、ためらいながらゆっくり話す人より専門家らしく見える。通常の話し声からごく短い部分を削除し、同じように聞こえながら実際には話す速度を上げると、同じコミュニケーションでも説得力が高まる (MacLachlan & Siegel, 1980; Moore, Hausknecht, & Thamodaran, 1986)。これは、速く話すことでコミュニケーターがより専門家らしく見えるためでもあるが、同時に、聞き手がメッセージを聞きながら反論を考える能力が低下するためでもあると考えられる (Megehee, Dobie, & Grant, 2003)。効果的な話者はこの技法を頻繁に利用し、最も優れた説得者の一部は速く話す。
 
-Expert communicators are expected to know a lot about the product they are endorsing, but they may not be seen as trustworthy if their statements seem to be influenced by external causes. People who are seen to be arguing in their own self-interest (e.g., an expert witness who is paid by the lawyers in a case; a celebrity who is paid to endorse a product) may be ineffective because we may discount their communications (Eagly, Wood, & Chaiken, 1978; Wood & Eagly, 1981). On the other hand, when a person presents a message that goes *against* external causes, for instance, by arguing in favor of an opinion to a person who is known to disagree with it, we see the internal states (that the individual really believes in the message he or she is expressing) as even more powerful.
+専門家であるコミュニケーターは、自分が推奨する製品について多くを知っていると期待される。しかし、その発言が外的な原因から影響を受けているように見えると、信頼できるとは思われない場合がある。自分自身の利益のために主張していると見られる人、たとえば裁判で弁護士から報酬を受け取っている専門家証人や、製品を推奨するため報酬を受け取る有名人などは、そのコミュニケーションを割り引いて受け取られるため、効果が低い場合がある (Eagly, Wood, & Chaiken, 1978; Wood & Eagly, 1981)。一方、外的原因に*反する*メッセージを提示する場合、たとえば相手がその意見に反対していると分かっているにもかかわらず、その意見を支持する主張をすると、その人の内的状態、つまり本人が本当にそのメッセージを信じているということを、より強く感じる。
 
-Communicators also may be seen as biased if they present only one side of an issue while completely ignoring the potential problems or counterarguments to the message. In these cases, people who are informed about both sides of the topic may see the communicator as attempting to unfairly influence them.
+また、ある問題の一方の側だけを提示し、潜在的な問題や反論を完全に無視すると、コミュニケーターは偏っているとみなされる場合がある。そのテーマの両側面について知識を持つ人は、コミュニケーターが不公正に自分へ影響を与えようとしていると考えるかもしれない。
 
-Although we are generally very aware of the potential that communicators may deliver messages that are inaccurate or designed to influence us, and we are able to discount messages that come from sources that we do not view as trustworthy, there is one interesting situation in which we may be fooled by communicators. This occurs when a message is presented by someone whom we perceive as untrustworthy. When we first hear that person’s communication, we appropriately discount it, and it therefore has little influence on our opinions. However, over time there is a tendency to remember the *content* of a communication to a greater extent than we remember the *source* of the communication. As a result, we may forget over time to discount the remembered message. This *attitude change that occurs over time* is known as the sleeper effect (Kumkale & Albarracín, 2004).
+私たちは一般に、コミュニケーターが不正確なメッセージや自分たちへ影響するために設計されたメッセージを伝える可能性についてよく理解しており、信頼できないと考える情報源からのメッセージを割り引くこともできる。しかし、コミュニケーターにだまされる可能性のある興味深い状況が一つある。それは、信頼できないと考える人物からメッセージが提示された場合である。最初にその人のコミュニケーションを聞いたときには、私たちは適切にそれを割り引くため、意見にはほとんど影響しない。しかし時間がたつと、コミュニケーションの*情報源*よりも、その*内容*のほうをよく覚えている傾向がある。その結果、時間の経過とともに、覚えているメッセージを割り引くことを忘れてしまう可能性がある。このような*時間の経過によって生じる態度変化*をスリーパー効果という (Kumkale & Albarracín, 2004)。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-4-5.png)
 
-*Figure 4.5 The Sleeper Effect. The sleeper effect occurs when we initially discount the message given by an untrustworthy or nonexpert communicator but, over time, we remember the content of the message and forget its source. The result is an attitude change in the direction of the initially discounted message.*
+_図4.5 スリーパー効果。スリーパー効果は、信頼できない、または専門性のないコミュニケーターからのメッセージを最初は割り引くものの、時間がたつにつれてメッセージの内容は覚えていて、その情報源を忘れるときに生じる。その結果、当初は割り引かれていたメッセージの方向へ態度が変化する。_
 
-Perhaps you’ve experienced the sleeper effect. During high-profile election campaigns, candidates sometimes produce advertisements that attack their opponents. These kinds of communications occasionally stretch the truth in order to win public favor, which is why many people listen to them with a grain of salt. The trouble occurs, however, when people remember the claims made but forget the source of the communication. The sleeper effect is diagrammed in Figure 4.5, “The Sleeper Effect.”
+スリーパー効果を経験したことがあるかもしれない。注目度の高い選挙運動では、候補者が対立候補を攻撃する広告を作ることがある。この種のコミュニケーションは世論の支持を得るため事実を誇張することもあり、多くの人は多少疑って聞いている。しかし問題は、人々がそこでなされた主張は覚えていても、コミュニケーションの情報源を忘れてしまう場合に生じる。図4.5「スリーパー効果」はこの過程を図示している。
 
-### Creating Effective Communications
+### 効果的なコミュニケーションを作る
 
-Once we have chosen a communicator, the next step is to determine what type of message we should have him or her deliver. Neither social psychologists nor advertisers are so naïve as to think that simply presenting a strong message is sufficient. No matter how good the message is, it will not be effective unless people pay attention to it, understand it, accept it, and incorporate it into their self-concept. This is why we attempt to choose good communicators to present our ads in the first place, and why we tailor our communications to get people to process them the way we want them to.
+コミュニケーターを選んだら、次の段階は、その人にどのようなメッセージを伝えてもらうかを決めることである。社会心理学者も広告関係者も、単に強いメッセージを提示すれば十分だと考えるほど単純ではない。どれほど良いメッセージでも、人々がそれへ注意を払い、理解し、受け入れ、自分の自己概念へ取り込まなければ効果はない。そもそも広告へ優れたコミュニケーターを選ぼうとするのも、人々がこちらの望む方法でコミュニケーションを処理するよう内容を調整するのも、このためである。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-4-6.png)
 
-*Figure 4.6 Spontaneous attitude change occurs as a direct or affective response to the message, whereas thoughtful attitude change is based on our cognitive elaboration of the message.*
+_図4.6 自発的な態度変化はメッセージへの直接的または感情的な反応として生じるのに対し、熟慮的な態度変化はメッセージを認知的に精緻化することに基づく。_
 
-The messages that we deliver may be processed either *spontaneously* (other terms for this include *peripherally* or *heuristically*—Chen & Chaiken, 1999; Petty & Wegener, 1999) or *thoughtfully* (other terms for this include *centrally* or *systematically*). Spontaneous processing is direct, quick, and often involves affective responses to the message. Thoughtful processing, on the other hand, is more controlled and involves a more careful cognitive elaboration of the meaning of the message (Figure 4.6). The route that we take when we process a communication is important in determining whether or not a particular message changes attitudes.
+私たちが伝えるメッセージは、*自発的に*処理される場合もあれば（*周辺的*または*ヒューリスティックに*という用語も使われる―Chen & Chaiken, 1999; Petty & Wegener, 1999）、*熟慮的に*処理される場合もある（*中心的*または*体系的に*ともいう）。自発的処理は直接的で素早く、メッセージへの感情的反応を伴うことが多い。一方、熟慮的処理はより統制されており、メッセージの意味についてより慎重な認知的精緻化を伴う（図4.6）。コミュニケーションを処理するときにどちらの経路を取るかは、そのメッセージが態度を変えるかどうかを決めるうえで重要である。
 
-### Spontaneous Message Processing
+### メッセージの自発的処理
 
-Because we are bombarded with so many persuasive messages—and because we do not have the time, resources, or interest to process every message fully—we frequently process messages spontaneously. In these cases, if we are influenced by the communication at all, it is likely that it is the relatively unimportant characteristics of the advertisement, such as the likeability or attractiveness of the communicator or the music playing in the ad, that will influence us.
+私たちは非常に多くの説得的メッセージにさらされており、すべてのメッセージを完全に処理する時間、資源、関心を持っていないため、しばしばメッセージを自発的に処理する。その場合、コミュニケーションの影響を受けるとすれば、コミュニケーターの好ましさや魅力、広告で流れている音楽など、広告の比較的重要でない特徴に影響される可能性が高い。
 
-If we find the communicator cute, if the music in the ad puts us in a good mood, or if it appears that other people around us like the ad, then we may simply accept the message without thinking about it very much (Giner-Sorolla & Chaiken, 1997). In these cases, we engage in spontaneous message processing, in which we accept a persuasion attempt because *we focus on whatever is most obvious or enjoyable, without much attention to the message itself*. Shelley Chaiken (1980) found that students who were not highly involved in a topic because it did not affect them personally, were more persuaded by a likeable communicator than by an unlikeable one, regardless of whether the communicator presented a good argument for the topic or a poor one. On the other hand, students who were more involved in the decision were more persuaded by the better message than by the poorer one, regardless of whether the communicator was likeable or not—they were not fooled by the likeability of the communicator.
+コミュニケーターがかわいいと思ったり、広告の音楽で気分が良くなったり、周囲の人々もその広告を好きなように見えたりすると、私たちはほとんど考えずにそのメッセージを受け入れることがある (Giner-Sorolla & Chaiken, 1997)。この場合、私たちは自発的メッセージ処理を行っている。これは、*メッセージそのものへあまり注意を払わず、最も目立つものや楽しいものへ焦点を当てることで、説得の試みを受け入れること*である。Shelley Chaiken (1980) は、あるテーマが自分自身には影響しないため関与度が低い学生は、そのテーマについて良い論拠を提示したか悪い論拠を提示したかにかかわらず、好ましくないコミュニケーターより好ましいコミュニケーターによって強く説得されることを見いだした。一方、意思決定への関与度が高い学生は、コミュニケーターが好ましいかどうかにかかわらず、質の低いメッセージより質の高いメッセージに強く説得された。彼らはコミュニケーターの好ましさに惑わされなかったのである。
 
-You might be able to think of some advertisements that are likely to be successful because they create spontaneous processing of the message by basing their persuasive attempts around creating emotional responses in the listeners. In these cases, the advertisers use associational learning to associate the positive features of the ad with the product. Television commercials are often humorous, and automobile ads frequently feature beautiful people having fun driving beautiful cars. The slogans “I’m lovin’ it,” “Life tastes good,” and “Good to the last drop” are good ads in part because they successfully create positive affect in the listener.
+聞き手に感情的反応を生じさせることを中心に説得を組み立てるため、メッセージの自発的処理を生み出し、成功しそうな広告をいくつか思い浮かべられるかもしれない。この場合、広告主は連合学習を使い、広告の肯定的な特徴と製品を結びつける。テレビCMはしばしばユーモラスであり、自動車広告では、美しい車を運転して楽しんでいる魅力的な人々がよく登場する。「I’m lovin’ it」「Life tastes good」「Good to the last drop」といったスローガンが優れた広告である理由の一つは、聞き手の中に肯定的感情をうまく生み出すからである。
 
-In some cases emotional ads may be effective because they lead us to watch or listen to the ad rather than simply change the channel or do something else. The clever and funny TV ads that are broadcast during the Super Bowl every year are likely to be effective because we watch them, remember them, and talk about them with others. In this case, the positive affect makes the ads more salient, causing them to grab our attention. But emotional ads also take advantage of the role of affect in information processing. We tend to like things more when we are in a good mood, and—because positive affect indicates that things are okay—we process information less carefully when we are in a good mood. Thus the spontaneous approach to persuasion is particularly effective when people are happy (Sinclair, Mark, & Clore, 1994), and advertisers try to take advantage of this fact.
+感情的な広告は、単にチャンネルを変えたり別のことをしたりするのではなく、その広告を見たり聞いたりするよう促すために効果を持つ場合もある。毎年 Super Bowl で放映される巧妙で面白いテレビCMは、私たちがそれを見て、覚え、他者と話題にするため、効果を持つ可能性が高い。この場合、肯定的感情によって広告の顕著性が高まり、注意を引く。しかし感情的広告は、情報処理における感情の役割も利用している。私たちは気分が良いとき、物事をより好ましく感じる傾向があり、肯定的感情は「物事はうまくいっている」と示すため、気分が良いときには情報をそれほど慎重に処理しない。そのため、説得への自発的アプローチは、とりわけ人々が幸せなときに効果的であり (Sinclair, Mark, & Clore, 1994)、広告主はこの事実を利用しようとする。
 
-Another type of ad that is based on emotional response is one that uses fear appeals, such as ads that show pictures of deadly automobile accidents to encourage seatbelt use or images of lung cancer surgery to decrease smoking. By and large, fearful messages are persuasive (Das, de Wit, & Stroebe, 2003; Perloff, 2003; Witte & Allen, 2000). Again, this is due in part to the fact that the emotional aspects of the ads make them salient and lead us to attend to and remember them. And fearful ads may also be framed in a way that leads us to focus on the salient negative outcomes that have occurred for one particular individual. When we see an image of a person who is jailed for drug use, we may be able to empathize with that person and imagine how we would feel if it happened to us. Thus this ad may be more effective than more “statistical” ads stating the base rates of the number of people who are jailed for drug use every year.
+感情的反応に基づくもう一種類の広告は、恐怖訴求を用いるものである。たとえばシートベルトの使用を促すため死亡事故の写真を見せたり、喫煙を減らすため肺がん手術の画像を見せたりする広告である。概して、恐怖を与えるメッセージには説得力がある (Das, de Wit, & Stroebe, 2003; Perloff, 2003; Witte & Allen, 2000)。これも一部には、広告の感情的側面によって顕著性が高まり、私たちが注意を向け、記憶するようになるからである。また、恐怖広告は、ある特定の個人に生じた目立つ否定的結果へ注意を向けさせるよう構成されることもある。薬物使用で収監された人物の画像を見ると、その人へ共感し、自分にも同じことが起こったらどう感じるかを想像できる。そのため、こうした広告は、毎年薬物使用で収監される人数の基礎率を示す、より「統計的な」広告より効果を持つ可能性がある。
 
-Fearful ads also focus on self-concern, and advertisements that are framed in a way that suggests that a behavior will harm the self are more effective than those framed more positively. Banks, Salovey, Greener, and Rothman (1995) found that a message that emphasized the negative aspects of not getting a breast cancer screening mammogram (e.g., “Not getting a mammogram can cost you your life”) was more effective than a similar message that emphasized the positive aspects of having a mammogram (e.g., “Getting a mammogram can save your life”) in convincing women to have a mammogram over the next year. These findings are consistent with the general idea that the brain responds more strongly to negative affect than it does to positive affect (Ito, Larsen, Smith, & Cacioppo, 1998).
+恐怖広告は自己への関心にも焦点を当てる。そして、ある行動が自己を害すると示唆するような形で構成された広告は、より肯定的に構成された広告より効果的である。Banks, Salovey, Greener, and Rothman (1995) は、乳がん検診のマンモグラフィーを受けないことの否定的側面を強調するメッセージ（たとえば「マンモグラフィーを受けないことは、あなたの命を奪う可能性があります」）のほうが、受けることの肯定的側面を強調する同様のメッセージ（たとえば「マンモグラフィーを受ければ、あなたの命を救える可能性があります」）より、翌年にマンモグラフィーを受けるよう女性を説得するうえで効果的であることを見いだした。この知見は、脳が肯定的感情より否定的感情へ強く反応するという一般的な考えと一致する (Ito, Larsen, Smith, & Cacioppo, 1998)。
 
-Although laboratory studies generally find that fearful messages are effective in persuasion, they may be less useful in real-world advertising campaigns (Hastings, Stead, & Webb, 2004). Fearful messages may create a lot of anxiety and therefore turn people off to the message (Shehryar & Hunt, 2005). For instance, people who know that smoking cigarettes is dangerous but who cannot seem to quit may experience particular anxiety about their smoking behaviors. Fear messages are more effective when people feel that they know how to rectify the problem, have the ability to actually do so, and take responsibility for the change. Without some feelings of self-efficacy, people do not know how to respond to the fear (Aspinwall, Kemeny, Taylor, & Schneider, 1991). Thus if you want to scare people into changing their behavior, it may be helpful if you also give them some ideas about how to do so, so that they feel like they have the ability to take action to make the changes (Passyn & Sujan, 2006).
+実験室研究では一般に恐怖メッセージが説得に効果的であることが示されるものの、現実の広告キャンペーンではそれほど有用でない場合がある (Hastings, Stead, & Webb, 2004)。恐怖メッセージは強い不安を引き起こし、人々をメッセージから遠ざけてしまう可能性がある (Shehryar & Hunt, 2005)。たとえば、喫煙が危険だと知っていてもやめられない人は、自分の喫煙行動について特に強い不安を経験するかもしれない。恐怖メッセージがより効果的なのは、人々が問題をどのように改善すればよいか分かっていると感じ、実際にそれを行う能力があり、その変化への責任を引き受ける場合である。自己効力感がある程度なければ、人は恐怖へどう反応すればよいのか分からない (Aspinwall, Kemeny, Taylor, & Schneider, 1991)。そのため、人を怖がらせて行動を変えようとするのであれば、どのように変えればよいかについても具体的な案を与え、行動を起こす能力があると感じてもらうことが役立つかもしれない (Passyn & Sujan, 2006)。
 
-![An infographics from Brazilian Health Ministry associates the fear of dying with cigarette smoking.](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/800px-Cigarettes_brazil.jpg)
+![ブラジル保健省のインフォグラフィックは、死への恐怖と喫煙を関連づけている。](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/800px-Cigarettes_brazil.jpg)
 
-*Figure 4.7*
+_図4.7_
 
-### Thoughtful Message Processing
+### メッセージの熟慮的処理
 
-When we process messages only spontaneously, our feelings are more likely to be important, but when we process messages thoughtfully, cognition prevails. When we care about the topic, find it relevant, and have plenty of time to think about the communication, we are likely to process the message more deliberatively, carefully, and thoughtfully (Petty & Briñol, 2008). In this case we *elaborate* on the communication by considering the pros and cons of the message and questioning the validity of the communicator and the message. Thoughtful message processing *occurs when we think about how the message relates to our own beliefs and goals and involves our careful consideration of whether the persuasion attempt is valid or invalid.*
+メッセージを自発的にしか処理しない場合には感情が重要になりやすいが、熟慮的に処理するときには認知が優勢になる。テーマを重要だと感じ、自分に関連していると考え、コミュニケーションについて考える時間が十分にあるとき、私たちはより意図的に、慎重に、熟慮しながらメッセージを処理する可能性が高い (Petty & Briñol, 2008)。この場合、メッセージの長所と短所を考え、コミュニケーターとメッセージの妥当性を問いながら、そのコミュニケーションを*精緻化*する。熟慮的メッセージ処理は、_メッセージが自分自身の信念や目標とどのように関係するかを考え、説得の試みが妥当か妥当でないかを慎重に検討するときに生じる。_
 
-When an advertiser presents a message that he or she hopes will be processed thoughtfully, the goal is to create positive cognitions about the attitude object in the listener. The communicator mentions positive features and characteristics of the product and at the same time attempts to downplay the negative characteristics. When people are asked to list their thoughts about a product while they are listening to, or right after they hear, a message, those who list more positive thoughts also express more positive attitudes toward the product than do those who list more negative thoughts (Petty & Briñol, 2008). Because the thoughtful processing of the message bolsters the attitude, thoughtful processing helps us develop strong attitudes, which are therefore resistant to counterpersuasion (Petty, Cacioppo, & Goldman, 1981).
+広告主が熟慮的に処理されることを期待するメッセージを提示するとき、その目標は、聞き手の中に態度対象についての肯定的認知を生み出すことである。コミュニケーターは製品の肯定的特徴や特性に言及すると同時に、否定的特徴を目立たなくしようとする。メッセージを聞いている最中、または聞いた直後に製品について考えたことを列挙してもらうと、肯定的な思考を多く挙げる人ほど、否定的思考を多く挙げる人より製品への態度も肯定的になる (Petty & Briñol, 2008)。メッセージを熟慮的に処理すると態度が補強されるため、熟慮的処理は、反対方向からの説得にも抵抗しやすい強い態度を形成する助けになる (Petty, Cacioppo, & Goldman, 1981)。
 
-### Which Route Do We Take: Thoughtful or Spontaneous?
+### どちらの経路を取るのか：熟慮的か、自発的か
 
-Both thoughtful and spontaneous messages can be effective, but it is important to know which is likely to be better in which situation and for which people. When we can motivate people to process our message carefully and thoughtfully, then we are going to be able to present our strong and persuasive arguments with the expectation that our audience will attend to them. If we can get the listener to process these strong arguments thoughtfully, then the attitude change will likely be strong and long lasting. On the other hand, when we expect our listeners to process only spontaneously—for instance, if they don’t care too much about our message or if they are busy doing other things—then we do not need to worry so much about the content of the message itself; even a weak (but interesting) message can be effective in this case. Successful advertisers tailor their messages to fit the expected characteristics of their audiences.
+熟慮的なメッセージも自発的なメッセージも効果を持ちうるが、どの状況で、どの人に、どちらが適しているかを知ることが重要である。人々にメッセージを慎重かつ熟慮的に処理するよう動機づけることができれば、聞き手が注意を向けることを期待しながら、強く説得的な論拠を提示できる。この強い論拠を熟慮的に処理してもらえれば、態度変化は強く、長く持続する可能性が高い。一方、聞き手が自発的にしか処理しないと予想される場合、たとえばメッセージをそれほど気にしていなかったり、ほかのことに忙しかったりする場合には、メッセージ自体の内容をそれほど心配する必要はない。その場合、弱くても興味を引くメッセージなら効果を持つことがある。優れた広告主は、予想される受け手の特徴に合わせてメッセージを調整する。
 
-In addition to being motivated to process the message, we must also have the ability to do so. If the message is too complex to understand, we may rely on spontaneous cues, such as the perceived trustworthiness or expertise of the communicator (Hafer, Reynolds, & Obertynski, 1996), and ignore the content of the message. When experts are used to attempt to persuade people—for instance, in complex jury trials—the messages that these experts give may be very difficult to understand. In these cases, the jury members may rely on the perceived expertise of the communicator rather than his or her message, being persuaded in a relatively spontaneous way. In other cases, we may not be able to process the information thoughtfully because we are distracted or tired—in these cases even weak messages can be effective, again because we process them spontaneously (Petty, Wells & Brock, 1976).
+メッセージを処理する動機があるだけでなく、その能力も必要である。メッセージが複雑すぎて理解できなければ、コミュニケーターが信頼できそうか、専門知識を持っていそうかといった自発的手がかりに頼り (Hafer, Reynolds, & Obertynski, 1996)、メッセージの内容を無視することがある。たとえば複雑な陪審裁判で専門家が人々を説得するために利用される場合、その専門家のメッセージは非常に理解しにくいことがある。その場合、陪審員はメッセージそのものより、コミュニケーターに知覚された専門性へ頼り、比較的自発的な形で説得されるかもしれない。また、気が散っていたり疲れていたりして情報を熟慮的に処理できない場合もあり、その場合には弱いメッセージでさえ効果を持つことがある。これも自発的に処理するためである (Petty, Wells & Brock, 1976)。
 
-Petty, Cacioppo, and Goldman (1981) showed how different motivations may lead to either spontaneous or thoughtful processing. In their research, college students heard a message suggesting that the administration at their college was proposing to institute a new comprehensive exam that all students would need to pass in order to graduate, and then rated the degree to which they were favorable toward the idea. The researchers manipulated three independent variables:
+Petty, Cacioppo, and Goldman (1981) は、異なる動機が自発的処理と熟慮的処理のどちらかにつながる仕組みを示した。研究では、大学生が、自分の大学の運営側が、卒業するためすべての学生が合格しなければならない新しい総合試験を導入しようとしている、というメッセージを聞き、その考えにどの程度賛成するかを評価した。研究者は3つの独立変数を操作した。
 
-- Message strength. The message contained either *strong arguments* (persuasive data and statistics about the positive effects of the exams at other universities) or *weak arguments* (relying only on individual quotations and personal opinions).
-- Source expertise. The message was supposedly prepared either by an *expert source* (the Carnegie Commission on Higher Education, which was chaired by a professor of education at Princeton University) or by a *nonexpert source* (a class at a local high school).
-- Personal relevance. The students were told either that the new exam would begin before they graduated (*high personal relevance*) or that it would not begin until after they had already graduated (*low personal relevance*).
+- メッセージの強さ。メッセージには、_強い論拠_（ほかの大学で試験が与えた肯定的効果についての説得力のあるデータや統計）か、_弱い論拠_（個人の引用や個人的意見だけに依存）が含まれていた。
+- 情報源の専門性。メッセージは、_専門家の情報源_（Princeton University の教育学教授が委員長を務める Carnegie Commission on Higher Education）か、_専門家ではない情報源_（地元高校の一クラス）のどちらかによって作成されたと説明された。
+- 個人的関連性。新しい試験が自分たちの卒業前に始まる（_高い個人的関連性_）か、自分たちが卒業した後まで始まらない（_低い個人的関連性_）かのどちらかを学生へ伝えた。
 
-As you can see in Figure 4.8, Petty and his colleagues found two interaction effects. The top panel of the figure shows that the students in the high personal relevance condition (left side) were not particularly influenced by the expertise of the source, whereas the students in the low personal relevance condition (right side) were. On the other hand, as you can see in the bottom panel, the students who were in the high personal relevance condition (left side) were strongly influenced by the quality of the argument, but the low personal involvement students (right side) were not.
+図4.8から分かるように、Petty とその同僚は2つの交互作用効果を見いだした。図の上段を見ると、個人的関連性が高い条件の学生（左側）は情報源の専門性からあまり影響を受けなかったが、個人的関連性が低い条件の学生（右側）は影響を受けた。一方、下段を見ると、個人的関連性が高い条件の学生（左側）は論拠の質から強く影響を受けたが、個人的関与が低い学生（右側）はそうではなかった。
 
-These findings fit with the idea that when the issue was important, the students engaged in thoughtful processing of the message itself. When the message was largely irrelevant, they simply used the expertise of the source without bothering to think about the message.
+この知見は、問題が重要な場合、学生がメッセージそのものを熟慮的に処理したという考えと一致する。メッセージが自分にほとんど関係しない場合には、メッセージについてわざわざ考えず、単に情報源の専門性を利用して判断したのである。
 
-![Argument-Based Persuasion](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-4-8.png)
+![論拠に基づく説得](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-4-8.png)
 
-*Figure 4.8 Personal involvement as a determinant of argument-based persuasion. Journal of Personality and Social Psychology, 41(5), 847–855. Petty, Cacioppo, and Goldman (1981) found that students for whom an argument was not personally relevant based their judgments on the expertise of the source (spontaneous processing), whereas students for whom the decision was more relevant were more influenced by the quality of the message (thoughtful processing).*
+_図4.8 論拠に基づく説得を決定する個人的関与。Journal of Personality and Social Psychology, 41(5), 847–855. Petty, Cacioppo, and Goldman (1981) は、論拠が自分にとって重要でない学生は情報源の専門性を判断の基礎にした（自発的処理）のに対し、意思決定がより自分に関係する学生はメッセージの質からより強く影響を受けた（熟慮的処理）ことを見いだした。_
 
-Because both thoughtful and spontaneous approaches can be successful, advertising campaigns, such as those used by Apple, carefully make use of both spontaneous and thoughtful messages. For example, the ad may showcase the new and useful features of a device like the iPad amid scenes of happy, creative, or productive people and an inspiring soundtrack.
+熟慮的アプローチも自発的アプローチも成功しうるため、Apple などの広告キャンペーンでは、自発的メッセージと熟慮的メッセージの両方を慎重に利用している。たとえば広告では、iPad のような端末の新しく便利な機能を、幸せそうで創造的、あるいは生産的な人々の映像や、感動的な音楽とともに紹介することがある。
 
-### Preventing Persuasion
+### 説得を防ぐ
 
-To this point, we have focused on techniques designed to change attitudes. But it is also useful to develop techniques that *prevent* attitude change. If you are hoping that Magritte will never puff that first cigarette, then you might be interested in knowing what her parents might be able to do to prevent that from happening.
+ここまでは態度を変えるための技法に焦点を当ててきた。しかし、態度の変化を*防ぐ*技法を身につけることも有用である。Magritte に最初の一本のタバコさえ吸ってほしくないと考えるなら、それを防ぐために両親が何をできるか知りたいだろう。
 
-One approach to improving an individual’s ability to resist persuasion is to help the person create a strong attitude. Strong attitudes are more difficult to change than are weak attitudes, and we are more likely to act on our strong attitudes. This suggests that Magritte’s parents might want help Magritte consider all the reasons that she should not smoke and develop strong negative affect about smoking. As Magritte’s negative thoughts and feelings about smoking become more well defined and more integrated into the self-concept, they should have a greater influence on her behavior.
+説得への抵抗力を高める一つの方法は、その人が強い態度を形成するのを助けることである。強い態度は弱い態度より変わりにくく、私たちは強い態度に基づいて行動しやすい。そのため Magritte の両親は、なぜ喫煙すべきでないのかという理由をすべて考えるよう促し、喫煙への強い否定的感情を形成するのを助けるとよいかもしれない。喫煙についての否定的な思考と感情がより明確になり、自己概念へより強く統合されるほど、それらは彼女の行動へ大きな影響を与えるはずである。
 
-One method of increasing attitude strength involves forewarning: *giving people a chance to develop a resistance to persuasion by reminding them that they might someday receive a persuasive message, and allowing them to practice how they will respond to influence attempts* (Sagarin & Wood, 2007). Magritte’s parents might want to try the forewarning approach. After the forewarning, when Magritte hears the smoking message from her peers, she may be less influenced by it because she was aware ahead of time that the persuasion would likely occur and had already considered how to resist it.
+態度の強さを高める方法の一つが事前警告である。これは、*将来説得的なメッセージを受け取る可能性があることを前もって知らせ、影響を与えようとする試みにどう反応するかを練習する機会を与えることで、説得への抵抗を形成させること*である (Sagarin & Wood, 2007)。Magritte の両親は事前警告を試してもよい。事前警告を受けた後、友人から喫煙を勧められても、そうした説得が起こりそうだと前もって理解し、どう抵抗するかをすでに考えているため、その影響を受けにくくなる可能性がある。
 
-Forewarning seems to be particularly effective when the message that is expected to follow attacks an attitude that we care a lot about. In these cases, the forewarning prepares us for action—we bring up our defenses to maintain our existing beliefs. When we don’t care much about the topic, on the other hand, we may simply change our belief before the appeal actually comes (Wood & Quinn, 2003).
+事前警告は、これから来ると予想されるメッセージが、自分にとって非常に重要な態度を攻撃する場合に特に有効なようである。その場合、事前警告によって私たちは行動の準備をし、既存の信念を守るため防御を固める。一方、そのテーマをあまり気にしていない場合には、説得的な働きかけが実際に来る前に、単に信念を変えてしまうこともある (Wood & Quinn, 2003)。
 
-Forewarning can be effective in helping people respond to persuasive messages that they will receive later.
+事前警告は、後から受け取る説得的メッセージへ対応する助けになる。
 
-A similar approach is to help build up the cognitive component of the attitude by presenting a weak attack on the existing attitude with the goal of helping the person create counterarguments about a persuasion attempt that is expected to come in the future. Just as an inoculation against the flu gives us a small dose of the influenza virus that helps prevent a bigger attack later, giving Magritte a weak argument to persuade her to smoke cigarettes can help her develop ways to resist the real attempts when they come in the future. This procedure—known as inoculation—*involves building up defenses against persuasion by mildly attacking the attitude position* (Compton & Pfau, 2005; McGuire, 1961). We would begin by telling Magritte the reasons that her friends might think that she *should* smoke (for instance, because everyone is doing it and it makes people look “cool”), therefore allowing her to create some new defenses against persuasion. Thinking about the potential arguments that she might receive and preparing the corresponding counterarguments will make the attitude stronger and more resistant to subsequent change attempts.
+似たアプローチとして、将来予想される説得の試みに対する反論を作れるよう、現在の態度へ弱い攻撃を加え、その態度の認知的構成要素を強化する方法がある。インフルエンザの予防接種が少量のウイルスを与えて、後のより大きな攻撃を防ぐ助けになるのと同じように、Magritte にタバコを吸うよう説得する弱い論拠を与えることで、将来本物の説得が来たときに抵抗する方法を形成する助けになる。この手続きは接種（inoculation）と呼ばれ、*態度の立場へ軽い攻撃を加えることで、説得に対する防御を形成すること*を伴う (Compton & Pfau, 2005; McGuire, 1961)。まず、友人たちが Magritte に喫煙*すべき*だと考えるかもしれない理由、たとえば「みんな吸っている」「格好よく見える」などを伝え、それによって説得への新しい防御を作れるようにする。将来受ける可能性のある論拠について考え、それに対応する反論を準備しておけば、態度はより強くなり、その後の変化の試みに抵抗しやすくなる。
 
-One difficulty with forewarning and inoculation attempts is that they may boomerang. If we feel that another person—for instance, a person who holds power over us—is attempting to take away our freedom to make our own decisions, we may respond with strong emotion, completely ignore the persuasion attempt, and perhaps even engage in the opposite behavior. Perhaps you can remember a time when you felt like your parents or someone else who had some power over you put too much pressure on you, and you rebelled against them.
+事前警告や接種の難点の一つは、逆効果になる可能性があることである。ほかの人、たとえば自分に対して権力を持つ人が、自分で決定する自由を奪おうとしていると感じると、強い感情で反応し、説得の試みを完全に無視し、さらには反対の行動をとる場合さえある。両親や、何らかの力を持つほかの人から圧力をかけられすぎて、反発した経験を思い出せるかもしれない。
 
-*The strong emotional response that we experience when we feel that our freedom of choice is being taken away when we expect that we should have choice* is known as psychological reactance (Brehm, 1966; Miron & Brehm, 2006). If Magritte’s parents are too directive in their admonitions about not smoking, she may feel that they do not trust her to make her own decisions and are attempting to make them for her. In this case, she may experience reactance and become *more* likely to start smoking. Erceg-Hurn and Steed (2011) found that the graphic warning images that are placed on cigarette packs could create reactance in people who viewed them, potentially reducing the warnings’ effectiveness in convincing people to stop smoking.
+*選択する自由があるはずなのに、その自由を奪われていると感じたときに経験する強い感情的反応*を、心理的リアクタンスという (Brehm, 1966; Miron & Brehm, 2006)。Magritte の両親が「絶対に喫煙してはいけない」と指示しすぎれば、自分で判断する能力を信頼されておらず、両親が代わりに決定しようとしていると感じるかもしれない。その場合、リアクタンスを経験し、むしろ喫煙を始める可能性が*高まる*こともある。Erceg-Hurn and Steed (2011) は、タバコの箱へ表示される生々しい警告画像が、それを見た人にリアクタンスを引き起こし、禁煙を促す警告の有効性を低下させる可能性があることを見いだした。
 
-Given the extent to which our judgments and behaviors are frequently determined by processes that occur outside of our conscious awareness, you might wonder whether it is possible to persuade people to change their attitudes or to get people to buy products or engage in other behaviors using subliminal advertising. Subliminal advertising occurs when a message, such as an advertisement or another image of a brand, is presented to the consumer without the person being aware that a message has been presented—for instance, by flashing messages quickly in a TV show, an advertisement, or a movie (Theus, 1994).
+私たちの判断や行動が意識の外で生じる過程によって頻繁に決定されていることを考えると、サブリミナル広告を使って態度を変えたり、製品を買わせたり、ほかの行動を取らせたりできるのだろうかと疑問に思うかもしれない。サブリミナル広告とは、広告やブランドの画像などのメッセージを、本人がメッセージを提示されたと意識しない形で消費者へ提示することであり、たとえばテレビ番組、広告、映画の中でメッセージをごく短時間だけ点滅させる方法などがある (Theus, 1994)。
 
-#### Social Psychology in the Public Interest
+#### 公共の利益における社会心理学
 
-##### Does Subliminal Advertising Work?
+##### サブリミナル広告には効果があるのか
 
-If it were effective, subliminal advertising would have some major advantages for advertisers because it would allow them to promote their product without directly interrupting the consumer’s activity and without the consumer knowing that he or she is being persuaded (Trappey, 1996). People cannot counterargue with, or attempt to avoid being influenced by, messages that they do not know they have received and this may make subliminal advertising particularly effective. Due to fears that people may be influenced to buy products out of their awareness, subliminal advertising has been legally banned in many countries, including Australia, Great Britain, and the United States.
+もし効果があるなら、サブリミナル広告には広告主にとって大きな利点がある。消費者の活動を直接中断することなく、また消費者自身が説得されていると知らないまま製品を宣伝できるからである (Trappey, 1996)。受け取ったことに気づいていないメッセージに対して反論したり、その影響を避けようとしたりすることはできないため、サブリミナル広告は特に有効になりうる。人々が意識しないまま商品を買うよう影響されることへの懸念から、サブリミナル広告は Australia、Great Britain、United States を含む多くの国で法的に禁止されている。
 
-Some research has suggested that subliminal advertising may be effective. Karremans, Stroebe, and Claus (2006) had Dutch college students view a series of computer trials in which a string of letters such as *BBBBBBBBB* or *BBBbBBBBB* was presented on the screen and the students were asked to pay attention to whether or not the strings contained a small *b*. However, immediately before each of the letter strings, the researchers presented either the name of a drink that is popular in Holland (“Lipton Ice”) or a control string containing the same letters as Lipton Ice (“Npeic Tol”). The priming words were presented so quickly (for only about 1/50th of a second) that the participants could not see them.
+サブリミナル広告が効果を持つ可能性を示した研究もある。Karremans, Stroebe, and Claus (2006) は、オランダの大学生に、一連のコンピュータ課題を行わせた。画面には _BBBBBBBBB_ や _BBBbBBBBB_ のような文字列が表示され、学生は小文字の _b_ が含まれているかどうかへ注意するよう求められた。しかし、それぞれの文字列の直前に、研究者はオランダで人気の飲料名（「Lipton Ice」）か、Lipton Ice と同じ文字からなる統制用文字列（「Npeic Tol」）を提示した。プライミング語は約50分の1秒という非常に短い時間しか提示されなかったため、参加者には見えなかった。
 
-Then the students were asked to indicate their intention to drink Lipton Ice by answering questions such as “If you would sit on a terrace now, how likely is it that you would order Lipton Ice?” and also to indicate how thirsty they were at this moment. The researchers found that the students who had been exposed to the Lipton Ice primes were significantly more likely to say that they would drink Lipton Ice than were those who had been exposed to the control words, but that this was only true for the participants who said that they were currently thirsty.
+その後、学生は「もし今テラス席に座っていたら、Lipton Ice を注文する可能性はどのくらいありますか」のような質問へ答え、Lipton Ice を飲む意図を示した。また、その時点でどの程度喉が渇いているかも答えた。研究者は、Lipton Ice のプライムへさらされた学生のほうが、統制用語へさらされた学生より、Lipton Ice を飲むと答える可能性が有意に高いことを見いだした。ただし、この効果は、その時点で喉が渇いていると答えた参加者だけに見られた。
 
-On the other hand, other research has not supported the effectiveness of subliminal advertising. Charles Trappey (1996) conducted a meta-analysis in which he combined 23 research studies that had tested the influence of subliminal advertising on consumer choice. The results showed that subliminal advertising had a negligible effect on consumer choice. Saegert (1987) concluded that “marketing should quit giving subliminal advertising the benefit of the doubt” (p. 107), arguing that the influences of subliminal stimuli are usually so weak that they are normally overshadowed by the person’s own decision making about the behavior.
+一方、サブリミナル広告の有効性を支持しない研究もある。Charles Trappey (1996) は、サブリミナル広告が消費者の選択へ与える影響を調べた23件の研究を統合したメタ分析を行った。その結果、サブリミナル広告が消費者の選択へ与える効果は無視できるほど小さかった。Saegert (1987) は「マーケティングはサブリミナル広告を疑わずに有効だと扱うのをやめるべきだ」(p. 107) と結論し、サブリミナル刺激の影響は通常きわめて弱く、その人自身による行動上の意思決定にかき消されると論じた。
 
-Even if a subliminal or subtle advertisement is perceived, previous experience with the product or similar products—or even unrelated, more salient stimuli at the moment—may easily overshadow any effect the subliminal message would have had (Moore, 1988). That is, even if we do perceive the “hidden” message, our prior attitudes or our current situation will likely have a stronger influence on our choices, potentially nullifying any effect the subliminal message would have had.
+サブリミナルまたは微妙な広告が知覚されたとしても、その製品や似た製品についての過去の経験、あるいはその時点でもっと目立つ無関係な刺激によって、サブリミナル・メッセージの効果は容易にかき消される可能性がある (Moore, 1988)。つまり、「隠された」メッセージを実際に知覚したとしても、以前から持っている態度や現在の状況のほうが選択へ強い影響を与える可能性が高く、サブリミナル・メッセージの効果を無効にしてしまう場合がある。
 
-Taken together, the evidence for the effectiveness of subliminal advertising is weak and its effects may be limited to only some people and only some conditions. You probably don’t have to worry too much about being subliminally persuaded in your everyday life even if subliminal ads are allowed in your country. Of course, although subliminal advertising is not that effective, there are plenty of other indirect advertising techniques that are. Many ads for automobiles and alcoholic beverages have sexual connotations, which indirectly (even if not subliminally) associate these positive features with their products. And there are the ever more frequent “product placement” techniques, where images of brands (cars, sodas, electronics, and so forth) are placed on websites and in popular TV shows and movies.
+総合すると、サブリミナル広告の有効性を示す証拠は弱く、その効果は一部の人、一部の条件に限られる可能性がある。たとえ住んでいる国でサブリミナル広告が認められていても、日常生活でサブリミナルに説得されることをあまり心配する必要はないだろう。ただし、サブリミナル広告そのものはそれほど効果的でなくても、ほかには多くの有効な間接広告技法がある。自動車やアルコール飲料の広告の多くには性的な含意があり、サブリミナルではないとしても、そうした肯定的特徴を間接的に製品と関連づけている。また、ブランドの画像、自動車、清涼飲料、電子機器などをウェブサイトや人気テレビ番組、映画の中へ配置する「プロダクト・プレイスメント」も、ますます頻繁に使われている。
 
-:::tip[Key Takeaways]
+:::tip[重要ポイント]
 
-- Advertising is effective in changing attitudes, and principles of social psychology can help us understand when and how advertising works.
-- Social psychologists study which communicators can deliver the most effective messages to which types of message recipients.
-- Communicators are more effective when they help their recipients feel good about themselves. Attractive, similar, trustworthy, and expert communicators are examples of effective communicators.
-- Attitude change that occurs over time, particularly when we no longer discount the impact of a low-credibility communicator, is known as the sleeper effect.
-- The messages that we deliver may be processed either spontaneously or thoughtfully. When we are processing messages only spontaneously, our feelings are more likely to be important, but when we process the message thoughtfully, cognition prevails.
-- Both thoughtful and spontaneous messages can be effective, in different situations and for different people.
-- One approach to improving an individual’s ability to resist persuasion is to help the person create a strong attitude. Procedures such as forewarning and inoculation can help increase attitude strength and thus reduce subsequent persuasion.
-- Taken together, the evidence for the effectiveness of subliminal advertising is weak, and its effects may be limited to only some people and only some conditions.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Reconsider the effectiveness of Apple’s marketing campaign for the latest iPhone in terms of the principles of persuasion that we have discussed.
-2. Find and discuss examples of web or TV ads that make use of the principles discussed in this section.
-3. Visit [the Joe Chemo site](http://www.joechemo.org/about.htm), designed to highlight and counterargue the negative effects of the Joe Camel cigarette ads. Create a presentation that summarizes the influence of cigarette ads on children.
-4. Based on our discussion of resistance to persuasion, what techniques would you use to help a child resist the pressure to start smoking or start using recreational drugs?
+- 広告には態度を変える効果があり、社会心理学の原理は、広告がいつ、どのように作用するかを理解する助けになる。
+- 社会心理学者は、どのようなコミュニケーターが、どのようなメッセージを、どのようなメッセージ受け手へ伝えると最も効果的なのかを研究する。
+- コミュニケーターは、受け手が自分自身について良い気分になれるようにするとき、より効果的である。魅力的、自分と似ている、信頼できる、専門的なコミュニケーターは、効果的なコミュニケーターの例である。
+- 時間の経過とともに生じる態度変化、とりわけ信頼性の低いコミュニケーターの影響をもはや割り引かなくなることで生じるものを、スリーパー効果という。
+- メッセージは自発的または熟慮的に処理される。自発的にしか処理していない場合には感情が重要になりやすいが、熟慮的に処理するときには認知が優勢になる。
+- 熟慮的なメッセージも自発的なメッセージも、異なる状況、異なる人に対して効果を持ちうる。
+- 説得への抵抗力を高める一つの方法は、強い態度を形成するのを助けることである。事前警告や接種などの手続きは、態度の強さを高め、その後の説得を減らす助けになる。
+- 総合すると、サブリミナル広告の有効性を示す証拠は弱く、その効果は一部の人、一部の条件に限られる可能性がある。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Aspinwall, L. G., Kemeny, M. E., Taylor, S. E., & Schneider, S. G. (1991). Psychosocial predictors of gay men’s AIDS risk-reduction behavior. *Health Psychology, 10*(6), 432–444.
+1. ここまで扱った説得の原理という観点から、最新の iPhone に対する Apple のマーケティング・キャンペーンの有効性を改めて考えなさい。
+2. 本節で扱った原理を利用しているウェブ広告またはテレビ広告の例を探し、論じなさい。
+3. Joe Camel のタバコ広告の否定的影響を強調し、それに反論するために作られた [Joe Chemo のサイト](http://www.joechemo.org/about.htm) を訪れなさい。タバコ広告が子どもへ与える影響をまとめたプレゼンテーションを作成しなさい。
+4. 説得への抵抗についての議論を踏まえ、子どもが喫煙や娯楽目的の薬物使用を始めるよう求める圧力へ抵抗できるようにするには、どのような技法を使うだろうか。
 
-Banks, S. M., Salovey, P., Greener, S., & Rothman, A. J. (1995). The effects of message framing on mammography utilization. *Health Psychology, 14*(2), 178–184.
+:::
 
-Brehm, J. (1966). *A theory of psychological reactance*. New York, NY: Academic Press;
+#### 参考文献
 
-Chaiken, S. (1980). Heuristic versus systematic information processing and the use of source versus message cues in persuasion. *Journal of Personality and Social Psychology, 39*(5), 752–766.
+Aspinwall, L. G., Kemeny, M. E., Taylor, S. E., & Schneider, S. G. (1991). Psychosocial predictors of gay men’s AIDS risk-reduction behavior. _Health Psychology, 10_(6), 432–444.
 
-Chen, S., & Chaiken, S. (1999). The heuristic-systematic model in its broader context. In *Dual-process theories in social psychology* (pp. 73–96). New York, NY: Guilford Press;
+Banks, S. M., Salovey, P., Greener, S., & Rothman, A. J. (1995). The effects of message framing on mammography utilization. _Health Psychology, 14_(2), 178–184.
 
-Compton, J. A., & Pfau, M. (2005). Inoculation theory of resistance to influence at maturity: Recent progress in theory development and application and suggestions for future research. *Communication Yearbook, 29*, 97–145;
+Brehm, J. (1966). _A theory of psychological reactance_. New York, NY: Academic Press;
 
-Das, E. H. H. J., de Wit, J. B. F., & Stroebe, W. (2003). Fear appeals motivate acceptance of action recommendations: Evidence for a positive bias in the processing of persuasive messages. *Personality and Social Psychology Bulletin, 29*(5), 650–664;
+Chaiken, S. (1980). Heuristic versus systematic information processing and the use of source versus message cues in persuasion. _Journal of Personality and Social Psychology, 39_(5), 752–766.
 
-Eagly, A. H., Wood, W., & Chaiken, S. (1978). Causal inferences about communicators and their effect on opinion change. *Journal of Personality and Social Psychology, 36*(4), 424–435;
+Chen, S., & Chaiken, S. (1999). The heuristic-systematic model in its broader context. In _Dual-process theories in social psychology_ (pp. 73–96). New York, NY: Guilford Press;
 
-Erceg-Hurn, D. M., & Steed, L. G. (2011). Does exposure to cigarette health warnings elicit psychological reactance in smokers? *Journal of Applied Social Psychology, 41*(1), 219–237.
+Compton, J. A., & Pfau, M. (2005). Inoculation theory of resistance to influence at maturity: Recent progress in theory development and application and suggestions for future research. _Communication Yearbook, 29_, 97–145;
 
-Friend, K., & Levy, D. T. (2001). Reductions in smoking prevalence and cigarette consumption associated with mass-media campaigns. *Health Education Research, 17*(1), 85-98.
+Das, E. H. H. J., de Wit, J. B. F., & Stroebe, W. (2003). Fear appeals motivate acceptance of action recommendations: Evidence for a positive bias in the processing of persuasive messages. _Personality and Social Psychology Bulletin, 29_(5), 650–664;
 
-Giner-Sorolla, R., & Chaiken, S. (1997). Selective use of heuristic and systematic processing under defense motivation. *Personality and Social Psychology Bulletin, 23*(1), 84–97.
+Eagly, A. H., Wood, W., & Chaiken, S. (1978). Causal inferences about communicators and their effect on opinion change. _Journal of Personality and Social Psychology, 36_(4), 424–435;
 
-Hafer, C. L., Reynolds, K. L., & Obertynski, M. A. (1996). Message comprehensibility and persuasion: Effects of complex language in counterattitudinal appeals to laypeople. *Social Cognition, 14*, 317–337.
+Erceg-Hurn, D. M., & Steed, L. G. (2011). Does exposure to cigarette health warnings elicit psychological reactance in smokers? _Journal of Applied Social Psychology, 41_(1), 219–237.
 
-Hastings, G., Stead, M., & Webb, J. (2004). Fear appeals in social marketing: Strategic and ethical reasons for concern. *Psychology and Marketing, 21*(11), 961–986. doi: 10.1002/mar.20043
+Friend, K., & Levy, D. T. (2001). Reductions in smoking prevalence and cigarette consumption associated with mass-media campaigns. _Health Education Research, 17_(1), 85-98.
 
-Hovland, C. I., Lumsdaine, A. A., & Sheffield, F. D. (1949). *Experiments on mass communication*. Princeton, NJ: Princeton University Press.
+Giner-Sorolla, R., & Chaiken, S. (1997). Selective use of heuristic and systematic processing under defense motivation. _Personality and Social Psychology Bulletin, 23_(1), 84–97.
 
-Ito, T. A., Larsen, J. T., Smith, N. K., & Cacioppo, J. T. (1998). Negative information weighs more heavily on the brain: The negativity bias in evaluative categorizations. *Journal of Personality and Social Psychology, 75*(4), 887–900.
+Hafer, C. L., Reynolds, K. L., & Obertynski, M. A. (1996). Message comprehensibility and persuasion: Effects of complex language in counterattitudinal appeals to laypeople. _Social Cognition, 14_, 317–337.
 
-Johnson, B. (2013). 10 things you should know about the global ad market. *Ad Age*. Retrieved from http://adage.com/article/global-news/10-things-global-ad-market/245572/
+Hastings, G., Stead, M., & Webb, J. (2004). Fear appeals in social marketing: Strategic and ethical reasons for concern. _Psychology and Marketing, 21_(11), 961–986. doi: 10.1002/mar.20043
 
-Karremans, J. C., Stroebe, W., & Claus, J. (2006). Beyond Vicary’s fantasies: The impact of subliminal priming and brand choice. *Journal of Experimental Social Psychology, 42*(6), 792–798.
+Hovland, C. I., Lumsdaine, A. A., & Sheffield, F. D. (1949). _Experiments on mass communication_. Princeton, NJ: Princeton University Press.
 
-Kumkale, G. T., & Albarracín, D. (2004). The sleeper effect in persuasion: A meta-analytic review. *Psychological Bulletin, 130*(1), 143–172. doi: 10.1037/0033-2909.130.1.143
+Ito, T. A., Larsen, J. T., Smith, N. K., & Cacioppo, J. T. (1998). Negative information weighs more heavily on the brain: The negativity bias in evaluative categorizations. _Journal of Personality and Social Psychology, 75_(4), 887–900.
 
-MacLachlan, J. H., & Siegel, M. H. (1980). Reducing the costs of TV commercials by use of time compressions. *Journal of Marketing Research, 17*(1), 52–57;
+Johnson, B. (2013). 10 things you should know about the global ad market. _Ad Age_. Retrieved from http://adage.com/article/global-news/10-things-global-ad-market/245572/
 
-McGuire, W. J. (1961). The effectiveness of supportive and refutational defenses in immunizing defenses. *Sociometry, 24*, 184–197.
+Karremans, J. C., Stroebe, W., & Claus, J. (2006). Beyond Vicary’s fantasies: The impact of subliminal priming and brand choice. _Journal of Experimental Social Psychology, 42_(6), 792–798.
 
-Megehee, C. M., Dobie, K., & Grant, J. (2003). Time versus pause manipulation in communications directed to the young adult population: Does it matter? *Journal of Advertising Research, 43*(3), 281–292.
+Kumkale, G. T., & Albarracín, D. (2004). The sleeper effect in persuasion: A meta-analytic review. _Psychological Bulletin, 130_(1), 143–172. doi: 10.1037/0033-2909.130.1.143
 
-Miron, A. M., & Brehm, J. W. (2006). Reaktanz theorie—40 Jahre spärer. *Zeitschrift fur Sozialpsychologie, 37*(1), 9–18. doi: 10.1024/0044-3514.37.1.9
+MacLachlan, J. H., & Siegel, M. H. (1980). Reducing the costs of TV commercials by use of time compressions. _Journal of Marketing Research, 17_(1), 52–57;
 
-Moore, D. L., Hausknecht, D., & Thamodaran, K. (1986). Time compression, response opportunity, and persuasion. *Journal of Consumer Research, 13*(1), 85–99.
+McGuire, W. J. (1961). The effectiveness of supportive and refutational defenses in immunizing defenses. _Sociometry, 24_, 184–197.
 
-Moore, T. E. (1988). The case against subliminal manipulation. *Psychology and Marketing, 5*(4), 297–316.
+Megehee, C. M., Dobie, K., & Grant, J. (2003). Time versus pause manipulation in communications directed to the young adult population: Does it matter? _Journal of Advertising Research, 43_(3), 281–292.
 
-Passyn, K., & Sujan, M. (2006). Self-accountability emotions and fear appeals: Motivating behavior. *Journal of Consumer Research, 32*(4), 583–589. doi: 10.1086/500488
+Miron, A. M., & Brehm, J. W. (2006). Reaktanz theorie—40 Jahre spärer. _Zeitschrift fur Sozialpsychologie, 37_(1), 9–18. doi: 10.1024/0044-3514.37.1.9
 
-Perloff, R. M. (2003). *The dynamics of persuasion: Communication and attitudes in the 21st century* (2nd ed.). Mahwah, NJ: Lawrence Erlbaum;
+Moore, D. L., Hausknecht, D., & Thamodaran, K. (1986). Time compression, response opportunity, and persuasion. _Journal of Consumer Research, 13_(1), 85–99.
 
-Petty, R. E., & Briñol, P. (2008). Persuasion: From single to multiple to metacognitive processes. *Perspectives on Psychological Science, 3*(2), 137–147. doi: 10.1111/j.1745-6916.2008.00071.x
+Moore, T. E. (1988). The case against subliminal manipulation. _Psychology and Marketing, 5_(4), 297–316.
 
-Petty, R. E., Cacioppo, J. T., & Goldman, R. (1981). Personal involvement as a determinant of argument-based persuasion. *Journal of Personality and Social Psychology, 41*(5), 847–855.
+Passyn, K., & Sujan, M. (2006). Self-accountability emotions and fear appeals: Motivating behavior. _Journal of Consumer Research, 32_(4), 583–589. doi: 10.1086/500488
 
-Petty, R. E., & Wegener, D. T. (1999). The elaboration likelihood model: Current status and controversies. In S. Chaiken & Y. Trope (Eds.), *Dual-process theories in social psychology* (pp. 37-72). New York: Guilford Press.
+Perloff, R. M. (2003). _The dynamics of persuasion: Communication and attitudes in the 21st century_ (2nd ed.). Mahwah, NJ: Lawrence Erlbaum;
 
-Petty, R. E., Wells, G. L., & Brock, T. C. (1976). Distraction can enhance or reduce yielding to propaganda: Thought disruption versus effort justification. *Journal of Personality and Social Psychology, 34*(5), 874–884.
+Petty, R. E., & Briñol, P. (2008). Persuasion: From single to multiple to metacognitive processes. _Perspectives on Psychological Science, 3_(2), 137–147. doi: 10.1111/j.1745-6916.2008.00071.x
 
-Priester, J. R., & Petty, R. E. (2003). The influence of spokesperson trustworthiness on message elaboration, attitude strength, and advertising effectiveness. *Journal of Consumer Psychology, 13*(4), 408–421.
+Petty, R. E., Cacioppo, J. T., & Goldman, R. (1981). Personal involvement as a determinant of argument-based persuasion. _Journal of Personality and Social Psychology, 41_(5), 847–855.
 
-Saegert, J. (1987). Why marketing should quit giving subliminal advertising the benefit of the doubt. *Psychology and Marketing, 4*(2), 107–121.
+Petty, R. E., & Wegener, D. T. (1999). The elaboration likelihood model: Current status and controversies. In S. Chaiken & Y. Trope (Eds.), _Dual-process theories in social psychology_ (pp. 37-72). New York: Guilford Press.
 
-Sagarin, B. J., & Wood, S. E. (2007). Resistance to influence. In A. R. Pratkanis (Ed.), *The science of social influence: Advances and future progress* (pp. 321–340). New York, NY: Psychology Press.
+Petty, R. E., Wells, G. L., & Brock, T. C. (1976). Distraction can enhance or reduce yielding to propaganda: Thought disruption versus effort justification. _Journal of Personality and Social Psychology, 34_(5), 874–884.
 
-Shehryar, O., & Hunt, D. M. (2005). A terror management perspective on the persuasiveness of fear appeals. *Journal of Consumer Psychology, 15*(4), 275–287. doi: 10.1207/s15327663jcp1504\_2
+Priester, J. R., & Petty, R. E. (2003). The influence of spokesperson trustworthiness on message elaboration, attitude strength, and advertising effectiveness. _Journal of Consumer Psychology, 13_(4), 408–421.
 
-Sinclair, R. C., Mark, M. M., & Clore, G. L. (1994). Mood-related persuasion depends on (mis)attributions. *Social Cognition, 12*(4), 309–326.
+Saegert, J. (1987). Why marketing should quit giving subliminal advertising the benefit of the doubt. _Psychology and Marketing, 4_(2), 107–121.
 
-Theus, K. T. (1994). Subliminal advertising and the psychology of processing unconscious stimuli: A review of research. *Psychology and Marketing, 11*(3), 271–291.
+Sagarin, B. J., & Wood, S. E. (2007). Resistance to influence. In A. R. Pratkanis (Ed.), _The science of social influence: Advances and future progress_ (pp. 321–340). New York, NY: Psychology Press.
 
-Trappey, C. (1996). A meta-analysis of consumer choice and subliminal advertising. *Psychology and Marketing, 13*(5), 517–531.
+Shehryar, O., & Hunt, D. M. (2005). A terror management perspective on the persuasiveness of fear appeals. _Journal of Consumer Psychology, 15_(4), 275–287. doi: 10.1207/s15327663jcp1504_2
 
-Witte, K., & Allen, M. (2000). A meta-analysis of fear appeals: Implications for effective public health campaigns. *Health Education & Behavior, 27*(5), 591–615.
+Sinclair, R. C., Mark, M. M., & Clore, G. L. (1994). Mood-related persuasion depends on (mis)attributions. _Social Cognition, 12_(4), 309–326.
 
-Wood, W., & Eagly, A. (1981). Stages in the analysis of persuasive messages: The role of causal attributions and message comprehension. *Journal of Personality and Social Psychology, 40*(2), 246–259.
+Theus, K. T. (1994). Subliminal advertising and the psychology of processing unconscious stimuli: A review of research. _Psychology and Marketing, 11_(3), 271–291.
 
-Wood, W., & Quinn, J. M. (2003). Forewarned and forearmed? Two meta-analysis syntheses of forewarnings of influence appeals. *Psychological Bulletin, 129*(1), 119–138.
+Trappey, C. (1996). A meta-analysis of consumer choice and subliminal advertising. _Psychology and Marketing, 13_(5), 517–531.
 
-#### Media Attributions
+Witte, K., & Allen, M. (2000). A meta-analysis of fear appeals: Implications for effective public health campaigns. _Health Education & Behavior, 27_(5), 591–615.
+
+Wood, W., & Eagly, A. (1981). Stages in the analysis of persuasive messages: The role of causal attributions and message comprehension. _Journal of Personality and Social Psychology, 40_(2), 246–259.
+
+Wood, W., & Quinn, J. M. (2003). Forewarned and forearmed? Two meta-analysis syntheses of forewarnings of influence appeals. _Psychological Bulletin, 129_(1), 119–138.
+
+#### メディアの帰属表示
 
 - “[Oprah Winfrey at 2011 TCA](https://en.wikipedia.org/wiki/File:Oprah_Winfrey_at_2011_TCA.jpg)” by [Greg Hernandez](https://www.flickr.com/people/35735432@N07) is [licensed under a CC BY 2.0 licence.](https://creativecommons.org/licenses/by/2.0/deed.en)
-- “[Federer WM16 (37) (28136155830)](https://commons.wikimedia.org/wiki/File:Federer_WM16_(37)_(28136155830).jpg)” by [si.robi](https://www.flickr.com/people/16732597@N07) is licensed under a [CC BY-SA 2.0 licence.](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+- “[Federer WM16 (37) (28136155830)](<https://commons.wikimedia.org/wiki/File:Federer_WM16_(37)_(28136155830).jpg>)” by [si.robi](https://www.flickr.com/people/16732597@N07) is licensed under a [CC BY-SA 2.0 licence.](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
 - “[Bono at the 2009 Tribeca Film Festival](https://commons.wikimedia.org/wiki/File:Bono_at_the_2009_Tribeca_Film_Festival.jpg)” by [David Shankbone](https://en.wikipedia.org/wiki/David_Shankbone) is licensed under a [CC BY 3.0 licence.](https://creativecommons.org/licenses/by/3.0/deed.en)
 - “[Cigarettes brazil](https://en.wikipedia.org/wiki/File:Cigarettes_brazil.JPG)” by [Brazilian Health Ministry (MS) – Instituto Nacional do Câncer (INCA)](https://www.inca.gov.br/tabagismo/publicacoes/brasil_advertencias_sanitarias_nos_produtos_de_tabaco2009b.pdf) is licensed under a [Public domain licence.](https://en.wikipedia.org/wiki/Public_domain)
 - “Figure 4.8 Personal involvement as a determinant of argument-based persuasion” is based on data from Petty, Cacioppo, and Goldman (1981). Journal of Personality and Social Psychology, 41(5), 847–855.

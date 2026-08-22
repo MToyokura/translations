@@ -1,12 +1,13 @@
 ---
-title: "4.4 Thinking Like a Social Psychologist about Attitudes, Behavior, and Persuasion"
+title: "4.4 態度、行動、説得について社会心理学者のように考える"
 sidebar:
   order: 31
 ---
-Now that we have discussed the concept of attitudes more fully, we hope you can better understand how they fit into the bigger picture of social psychology. Attitudes are central because they provide an organizing principle that helps us understand when and how our beliefs, feelings, and behaviors work together. We hope you can now see some of the many ways that your attitudes toward people, social groups, products, and many other objects help you make sense of your environment and react quickly to it.
 
-Hopefully this chapter has also given you more insight into the many techniques that advertisers use to persuade people, and perhaps given you ideas about how to prevent that persuasion from occurring. You may now have a better understanding of the remarkable success of Apple’s iPhone as well as the techniques used in other advertising campaigns. Can you see how the features of the iPhone (e-mail and calendar management, social media integration, music storage, etc.) have had such an impact on consumers? Can you see that the iPhone’s marketing campaign messages created very strong attitudes on the part of technologically savvy consumers, which made them likely to act on these attitudes? Perhaps you might see how the processes of self-perception and cognitive dissonance were important in making and keeping the momentum of the iPhone sales. Perhaps, once people bought and started to use their iPhones their perceptions of their own behavior drove their attitudes to be even more positive.
+ここまで態度という概念についてより詳しく議論してきたので、社会心理学というより大きな枠組みの中で、態度がどのような位置を占めるのかを以前よりよく理解できるようになっただろう。態度が中心的に重要なのは、信念、感情、行動がいつ、どのように一緒に働くのかを理解するための整理原理を与えてくれるからである。人、社会集団、製品、その他さまざまな対象への態度が、環境を理解し、それへ素早く反応するうえでどれほど多様な形で役立っているかも、今では分かるだろう。
 
-Think about some of the other ads that you have seen recently and consider the principles of persuasion that they used. Were the ads effective in matching the communicator, the message, and the message recipient?
+また本章によって、広告主が人々を説得するために用いる多くの技法について理解が深まり、そのような説得を防ぐ方法についても考えられるようになったことを願う。Apple の iPhone が驚くほど成功した理由や、ほかの広告キャンペーンで使われている技法についても、以前よりよく理解できるかもしれない。iPhone の機能、たとえば電子メールやカレンダー管理、ソーシャルメディアとの統合、音楽の保存などが、消費者へなぜこれほど大きな影響を与えたのか理解できるだろうか。iPhone のマーケティング・キャンペーンのメッセージによって、テクノロジーに詳しい消費者の中に非常に強い態度が作られ、その態度に基づいて行動しやすくなったことが分かるだろうか。また、iPhone の販売の勢いを生み、それを維持するうえで、自己知覚や認知的不協和の過程が重要だったことも考えられる。人々が iPhone を購入し、使い始めると、自分自身の行動についての知覚によって、iPhone への態度がさらに肯定的になった可能性もある。
 
-You may also want to consider the principles of self-perception and cognitive dissonance as you analyze your own behavior. Can you remember times when your behavior influenced your attitudes? Were the attitudes changed as a result of self-perception or cognitive dissonance? Do you remember feeling the negative emotions associated with dissonance? Perhaps you realize that the rationalizations that you make to relieve your dissonance might not always have such positive outcomes in the long term.
+最近見たほかの広告について考え、そこでどのような説得の原理が使われていたか検討してみよう。その広告では、コミュニケーター、メッセージ、メッセージ受け手が効果的に組み合わされていただろうか。
+
+自分自身の行動を分析するときには、自己知覚と認知的不協和の原理についても考えてみるとよい。自分の行動が自分の態度へ影響したときを思い出せるだろうか。その態度は自己知覚によって変わったのだろうか、それとも認知的不協和によって変わったのだろうか。不協和に伴う否定的な感情を経験したことを覚えているだろうか。不協和を和らげるために行う合理化が、長期的には必ずしも肯定的な結果をもたらさない場合があることにも気づくかもしれない。

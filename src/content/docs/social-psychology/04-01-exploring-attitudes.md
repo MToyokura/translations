@@ -1,220 +1,221 @@
 ---
-title: "4.1 Exploring Attitudes"
+title: "4.1 態度を探る"
 sidebar:
   order: 28
 ---
-:::note[Learning Objectives]
 
-1. Define the concept of an attitude and explain why it is of such interest to social psychologists.
-2. Review the variables that determine attitude strength.
-3. Outline the factors that affect the strength of the attitude-behavior relationship.
+:::note[学習目標]
 
-:::
-
-Although we might use the term in a different way in our everyday life (e.g., “Hey, he’s really got an *attitude*!”), social psychologists reserve the term attitude to refer to our *relatively enduring evaluation of something, where the something is called the attitude object*. The attitude object might be a person, a product, or a social group (Albarracín, Johnson, & Zanna, 2005; Wood, 2000). In this section, we will consider the nature and strength of attitudes and the conditions under which attitudes best predict our behaviors.
-
-## Attitudes Are Evaluations
-
-When we say that attitudes are evaluations, we mean that they involve a preference for or against the attitude object, as commonly expressed in terms such as *prefer*, *like*, *dislike*, *hate*, and *love*. When we express our attitudes—for instance, when we say, “I like swimming,” “I hate snakes,” or “I love my parents” —we are expressing the relationship (either positive or negative) between the self and an attitude object. Statements such as these make it clear that attitudes are an important part of the self-concept.
-
-Every human being holds thousands of attitudes, including those about family and friends, political figures, abortion rights, terrorism, preferences for music, and much more. Each of our attitudes has its own unique characteristics, and no two attitudes come to us or influence us in quite the same way. Research has found that some of our attitudes are inherited, at least in part, via genetic transmission from our parents (Olson, Vernon, Harris, & Jang, 2001). Other attitudes are learned mostly through direct and indirect experiences with the attitude objects (De Houwer, Thomas, & Baeyens, 2001). We may like to ride roller coasters in part because our genetic code has given us a thrill-loving personality and in part because we’ve had some really great times on roller coasters in the past. Still other attitudes are learned via the media (Hargreaves & Tiggemann, 2003; Levina, Waldo, & Fitzgerald, 2000) or through our interactions with friends (Poteat, 2007). Some of our attitudes are shared by others (most of us like sugar, fear snakes, and are disgusted by cockroaches), whereas other attitudes—such as our preferences for different styles of music or art—are more individualized.
-
-Table 4.1, “Heritability of Some Attitudes,” shows some of the attitudes that have been found to be the most highly heritable (i.e., most strongly determined by genetic variation among people). These attitudes form earlier and are stronger and more resistant to change than others (Bourgeois, 2002), although it is not yet known why some attitudes are more genetically determined than are others.
-
-<table style="width: 100%;"><caption>Table 4.1 Heritability of Some Attitudes</caption> <thead><tr><th scope="col">Attitude</th> <th scope="col">Heritability</th> </tr> </thead> <tbody><tr><td>Abortion on demand</td> <td>0.54</td> </tr> <tr><td>Roller coaster rides</td> <td>0.52</td> </tr> <tr><td>Death penalty for murder</td> <td>0.5</td> </tr> <tr><td>Organized religion</td> <td>0.45</td> </tr> <tr><td>Doing athletic activities</td> <td>0.44</td> </tr> <tr><td>Voluntary euthanasia</td> <td>0.44</td> </tr> <tr><td>Capitalism</td> <td>0.39</td> </tr> <tr><td>Playing chess</td> <td>0.38</td> </tr> <tr><td>Reading books</td> <td>0.37</td> </tr> <tr><td>Exercising</td> <td>0.36</td> </tr> <tr><td>Education</td> <td>0.32</td> </tr> <tr><td>Big parties</td> <td>0.32</td> </tr> <tr><td>Smoking</td> <td>0.31</td> </tr> <tr><td>Being the center of attention</td> <td>0.28</td> </tr> <tr><td>Getting along well with other people</td> <td>0.28</td> </tr> <tr><td>Wearing clothes that draw attention</td> <td>0.24</td> </tr> <tr><td>Sweets</td> <td>0.22</td> </tr> <tr><td>Public speaking</td> <td>0.2</td> </tr> <tr><td>Castration as punishment for sex crimes</td> <td>0.17</td> </tr> <tr><td>Loud music</td> <td>0.11</td> </tr> <tr><td>Looking my best at all times</td> <td>0.1</td> </tr> <tr><td>Doing crossword puzzles</td> <td>0.02</td> </tr> <tr><td>Separate roles for men and women</td> <td>0</td> </tr> <tr><td>Making racial discrimination illegal</td> <td>0</td> </tr> <tr><td>Playing organized sports</td> <td>0</td> </tr> <tr><td>Easy access to birth control</td> <td>0</td> </tr> <tr><td>Being the leader of groups</td> <td>0</td> </tr> <tr><td>Being assertive</td> <td>0</td> </tr> <tr><th colspan="2">Ranked from most heritable to least heritable. Data are from Olson, Vernon, Harris, and Jang (2001). Olson, J. M., Vernon, P. A., Harris, J. A., Harris, J.A., &amp; Jang, K. L. (2001). The heritability of attitudes: A study of twins. Journal of Personality and Social Psychology, 80(6), 845–860.</th> </tr> </tbody> </table>
-
-Our attitudes are made up of cognitive, affective, and behavioral components. Consider an environmentalist’s attitude toward recycling, which is probably very positive:
-
-- *In terms of affect: They feel happy when they recycle.*
-- *In terms of behavior: They* *regularly recycle their bottles and cans.*
-- *In terms of cognition: They believe recycling is the responsible thing to do.*
-
-Although most attitudes are determined by affect, behavior, and cognition, there is nevertheless variability in this regard across people and across attitudes. Some attitudes are more likely to be based on feelings, some are more likely to be based on behaviors, and some are more likely to be based on beliefs. For example, your attitude toward chocolate ice cream is probably determined in large part by affect—although you can describe its taste, mostly you may just like it. Your attitude toward your toothbrush, on the other hand, is probably more cognitive (you understand the importance of its function). Still other of your attitudes may be based more on behavior. For example, your attitude toward note-taking during lectures probably depends, at least in part, on whether or not you regularly take notes.
-
-Different people may hold attitudes toward the same attitude object for different reasons. For example, some people vote for politicians because they like their policies, whereas others vote for (or against) politicians because they just like (or dislike) their public persona. Although you might think that cognition would be more important in this regard, political scientists have shown that many voting decisions are made primarily on the basis of affect. Indeed, it is fair to say that the affective component of attitudes is generally the strongest and most important (Abelson, Kinder, Peters, & Fiske, 1981; Stangor, Sullivan, & Ford, 1991).
-
-Human beings hold attitudes because they are useful. Particularly, our attitudes enable us to determine, often very quickly and effortlessly, which behaviors to engage in, which people to approach or avoid, and even which products to buy (Duckworth, Bargh, Garcia, & Chaiken, 2002; Maio & Olson, 2000). You can imagine that making quick decisions about what to avoid or approach has had substantial value in our evolutionary experience. For example:
-
-- Snake = bad ⟶ run away
-- Blueberries = good ⟶ eat
-
-Because attitudes are evaluations, they can be assessed using any of the normal measuring techniques used by social psychologists (Banaji & Heiphetz, 2010). Attitudes are frequently assessed using self-report measures, but they can also be assessed more indirectly using measures of arousal and facial expressions (Mendes, 2008) as well as implicit measures of cognition, such as the Implicit Association Test (IAT). Attitudes can also be seen in the brain by using neuroimaging techniques. This research has found that our attitudes, like most of our social knowledge, are stored primarily in the prefrontal cortex but that the amygdala is important in emotional attitudes, particularly those associated with fear (Cunningham, Raye, & Johnson, 2004; Cunningham & Zelazo, 2007; van den Bos, McClure, Harris, Fiske, & Cohen, 2007). Attitudes can be activated extremely quickly—often within one-fifth of a second after we see an attitude object (Handy, Smilek, Geiger, Liu, & Schooler, 2010).
-
-### Some Attitudes Are Stronger Than Others
-
-Some attitudes are more important than others because they are more useful to us and thus have more impact on our daily lives. *The importance of an attitude, as assessed by how quickly it comes to mind*, is known as attitude strength (Fazio, 1990; Fazio, 1995; Krosnick & Petty, 1995). Some of our attitudes are strong attitudes, in the sense that we find them important, hold them with confidence, do not change them very much, and use them frequently to guide our actions. These strong attitudes may guide our actions completely out of our awareness (Ferguson, Bargh, & Nayak, 2005).
-
-Other attitudes are weaker and have little influence on our actions. For instance, John Bargh and his colleagues (Bargh, Chaiken, Raymond, & Hymes, 1996) found that people could express attitudes toward nonsense words such as *juvalamu* (which people liked) and *chakaka* (which they did not like). The researchers also found that these attitudes were very weak.
-
-Strong attitudes are more cognitively accessible—they come to mind quickly, regularly, and easily. We can easily measure attitude strength by assessing how quickly our attitudes are activated when we are exposed to the attitude object. If we can state our attitude quickly, without much thought, then it is a strong one. If we are unsure about our attitude and need to think about it for a while before stating our opinion, the attitude is weak.
-
-Attitudes become stronger when we have direct positive or negative experiences with the attitude object, and particularly if those experiences have been in strong positive or negative contexts. Russell Fazio and his colleagues (Fazio, Powell, & Herr, 1983) had people either work on some puzzles or watch other people work on the same puzzles. Although the people who watched ended up either liking or disliking the puzzles as much as the people who actually worked on them, Fazio found that attitudes, as assessed by reaction time measures, were stronger (in the sense of being expressed quickly) for the people who had directly experienced the puzzles.
-
-Because attitude strength is determined by cognitive accessibility, it is possible to make attitudes stronger by increasing the accessibility of the attitude. This can be done directly by having people think about, express, or discuss their attitudes with others. After people think about their attitudes, talk about them, or just say them out loud, the attitudes they have expressed become stronger (Downing, Judd, & Brauer, 1992; Tesser, Martin, & Mendolia, 1995). Because attitudes are linked to the self-concept, they also become stronger when they are activated along with the self-concept. When we are looking into a mirror or sitting in front of a TV camera, our attitudes are activated and we are then more likely to act on them (Beaman, Klentz, Diener, & Svanum, 1979).
-
-Attitudes are also stronger when the ABCs of affect, behavior, and cognition all align. As an example, many people’s attitude toward their own nation is universally positive. They have strong positive feelings about their country, many positive thoughts about it, and tend to engage in behaviors that support it. Other attitudes are less strong because the affective, cognitive, and behavioral components are each somewhat different (Thompson, Zanna, & Griffin, 1995). Your cognitions toward physical exercise may be positive—you believe that regular physical activity is good for your health. On the other hand, your affect may be negative—you may resist exercising because you prefer to engage in tasks that provide more immediate rewards. Consequently, you may not exercise as often as you believe you ought to. These inconsistencies among the components of your attitude make it less strong than it would be if all the components lined up together.
-
-### When Do Our Attitudes Guide Our Behavior?
-
-Social psychologists (as well as advertisers, marketers, and politicians) are particularly interested in the behavioral aspect of attitudes. Because it is normal that the ABCs of our attitudes are at least somewhat consistent, our behavior tends to follow from our affect and cognition. If I determine that you have more positive cognitions about and more positive affect toward waffles than French toast, then I will naturally predict (and probably be correct when I do so) that you’ll be more likely to order waffles than French toast when you eat breakfast at a restaurant. Furthermore, if I can do something to make your thoughts or feelings toward French toast more positive, then your likelihood of ordering it for breakfast will also increase.
-
-The principle of attitude consistency (that *for any given attitude object, the ABCs of affect, behavior, and cognition are normally in line with each other*) thus predicts that our attitudes (for instance, as measured via a self-report measure) are likely to *guide behavior*. Supporting this idea, meta-analyses have found that there is a significant and substantial positive correlation among the different components of attitudes, and that attitudes expressed on self-report measures do predict behavior (Glasman & Albarracín, 2006).
-
-However, our attitudes are not the only factor that influence our decision to act. The *theory of planned behavior*, developed by Martin Fishbein and Izek Ajzen (Ajzen, 1991; Fishbein & Ajzen, 1975), outlines three key variables that affect the attitude-behavior relationship: (a) the attitude toward the behaviour (the stronger the better), (b) subjective norms (the support of those we value), and (c) perceived behavioral control (the extent to which we believe we can actually perform the behavior). These three factors jointly predict our intention to perform the behavior, which in turn predicts our actual behavior (Figure 4.2, “Theory of Planned Behavior”).
-
-To illustrate, imagine for a moment that your friend Sharina is trying to decide whether to recycle her used laptop batteries or just throw them away. We know that her attitude toward recycling is positive—she thinks she should do it—but we also know that recycling takes work. It’s much easier to just throw the batteries away. But if Sharina feels strongly about the importance of recycling, if her family and friends are also in favor of recycling, and if she has easy access to a battery recycling facility, then she will develop a strong intention to perform the behavior and likely follow through on it.
-
-Since it was first proposed, the theory of planned behavior has grown to become an extremely influential model for predicting human social behavior. However, although it has been used to study virtually every kind of planned behavior, a recent meta-analysis of 206 articles found that this model was especially effective at predicting physical activity and dietary behaviors (McEachan, Conner, Taylor, & Lawton, 2011).<a id="f4.2"></a>
-
-![image description linked in caption](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/graph.png)
-
-*Figure 4.2 Theory of Planned Behavior [\[Image description\]](/translations/social-psychology/04-01-exploring-attitudes/)*
-
-More generally, research has also discovered that attitudes predict behaviors well only under certain conditions and for some people. These include:
-
-- When the attitude and the behavior both occur in similar social situations
-- When the same components of the attitude (either affect or cognition) are accessible when the attitude is assessed and when the behavior is performed
-- When the attitudes are measured at a specific, rather than a general, level
-- For low self-monitors (rather than for high self-monitors)
-
-The extent of the match between the social situations in which the attitudes are expressed and the behaviors are engaged in is important; there is a greater attitude-behavior correlation when the social situations match. Imagine for a minute the case of Magritte, a 16-year-old high school student. Magritte tells her parents that she hates the idea of smoking cigarettes. Magritte’s negative attitude toward smoking seems to be a strong one because she’s thought a lot about it—she believes that cigarettes are dirty, expensive, and unhealthy. But how sure are you that Magritte’s attitude will predict her behavior? Would you be willing to bet that she’d never try smoking when she’s out with her friends?
-
-You can see that the problem here is that Magritte’s attitude is being expressed in one social situation (when she is with her parents), whereas the behavior (trying a cigarette) is going to occur in a very different social situation (when she is out with her friends). The relevant social norms are of course much different in the two situations. Magritte’s friends might be able to convince her to try smoking, despite her initial negative attitude, when they entice her with peer pressure. Behaviors are more likely to be consistent with attitudes when the social situation in which the behavior occurs is similar to the situation in which the attitude is expressed (Ajzen, 1991; LaPiere, 1936).
-
-#### Research Focus
-
-Attitude-Behavior Consistency
-
-Another variable that has an important influence on attitude-behavior consistency is the current cognitive accessibility of the underlying affective and cognitive components of the attitude. For example, if we assess the attitude in a situation in which people are thinking primarily about the attitude object in cognitive terms, and yet the behavior is performed in a situation in which the affective components of the attitude are more accessible, then the attitude-behavior relationship will be weak. Wilson and Schooler (1991) showed a similar type of effect by first choosing attitudes that they expected would be primarily determined by affect—attitudes toward five different types of strawberry jam. They asked a sample of college students to taste each of the jams. While they were tasting, one-half of the participants were instructed to think about the cognitive aspects of their attitudes to these jams—that is, to focus on the reasons they held their attitudes—whereas the other half of the participants were not given these instructions. Then all the students completed measures of their attitudes toward each of the jams.
-
-Wilson and his colleagues then assessed the extent to which the attitudes expressed by the students correlated with taste ratings of the five jams as indicated by experts at *Consumer Reports*. They found that the attitudes expressed by the students correlated significantly higher with the expert ratings for the participants who had *not* listed their cognitions first. Wilson and his colleagues argued that this occurred because our liking of jams is primarily affectively determined—we either like them or we don’t. And the students who simply rated the jams used their feelings to make their judgments. On the other hand, the students who were asked to list their thoughts about the jams had some extra information to use in making their judgments, but it was information that was not actually useful. Therefore, when these students used their thoughts about the jam to make the judgments, their judgments were less valid.
-
-MacDonald, Zanna, and Fong (1996) showed male college students a video of two other college students, Mike and Rebecca, who were out on a date. According to random assignment to conditions, half of the men were shown the video while sober and the other half viewed the video after they had had several alcoholic drinks. In the video, Mike and Rebecca go to the campus bar and drink and dance. They then go to Rebecca’s room, where they end up kissing passionately. Mike says that he doesn’t have any condoms, but Rebecca says that she is on the pill.
-
-At this point the film clip ends, and the male participants are asked about their likely behaviors if they had been Mike. Although all men indicated that having unprotected sex in this situation was foolish and irresponsible, the men who had been drinking alcohol were more likely to indicate that they would engage in sexual intercourse with Rebecca even without a condom. One interpretation of this study is that sexual behavior is determined by both cognitive factors (e.g., “I know that it is important to practice safe sex and so I should use a condom”) and affective factors (e.g., “Sex is enjoyable, I don’t want to wait”). When the students were intoxicated at the time the behavior was to be performed, it seems likely the affective component of the attitude was a more important determinant of behavior than was the cognitive component.
-
-One other type of match that has an important influence on the attitude-behavior relationship concerns how we measure the attitude and behavior. Attitudes predict behavior better when the attitude is measured at a level that is similar to the behavior to be predicted. Normally, the behavior is specific, so it is better to measure the attitude at a specific level too. For instance, if we measure cognitions at a very general level (e.g., “Do you think it is important to use condoms?”; “Are you a religious person?”) we will not be as successful at predicting actual behaviors as we will be if we ask the question more specifically, at the level of behavior we are interested in predicting (e.g., “Do you think you will use a condom the next time you have sex?”; “How frequently do you expect to attend church in the next month?”). In general, more specific questions are better predictors of specific behaviors, and thus if we wish to accurately predict behaviors, we should remember to attempt to measure *specific* attitudes. One example of this principle is shown in Figure 4.3, “Predicting Behavior from Specific and Nonspecific Attitude Measures.” Davidson and Jaccard (1979) found that they were much better able to predict whether women actually used birth control when they assessed the attitude at a more specific level.<a id="f4.3"></a>
-
-![image description linked in caption](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-4-3.png)
-
-*Figure 4.3 Predicting Behavior from Specific and Nonspecific Attitude Measures. Attitudes that are measured using more specific questions are more highly correlated with behavior than are attitudes measured using less specific questions. [\[Image descriptions\]](/translations/social-psychology/04-01-exploring-attitudes/)*
-
-Attitudes also predict behavior better for some people than for others. As we saw in Chapter 3, self-monitoring refers to individual differences in the tendency to attend to social cues and to adjust one’s behavior to one’s social environment. To return to our example of Magritte, you might wonder whether she is the type of person who is likely to be persuaded by peer pressure because she is particularly concerned with being liked by others. If she is, then she’s probably more likely to want to fit in with whatever her friends are doing, and she might try a cigarette if her friends offer her one. On the other hand, if Magritte is not particularly concerned about following the social norms of her friends, then she’ll more likely be able to resist the persuasion. *High self-monitors* are those who tend to attempt to blend into the social situation in order to be liked; *low self-monitors* are those who are less likely to do so. You can see that, because they allow the social situation to influence their behaviors, the relationship between attitudes and behavior will be weaker for high self-monitors than it is for low self-monitors (Kraus, 1995).
-
-:::tip[Key Takeaways]
-
-- The term *attitude* refers to our relatively enduring evaluation of an attitude object.
-- Our attitudes are inherited and also learned through direct and indirect experiences with the attitude objects.
-- Some attitudes are more likely to be based on beliefs, some are more likely to be based on feelings, and some are more likely to be based on behaviors.
-- Strong attitudes are important in the sense that we hold them with confidence, we do not change them very much, and we use them frequently to guide our actions.
-- Although there is a general consistency between attitudes and behavior, the relationship is stronger in some situations than in others, for some measurements than for others, and for some people than for others.
+1. 態度という概念を定義し、なぜ社会心理学者がこれほど強い関心を持っているのかを説明する。
+2. 態度の強さを決定する変数を概観する。
+3. 態度と行動の関係の強さに影響を与える要因を概説する。
 
 :::
 
-:::note[Exercises and Critical Thinking]
+日常生活ではこの言葉を別の意味で使うこともあるかもしれない（たとえば「あの人、本当に*態度*が悪いよね！」）。しかし社会心理学者は、態度という用語を、*ある対象についての比較的持続的な評価であり、その対象を態度対象と呼ぶもの*という意味で用いる。態度対象は、人、製品、社会集団などでありうる (Albarracín, Johnson, & Zanna, 2005; Wood, 2000)。本節では、態度の性質と強さ、そしてどのような条件で態度が私たちの行動を最もよく予測するのかを検討する。
 
-1. Describe an example of a behavior that you engaged in that might be explained by the theory of planned behavior. Include each of the components of the theory in your analysis.
-2. Consider a time when you acted on your own attitudes and a time when you did not act on your own attitudes. What factors do you think determined the difference?
+## 態度とは評価である
+
+態度が評価であるというのは、態度対象を好むか好まないかという選好が含まれているという意味であり、それは一般に*好む*、_好き_、_嫌い_、_憎む_、*愛する*といった表現に現れる。たとえば「水泳が好きだ」「ヘビが嫌いだ」「両親を愛している」と言うとき、私たちは自己と態度対象との関係を、肯定的または否定的な形で表明している。こうした発言から、態度が自己概念の重要な一部であることが分かる。
+
+すべての人は、家族や友人、政治家、中絶の権利、テロリズム、音楽の好みなど、何千もの態度を持っている。それぞれの態度には固有の特徴があり、どの2つの態度もまったく同じように形成されたり、私たちへ影響を与えたりするわけではない。研究によれば、少なくとも一部の態度は、親からの遺伝的伝達を通して受け継がれる (Olson, Vernon, Harris, & Jang, 2001)。別の態度は、主として態度対象との直接的・間接的経験を通して学習される (De Houwer, Thomas, & Baeyens, 2001)。私たちがジェットコースターを好きなのは、一部には遺伝コードによって刺激を好む性格を与えられているためであり、一部には過去にジェットコースターで非常に楽しい経験をしたためかもしれない。さらに別の態度は、メディアを通じて (Hargreaves & Tiggemann, 2003; Levina, Waldo, & Fitzgerald, 2000)、あるいは友人との相互作用を通じて学習される (Poteat, 2007)。一部の態度は多くの人に共有されている（ほとんどの人は砂糖を好み、ヘビを恐れ、ゴキブリを不快に感じる）が、音楽や芸術のスタイルに対する好みなど、より個人的な態度もある。
+
+表4.1「いくつかの態度の遺伝率」には、遺伝率が特に高い、すなわち人々の遺伝的差異によって特に強く決定されることが明らかになっている態度の例を示している。こうした態度はほかの態度より早く形成され、強く、変化にも抵抗しやすい (Bourgeois, 2002)。ただし、なぜ一部の態度がほかより強く遺伝的に決定されるのかは、まだ分かっていない。
+
+<table style="width: 100%;"><caption>表4.1 いくつかの態度の遺伝率</caption> <thead><tr><th scope="col">態度</th> <th scope="col">遺伝率</th> </tr> </thead> <tbody><tr><td>希望に応じた中絶</td> <td>0.54</td> </tr> <tr><td>ジェットコースターに乗ること</td> <td>0.52</td> </tr> <tr><td>殺人に対する死刑</td> <td>0.5</td> </tr> <tr><td>組織宗教</td> <td>0.45</td> </tr> <tr><td>運動競技を行うこと</td> <td>0.44</td> </tr> <tr><td>自発的安楽死</td> <td>0.44</td> </tr> <tr><td>資本主義</td> <td>0.39</td> </tr> <tr><td>チェスをすること</td> <td>0.38</td> </tr> <tr><td>本を読むこと</td> <td>0.37</td> </tr> <tr><td>運動すること</td> <td>0.36</td> </tr> <tr><td>教育</td> <td>0.32</td> </tr> <tr><td>大規模なパーティー</td> <td>0.32</td> </tr> <tr><td>喫煙</td> <td>0.31</td> </tr> <tr><td>注目の中心になること</td> <td>0.28</td> </tr> <tr><td>他者とうまく付き合うこと</td> <td>0.28</td> </tr> <tr><td>人目を引く服を着ること</td> <td>0.24</td> </tr> <tr><td>甘いもの</td> <td>0.22</td> </tr> <tr><td>人前で話すこと</td> <td>0.2</td> </tr> <tr><td>性犯罪への罰としての去勢</td> <td>0.17</td> </tr> <tr><td>大音量の音楽</td> <td>0.11</td> </tr> <tr><td>常に最高の見た目でいること</td> <td>0.1</td> </tr> <tr><td>クロスワードパズルをすること</td> <td>0.02</td> </tr> <tr><td>男女で役割を分けること</td> <td>0</td> </tr> <tr><td>人種差別を違法にすること</td> <td>0</td> </tr> <tr><td>組織的スポーツをすること</td> <td>0</td> </tr> <tr><td>避妊手段を容易に利用できること</td> <td>0</td> </tr> <tr><td>集団のリーダーになること</td> <td>0</td> </tr> <tr><td>自己主張すること</td> <td>0</td> </tr> <tr><th colspan="2">遺伝率が最も高いものから最も低いものの順。データは Olson, Vernon, Harris, and Jang (2001) に基づく。Olson, J. M., Vernon, P. A., Harris, J. A., Harris, J.A., &amp; Jang, K. L. (2001). The heritability of attitudes: A study of twins. Journal of Personality and Social Psychology, 80(6), 845–860.</th> </tr> </tbody> </table>
+
+私たちの態度は、認知的、感情的、行動的な構成要素から成り立っている。たとえば、環境保護に関心を持つ人のリサイクルへの態度は、おそらく非常に肯定的だろう。
+
+- _感情の面では：リサイクルすると幸せな気持ちになる。_
+- _行動の面では：びんや缶を定期的にリサイクルする。_
+- _認知の面では：リサイクルは責任ある行為だと考えている。_
+
+ほとんどの態度は感情、行動、認知によって決定されるが、それぞれがどの程度重要かは、人によっても態度によっても異なる。感情に基づきやすい態度もあれば、行動に基づきやすい態度、信念に基づきやすい態度もある。たとえばチョコレート・アイスクリームへの態度は、おそらくかなりの部分が感情によって決まっている。味を言葉で説明することはできても、結局のところ「ただ好き」なのかもしれない。一方、歯ブラシへの態度は、より認知的である可能性が高い。その機能の重要性を理解しているからである。また別の態度は、行動により強く基づいているかもしれない。たとえば講義中にノートを取ることへの態度は、少なくとも一部には、普段実際にノートを取っているかどうかに依存するだろう。
+
+同じ態度対象についても、人によって異なる理由から態度を持つことがある。たとえば、政策が気に入って政治家へ投票する人もいれば、その政治家の公的な人物像が単に好きだから、あるいは嫌いだから投票したり投票しなかったりする人もいる。この点では認知のほうが重要だと思うかもしれないが、政治学者は、多くの投票判断が主として感情に基づいて行われることを示している。実際、態度の感情的構成要素は、一般に最も強く、最も重要であると言ってよい (Abelson, Kinder, Peters, & Fiske, 1981; Stangor, Sullivan, & Ford, 1991)。
+
+人間が態度を持つのは、それが役に立つからである。とりわけ態度によって、私たちはどの行動をとるべきか、どの人へ近づくか避けるか、さらにはどの製品を買うかまで、多くの場合きわめて素早く、ほとんど努力せずに決めることができる (Duckworth, Bargh, Garcia, & Chaiken, 2002; Maio & Olson, 2000)。何を避け、何へ近づくべきかを素早く決める能力が、人類の進化上大きな価値を持っていたことは想像できるだろう。たとえば、
+
+- ヘビ = 悪い ⟶ 逃げる
+- ブルーベリー = 良い ⟶ 食べる
+
+態度は評価であるため、社会心理学者が通常用いるさまざまな測定技法によって評価できる (Banaji & Heiphetz, 2010)。態度は自己報告尺度によって測定されることが多いが、覚醒や表情の測定 (Mendes, 2008)、あるいは潜在連合テスト（IAT）のような認知の潜在的測度を用いて、より間接的に評価することもできる。神経画像技法を用いれば、脳の中の態度を見ることもできる。こうした研究から、ほかの多くの社会的知識と同様、態度は主として前頭前皮質に保存されている一方、扁桃体は感情的な態度、特に恐怖と関連する態度に重要であることが分かっている (Cunningham, Raye, & Johnson, 2004; Cunningham & Zelazo, 2007; van den Bos, McClure, Harris, Fiske, & Cohen, 2007)。態度は非常に素早く活性化されることがあり、態度対象を見てからわずか5分の1秒以内に活性化される場合もある (Handy, Smilek, Geiger, Liu, & Schooler, 2010)。
+
+### 一部の態度はほかの態度より強い
+
+一部の態度は、私たちにとってより役に立ち、そのため日常生活へより大きな影響を与えるという意味で、ほかの態度より重要である。*どれほど素早く頭に浮かぶかによって評価される態度の重要性*を、態度の強さという (Fazio, 1990; Fazio, 1995; Krosnick & Petty, 1995)。一部の態度は強い態度である。つまり、それを重要だと考え、自信を持って保持し、あまり変化させず、行動を導くため頻繁に利用する。このような強い態度は、まったく意識しないうちに私たちの行動を導く場合もある (Ferguson, Bargh, & Nayak, 2005)。
+
+ほかの態度は弱く、行動へほとんど影響を与えない。たとえば John Bargh とその同僚 (Bargh, Chaiken, Raymond, & Hymes, 1996) は、人々が _juvalamu_（好まれた）や _chakaka_（好まれなかった）のような意味のない単語に対しても態度を表明できることを見いだした。しかし、こうした態度は非常に弱かった。
+
+強い態度は認知的アクセス可能性が高い。つまり、素早く、頻繁に、容易に頭へ浮かぶ。態度対象へ接したときに、その態度がどれほど素早く活性化されるかを調べれば、態度の強さを容易に測定できる。ほとんど考えることなくすぐに態度を述べられるなら、それは強い態度である。自分の態度がはっきりせず、意見を述べる前にしばらく考える必要があるなら、その態度は弱い。
+
+態度対象と直接、肯定的または否定的な経験をすると態度は強くなり、とりわけその経験が非常に肯定的または非常に否定的な文脈で生じた場合に強くなる。Russell Fazio とその同僚 (Fazio, Powell, & Herr, 1983) は、参加者にいくつかのパズルへ実際に取り組ませるか、ほかの人が同じパズルへ取り組む様子を見せた。観察した人も、実際に取り組んだ人と同じ程度にそのパズルを好きまたは嫌いになった。しかし Fazio は、反応時間によって評価した態度は、実際にパズルを経験した人のほうが強い、つまりより素早く表明されたことを見いだした。
+
+態度の強さは認知的アクセス可能性によって決まるため、態度へのアクセス可能性を高めることで、その態度を強くすることができる。これは、その態度について考えたり、表明したり、他者と話し合ったりすることで直接行える。態度について考えたり、話したり、ただ声に出したりした後には、表明した態度がより強くなる (Downing, Judd, & Brauer, 1992; Tesser, Martin, & Mendolia, 1995)。また、態度は自己概念と結びついているため、自己概念と一緒に活性化されると強くなる。鏡を見ているときやテレビカメラの前に座っているときには態度が活性化され、それに従って行動する可能性が高まる (Beaman, Klentz, Diener, & Svanum, 1979)。
+
+感情、行動、認知というABCがすべて一致している場合にも、態度は強くなる。たとえば、多くの人が自国に対して持つ態度は、一貫して肯定的である。自国について強い肯定的感情を持ち、多くの肯定的思考を持ち、自国を支持する行動をとる傾向がある。一方、それほど強くない態度もある。それは、感情的、認知的、行動的構成要素がそれぞれ多少異なっているからである (Thompson, Zanna, & Griffin, 1995)。身体運動についての認知は肯定的かもしれない。定期的な身体活動が健康によいと信じているからである。一方、感情は否定的かもしれない。より即時的な報酬を与えてくれる活動を好むため、運動することには抵抗を感じるかもしれない。その結果、自分では運動すべきだと思っているほど頻繁には運動しないことになる。このような態度の各構成要素の不一致によって、すべての要素が一致している場合より態度は弱くなる。
+
+### 態度が行動を導くのはいつか
+
+社会心理学者は、広告関係者、マーケター、政治家と同様に、態度の行動的側面へ特に強い関心を持っている。通常、態度のABCは少なくともある程度一貫しているため、行動は感情や認知に従う傾向がある。たとえば、あなたがフレンチトーストよりワッフルについて肯定的に考え、肯定的な感情を持っていることが分かれば、レストランで朝食を食べるとき、フレンチトーストよりワッフルを注文する可能性が高いと自然に予測でき、おそらくその予測は当たるだろう。さらに、フレンチトーストへの思考や感情をより肯定的にできれば、朝食にそれを注文する可能性も高まる。
+
+したがって、態度の一貫性という原理、すなわち*ある態度対象について、感情、行動、認知というABCは通常互いに一致している*という原理は、たとえば自己報告尺度で測定された態度が*行動を導く*可能性が高いと予測する。この考えを支持して、メタ分析では態度のさまざまな構成要素の間に有意でかなり大きな正の相関があり、自己報告尺度で表明された態度が実際に行動を予測することが示されている (Glasman & Albarracín, 2006)。
+
+しかし、行動するかどうかの判断へ影響するのは態度だけではない。Martin Fishbein と Izek Ajzen が発展させた*計画的行動理論* (Ajzen, 1991; Fishbein & Ajzen, 1975) は、態度と行動の関係に影響する3つの主要変数を示している。(a) 行動への態度（強いほどよい）、(b) 主観的規範（自分が重視する人々からの支持）、(c) 知覚された行動統制（その行動を実際に実行できるとどの程度信じているか）である。この3つの要因が共同して、その行動を実行する意図を予測し、その意図が実際の行動を予測する（図4.2「計画的行動理論」）。
+
+例として、友人の Sharina が、使い終わったノートPCのバッテリーをリサイクルするか、そのまま捨てるか決めようとしていると想像してみよう。彼女のリサイクルへの態度が肯定的であり、リサイクルすべきだと考えていることは分かっている。しかし、リサイクルには手間がかかる。単にバッテリーを捨てるほうがはるかに簡単である。それでも、Sharina がリサイクルの重要性を強く感じ、家族や友人もリサイクルを支持し、バッテリーの回収施設を容易に利用できるなら、その行動を実行しようとする強い意図を形成し、実際に実行する可能性が高い。
+
+計画的行動理論は提唱されて以来、人間の社会的行動を予測する非常に影響力の強いモデルとなった。ほぼあらゆる種類の計画的行動の研究に用いられてきたが、206本の論文を対象とした近年のメタ分析では、特に身体活動と食行動の予測に有効であることが明らかになった (McEachan, Conner, Taylor, & Lawton, 2011)。
+
+![キャプションに画像説明へのリンクあり](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/graph.png)
+
+_図4.2 計画的行動理論 [\[画像の説明\]](/translations/social-psychology/04-01-exploring-attitudes/)_
+
+さらに一般的に、態度が行動をよく予測するのは特定の条件下、そして特定の人々に限られることも研究によって明らかになっている。その条件には次のものがある。
+
+- 態度の表明と行動の実行が、似た社会的状況で生じるとき
+- 態度を測定するときと行動を実行するときに、態度の同じ構成要素（感情または認知）がアクセス可能であるとき
+- 態度を一般的水準ではなく、具体的水準で測定するとき
+- 高セルフ・モニターではなく、低セルフ・モニターの場合
+
+態度が表明される社会的状況と、行動が実行される社会的状況がどの程度一致しているかは重要である。社会的状況が一致するほど、態度と行動の相関は大きくなる。16歳の高校生 Magritte の場合を考えてみよう。Magritte は両親に、タバコを吸うという考えが大嫌いだと言っている。喫煙への否定的態度は強そうである。彼女はそのことをよく考えており、タバコは汚く、高価で、健康に悪いと信じている。しかし、Magritte の態度が実際の行動を予測すると、どこまで確信できるだろうか。友人と出かけたときにも絶対にタバコを試さないと賭けられるだろうか。
+
+ここでの問題は、Magritte の態度が一つの社会的状況、つまり両親と一緒にいるときに表明されているのに対し、行動、つまりタバコを試すことは、まったく異なる社会的状況、すなわち友人と出かけているときに生じるという点である。当然ながら、2つの状況では関係する社会規範が大きく異なる。友人たちは仲間からの圧力をかけ、最初は否定的態度を持っていた Magritte にも、喫煙を試すよう説得できるかもしれない。行動が生じる社会的状況と態度が表明される状況が似ているほど、行動は態度と一貫しやすい (Ajzen, 1991; LaPiere, 1936)。
+
+#### 研究フォーカス
+
+態度と行動の一貫性
+
+態度と行動の一貫性へ重要な影響を与えるもう一つの変数は、その態度を構成する感情的・認知的要素がその時点でどれほど認知的にアクセス可能かである。たとえば、人々が主として態度対象を認知的に考えている状況で態度を測定する一方、行動が実行される状況では態度の感情的構成要素のほうがアクセスしやすい場合、態度と行動の関係は弱くなる。Wilson and Schooler (1991) は、主として感情によって決まると予想される態度、すなわち5種類のイチゴジャムへの態度を用いて、これと似た効果を示した。大学生の参加者にそれぞれのジャムを味見してもらった。味見中、参加者の半数には、ジャムへの態度の認知的側面、つまりなぜその態度を持っているのかという理由へ注目するよう指示した。一方、残りの半数にはこの指示を与えなかった。その後、全学生がそれぞれのジャムへの態度を測定する尺度へ回答した。
+
+Wilson とその同僚は次に、学生が表明した態度と、_Consumer Reports_ の専門家による5種類のジャムの味の評価がどの程度相関しているかを調べた。その結果、自分の認知内容を先に列挙*しなかった*参加者のほうが、学生の態度と専門家の評価との相関が有意に高かった。Wilson らは、これはジャムの好みが主として感情によって決まるためだと論じた。私たちは単に、そのジャムが好きか嫌いなのである。そのままジャムを評価した学生は、自分の感情を使って判断した。一方、ジャムについての思考を列挙するよう求められた学生は、判断へ使える追加情報を得たが、その情報は実際には有用ではなかった。そのため、こうした学生がジャムについて考えた内容を使って判断すると、判断の妥当性が低下した。
+
+MacDonald, Zanna, and Fong (1996) は、男子大学生に、Mike と Rebecca という2人の大学生がデートしているビデオを見せた。参加者は無作為に条件へ割り当てられ、半数の男性はしらふの状態でビデオを見たが、残りの半数はアルコールを数杯飲んだ後に見た。ビデオでは Mike と Rebecca がキャンパスのバーへ行き、酒を飲み、踊る。その後 Rebecca の部屋へ行き、情熱的にキスをする。Mike はコンドームを持っていないと言うが、Rebecca は自分はピルを飲んでいると答える。
+
+そこで映像は終わり、男性参加者は、自分が Mike だったとしたらどのように行動する可能性が高いかを尋ねられた。すべての男性が、この状況で避妊具なしの性行為を行うのは愚かで無責任だと答えた。しかし、アルコールを飲んでいた男性のほうが、コンドームがなくても Rebecca と性交すると答える可能性が高かった。この研究の一つの解釈は、性行動は認知的要因（たとえば「安全な性行為が重要だと知っているので、コンドームを使うべきだ」）と感情的要因（たとえば「セックスは楽しいし、待ちたくない」）の両方によって決まるというものである。行動を実行する時点で酔っていた学生では、態度の認知的要素より感情的要素のほうが、行動を決定する重要な要因となったようである。
+
+態度と行動の関係へ重要な影響を与えるもう一種類の一致は、態度と行動をどのように測定するかに関係している。態度は、予測しようとする行動と同じ程度に具体的な水準で測定した場合に、行動をよりよく予測する。通常、行動は具体的なものなので、態度も具体的な水準で測定するほうがよい。たとえば、「コンドームを使うことは重要だと思いますか」「あなたは宗教的な人ですか」のように非常に一般的な水準で認知を測定すると、実際の行動を予測するうえでは、「次に性行為をするとき、コンドームを使うと思いますか」「今後1か月にどのくらいの頻度で教会へ行くと思いますか」のように、予測したい行動そのものの水準で具体的に質問する場合ほど成功しない。一般に、具体的な質問ほど具体的な行動をよく予測する。そのため、行動を正確に予測したいなら、*具体的な*態度を測定するよう心がけるべきである。この原理の一例を図4.3「具体的・非具体的な態度尺度による行動の予測」に示す。Davidson and Jaccard (1979) は、より具体的な水準で態度を測定したとき、女性が実際に避妊を行うかどうかをはるかによく予測できることを見いだした。
+
+![キャプションに画像説明へのリンクあり](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-4-3.png)
+
+_図4.3 具体的・非具体的な態度尺度による行動の予測。より具体的な質問を用いて測定した態度は、あまり具体的でない質問で測定した態度よりも行動との相関が高い。[\[画像の説明\]](/translations/social-psychology/04-01-exploring-attitudes/)_
+
+また、態度が行動をよく予測できるかどうかには個人差もある。第3章で見たように、セルフ・モニタリングとは、社会的手がかりへ注意を向け、社会的環境に応じて行動を調整する傾向の個人差を指す。Magritte の例へ戻ると、彼女が他者から好かれることを特に気にするため、仲間からの圧力に説得されやすいタイプなのかどうかが問題になるかもしれない。そうであるなら、友人たちがしていることへ合わせたいと考える可能性が高く、友人から勧められればタバコを試すかもしれない。一方、Magritte が友人の社会規範に従うことをそれほど気にしていないなら、その説得へ抵抗できる可能性が高い。*高セルフ・モニター*とは、好かれるために社会的状況へ溶け込もうとする傾向の強い人であり、*低セルフ・モニター*とは、その傾向が弱い人である。高セルフ・モニターは社会的状況に行動を左右させるため、態度と行動との関係は低セルフ・モニターより弱くなる (Kraus, 1995)。
+
+:::tip[重要ポイント]
+
+- *態度*という用語は、態度対象についての比較的持続的な評価を指す。
+- 私たちの態度には遺伝するものもあれば、態度対象との直接的・間接的な経験を通して学習されるものもある。
+- 信念に基づきやすい態度、感情に基づきやすい態度、行動に基づきやすい態度がある。
+- 強い態度は、それを自信を持って保持し、あまり変化させず、行動を導くため頻繁に利用するという意味で重要である。
+- 態度と行動には全般的な一貫性があるが、その関係は、状況、測定方法、人によって強さが異なる。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Abelson, R. P., Kinder, D. R., Peters, M. D., & Fiske, S. T. (1981). Affective and semantic components in political person perception. *Journal of Personality and Social Psychology, 42*, 619–630.
+1. 自分が行った行動のうち、計画的行動理論によって説明できそうな例を一つ述べなさい。分析には理論の各構成要素を含めること。
+2. 自分自身の態度に従って行動したときと、自分自身の態度に従って行動しなかったときを考えなさい。その違いを決めたのはどのような要因だったと思うか。
 
-Ajzen, I. (1991). The theory of planned behavior. *Organizational Behavior and Human Decision Processes, 50*(2), 179–211.
+:::
 
-Albarracín, D., Johnson, B. T., & Zanna, M. P. (Eds.). (2005). *The handbook of attitudes* (pp. 223–271). Mahwah, NJ: Lawrence Erlbaum.
+#### 参考文献
 
-Banaji, M. R., & Heiphetz, L. (2010). Attitudes. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 1, pp. 353–393). Hoboken, NJ: John Wiley & Sons.
+Abelson, R. P., Kinder, D. R., Peters, M. D., & Fiske, S. T. (1981). Affective and semantic components in political person perception. _Journal of Personality and Social Psychology, 42_, 619–630.
 
-Bargh, J. A., Chaiken, S., Raymond, P., & Hymes, C. (1996). The automatic evaluation effect: Unconditional automatic attitude activation with a pronunciation task. *Journal of Experimental Social Psychology, 32*(1), 104–128.
+Ajzen, I. (1991). The theory of planned behavior. _Organizational Behavior and Human Decision Processes, 50_(2), 179–211.
 
-Beaman, A. L., Klentz, B., Diener, E., & Svanum, S. (1979). Self-awareness and transgression in children: Two field studies. *Journal of Personality and Social Psychology, 37*(10), 1835–1846.
+Albarracín, D., Johnson, B. T., & Zanna, M. P. (Eds.). (2005). _The handbook of attitudes_ (pp. 223–271). Mahwah, NJ: Lawrence Erlbaum.
 
-Bourgeois, M. J. (2002). Heritability of attitudes constrains dynamic social impact. *Personality and Social Psychology Bulletin, 28*(8), 1063–1072.
+Banaji, M. R., & Heiphetz, L. (2010). Attitudes. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (5th ed., Vol. 1, pp. 353–393). Hoboken, NJ: John Wiley & Sons.
 
-Cunningham, W. A., & Zelazo, P. D. (2007). Attitudes and evaluations: A social cognitive neuroscience perspective. *Trends in Cognitive Sciences, 11*(3), 97–104;
+Bargh, J. A., Chaiken, S., Raymond, P., & Hymes, C. (1996). The automatic evaluation effect: Unconditional automatic attitude activation with a pronunciation task. _Journal of Experimental Social Psychology, 32_(1), 104–128.
 
-Cunningham, W. A., Raye, C. L., & Johnson, M. K. (2004). Implicit and explicit evaluation: fMRI correlates of valence, emotional intensity, and control in the processing of attitudes. *Journal of Cognitive Neuroscience, 16*(10), 1717–1729;
+Beaman, A. L., Klentz, B., Diener, E., & Svanum, S. (1979). Self-awareness and transgression in children: Two field studies. _Journal of Personality and Social Psychology, 37_(10), 1835–1846.
 
-Davidson, A. R., & Jaccard, J. J. (1979). Variables that moderate the attitude-behavior relation: Results of a longitudinal survey. *Journal of Personality and Social Psychology, 37*(8), 1364–1376.
+Bourgeois, M. J. (2002). Heritability of attitudes constrains dynamic social impact. _Personality and Social Psychology Bulletin, 28_(8), 1063–1072.
 
-De Houwer, J., Thomas, S., & Baeyens, F. (2001). Association learning of likes and dislikes: A review of 25 years of research on human evaluative conditioning. *Psychological Bulletin, 127*(6), 853-869.
+Cunningham, W. A., & Zelazo, P. D. (2007). Attitudes and evaluations: A social cognitive neuroscience perspective. _Trends in Cognitive Sciences, 11_(3), 97–104;
 
-Downing, J. W., Judd, C. M., & Brauer, M. (1992). Effects of repeated expressions on attitude extremity. *Journal of Personality and Social Psychology, 63*(1), 17–29; Tesser, A., Martin, L., & Mendolia, M. (Eds.). (1995). *The impact of thought on attitude extremity and attitude-behavior consistency*. Hillsdale, NJ: Lawrence Erlbaum.
+Cunningham, W. A., Raye, C. L., & Johnson, M. K. (2004). Implicit and explicit evaluation: fMRI correlates of valence, emotional intensity, and control in the processing of attitudes. _Journal of Cognitive Neuroscience, 16_(10), 1717–1729;
 
-Duckworth, K. L., Bargh, J. A., Garcia, M., & Chaiken, S. (2002). The automatic evaluation of novel stimuli. *Psychological Science, 13*(6), 513–519.
+Davidson, A. R., & Jaccard, J. J. (1979). Variables that moderate the attitude-behavior relation: Results of a longitudinal survey. _Journal of Personality and Social Psychology, 37_(8), 1364–1376.
 
-Fazio, R. H. (1990). The MODE model as an integrative framework. *Advances in Experimental Social Psychology*, *23*, 75–109.
+De Houwer, J., Thomas, S., & Baeyens, F. (2001). Association learning of likes and dislikes: A review of 25 years of research on human evaluative conditioning. _Psychological Bulletin, 127_(6), 853-869.
 
-Fazio, R. H. (1995). Attitudes as object-evaluation associations: Determinants, consequences, and correlates of attitude accessibility. In *Attitude strength: Antecedents and consequences* (pp. 247–282). Hillsdale, NJ: Lawrence Erlbaum;
+Downing, J. W., Judd, C. M., & Brauer, M. (1992). Effects of repeated expressions on attitude extremity. _Journal of Personality and Social Psychology, 63_(1), 17–29; Tesser, A., Martin, L., & Mendolia, M. (Eds.). (1995). _The impact of thought on attitude extremity and attitude-behavior consistency_. Hillsdale, NJ: Lawrence Erlbaum.
 
-Fazio, R. H., Powell, M. C., & Herr, P. M. (1983). Toward a process model of the attitude-behavior relation: Accessing one’s attitude upon mere observation of the attitude object. *Journal of Personality and Social Psychology, 44*(4), 723–735.
+Duckworth, K. L., Bargh, J. A., Garcia, M., & Chaiken, S. (2002). The automatic evaluation of novel stimuli. _Psychological Science, 13_(6), 513–519.
 
-Ferguson, M. J., Bargh, J. A., & Nayak, D. A. (2005). After-affects: How automatic evaluations influence the interpretation of subsequent, unrelated stimuli. *Journal of Experimental Social Psychology, 41*(2), 182–191. doi: 10.1016/j.jesp.2004.05.008
+Fazio, R. H. (1990). The MODE model as an integrative framework. _Advances in Experimental Social Psychology_, _23_, 75–109.
 
-Fishbein, M., & Ajzen, I. (1975). *Belief, attitude, intention and behavior: An introduction to theory and research*. Reading, MA: Addison-Wesley.
+Fazio, R. H. (1995). Attitudes as object-evaluation associations: Determinants, consequences, and correlates of attitude accessibility. In _Attitude strength: Antecedents and consequences_ (pp. 247–282). Hillsdale, NJ: Lawrence Erlbaum;
 
-Glasman, L. R., & Albarracín, D. (2006). Forming attitudes that predict future behavior: A meta-analysis of the attitude-behavior relation. *Psychological Bulletin, 132*(5), 778–822.
+Fazio, R. H., Powell, M. C., & Herr, P. M. (1983). Toward a process model of the attitude-behavior relation: Accessing one’s attitude upon mere observation of the attitude object. _Journal of Personality and Social Psychology, 44_(4), 723–735.
 
-Handy, T. C., Smilek, D., Geiger, L., Liu, C., & Schooler, J. W. (2010). ERP evidence for rapid hedonic evaluation of logos. *Journal of Cognitive Neuroscience, 22*(1), 124–138. doi: 10.1162/jocn.2008.21180
+Ferguson, M. J., Bargh, J. A., & Nayak, D. A. (2005). After-affects: How automatic evaluations influence the interpretation of subsequent, unrelated stimuli. _Journal of Experimental Social Psychology, 41_(2), 182–191. doi: 10.1016/j.jesp.2004.05.008
 
-Hargreaves, D. A., & Tiggemann, M. (2003). Female “thin ideal” media images and boys’ attitudes toward girls. *Sex Roles, 49*(9–10), 539–544.
+Fishbein, M., & Ajzen, I. (1975). _Belief, attitude, intention and behavior: An introduction to theory and research_. Reading, MA: Addison-Wesley.
 
-Kraus, S. J. (1995). Attitudes and the prediction of behavior: A meta-analysis of the empirical literature. *Personality and Social Psychology Bulletin, 21*(1), 58–75.
+Glasman, L. R., & Albarracín, D. (2006). Forming attitudes that predict future behavior: A meta-analysis of the attitude-behavior relation. _Psychological Bulletin, 132_(5), 778–822.
 
-Krosnick, J. A., & Petty, R. E. (1995). Attitude strength: An overview. In *Attitude strength: Antecedents and consequences* (pp. 1–24). Hillsdale, NJ: Lawrence Erlbaum.
+Handy, T. C., Smilek, D., Geiger, L., Liu, C., & Schooler, J. W. (2010). ERP evidence for rapid hedonic evaluation of logos. _Journal of Cognitive Neuroscience, 22_(1), 124–138. doi: 10.1162/jocn.2008.21180
 
-LaPiere, R. T. (1936). Type rationalization of group antipathy. *Social Forces, 15*, 232–237.
+Hargreaves, D. A., & Tiggemann, M. (2003). Female “thin ideal” media images and boys’ attitudes toward girls. _Sex Roles, 49_(9–10), 539–544.
 
-Levina, M., Waldo, C. R., & Fitzgerald, L. F. (2000). We’re here, we’re queer, we’re on TV: The effects of visual media on heterosexuals’ attitudes toward gay men and lesbians. *Journal of Applied Social Psychology, 30*(4), 738–758.
+Kraus, S. J. (1995). Attitudes and the prediction of behavior: A meta-analysis of the empirical literature. _Personality and Social Psychology Bulletin, 21_(1), 58–75.
 
-MacDonald, T. K., Zanna, M. P., & Fong, G. T. (1996). Why common sense goes out the window: Effects of alcohol on intentions to use condoms. *Personality and Social Psychology Bulletin, 22*(8), 763–775.
+Krosnick, J. A., & Petty, R. E. (1995). Attitude strength: An overview. In _Attitude strength: Antecedents and consequences_ (pp. 1–24). Hillsdale, NJ: Lawrence Erlbaum.
 
-Maio, G. R., & Olson, J. M. (Eds.). (2000). *Why we evaluate: Functions of attitudes*. Mahwah, NJ: Lawrence Erlbaum. doi:10.1080/17437199.2010.521684
+LaPiere, R. T. (1936). Type rationalization of group antipathy. _Social Forces, 15_, 232–237.
 
-McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011) Prospective prediction of health-related behaviours with the theory of planned behaviour: A meta-analysis, *Health Psychology Review, 5*(2), 97-144.
+Levina, M., Waldo, C. R., & Fitzgerald, L. F. (2000). We’re here, we’re queer, we’re on TV: The effects of visual media on heterosexuals’ attitudes toward gay men and lesbians. _Journal of Applied Social Psychology, 30_(4), 738–758.
 
-Mendes, W. B. (2008). Assessing autonomic nervous system reactivity. In E. Harmon-Jones & J. Beer (Eds.), *Methods in the neurobiology of social and personality psychology* (pp. 118–147). New York, NY: Guilford Press.
+MacDonald, T. K., Zanna, M. P., & Fong, G. T. (1996). Why common sense goes out the window: Effects of alcohol on intentions to use condoms. _Personality and Social Psychology Bulletin, 22_(8), 763–775.
 
-Olson, J. M., Vernon, P. A., Harris, J. A., & Jang, K. L. (2001). The heritability of attitudes: A study of twins. *Journal of Personality and Social Psychology, 80*(6), 845–860.
+Maio, G. R., & Olson, J. M. (Eds.). (2000). _Why we evaluate: Functions of attitudes_. Mahwah, NJ: Lawrence Erlbaum. doi:10.1080/17437199.2010.521684
 
-Poteat, V. P. (2007). Peer group socialization of homophobic attitudes and behavior during adolescence. *Child Development, 78*(6), 1830–1842.
+McEachan, R. R. C., Conner, M., Taylor, N. J., & Lawton, R. J. (2011) Prospective prediction of health-related behaviours with the theory of planned behaviour: A meta-analysis, _Health Psychology Review, 5_(2), 97-144.
 
-Stangor, C., Sullivan, L. A., & Ford, T. E. (1991). Affective and cognitive determinants of prejudice. *Social Cognition, 9*(4), 359–380.
+Mendes, W. B. (2008). Assessing autonomic nervous system reactivity. In E. Harmon-Jones & J. Beer (Eds.), _Methods in the neurobiology of social and personality psychology_ (pp. 118–147). New York, NY: Guilford Press.
 
-Tesser, A., Martin, L., & Mendolia, M. (1995). The impact of thought on attitude extremity and attitude-behavior consistency. In R. E. Petty & J. A. Krosnick (Eds.), *Attitude strength: Antecedents and consequences. Ohio State University series on attitudes and persuasion* (4th ed., pp. 73-92). Hillsdale, NJ: Lawrence Erlbaum Associates.
+Olson, J. M., Vernon, P. A., Harris, J. A., & Jang, K. L. (2001). The heritability of attitudes: A study of twins. _Journal of Personality and Social Psychology, 80_(6), 845–860.
 
-Thompson, M. M., Zanna, M. P., & Griffin, D. W. (1995). Let’s not be indifferent about (attitudinal) ambivalence. In *Attitude strength: Antecedents and consequences* (pp. 361–386). Hillsdale, NJ: Lawrence Erlbaum.
+Poteat, V. P. (2007). Peer group socialization of homophobic attitudes and behavior during adolescence. _Child Development, 78_(6), 1830–1842.
 
-van den Bos, W., McClure, S. M., Harris, L. T., Fiske, S. T., & Cohen, J. D. (2007). Dissociating affective evaluation and social cognitive processes in the ventral medial prefrontal cortex. *Cognitive, Affective & Behavioral Neuroscience, 7*(4), 337–346.
+Stangor, C., Sullivan, L. A., & Ford, T. E. (1991). Affective and cognitive determinants of prejudice. _Social Cognition, 9_(4), 359–380.
 
-Wilson, T. D., & Schooler, J. W. (1991). Thinking too much: Introspection can reduce the quality of preferences and decisions. *Journal of Personality and Social Psychology, 60*(2), 181–192.
+Tesser, A., Martin, L., & Mendolia, M. (1995). The impact of thought on attitude extremity and attitude-behavior consistency. In R. E. Petty & J. A. Krosnick (Eds.), _Attitude strength: Antecedents and consequences. Ohio State University series on attitudes and persuasion_ (4th ed., pp. 73-92). Hillsdale, NJ: Lawrence Erlbaum Associates.
 
-Wood, W. (2000). Attitude change: Persuasion and social influence. *Annual Review of Psychology*, 539–570.
+Thompson, M. M., Zanna, M. P., & Griffin, D. W. (1995). Let’s not be indifferent about (attitudinal) ambivalence. In _Attitude strength: Antecedents and consequences_ (pp. 361–386). Hillsdale, NJ: Lawrence Erlbaum.
 
-#### Image Descriptions
+van den Bos, W., McClure, S. M., Harris, L. T., Fiske, S. T., & Cohen, J. D. (2007). Dissociating affective evaluation and social cognitive processes in the ventral medial prefrontal cortex. _Cognitive, Affective & Behavioral Neuroscience, 7_(4), 337–346.
 
-**<a id="id4.2"></a>Figure 4.2 Theory of Planned Behavior**
+Wilson, T. D., & Schooler, J. W. (1991). Thinking too much: Introspection can reduce the quality of preferences and decisions. _Journal of Personality and Social Psychology, 60_(2), 181–192.
 
-A flow chart explaining the theory of planned behavior. It starts with 3 types of beliefs that are connected by arrows:
+Wood, W. (2000). Attitude change: Persuasion and social influence. _Annual Review of Psychology_, 539–570.
 
-- Behavioural beliefs – attitude towards the behaviour
-- Normative beliefs – subjective norm
-- Control beliefs – perceived behavioural control
+#### 画像の説明
 
-The beliefs leads to intention, along with the actual behavioural control that is derived from the perceived behavioural control, then leads to behaviour.
+**図4.2 計画的行動理論**
 
-[\[Return to Figure 4.2\]](/translations/social-psychology/04-01-exploring-attitudes/)
+計画的行動理論を説明するフローチャート。3種類の信念から始まり、それぞれが矢印で次の項目につながっている。
 
-**<a id="id4.3"></a>Figure 4.3 Predicting Behavior from Specific and Nonspecific Attitude Measures**
+- 行動に関する信念 ― 行動への態度
+- 規範に関する信念 ― 主観的規範
+- 統制に関する信念 ― 知覚された行動統制
 
-A a bar graph with correlation on the y-axis, and attitude question on the x-axis. The attitude questions with the lowest to high correlation are: attitude toward birth control, attitude toward birth control pills, attitude toward using birth control pills, attitude toward using birth control pills during the next 2 years.
+これらの信念は意図へつながる。また、知覚された行動統制から導かれる実際の行動統制も加わり、それらが行動へつながる。
 
-[\[Return to Figure 4.3\]](/translations/social-psychology/04-01-exploring-attitudes/)
+[\[図4.2へ戻る\]](/translations/social-psychology/04-01-exploring-attitudes/)
 
-#### Media Attributions
+**図4.3 具体的・非具体的な態度尺度による行動の予測**
+
+縦軸が相関、横軸が態度に関する質問の棒グラフ。相関が低いものから高いものの順に、質問は「避妊への態度」「経口避妊薬への態度」「経口避妊薬を使用することへの態度」「今後2年間に経口避妊薬を使用することへの態度」となっている。
+
+[\[図4.3へ戻る\]](/translations/social-psychology/04-01-exploring-attitudes/)
+
+#### メディアの帰属表示
 
 - “Theory of Planned Behavior” is adapted by Hilda Aggregani and licensed under a [CC BY 4.0 licence](https://creativecommons.org/licenses/by/4.0/).
 - “Predicting Behavior from Specific and Nonspecific Attitude Measures” is based on data from Davidson and Jaccard (1979).Davidson, A. R., & Jaccard, J. J. (1979). Variables that moderate the attitude-behavior relation: Results of a longitudinal survey. Journal of Personality and Social Psychology, 37(8), 1364–1376.
