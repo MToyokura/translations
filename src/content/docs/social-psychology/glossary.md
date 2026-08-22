@@ -1,648 +1,649 @@
 ---
-title: "Glossary"
+title: "用語集"
 sidebar:
   order: 85
 ---
-**Accommodation** When existing schemas change on the basis of new information
 
-**Actor-observer bias** or **difference** When we tend to make more personal attributions for the behavior of others than we do for ourselves and to make more situational attributions for our own behavior than for the behavior of others
+**調節（Accommodation）** 新しい情報に基づいて既存のスキーマが変化すること
 
-**Additive task** A task where the inputs of each group member are added together to create the group performance, and the expected performance of the group is the sum of group members’ individual inputs
+**行為者―観察者バイアス／差（Actor-observer bias or difference）** 自分自身の行動より他者の行動について個人的帰属を多く行い、他者の行動より自分自身の行動について状況的帰属を多く行う傾向
 
-**Adjourning stage** When group members prepare for the group to end
+**加算課題（Additive task）** 各集団メンバーの入力を足し合わせて集団パフォーマンスをつくる課題で、集団の期待パフォーマンスは各メンバーの個人的入力の合計となる
 
-**Affect heuristic** The tendency to rely on automatically occurring affective responses to stimuli to guide our judgments of them
+**解散段階（Adjourning stage）** 集団メンバーが集団の終了へ向けて準備するとき
 
-**Affect** The feelings we experience as part of our everyday lives
+**感情ヒューリスティック（Affect heuristic）** 刺激に対して自動的に生じる感情反応に頼って、その刺激について判断する傾向
 
-**Affective forecasting** Our attempts to predict how future events will make us feel
+**感情（Affect）** 日常生活の一部として私たちが経験する感情
 
-**Aggression** Behavior that is intended to harm another individual who does not wish to be harmed
+**感情予測（Affective forecasting）** 将来の出来事によって自分がどのように感じるかを予測しようとすること
 
-**Agreeableness** A tendency to be good natured, cooperative, and trusting
+**攻撃（Aggression）** 傷つけられることを望んでいない別の個人を傷つけることを意図した行動
 
-**Altruism** Any behavior that is designed to increase another person’s welfare, and particularly those actions that do not seem to provide a direct reward to the person who performs them
+**協調性（Agreeableness）** 温厚で、協力的で、信頼する傾向
 
-**Altruistic or prosocial personality** An individual difference variable that relates to the likelihood of helping others across many different situations
+**利他主義（Altruism）** 他者の福祉を高めることを目的とするあらゆる行動、とくに、その行動を行う人に直接的報酬をもたらさないように見える行動
 
-**Anchoring and adjustment** The tendency to weight initial information too heavily and thereby insufficiently move our judgment away from it
+**利他的または向社会的パーソナリティ（Altruistic or prosocial personality）** 多くの異なる状況を通して他者を援助する可能性に関連する個人差変数
 
-**Anxious/ambivalent attachment style** When children become overly dependent on the parents and continually seek more affection from them than they can give
+**アンカリングと調整（Anchoring and adjustment）** 最初の情報を過度に重視し、そのため判断をそこから十分に動かさない傾向
 
-**Arbitration** A type of third-party intervention that avoids negotiation as well as the necessity of any meetings between the parties in conflict
+**不安型／両価型愛着スタイル（Anxious/ambivalent attachment style）** 子どもが親へ過度に依存し、親が与えられる以上の愛情を絶えず求めるとき
 
-**Assimilation** A process in which our existing knowledge influences new conflicting information to better fit with our existing knowledge, thus reducing the likelihood of schema change
+**仲裁（Arbitration）** 交渉と、対立する当事者同士が会う必要の両方を避ける第三者介入の一種
 
-**Associational learning** When an object or event comes to be associated with a natural response, such as an automatic behavior or a positive or negative emotion
+**同化（Assimilation）** 既存の知識が新しい矛盾する情報へ影響し、その情報を既存の知識により適合するよう変えることで、スキーマ変化の可能性を低下させる過程
 
-**Attachment style** Individual differences in how people relate to others in close relationships
+**連合学習（Associational learning）** 物または出来事が、自動的行動や肯定的・否定的感情のような自然な反応と結びつくこと
 
-**A****ttitude** is a knowledge representation that includes primarily our liking or disliking of a person, thing, or group
+**愛着スタイル（Attachment style）** 親密な関係で人が他者とどのように関わるかについての個人差
 
-**Attitude strength** The importance of an attitude, as assessed by how quickly it comes to mind
+**態度（Attitude）** 主として、人、物、集団への好き嫌いを含む知識表象
 
-**Attribution** The process of assigning causes to behaviors
+**態度の強さ（Attitude strength）** どれだけ速く頭に浮かぶかによって評価される、態度の重要性
 
-**Attributional style** The type of attributions that we tend to make for events that occur to us.
+**帰属（Attribution）** 行動へ原因を割り当てる過程
 
-**Authoritarianism** An individual difference variable characterized by a tendency to prefer things to be simple rather than complex and to hold traditional values
+**帰属スタイル（Attributional style）** 自分に起きた出来事について行う傾向のある帰属の種類
 
-**Automatic cognition** Thinking that occurs out of our awareness, quickly, and without taking much effort
+**権威主義（Authoritarianism）** 複雑なものより単純なものを好み、伝統的価値観をもつ傾向を特徴とする個人差変数
 
-**Autonomy-oriented help** The belief that, given the appropriate tools, recipients can help themselves
+**自動的認知（Automatic cognition）** 意識の外で、速く、ほとんど努力せずに生じる思考
 
-**Availability heuristic** The tendency to make judgments of the frequency of an event, or the likelihood that an event will occur, on the basis of the ease with which the event can be retrieved from memory
+**自律志向的援助（Autonomy-oriented help）** 適切な道具が与えられれば、援助を受ける人は自分自身を助けられるという信念
 
-**Avoidant attachment style** When children are unable to relate to the parents at all, becoming distant, fearful, and cold
+**利用可能性ヒューリスティック（Availability heuristic）** 出来事を記憶からどれほど容易に取り出せるかに基づいて、その出来事の頻度や発生可能性を判断する傾向
 
-**Bait-and-switch technique** A persuasion attempt in which the target is offered one product at a very low price and yet the product at the low price is not actually available
+**回避型愛着スタイル（Avoidant attachment style）** 子どもが親とまったく関係をもてず、距離を置き、恐れを感じ、冷淡になるとき
 
-**Base rates** The likelihood that events occur across a large population
+**おとり商法（Bait-and-switch technique）** 標的へ非常に低価格の商品を提示するものの、その低価格の商品は実際には利用できない説得の試み
 
-**Basking in the reflected glory** When we use and advertise our ingroups’ positive achievements to boost our self-esteem
+**ベースレート（Base rates）** 大規模な母集団全体で出来事が生じる可能性
 
-**Behavioral measures** Measures designed to directly assess what people do
+**栄光浴（Basking in the reflected glory）** 内集団の肯定的な達成を利用し、それを宣伝することで自尊心を高めること
 
-**Bias blind spot** The tendency to believe that our own judgments are less susceptible to the influence of bias than those of others
+**行動測定（Behavioral measures）** 人が実際に何をするかを直接評価するよう設計された測定
 
-**Black sheep effect** The strong devaluation of ingroup members who threaten the positive image and identity of the ingroup
+**バイアスの盲点（Bias blind spot）** 自分自身の判断は、他者の判断よりバイアスの影響を受けにくいと信じる傾向
 
-**Blaming the victim** Interpreting the negative outcomes that occur to others internally so that it seems that they deserved them
+**黒い羊効果（Black sheep effect）** 内集団の肯定的イメージとアイデンティティを脅かす内集団メンバーを強く低く評価すること
 
-**Bogus pipeline procedure** A procedure, designed to elicit more honest responses, in which an experimenter first convinces participants that they have access to their “true” beliefs
+**被害者非難（Blaming the victim）** 他者に生じる否定的結果を内的に解釈し、その人がそれを受けるに値したように見なすこと
 
-**Catharsis** The idea that engaging in less harmful aggressive actions will reduce the tendency to aggress later in a more harmful way
+**偽パイプライン手続き（Bogus pipeline procedure）** より正直な反応を引き出すよう設計された手続きで、実験者がまず参加者の「本当の」信念へアクセスできると信じさせるもの
 
-**Causal attribution** The process of trying to determine the causes of people’s behavior
+**カタルシス（Catharsis）** 害の小さい攻撃的行動を行うことで、後により有害な形で攻撃する傾向が減るという考え
 
-**Central traits** Characteristics that have a very strong influence on our impressions of others
+**原因帰属（Causal attribution）** 人々の行動の原因を明らかにしようとする過程
 
-**Charismatic leaders** Leaders who are enthusiastic, committed, and self-confident; who tend to talk about the importance of group goals at a broad level; and who make personal sacrifices for the group
+**中心特性（Central traits）** 他者についての印象に非常に強い影響を与える特徴
 
-**Coercive power** The ability to dispense punishments
+**カリスマ的リーダー（Charismatic leaders）** 熱意、コミットメント、自信があり、集団目標の重要性を広い水準で語る傾向があり、集団のために個人的犠牲を払うリーダー
 
-**Cognitive accessibility** The extent to which a schema is activated in memory and thus likely to be used in information processing
+**強制力（Coercive power）** 罰を与える能力
 
-**Cognitive dissonance** The discomfort that occurs when we respond in ways that we see as inconsistent
+**認知的アクセス可能性（Cognitive accessibility）** スキーマが記憶内でどの程度活性化されており、その結果、情報処理に利用される可能性が高いか
 
-**Cognitive heuristics** Information-processing rules of thumb that enable us to think in ways that are quick and easy but that may sometimes lead to error
+**認知的不協和（Cognitive dissonance）** 自分が一貫していないと考える形で反応したときに生じる不快感
 
-**Cognitive reappraisal** Altering an emotional state by reinterpreting the meaning of the triggering situation or stimulus
+**認知的ヒューリスティック（Cognitive heuristics）** 素早く容易に考えることを可能にする一方、ときに誤りを生みうる情報処理上の経験則
 
-**Collective action** The attempts on the part of one group to change the social status hierarchy by improving the status of their own group relative to others
+**認知的再評価（Cognitive reappraisal）** 引き金となった状況や刺激の意味を再解釈することで感情状態を変えること
 
-**Collectivism** Cultural norms that indicate that people should be more fundamentally connected with others and thus are more oriented toward interdependence
+**集合行動（Collective action）** 他集団に対する自分たちの集団の地位を高めることで、ある集団が社会的地位階層を変えようとする試み
 
-**Commitment** The feelings and actions that keep partners working together to maintain the relationship
+**集団主義（Collectivism）** 人は根本的に他者とより強く結びつくべきであり、そのため相互依存へより志向すべきだとする文化的規範
 
-**Common ingroup identity** The experience of social identity that occurs when differences in social grouping at one level are reduced by perceived similarities on a second, superordinate category
+**コミットメント（Commitment）** パートナー同士が協力して関係を維持し続けるための感情と行動
 
-**Communal relationships** Close relationships in which partners suspend their need for equity and exchange, giving support to the partner in order to meet his or her needs, and without consideration of the costs to themselves
+**共通内集団アイデンティティ（Common ingroup identity）** ある水準での社会的集団分けの違いが、第2の上位カテゴリーで知覚される類似性によって小さくなったときに経験される社会的アイデンティティ
 
-**Companionate love** Love that is based on friendship, mutual attraction, common interests, mutual respect, and concern for each other’s welfare
+**共同的関係（Communal relationships）** パートナーが衡平性や交換への必要を一時的に脇に置き、自分へのコストを考慮せず、相手の必要を満たすため支援を与える親密な関係
 
-**Compensatory (**or **averaging) task** A task where the group input is combined such that the performance of the individuals is averaged rather than added
+**友愛的愛（Companionate love）** 友情、相互の魅力、共通の関心、相互尊重、互いの福祉への関心に基づく愛
 
-**Competition** The attempt to gain as many of the limited rewards as possible for ourselves, while reducing the likelihood of success for the other parties
+**補償型（または平均化）課題（Compensatory or averaging task）** 個人のパフォーマンスを加算するのではなく平均するように集団の入力を組み合わせる課題
 
-**Conceptual variables** The characteristics that we are trying to measure
+**競争（Competition）** 限られた報酬を自分自身のためにできる限り多く得ようとしながら、他の当事者が成功する可能性を低下させようとすること
 
-**Conditioning** The ability to connect stimuli (things or events in the environment) with responses (behaviors or other actions)
+**概念変数（Conceptual variables）** 私たちが測定しようとしている特徴
 
-**Confirmation bias** The tendency for people to seek out and favor information that confirms their expectations and beliefs
+**条件づけ（Conditioning）** 刺激（環境内の物や出来事）と反応（行動やその他の活動）を結びつける能力
 
-**Conflict** When parties are involved in violence and hostility
+**確証バイアス（Confirmation bias）** 自分の期待や信念を確認する情報を探し、それを好む傾向
 
-**Conformity** The change in beliefs, opinions, and behaviors as a result of our perceptions about what other people believe or do
+**対立（Conflict）** 当事者が暴力や敵意に関与している状態
 
-**Conjunctive task** When the group performance is determined by the ability of the group member who performs most poorly
+**同調（Conformity）** 他者が何を信じ、何をするかについての知覚によって、信念、意見、行動が変化すること
 
-**Conscientiousness** A tendency to be responsible, orderly, and dependable
+**結合課題（Conjunctive task）** 最もパフォーマンスの低い集団メンバーの能力によって集団パフォーマンスが決まる課題
 
-**Consensus information** When a situation seems to be the cause of a behavior if the situation creates the same behavior in most people
+**誠実性（Conscientiousness）** 責任感があり、秩序立っており、信頼できる傾向
 
-**Consistency information** When a situation seems to be the cause of a behavior if the situation always produces the behavior in the target
+**合意性情報（Consensus information）** ある状況が大多数の人に同じ行動を生じさせる場合、その状況が行動の原因のように見えること
 
-**Contact hypothesis** The idea that intergroup contact will reduce prejudice
+**一貫性情報（Consistency information）** ある状況が標的人物に常にその行動を生じさせる場合、その状況が行動の原因のように見えること
 
-**Contingency model of leadership effectiveness** A model of leadership effectiveness that focuses on both person variables and situational variables
+**接触仮説（Contact hypothesis）** 集団間接触が偏見を減らすという考え
 
-**Contributions dilemma** When the short-term costs of a behavior lead individuals to avoid performing it, and this may prevent the long-term benefits that would have occurred if the behaviors had been performed
+**リーダーシップ有効性のコンティンジェンシー・モデル（Contingency model of leadership effectiveness）** 個人変数と状況変数の両方に焦点を当てるリーダーシップ有効性モデル
 
-**Controlled cognition** When we deliberately size up and think about something; for instance, another person
+**貢献ジレンマ（Contributions dilemma）** 行動の短期的コストによって個人がその行動を避け、その結果、行動が行われれば得られたはずの長期的利益が失われる可能性があること
 
-**Cooperation** Behavior that occurs when we trust the people or groups with whom we are interacting and are willing to communicate and share with the others
+**統制的認知（Controlled cognition）** たとえば別の人物など、何かについて意図的に評価し考えるとき
 
-**Correlational research** Research designed to search for and test hypotheses about the relationships between two or more variables
+**協力（Cooperation）** 相互作用している人または集団を信頼し、進んで他者とコミュニケーションし共有するときに生じる行動
 
-**Correspondence bias** When we attribute behaviors to people’s internal characteristics, even in heavily constrained situations
+**相関研究（Correlational research）** 二つ以上の変数間の関係についての仮説を探し、検証するよう設計された研究
 
-**Counterfactual thinking** The tendency to think about events according to what might have been
+**対応バイアス（Correspondence bias）** 強く制約された状況でさえ、行動を人の内的特徴に帰属するとき
 
-**Covariation principle** When a given behavior is more likely to have been caused by the situation if that behavior covaries (or changes) across situations
+**反実仮想思考（Counterfactual thinking）** 「こうであったかもしれない」という観点から出来事を考える傾向
 
-**Cover story** A false statement of what the research was really about
+**共変原理（Covariation principle）** ある行動が状況によって共変（変化）する場合、その行動は状況によって引き起こされた可能性が高いと判断すること
 
-**Criterion task** A task where the group can see that there is a clearly correct answer to the problem that is being posed
+**カバーストーリー（Cover story）** 研究の本当の目的についての偽の説明
 
-**Culture** A group of people, normally living within a given geographical region, who share a common set of social norms, including religious and family values and moral beliefs
+**基準課題（Criterion task）** 提示された問題に明確に正しい答えがあることを集団が理解できる課題
 
-**Culture of honor** A social norm that condones and even encourages responding to insults with aggression
+**文化（Culture）** 通常、一定の地理的地域に暮らし、宗教・家族の価値や道徳的信念を含む共通の社会的規範を共有する人々の集団
 
-**Cyberbullying** Aggression inflicted through the use of computers, cell phones, and other electronic devices
+**名誉の文化（Culture of honor）** 侮辱へ攻撃で応じることを容認し、さらには奨励する社会的規範
 
-**Defensive attribution** When we make attributions that defend ourselves from the notion that we could be the victim of an unfortunate outcome, and often also that we could be held responsible as the victim
+**サイバーいじめ（Cyberbullying）** コンピューター、携帯電話、その他の電子機器を使って行われる攻撃
 
-**Deindividuation** The loss of individual self-awareness and individual accountability in groups
+**防衛的帰属（Defensive attribution）** 自分も不幸な結果の被害者になりうる、そしてしばしば被害者として責任を負わされうるという考えから自分を守る帰属を行うこと
 
-**Dependency-oriented help** When the recipient feels that the implication of the helping is that he or she is are unable to care for himself or herself
+**脱個人化（Deindividuation）** 集団の中で個人としての自己意識と個人的責任感が失われること
 
-**Dependent variable** The variable that is measured after the manipulations have occurred
+**依存志向的援助（Dependency-oriented help）** 援助を受ける人が、その援助には「自分では自分を世話できない」という含意があると感じること
 
-**Depressive realism** The tendency for people who are depressed to make social judgments about the future that are less positively skewed and often more accurate than those who do not have depression
+**従属変数（Dependent variable）** 操作が行われた後に測定される変数
 
-**Desensitization** The tendency to become used to, and thus less influenced by, a stimulus
+**抑うつリアリズム（Depressive realism）** 抑うつ状態の人が、そうでない人より、将来について肯定的に偏りにくく、しばしばより正確な社会的判断を行う傾向
 
-**Devil’s advocate** An individual who is given the job of expressing conflicting opinions and forcing the group (in a noncombative way) to fully discuss all the alternatives
+**脱感作（Desensitization）** 刺激に慣れ、そのため刺激から受ける影響が小さくなる傾向
 
-**Diffusion of responsibility** When we assume that others will take action and therefore we do not take action ourselves
+**悪魔の代弁者（Devil’s advocate）** 対立する意見を表明し、集団にすべての選択肢を十分検討させる（ただし対立的ではない形で）役割を与えられた個人
 
-**Discrimination** Unjustified negative behaviors toward members of outgroups based on their group membership
+**責任の分散（Diffusion of responsibility）** 他者が行動するだろうと考え、そのため自分自身は行動しないこと
 
-**Disjunctive task** When the group’s performance is determined by the best group member
+**差別（Discrimination）** 集団所属に基づいて外集団メンバーへ向けられる、正当化できない否定的行動
 
-**Disorganized attachment style** A blend of anxious and avoidant attachment styles
+**分離課題（Disjunctive task）** 最も優れた集団メンバーによって集団パフォーマンスが決まる課題
 
-**Displaced aggression** When negative emotions caused by one person trigger aggression toward a different person
+**無秩序型愛着スタイル（Disorganized attachment style）** 不安型と回避型の愛着スタイルが混合したもの
 
-**Distinctiveness information** When a situation seems to be the cause of a behavior if the behavior occurs when the situation is present but not when it is not present
+**置き換えられた攻撃（Displaced aggression）** ある人によって引き起こされた否定的感情が、別の人への攻撃を引き起こすこと
 
-**Distributive fairness** Our judgments about whether or not a party is receiving a fair share of the available rewards
+**弁別性情報（Distinctiveness information）** ある状況が存在するときに行動が起こり、その状況が存在しないときには起こらない場合、その状況が行動の原因のように見えること
 
-**Divisible task** When each of the group members working on the job can do a separate part of the job at the same time
+**分配的公正（Distributive fairness）** ある当事者が利用可能な報酬の公正な取り分を受け取っているかどうかについての判断
 
-**Dominant response** The action that we are most likely to emit in any given situation.
+**分割可能課題（Divisible task）** 課題に取り組む各集団メンバーが、同時に課題の別々の部分を行える課題
 
-**Door-in-the-face technique** A persuasion tactic that involves making an unreasonably large request before making the (intended) smaller request
+**優勢反応（Dominant response）** ある状況で最も行いやすい行動
 
-**Downward social comparison** When we attempt to create a positive image of ourselves through favorable comparisons with others who are worse off than we are
+**ドア・イン・ザ・フェイス技法（Door-in-the-face technique）** 本来意図した小さな要求をする前に、不当に大きな要求を行う説得技法
 
-**Dual-concern model of cooperation and competition** A model of individuals relating to social dilemmas, or other forms of conflict, in different ways, depending on their underlying personal orientations or as influenced by the characteristics of the situation that orient them toward a given concern
+**下方社会的比較（Downward social comparison）** 自分より状況の悪い他者と自分を有利に比較することで、肯定的な自己イメージをつくろうとすること
 
-**Electroencephalography (EEG)** A technique that records the electrical activity produced by the brain’s neurons through the use of electrodes that are placed around the research participant’s head
+**協力と競争の二重関心モデル（Dual-concern model of cooperation and competition）** 根底にある個人的志向、または特定の関心へ向けさせる状況の特徴に応じて、個人が社会的ジレンマその他の対立へ異なる形で関わるとするモデル
 
-**Emotional or impulsive aggression** Aggression that occurs with only a small amount of forethought or intent and that is determined primarily by impulsive emotions
+**脳波記録法（Electroencephalography; EEG）** 研究参加者の頭部周囲に配置した電極を使い、脳のニューロンによって生じる電気活動を記録する技法
 
-**Emotions** Brief, but often intense, mental and physiological feeling states
+**感情的または衝動的攻撃（Emotional or impulsive aggression）** 事前の熟慮や意図がほとんどなく、主として衝動的感情によって決まる攻撃
 
-**Empathy** An affective response in which a person understands, and even feels, another person’s distress and experiences events the way the other person does
+**情動（Emotions）** 短時間だがしばしば強い、精神的・生理的な感情状態
 
-**Empirical** Based on the collection and systematic analysis of observable data
+**共感（Empathy）** 他者の苦痛を理解し、場合によってはそれを自分でも感じ、その人が経験するように出来事を経験する感情反応
 
-**Entitativity** The perception, either by the group members themselves or by others, that the people together are a group
+**実証的（Empirical）** 観察可能なデータの収集と体系的分析に基づくこと
 
-**Entity theorists** People who tend to believe that others’ traits are fundamentally stable and incapable of change
+**実体性（Entitativity）** 一緒にいる人々が一つの集団であると、集団メンバー自身または他者が知覚すること
 
-**Evolutionary adaptation** The assumption that human nature, including much of our social behavior, is determined largely by our evolutionary past
+**実体理論家（Entity theorists）** 他者の特性は根本的に安定しており、変化しえないと考える傾向のある人
 
-**Exchange relationships** Relationships in which each of the partners keeps track of his or her contributions to the partnership
+**進化的適応（Evolutionary adaptation）** 社会的行動の多くを含む人間の本性は、大部分、進化の過去によって決められているという仮定
 
-**Experimental confederate** A person who is actually part of the experimental team but who pretends to be another participant in the study
+**交換関係（Exchange relationships）** 各パートナーが関係への自分の貢献を記録・把握する関係
 
-**Experimental research** Research designs that include the manipulation of a given situation or experience for two or more groups of individuals who are initially created to be equivalent, followed by a measurement of the effect of that experience.
+**実験協力者（Experimental confederate）** 実際には実験チームの一員だが、研究の別の参加者であるかのように振る舞う人物
 
-**Expert power** Power based on the possession of valid and accurate information and that leads to private acceptance in followers.
+**実験研究（Experimental research）** 最初は等価になるようつくられた二つ以上の個人集団に対し、ある状況や経験を操作し、その後、その経験の効果を測定する研究デザイン
 
-**Extended-contact hypothesis** The prediction that people who have friends from other social groups will be more accepting of all members of those groups
+**専門勢力（Expert power）** 妥当で正確な情報を所有することに基づき、従う人々に私的受容を生み出す勢力
 
-**External validity** The extent to which relationships can be expected to hold up when they are tested again in different ways and for different people
+**拡張接触仮説（Extended-contact hypothesis）** 別の社会集団の友人をもつ人と友人である人は、その集団のすべてのメンバーをより受け入れるようになるという予測
 
-**Factorial research designs** Experimental designs that have two or more independent variables
+**外的妥当性（External validity）** 異なる方法や異なる人々について再度検証したときにも、関係が成立すると期待できる程度
 
-**False consensus bias** The tendency to overestimate the extent to which other people hold similar views to our own
+**要因研究デザイン（Factorial research designs）** 二つ以上の独立変数をもつ実験デザイン
 
-**False consciousness** The acceptance of one’s own low status as part of the proper and normal functioning of society
+**偽の合意バイアス（False consensus bias）** 他者も自分と似た見解をもっている程度を過大評価する傾向
 
-**Falsifiable** When the outcome of the research can demonstrate empirically either that there is support for the hypothesis (i.e., the relationship between the variables was correctly specified) or that there is actually no relationship between the variables or that the actual relationship is not in the direction that was predicted
+**虚偽意識（False consciousness）** 自分自身の低い地位を、社会の適切で正常な機能の一部として受け入れること
 
-**Feelings of social identity** The positive self-esteem that we get from our group memberships
+**反証可能（Falsifiable）** 研究結果によって、仮説が支持される（変数間の関係が正しく特定されていた）こと、または変数間に実際には関係がない、あるいは実際の関係が予測された方向ではないことのどちらかを実証的に示せること
 
-**Field experiments** Experimental research studies that are conducted in a natural environment
+**社会的アイデンティティの感情（Feelings of social identity）** 集団所属から得られる肯定的な自尊心
 
-**Fitness** The extent to which having a given characteristic helps the individual organism to survive and to reproduce at a higher rate than do other members of the species who do not have the characteristic
+**フィールド実験（Field experiments）** 自然な環境で行われる実験研究
 
-**Fixed-sum outcome** When a gain for one side necessarily means a loss for the other side or sides
+**適応度（Fitness）** ある特徴をもつことで、その特徴をもたない同種の他個体より高い割合で個体が生存・繁殖するのに役立つ程度
 
-**Foot-in-the-door technique** A persuasion attempt in which we first get the target to accept a rather minor request, and then ask for a larger request
+**固定総和の結果（Fixed-sum outcome）** 一方の利益が必ず他方または他の当事者の損失を意味する状態
 
-**Forewarning** Reminding an individual that an attempt to persuade may be forthcoming, with the expectation that the reminder will reduce persuasion
+**フット・イン・ザ・ドア技法（Foot-in-the-door technique）** 最初に標的へ比較的小さな要求を受け入れさせ、その後、より大きな要求を行う説得の試み
 
-**Forming stage** When the members of the group come together and begin their existence as a group
+**事前警告（Forewarning）** 説得の試みが近く行われる可能性を個人に思い出させ、その警告によって説得が減ると期待すること
 
-**Framing effects** occur when people’s judgments about different options are affected by whether they are framed as resulting in gains or losses.
+**形成段階（Forming stage）** 集団メンバーが集まり、集団として存在し始めるとき
 
-**Frustration** The emotion that results from feeling that we are not obtaining the important goals that we have set for ourselves
+**フレーミング効果（Framing effects）** 選択肢が利益をもたらすものとして提示されるか、損失をもたらすものとして提示されるかによって、人々の判断が影響されること
 
-**Functional magnetic resonance imaging (fMRI)** A neuroimaging technique that uses a magnetic field to create images of brain structure and function
+**欲求不満（Frustration）** 自分が設定した重要な目標を達成できていないと感じることから生じる感情
 
-**Fundamental attribution error** When we tend to overestimate the role of person factors and overlook the impact of situations in explaining a behavior
+**機能的磁気共鳴画像法（Functional magnetic resonance imaging; fMRI）** 磁場を使って脳の構造と機能の画像を作る神経画像技法
 
-**Global attributions** Those attributions that we feel apply broadly
+**基本的帰属エラー（Fundamental attribution error）** 行動を説明するとき、個人要因の役割を過大評価し、状況の影響を見落とす傾向
 
-**Group attribution error** The tendency to make attributional generalizations about entire outgroups based on a very small number of observations of individual members
+**全般的帰属（Global attributions）** 広く当てはまると感じる帰属
 
-**Group polarization** When, after discussion, the attitudes held by the individual group members become more extreme than they were before the group began discussing the topic
+**集団帰属エラー（Group attribution error）** 個々のメンバーを非常に少数観察しただけで、外集団全体について帰属上の一般化を行う傾向
 
-**Group process** The events that occur while the group is working together on the task
+**集団分極化（Group polarization）** 討議後、個々の集団メンバーがもつ態度が、集団でそのテーマを討議し始める前より極端になること
 
-**Group-serving bias (**or **ultimate attribution error)** The tendency to make internal attributions about our ingroups’ successes, and external attributions about their setbacks, and to make the opposite pattern of attributions about our outgroups
+**集団過程（Group process）** 集団が課題へ一緒に取り組んでいる間に起こる出来事
 
-**Groupthink** When a group that is made up of members who may actually be very competent and thus quite capable of making excellent decisions nevertheless ends up making a poor one as a result of a flawed group process and strong conformity pressures
+**集団奉仕バイアス（または究極的帰属エラー）（Group-serving bias or ultimate attribution error）** 内集団の成功について内的帰属を行い、失敗について外的帰属を行い、外集団については逆のパターンで帰属する傾向
 
-**Halo effect** The influence of a global positive evaluation of a person on perceptions of their specific traits
+**集団思考（Groupthink）** 非常に有能で優れた意思決定能力をもつメンバーから構成される集団であっても、欠陥のある集団過程と強い同調圧力によって、悪い意思決定をしてしまうこと
 
-**Harm-based morality** The belief that harming others, either physically or by violating their rights, is wrong
+**ハロー効果（Halo effect）** 人についての全般的な肯定的評価が、その人の具体的特性の知覚へ影響すること
 
-**Harvesting dilemma** A social dilemma that leads people to overuse an existing public good
+**危害に基づく道徳（Harm-based morality）** 身体的に傷つける、または権利を侵害することによって他者に害を与えるのは間違っているという信念
 
-**Hindsight bias** The tendency to think that we could have predicted something that we probably would not have been able to predict
+**採取ジレンマ（Harvesting dilemma）** 既存の公共財を過剰利用するよう人々を導く社会的ジレンマ
 
-**Illusion of group effectivity** The tendency to overvalue the level of productivity of our ingroups
+**後知恵バイアス（Hindsight bias）** 実際にはおそらく予測できなかったことを、自分なら予測できたはずだと考える傾向
 
-**Implicit Association Test** **(IAT)** A procedure designed to elicit implicit beliefs and attitudes
+**集団有効性の錯覚（Illusion of group effectivity）** 自分の内集団の生産性水準を過大評価する傾向
 
-**Incremental theorists** People who believe that personalities change a lot over time and who therefore are more likely to make situational attributions for events.
+**潜在連合テスト（Implicit Association Test; IAT）** 潜在的信念と態度を引き出すよう設計された手続き
 
-**Independent variable** The situation that is created by the experimenter through the experimental manipulations
+**増分理論家（Incremental theorists）** パーソナリティは時間とともに大きく変化すると信じ、そのため出来事について状況的帰属を行いやすい人々
 
-**Individualism** Cultural norms, common in Western societies, that focus primarily on self-enhancement and independence
+**独立変数（Independent variable）** 実験操作を通じて実験者がつくる状況
 
-**Informational social influence** The change in opinions or behavior that occurs when we conform to people who we believe have accurate information
+**個人主義（Individualism）** 主として自己高揚と独立へ焦点を当てる、西洋社会で一般的な文化的規範
 
-**Ingroup favoritism** The tendency to respond more positively to people from our ingroups than we do to people from outgroups
+**情報的社会的影響（Informational social influence）** 正確な情報をもっていると考える人々へ同調することで生じる、意見または行動の変化
 
-**Ingroup** Those we view as being similar and important to us and with whom we share close social connections
+**内集団ひいき（Ingroup favoritism）** 外集団の人々より、自分の内集団の人々へ肯定的に反応する傾向
 
-**Injunctive norms** Rules that specify how group members are expected to behave.
+**内集団（Ingroup）** 自分と似ていて重要だと見なし、親密な社会的つながりを共有している人々
 
-**Inoculation** A mild attack on the attitude position designed to help the potential target create counterarguments to the potential persuasive attempt, with the expectation that subsequent persuasion will be reduced
+**命令的規範（Injunctive norms）** 集団メンバーがどのように行動することを期待されるかを定める規則
 
-**Instrumental or cognitive aggression** Aggression that is intentional and planned
+**接種（Inoculation）** 潜在的な説得対象が説得の試みに対する反論をつくるのを助け、その後の説得を減らすことを目的として、態度上の立場に弱い攻撃を加えること
 
-**Insufficient justification** The perception that a threat or reward that is in fact sufficient to get the person to engage in or avoid a behavior is not sufficient
+**道具的または認知的攻撃（Instrumental or cognitive aggression）** 意図的で計画された攻撃
 
-**Integrative outcome** When a solution can be found that benefits all the parties
+**不十分な正当化（Insufficient justification）** 実際には人をある行動へ従事させたり避けさせたりするのに十分な脅威や報酬を、不十分だと知覚すること
 
-**Intellective task** A task that involves the ability of the group to make a decision or a judgment
+**統合的結果（Integrative outcome）** すべての当事者に利益をもたらす解決策を見つけることができる状態
 
-**Interdependence** A state in which the group members depend on each other for successful performance of the group goals
+**知的課題（Intellective task）** 集団が意思決定または判断を行う能力を必要とする課題
 
-**Internal validity** The extent to which changes in the dependent variable in an experiment can confidently be attributed to changes in the independent variable
+**相互依存（Interdependence）** 集団目標を成功裏に達成するため、集団メンバーが互いに依存している状態
 
-**Internalized prejudice** When individuals turn prejudice directed toward them by others onto themselves
+**内的妥当性（Internal validity）** 実験における従属変数の変化を、独立変数の変化によるものだと確信をもって帰属できる程度
 
-**Interpersonal attraction** The strength of our liking or loving for another person
+**内面化された偏見（Internalized prejudice）** 他者から自分へ向けられた偏見を、自分自身へ向けること
 
-**Jigsaw classroom** An approach to learning in which students from different racial or ethnic groups work together, in an interdependent way, to master material
+**対人魅力（Interpersonal attraction）** 別の人物に対して感じる好意や愛情の強さ
 
-**Judgmental task** A task for which there is no clearly correct answer to the problem
+**ジグソー教室（Jigsaw classroom）** 異なる人種または民族集団の学生が、教材を習得するため相互依存的に協力する学習方法
 
-**Just world belief** The belief that people get what they deserve in life
+**判断課題（Judgmental task）** 問題に明確に正しい答えが存在しない課題
 
-**Just world hypothesis** The tendency to make attributions based on the belief that the world is fundamentally just
+**公正世界信念（Just world belief）** 人は人生で自分にふさわしいものを受け取るという信念
 
-**Kin selection** Strategies that favor the reproductive success of one’s relatives, sometimes even at a cost to the individual’s own survival
+**公正世界仮説（Just world hypothesis）** 世界は根本的に公正であるという信念に基づいて帰属を行う傾向
 
-**Labeling bias** When we are labeled, and others’ views and expectations of us are affected by that labeling
+**血縁選択（Kin selection）** ときには個人自身の生存を犠牲にしてでも、親族の繁殖成功を優先する方略
 
-**Leadership** The ability to direct or inspire others to achieve goals
+**ラベリング・バイアス（Labeling bias）** 私たちにラベルがつけられることで、他者が私たちについて抱く見方や期待が影響を受けること
 
-**Learned helplessness** The tendency to continually make external, stable, and global attributions for our behavior
+**リーダーシップ（Leadership）** 他者を目標達成へ向けて導いたり鼓舞したりする能力
 
-**Learning** The relatively permanent change in knowledge that is acquired through experience
+**学習性無力感（Learned helplessness）** 自分の行動について外的で安定的かつ全般的な帰属を継続的に行う傾向
 
-**Legitimate power** Authority that comes from a belief on the part of those being influenced that the person has a legitimate right to demand obedience
+**学習（Learning）** 経験を通じて獲得される、比較的永続的な知識の変化
 
-**Looking-glass self** When part of how we see ourselves comes from our perception of how others see us
+**正当勢力（Legitimate power）** 影響を受ける側が、その人物には服従を要求する正当な権利があると信じることから生じる権威
 
-**Lowball technique** A persuasion attempt in which the persuader promises the target something desirable, with the intention of getting the target to imagine himself or herself engaging the desired behavior, before indicating that the desirable offer is actually not possible
+**鏡映的自己（Looking-glass self）** 自分をどのように見るかの一部が、他者が自分をどう見ていると知覚するかから生じること
 
-**Macbeth effect** The observation that people tend to want to cleanse themselves when they perceive that they have violated their own ethical standards
+**ローボール技法（Lowball technique）** 説得者が標的へ望ましいものを約束し、標的に望ましい行動をしている自分を想像させた後、その望ましい提示は実際には不可能だと伝える説得の試み
 
-**Majority influence** When the beliefs held by the larger number of individuals in the current social group prevail
+**マクベス効果（Macbeth effect）** 自分自身の倫理基準に違反したと知覚すると、人は自分を清めたくなる傾向があるという観察
 
-**Maximizing task** A task that involves performance that is measured by how rapidly the group works or how much of a product they are able to make
+**多数派影響（Majority influence）** 現在の社会集団で、より多くの個人がもつ信念が優勢になること
 
-**Mediation** Helping to create compromise by using third-party negotiation
+**最大化課題（Maximizing task）** 集団がどれほど速く作業するか、またはどれほど多くの成果物をつくれるかによってパフォーマンスが測定される課題
 
-**Mere exposure effect** The tendency to prefer stimuli (including, but not limited to, people) that we have seen frequently
+**調停（Mediation）** 第三者による交渉を利用して妥協をつくるのを助けること
 
-**Meta-analysis** A statistical procedure in which the results of existing studies are combined to determine what conclusions can be drawn on the basis of all the studies considered together
+**単純接触効果（Mere exposure effect）** 頻繁に目にした刺激（人を含むが、人に限らない）を好む傾向
 
-**Mindguard** Someone whose job it is to help quash dissent and to increase conformity to the leader’s opinions
+**メタ分析（Meta-analysis）** 既存研究の結果を統合し、すべての研究をまとめて考えたときにどのような結論を導けるか判断する統計的手続き
 
-**Minority influence** When the beliefs held by the smaller number of individuals in the current social group prevail
+**マインドガード（Mindguard）** 異論を抑え、リーダーの意見への同調を高めることを役割とする人物
 
-**Misattribution of arousal** When people incorrectly label the source of the arousal that they are experiencing
+**少数派影響（Minority influence）** 現在の社会集団で、より少数の個人がもつ信念が優勢になること
 
-**Mood** The positive or negative feelings that are in the background of our everyday experiences
+**覚醒の誤帰属（Misattribution of arousal）** 経験している覚醒の原因を誤ってラベルづけすること
 
-**Mood congruence effects** When we are more able to retrieve memories that match our current mood
+**気分（Mood）** 日常経験の背景に存在する肯定的または否定的感情
 
-**Mood-dependent memory** The tendency to better remember information when our current mood matches the mood we were in when we encoded that information
+**気分一致効果（Mood congruence effects）** 現在の気分と一致する記憶をより取り出しやすくなること
 
-**Moral reasoning** The manner in which one makes ethical judgments
+**気分依存記憶（Mood-dependent memory）** 現在の気分と、その情報を符号化したときの気分が一致すると、情報をよりよく思い出せる傾向
 
-**Morality beliefs** The set of social norms that describe the principles and ideals, as well as the duties and obligations, that we view as appropriate and that we use to judge the actions of others and to guide our own behavior
+**道徳的推論（Moral reasoning）** 倫理的判断を行う方法
 
-**Narcissism** A personality trait characterized by overly high self-esteem, self-admiration, and self-centeredness
+**道徳的信念（Morality beliefs）** 適切だとみなす原理や理想、義務と責務を記述し、他者の行動を判断し、自分自身の行動を導くために用いる社会的規範の集合
 
-**Need for cognition** The tendency to think carefully and fully about our experiences, including the social situations we encounter
+**ナルシシズム（Narcissism）** 過度に高い自尊心、自己賞賛、自己中心性を特徴とするパーソナリティ特性
 
-**Negative attributional style** The tendency to explain negative events by referring to our own internal, stable, and global qualities
+**認知欲求（Need for cognition）** 出会う社会的状況を含む経験について、注意深く十分に考える傾向
 
-**Negotiation** The process by which two or more parties formally work together to attempt to resolve a perceived divergence of interest in order to avoid or resolve social conflict
+**否定的帰属スタイル（Negative attributional style）** 否定的出来事を、自分自身の内的で安定的かつ全般的な性質によって説明する傾向
 
-**Nonphysical aggression** Aggression that does not involve physical harm
+**交渉（Negotiation）** 社会的対立を避ける、または解決するため、知覚された利害の相違を解決しようとして二つ以上の当事者が正式に協力する過程
 
-**Nonverbal behavior** Any type of communication that does not involve speaking, including facial expressions, body language, touching, voice patterns, and interpersonal distance
+**非身体的攻撃（Nonphysical aggression）** 身体的危害を伴わない攻撃
 
-**Normative social influence** Conformity that occurs when we express opinions or behave in ways that help us to be accepted or that keep us from being isolated or rejected by others
+**非言語行動（Nonverbal behavior）** 顔の表情、ボディランゲージ、接触、声のパターン、対人距離など、発話を伴わないあらゆる種類のコミュニケーション
 
-**Norming stage** When the appropriate norms and roles for the group are developed
+**規範的社会的影響（Normative social influence）** 他者に受け入れられる、または孤立・拒絶されることを避けるのに役立つ意見を表明したり行動したりするときに生じる同調
 
-**Not invented here bias** When group members overvalue their own group’s ideas and products over those of other groups
+**規範形成段階（Norming stage）** 集団に適切な規範と役割が発達するとき
 
-**Observational learning** When people learn by observing the behavior of others
+**自前主義バイアス（Not invented here bias）** 集団メンバーが、他集団のアイデアや製品より自分たちの集団のアイデアや製品を過大評価すること
 
-**Observational research** Research that involves making observations of behavior and recording those observations in an objective manner
+**観察学習（Observational learning）** 他者の行動を観察することで学習すること
 
-**Operant learning** The principle that experiences that are followed by positive emotions (reinforcements or rewards) are likely to be repeated, whereas experiences that are followed by negative emotions (punishments) are less likely to be repeated
+**観察研究（Observational research）** 行動を観察し、その観察を客観的な方法で記録する研究
 
-**Operational definition** The particular method that we use to measure a variable of interest
+**オペラント学習（Operant learning）** 肯定的感情（強化または報酬）が後に続く経験は繰り返されやすく、否定的感情（罰）が後に続く経験は繰り返されにくいという原理
 
-**Optimistic bias** The tendency to believe that positive outcomes are more likely to happen than negative ones, particularly in relation to ourselves versus others
+**操作的定義（Operational definition）** 関心のある変数を測定するために用いる具体的な方法
 
-**Optimistic explanatory style** A way of explaining current outcomes affecting the self in a way that leads to an expectation of positive future outcomes
+**楽観バイアス（Optimistic bias）** とくに他者と比べた自分自身について、否定的結果より肯定的結果が起こりやすいと信じる傾向
 
-**Other-concern** The motivation to affiliate with, accept, and be accepted by others
+**楽観的説明スタイル（Optimistic explanatory style）** 自分に影響する現在の結果を、肯定的な将来の結果への期待につながる形で説明する方法
 
-**Outcome bias** A tendency to look at the outcome too much when we evaluate decision making
+**他者への関心（Other-concern）** 他者と親しくなり、他者を受け入れ、他者から受け入れられようとする動機
 
-**Outgroup homogeneity** The tendency to view members of outgroups as more similar to each other than we see members of ingroups
+**結果バイアス（Outcome bias）** 意思決定を評価するとき、結果を過度に重視する傾向
 
-**Overconfidence** **bias** The tendency to be overconfident in our own skills, abilities, and judgments
+**外集団同質性（Outgroup homogeneity）** 外集団のメンバー同士を、内集団のメンバー同士よりも似ていると見る傾向
 
-**Overjustification** The viewing of our behavior as caused by the situation, leading us to discount the extent to which our behavior was actually caused by our own interest in the activity
+**過信バイアス（Overconfidence bias）** 自分自身の技能、能力、判断を過信する傾向
 
-**Passionate love** The kind of love that we experience when we are first getting to know a romantic partner
+**過剰正当化（Overjustification）** 自分の行動を状況によって引き起こされたとみなし、その行動が実際には活動そのものへの自分の関心によって引き起こされた程度を割り引くこと
 
-**Pearson correlation coefficient** A statistic used to summarize the association, or correlation, between two variables
+**情熱的愛（Passionate love）** 恋愛相手と知り合い始めたときに経験する種類の愛
 
-**Performing stage** When group members establish a routine and effectively work together
+**Pearsonの相関係数（Pearson correlation coefficient）** 二つの変数間の関連、すなわち相関を要約するために用いる統計量
 
-**Person perception** The process of learning about other people
+**遂行段階（Performing stage）** 集団メンバーが定型的な活動を確立し、効果的に協力して働くとき
 
-**Personal (**or **internal** or **dispositional) attribution** When we decide that the behavior was caused primarily by the person
+**対人知覚（Person perception）** 他者について学ぶ過程
 
-**Personal distress** The negative emotions that we may experience when we view another person’s suffering
+**個人的（または内的・特性的）帰属（Personal or internal or dispositional attribution）** 行動が主としてその人自身によって引き起こされたと判断するとき
 
-**Personality theories of leadership** Explanations of leadership based on the idea that some people are simply “natural leaders” because they possess personality characteristics that make them effective
+**個人的苦痛（Personal distress）** 他者の苦しみを見たときに経験する可能性のある否定的感情
 
-**Personality traits** The specific and stable personality characteristics that describe an individual
+**リーダーシップのパーソナリティ理論（Personality theories of leadership）** 一部の人は効果的なリーダーにするパーソナリティ特徴をもつため、単純に「生まれつきのリーダー」であるという考えに基づくリーダーシップの説明
 
-**Physical aggression** Aggression that involves harming others physically
+**パーソナリティ特性（Personality traits）** 個人を記述する、具体的で安定したパーソナリティ特徴
 
-**Planning fallacy** The tendency to overestimate the amount that we can accomplish over a particular time frame
+**身体的攻撃（Physical aggression）** 他者を身体的に傷つける攻撃
 
-**Pluralistic ignorance** When people think that others in their environment have information that they do not have and when they base their judgments on what they think the others are thinking
+**計画錯誤（Planning fallacy）** 一定期間内に自分が達成できる量を過大評価する傾向
 
-**Positive attributional style** Ways of explaining events that are related to high self-esteem, including a tendency to explain negative events experienced by referring to external, unstable, and specific qualities
+**多元的無知（Pluralistic ignorance）** 周囲の他者が自分にはない情報をもっていると考え、他者が何を考えていると思うかに基づいて自分の判断を行うこと
 
-**Postdecisional dissonance** The feeling of regret that may occur after we make an important decision
+**肯定的帰属スタイル（Positive attributional style）** 否定的出来事を外的・不安定・特定的な性質に言及して説明する傾向など、高い自尊心と関連する出来事の説明方法
 
-**Pre-giving technique** A persuasion tactic that relies on the norm of reciprocity
+**意思決定後不協和（Postdecisional dissonance）** 重要な意思決定を行った後に生じる場合がある後悔の感情
 
-**Prefrontal cortex** The part of the brain that lies in front of the motor areas of the cortex and that helps us remember the characteristics and actions of other people, plan complex social behaviors, and coordinate our behaviors with those of others
+**事前贈与技法（Pre-giving technique）** 返報性の規範に依存する説得技法
 
-**Prejudice** An unjustifiable negative attitude toward an outgroup or toward the members of that outgroup
+**前頭前皮質（Prefrontal cortex）** 大脳皮質の運動野より前方に位置し、他者の特徴と行動を記憶し、複雑な社会的行動を計画し、自分の行動を他者と調整するのを助ける脳の部分
 
-**Prescriptive norms** Rules which tell the group members what to do
+**偏見（Prejudice）** 外集団またはその外集団のメンバーに対する正当化できない否定的態度
 
-**Primacy effect** The tendency for information that we learn first to be weighted more heavily than is information that we learn later
+**指示的規範（Prescriptive norms）** 集団メンバーが何をすべきかを示す規則
 
-**Priming** A technique in which information is temporarily brought into memory through exposure to situational events, which can then influence judgments entirely out of awareness
+**初頭効果（Primacy effect）** 後から学んだ情報より最初に学んだ情報へ強い重みを与える傾向
 
-****Principle of attitude consistency**** A principle that states that for any given attitude object, the ABCs of affect, behavior, and cognition are normally in line with each other
+**プライミング（Priming）** 状況的出来事への曝露によって情報を一時的に記憶へ呼び出し、その後、意識外で判断へ影響させる技法
 
-**Prisoner’s dilemma game** A laboratory simulation that models a social dilemma in which the goals of the individual compete with the goals of another individual (or sometimes with a group of other individuals)
+**態度一貫性の原理（Principle of attitude consistency）** ある態度対象について、感情、行動、認知のABCは通常、互いに一致しているとする原理
 
-**Private acceptance** Real change in opinions on the part of the individual
+**囚人のジレンマ・ゲーム（Prisoner’s dilemma game）** 個人の目標が別の個人（または場合によっては複数の個人からなる集団）の目標と競合する社会的ジレンマをモデル化する実験室シミュレーション
 
-**Private self-consciousness** The tendency to introspect about our inner thoughts and feelings
+**私的受容（Private acceptance）** 個人の意見そのものに生じる本当の変化
 
-**Procedural fairness** Beliefs about the fairness (or unfairness) of the procedures used to distribute available rewards among parties
+**私的自己意識（Private self-consciousness）** 自分の内的思考や感情を内省する傾向
 
-**Process gain** When groups work better than we would expect, given the individuals who form them
+**手続き的公正（Procedural fairness）** 利用可能な報酬を当事者間で分配するために用いられる手続きの公正さ（または不公正さ）についての信念
 
-**Process loss** When groups perform more poorly than we would expect, given the characteristics of the members of the group
+**プロセス利得（Process gain）** 集団を構成する個人から予想される以上によく集団が機能するとき
 
-**Processing fluency** The ease with which we can process information in our environments
+**プロセス損失（Process loss）** 集団メンバーの特徴から予想されるより、集団のパフォーマンスが低くなるとき
 
-**Production blocking** When only one person can speak at a time, and this can cause people to forget their ideas because they are listening to others, or to miss what others are saying because they are thinking of their own ideas
+**処理流暢性（Processing fluency）** 環境内の情報を処理する容易さ
 
-**Projection bias** The tendency to assume that others share our cognitive and affective states
+**生産ブロッキング（Production blocking）** 一度に一人しか話せないことで、他者の話を聞いている間に自分のアイデアを忘れたり、自分のアイデアを考えているため他者の発言を聞き逃したりすること
 
-**Proscriptive norms** Rules which tell the group members what not to do
+**投影バイアス（Projection bias）** 他者も自分と同じ認知状態や感情状態を共有していると仮定する傾向
 
-**Proximity-liking** The tendency for people to become better acquainted with, and more fond of, each other when the social situation brings them into repeated contact
+**禁止的規範（Proscriptive norms）** 集団メンバーが何をしてはならないかを示す規則
 
-**Psychological reactance** The strong emotional response that we experience when we feel that our freedom of choice is being taken away
+**近接―好意（Proximity-liking）** 社会的状況によって繰り返し接触するようになると、人々が互いをよりよく知り、より好むようになる傾向
 
-**Public compliance** A superficial change in behavior (including the public expression of opinions) that is not accompanied by an actual change in one’s private opinion
+**心理的リアクタンス（Psychological reactance）** 選択の自由を奪われていると感じるときに経験する強い感情反応
 
-**Public goods** Benefits that are shared by a community at large and that everyone in the group has access to, regardless of whether or not they have personally contributed to the creation of the goods
+**公的追従（Public compliance）** 私的意見そのものの変化を伴わない、表面的な行動変化（公の場での意見表明を含む）
 
-**Public self-consciousness** The tendency to focus on our outer public image and to be particularly aware of the extent to which we are meeting the standards set by others
+**公共財（Public goods）** コミュニティ全体で共有され、その財の創出に本人が貢献したかどうかにかかわらず、集団の全員がアクセスできる利益
 
-**Random assignment to conditions** Determining separately for each participant which condition he or she will experience through a random process
+**公的自己意識（Public self-consciousness）** 外向きの公的イメージに焦点を当て、他者が設定した基準をどの程度満たしているかを特に意識する傾向
 
-**Realistic group conflict** When groups are in competition for objectively scarce resources
+**条件への無作為割り当て（Random assignment to conditions）** 各参加者がどの条件を経験するかを、それぞれ無作為な過程によって決めること
 
-**Recency effect** When information that comes later is given more weight
+**現実的集団間対立（Realistic group conflict）** 集団同士が客観的に希少な資源をめぐって競争している状態
 
-**Reciprocal altruism** A mutual, and generally equitable, exchange of benefits
+**新近効果（Recency effect）** 後から来る情報へより強い重みが与えられること
 
-**Reciprocity norm** A social norm reminding us that we should follow the principles of reciprocal altruism
+**互恵的利他主義（Reciprocal altruism）** 相互的で、一般に衡平な利益の交換
 
-**Reconstructive memory bias** When we remember things that match our current beliefs better than those that don’t and reshape those memories to better align with our current beliefs
+**返報性の規範（Reciprocity norm）** 互恵的利他主義の原理に従うべきだと私たちに促す社会的規範
 
-**Referent power** Influence based on identification with, attraction to, or respect for the power-holder
+**再構成的記憶バイアス（Reconstructive memory bias）** 現在の信念と一致することを、一致しないことよりよく覚え、その記憶を現在の信念により合うよう再形成すること
 
-**Relational or social aggression** Intentionally harming another person’s social relationships
+**参照勢力（Referent power）** 権力をもつ人への同一視、魅力、尊敬に基づく影響力
 
-**Representativeness heuristic** When we base our judgments on information that seems to represent, or match, what we expect will happen, while ignoring more informative base-rate information
+**関係的または社会的攻撃（Relational or social aggression）** 他者の社会的関係を意図的に傷つけること
 
-**Reputation management** A form of long-term self-presentation, where individuals seek to build and sustain specific reputations with important audiences
+**代表性ヒューリスティック（Representativeness heuristic）** より有益なベースレート情報を無視し、起こると予想していることを表している、またはそれと一致しているように見える情報に基づいて判断すること
 
-**Research hypothesis** A specific prediction about the relationship between the variables of interest and about the specific direction of that relationship
+**評判管理（Reputation management）** 長期的自己呈示の一形態で、重要な相手に対して特定の評判をつくり、維持しようとすること
 
-**Reward power** The ability to distribute positive or negative rewards
+**研究仮説（Research hypothesis）** 関心のある変数間の関係と、その関係の具体的方向についての具体的予測
 
-**Role stress** When individuals experience incompatible demands and expectations within or between the roles that they occupy, which often negatively impacts their ability to be successful in those roles
+**報酬勢力（Reward power）** 肯定的または否定的報酬を分配する能力
 
-**Schema** A knowledge representation that includes information about a person, group, or situation
+**役割ストレス（Role stress）** 自分が占める一つの役割内または複数の役割間で両立しない要求や期待を経験し、それによってその役割で成功する能力がしばしば否定的影響を受けること
 
-**Secure attachment style** When children perceive their parents as safe, available, and responsive caregivers and are able to relate easily to them
+**スキーマ（Schema）** 人、集団、状況についての情報を含む知識表象
 
-**Self** Our sense of personal identity and of who we are as individuals
+**安定型愛着スタイル（Secure attachment style）** 子どもが親を安全で、利用可能で、応答的な養育者として知覚し、容易に関係を築けるとき
 
-**Self-affirmation theory** When people try to reduce the threat to their self-concept posed by feelings of self-discrepancy by focusing on and affirming their worth in another domain, unrelated to the issue at hand
+**自己（Self）** 個人的アイデンティティ、および個人として自分が何者であるかについての感覚
 
-**Self-awareness** The extent to which we are currently fixing our attention on our own self-concept
+**自己肯定理論（Self-affirmation theory）** 自己不一致の感情によって自己概念に生じる脅威を減らすため、当面の問題とは無関係な別の領域で自分の価値へ焦点を当て、それを肯定しようとすること
 
-**Self-awareness theory** When we focus our attention on ourselves, the tendency for us to compare our current behavior against our internal standards
+**自己意識（Self-awareness）** 現在、自分自身の自己概念へ注意をどの程度集中しているか
 
-**Self-complexity** The extent to which individuals have many different and relatively independent ways of thinking about themselves
+**自己意識理論（Self-awareness theory）** 自分自身へ注意を向けると、現在の行動を内的基準と比較する傾向が生じること
 
-**Self concept** A knowledge representation that contains knowledge about us, including our beliefs about our personality traits, physical characteristics, abilities, values, goals, and roles, as well as the knowledge that we exist as individuals
+**自己複雑性（Self-complexity）** 自分自身について、多くの異なる、比較的独立した考え方を個人がどの程度もっているか
 
-**Self-concept clarity** The extent to which one’s self-concept is clearly and consistently defined
+**自己概念（Self concept）** パーソナリティ特性、身体的特徴、能力、価値観、目標、役割についての信念や、自分が個人として存在するという知識を含む、自分についての知識表象
 
-**Self-concern** The motivation to protect and enhance the self and the people who are psychologically close to us
+**自己概念明確性（Self-concept clarity）** 自己概念が明確かつ一貫して定義されている程度
 
-**Self-consciousness** When our self-concept becomes highly accessible because of our concerns about being observed and potentially judged by others
+**自己への関心（Self-concern）** 自分自身と心理的に近い人々を守り、高めようとする動機
 
-**Self-disclosure** The tendency to communicate frequently, without fear of reprisal, and in an accepting and empathetic manner
+**自意識（Self-consciousness）** 他者から観察され、判断される可能性への関心によって、自己概念のアクセス可能性が非常に高くなること
 
-**Self-discrepancy theory** The tendency to experience distress when we perceive a discrepancy between our actual and ideal selves
+**自己開示（Self-disclosure）** 報復を恐れず、受容的・共感的な形で頻繁にコミュニケーションする傾向
 
-**Self-efficacy** The belief in our ability to carry out actions that produce desired outcomes
+**自己不一致理論（Self-discrepancy theory）** 現実自己と理想自己の間に不一致を知覚すると苦痛を経験する傾向
 
-**Self-esteem** The positive (high self-esteem) or negative (low self-esteem) feelings that we have about ourselves
+**自己効力感（Self-efficacy）** 望ましい結果を生み出す行動を自分が実行できるという信念
 
-**Self-evaluation maintenance theory** When our self-esteem can be threatened when someone else outperforms us, particularly if that person is close to us and the performance domain is central to our self-concept
+**自尊心（Self-esteem）** 自分自身について抱く肯定的（高い自尊心）または否定的（低い自尊心）感情
 
-**Self-fulfilling prophecy** A process that occurs when our expectations about others lead us to behave toward those others in ways that make our expectations come true
+**自己評価維持理論（Self-evaluation maintenance theory）** 他者、とくに自分と親しい人が、自分の自己概念に中心的な領域で自分よりよい成果を上げると、自尊心が脅かされる可能性があること
 
-**Self-handicapping** When we make statements or engage in behaviors that help us create a convenient external attribution for potential failure
+**自己成就予言（Self-fulfilling prophecy）** 他者についての期待によって、その期待が現実になるような形で他者へ行動するようになる過程
 
-**Self-labeling** When we adopt others’ labels explicitly into our self-concept
+**セルフ・ハンディキャッピング（Self-handicapping）** 潜在的失敗について都合のよい外的帰属をつくる助けとなる発言や行動を行うこと
 
-**Self-monitoring** The tendency to be both motivated and capable of regulating our behavior to meet the demands of social situations
+**自己ラベリング（Self-labeling）** 他者からのラベルを明示的に自己概念へ取り入れること
 
-**Self-perception** The process of using our perceptions of our behavior to help us determine our attitudes toward an attitude object
+**セルフ・モニタリング（Self-monitoring）** 社会的状況の要求を満たすため、自分の行動を調整する動機と能力の両方をもつ傾向
 
-**Self-presentation** The tendency to present a positive self-image to others, with the goal of increasing our social status
+**自己知覚（Self-perception）** 自分の行動についての知覚を用いて、態度対象への自分の態度を判断する過程
 
-**Self-reference effect** When information that is processed in relationship to the self is particularly well remembered
+**自己呈示（Self-presentation）** 社会的地位を高めることを目標として、他者へ肯定的な自己イメージを示す傾向
 
-**Self-regulation** The process of setting goals and using our cognitive and affective capacities to reach those goals
+**自己参照効果（Self-reference effect）** 自己との関連で処理された情報が特によく記憶されること
 
-**Self-report measures** Measures in which individuals are asked to respond to questions posed by an interviewer or on a questionnaire
+**自己調整（Self-regulation）** 目標を設定し、その目標へ到達するため認知的・感情的能力を利用する過程
 
-**Self-schema** A variety of different cognitive aspects of the self
+**自己報告測定（Self-report measures）** 面接者または質問紙によって提示された質問に個人が回答する測定
 
-**Self-serving attributions** Attributions that help us meet our desire to see ourselves positively
+**自己スキーマ（Self-schema）** 自己についてのさまざまに異なる認知的側面
 
-**Self-serving bias** The tendency to attribute our successes to ourselves, and our failures to others and the situation
+**自己奉仕的帰属（Self-serving attributions）** 自分自身を肯定的に見たいという欲求を満たすのに役立つ帰属
 
-**Self-verification theory** The tendency for people to often seek confirmation of their self-concept, whether it is positive or negative
+**自己奉仕バイアス（Self-serving bias）** 成功を自分自身に、失敗を他者や状況に帰属する傾向
 
-**Shared information bias** When group members tend to discuss information that they all have access to while ignoring equally important information that is available to only a few of the members
+**自己確認理論（Self-verification theory）** 肯定的か否定的かにかかわらず、自分の自己概念を確認する情報を求めることが多いという傾向
 
-**Situational attribution** When we determine that a behavior was caused primarily by the situation
+**共有情報バイアス（Shared information bias）** 少数のメンバーだけが利用できる同じくらい重要な情報を無視し、集団メンバー全員がアクセスできる情報について話し合う傾向
 
-**Sleeper effect** Attitude change that occurs over time when the content of a message is remembered but the source of the message is forgotten
+**状況的帰属（Situational attribution）** 行動が主として状況によって引き起こされたと判断するとき
 
-**Social categorization** The natural cognitive process of placing individuals into social groups according to their social categories
+**スリーパー効果（Sleeper effect）** メッセージの内容は記憶されているが、その情報源が忘れられることで、時間が経ってから生じる態度変化
 
-**Social cognition** An understanding of how our knowledge about our social worlds develops through experience and the influence of these knowledge structures on memory, information processing, attitudes, and judgment.
+**社会的カテゴリー化（Social categorization）** 社会的カテゴリーに従って個人を社会集団へ分類する自然な認知過程
 
-**Social comparison** When we learn about our abilities and skills, about the appropriateness and validity of our opinions, and about our relative social status by comparing our own attitudes, beliefs, and behaviors with those of others
+**社会的認知（Social cognition）** 社会世界についての知識が経験を通じてどのように発達し、その知識構造が記憶、情報処理、態度、判断へどのように影響するかについての理解
 
-**Social conventional morality** Norms that are seen as appropriate within a culture but that do not involve behaviors that relate to doing good or doing harm toward others
+**社会的比較（Social comparison）** 自分の態度、信念、行動を他者のものと比較することで、自分の能力や技能、意見の適切性と妥当性、相対的社会的地位について学ぶこと
 
-**Social creativity** The use of strategies that allow members of low-status groups to perceive their group as better than other groups
+**社会的慣習に基づく道徳（Social conventional morality）** ある文化内では適切だとみなされるが、他者へ善を行うことや害を与えることに関係する行動を含まない規範
 
-**Social dilemma** A situation in which the goals of the individual conflict with the goals of the group
+**社会的創造性（Social creativity）** 低地位集団のメンバーが自分の集団を他集団よりよいものとして知覚できるようにする方略の利用
 
-**Social dominance orientation (SDO)** A personality variable that refers to the tendency to see and to accept inequality among different groups
+**社会的ジレンマ（Social dilemma）** 個人の目標と集団の目標が対立する状況
 
-**Social exchange** The idea that, if we help other people now, they will return the favor should we need their help in the future
+**社会的支配志向（Social dominance orientation; SDO）** 異なる集団間の不平等を見いだし、それを受け入れる傾向を指すパーソナリティ変数
 
-**Social facilitation** The tendency to perform tasks better or faster in the presence of others
+**社会的交換（Social exchange）** 今、他者を助ければ、将来自分が援助を必要とするとき、その人が恩を返してくれるという考え
 
-**Social fairness norms** Beliefs about how people should be treated fairly
+**社会的促進（Social facilitation）** 他者が存在すると、課題をよりよく、またはより速く遂行する傾向
 
-**Social group** A set of individuals with a shared purpose and who normally share a positive social identity
+**社会的公正規範（Social fairness norms）** 人々がどのように公正に扱われるべきかについての信念
 
-**Social identity** The sense of our self that involves our memberships in social groups
+**社会集団（Social group）** 共通の目的をもち、通常、肯定的な社会的アイデンティティを共有する人々の集合
 
-**Social identity theory** The tendency to draw part of our sense of identity and self-esteem from the social groups that we belong to
+**社会的アイデンティティ（Social identity）** 社会集団への所属に関係する自己の感覚
 
-**Social impact** The increase in the amount of conformity that is produced by adding new members to the majority group
+**社会的アイデンティティ理論（Social identity theory）** 自分が所属する社会集団から、アイデンティティ感覚と自尊心の一部を引き出す傾向
 
-**Social influence** The process through which other people change our thoughts, feelings, and behaviors and through which we change theirs
+**社会的インパクト（Social impact）** 多数派集団に新しいメンバーを加えることで生じる同調量の増加
 
-**Social inhibition** The tendency to perform tasks more poorly or slower in the presence of others
+**社会的影響（Social influence）** 他者が私たちの思考、感情、行動を変え、また私たちが他者のそれらを変える過程
 
-**Social intelligence** An ability to develop a clear perception of the situation using situational cues
+**社会的抑制（Social inhibition）** 他者が存在すると、課題をより悪く、またはより遅く遂行する傾向
 
-**Social loafing** A group process loss that occurs when people do not work as hard in a group as they do when they are alone
+**社会的知性（Social intelligence）** 状況的手がかりを使って状況を明確に知覚する能力
 
-**Social neuroscience** The study of how our social behavior both influences and is influenced by the activities of our brain
+**社会的手抜き（Social loafing）** 一人でいるときほど集団では懸命に働かない場合に生じる、集団のプロセス損失
 
-**Social norms** The ways of thinking, feeling, or behaving that are shared by group members and perceived by them as appropriate
+**社会神経科学（Social neuroscience）** 社会的行動が脳活動にどのような影響を与え、また脳活動からどのような影響を受けるかを研究すること
 
-**Social power** The ability of a person to create conformity even when the people being influenced may attempt to resist those changes
+**社会的規範（Social norms）** 集団メンバーが共有し、適切だと知覚する思考、感情、行動の方法
 
-**Social psychology** The scientific study of how we feel about, think about, and behave toward the people around us and how our feelings, thoughts, and behaviors are influenced by those people
+**社会的勢力（Social power）** 影響を受ける人々がその変化へ抵抗しようとしても、同調を生み出すことのできる個人の能力
 
-**Social responsibility norm** A social norm that we should try to help others who need assistance, even without any expectation of future paybacks
+**社会心理学（Social psychology）** 周囲の人々についてどのように感じ、考え、行動するか、そしてその感情、思考、行動が周囲の人々からどのような影響を受けるかを科学的に研究する学問
 
-**Social support** refers to the comfort that we receive from the people around us—for instance, our family, friends, classmates, and coworkers
+**社会的責任の規範（Social responsibility norm）** 将来の見返りを期待しなくても、援助を必要とする他者を助けようとすべきだとする社会的規範
 
-**Specific attributions** Those attributions that we see as more unique to particular events.
+**社会的支援（Social support）** 家族、友人、同級生、同僚など、周囲の人々から受ける安心や慰め
 
-**Spontaneous message processing** When we focus on whatever is most obvious or enjoyable, without much attention to the message itself
+**特定的帰属（Specific attributions）** 特定の出来事により固有だと考える帰属
 
-**Stable attributions** Those attributions that we think will be relatively permanent
+**自発的メッセージ処理（Spontaneous message processing）** メッセージそのものへあまり注意を払わず、最も目立つものや楽しいものに焦点を当てること
 
-**Stereotype** The positive or negative beliefs that we hold about the characteristics of social group
+**安定的帰属（Stable attributions）** 比較的永続すると考える帰属
 
-**Stereotype threat** Performance decrements that are caused by the knowledge of cultural stereotypes
+**ステレオタイプ（Stereotype）** 社会集団の特徴について抱く肯定的または否定的信念
 
-**Storming stage** When group members may attempt to make their own views known, expressing their independence and attempting to persuade the group to accept their ideas
+**ステレオタイプ脅威（Stereotype threat）** 文化的ステレオタイプを知っていることによって生じるパフォーマンスの低下
 
-**Sunk costs bias** When we choose to stay in situations largely because we feel we have put too much effort in to be able to leave them behind
+**混乱段階（Storming stage）** 集団メンバーが自分の意見を明確にしようとし、独立性を表明し、自分の考えを受け入れるよう集団を説得しようとする場合がある段階
 
-**Superordinate goals** Goals that are very important and require the cooperative efforts and resources of more than one group to attain
+**サンクコスト・バイアス（Sunk costs bias）** あまりに多くの努力を投入したため後にできないと感じることを主な理由として、その状況にとどまることを選ぶ傾向
 
-**Principle of attitude consistency** For any given attitude object, the ABCs of affect, behavior, and cognition are normally in line with each other
+**上位目標（Superordinate goals）** 非常に重要であり、達成するには複数の集団による協力的努力と資源を必要とする目標
 
-**Third variables** Variables that are not part of the research hypothesis but that cause both the predictor and the outcome variable and thus produce the observed correlation between them
+**態度一貫性の原理（Principle of attitude consistency）** ある態度対象について、感情、行動、認知のABCは通常、互いに一致しているという原理
 
-**Thoughtful message processing** The careful consideration of whether a persuasion attempt is valid or invalid
+**第三変数（Third variables）** 研究仮説の一部ではないものの、予測変数と結果変数の双方を引き起こし、その結果、両者の間に観察される相関を生み出す変数
 
-**Tit-for-tat strategy** Initially making a cooperative choice and then simply matching the previous move of the opponent (whether cooperation or competition)
+**熟慮的メッセージ処理（Thoughtful message processing）** 説得の試みが妥当か妥当でないかを注意深く検討すること
 
-**Trait ascription bias** A tendency for people to view their own personality, beliefs, and behaviors as more variable than those of others
+**しっぺ返し方略（Tit-for-tat strategy）** 最初に協力的選択を行い、その後は相手の直前の行動（協力でも競争でも）をそのまま繰り返すこと
 
-**Transactional leaders** Leaders who work with their subordinates to help them understand what is required of them and to get the job done
+**特性帰属バイアス（Trait ascription bias）** 自分自身のパーソナリティ、信念、行動を、他者のものより変動的だと見る傾向
 
-**Transformational leaders** Leaders who have a vision of where the group is going and attempt to stimulate and inspire their workers to move beyond their present status and to create a new and better future
+**取引型リーダー（Transactional leaders）** 部下と協力し、何が求められているかを理解させ、仕事を完了できるよう助けるリーダー
 
-**Unitary task** A task that has to be done all at once and cannot be divided up
+**変革型リーダー（Transformational leaders）** 集団がどこへ向かうかについてビジョンをもち、現在の状態を越えて新しくよりよい未来をつくるよう部下を刺激し、鼓舞しようとするリーダー
 
-**Unrealistic optimism** The tendency to be overly positive about the likelihood that negative things will occur to us and that we will be able to effectively cope with them if they do
+**単一課題（Unitary task）** 一度に全体を行う必要があり、分割できない課題
 
-**Unstable attributions** Those attributions that are expected to change over time
+**非現実的楽観主義（Unrealistic optimism）** 悪いことが自分に起きる可能性について過度に楽観的であり、実際に起きた場合にも効果的に対処できると考える傾向
 
-**Upward social comparison** When we compare ourselves with others who are better off than we are
+**不安定的帰属（Unstable attributions）** 時間とともに変化すると予想される帰属
 
-**Verbal aggression** Yelling, screaming, swearing, and name calling
+**上方社会的比較（Upward social comparison）** 自分より状況のよい他者と自分を比較するとき
 
-**Violence** Aggression that has extreme physical harm, such as injury or death, as its goal
+**言語的攻撃（Verbal aggression）** 怒鳴る、叫ぶ、罵る、悪口を言うこと
 
-**What is beautiful is good stereotype** The belief that external attractiveness signifies positive internal qualities
+**暴力（Violence）** 傷害や死亡のような極端な身体的危害を目標とする攻撃
+
+**「美しいものはよい」というステレオタイプ（What is beautiful is good stereotype）** 外見的魅力が肯定的な内面的性質を示しているという信念
