@@ -6,9 +6,10 @@ export function socialPsychologySidebar() {
   const pages = files.map((file) => {
     const source = readFileSync(`${directory}/${file}`, "utf8");
     const title = source.match(/^title:\s*["'](.+?)["']$/m)?.[1] ?? file.replace(".md", "");
+    const order = Number(source.match(/^  order:\s*(\d+)$/m)?.[1] ?? Number.MAX_SAFE_INTEGER);
     const slug = `social-psychology/${file.replace(".md", "")}`;
     const match = file.match(/^(\d+)(?:-(\d+))?-/);
-    return { file, title, slug, chapter: match?.[1], section: match?.[2] };
+    return { file, title, slug, order, chapter: match?.[1], section: match?.[2] };
   });
 
   const chapters = pages.filter((page) => page.chapter && !page.section).sort((a, b) => a.file.localeCompare(b.file, undefined, { numeric: true }));
@@ -26,7 +27,7 @@ export function socialPsychologySidebar() {
 
   const other = pages
     .filter((page) => !page.chapter)
-    .sort((a, b) => a.file.localeCompare(b.file))
+    .sort((a, b) => a.order - b.order || a.file.localeCompare(b.file))
     .map(({ title, slug }) => ({ label: title, slug }));
   const backMatterFiles = new Set([
     "about-the-authors.md",
