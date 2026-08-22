@@ -1,146 +1,147 @@
 ---
-title: "8.3 How the Social Context Influences Helping"
+title: "8.3 社会的文脈は援助行動にどのような影響を与えるか"
 sidebar:
   order: 54
 ---
-:::note[Learning Objectives]
 
-1. Review Bibb Latané and John Darley’s model of helping behavior and indicate the social psychological variables that influence each stage.
+:::note[学習目標]
+
+1. Bibb Latané と John Darley の援助行動モデルを概観し、その各段階に影響する社会心理学的変数を示す。
 
 :::
 
-Although emotional responses such as guilt, personal distress, and empathy are important determinants of altruism, it is the social situation itself—the people around us when we are deciding whether or not to help—that has perhaps the most important influence on whether and when we help.
+罪悪感、個人的苦痛、共感といった感情反応は利他主義の重要な規定因だが、援助するかどうかを決めるときに周囲にいる人々、すなわち社会的状況そのものが、私たちがいつ援助するかにおそらく最も重要な影響を及ぼす。
 
-Consider the unusual case of the killing of 28-year-old Katherine “Kitty” Genovese in New York City at about 3:00 a.m. on March 13, 1964. Her attacker, Winston Moseley, stabbed and sexually assaulted her within a few yards of her apartment building in the borough of Queens. During the struggle with her assailant, Kitty screamed, “Oh my God! He stabbed me! Please help me!” But no one responded. The struggle continued; Kitty broke free from Moseley, but he caught her again, stabbed her several more times, and eventually killed her.
+1964年3月13日午前3時ごろ、New York City で28歳の Katherine “Kitty” Genovese が殺害された異例の事件を考えてみよう。加害者 Winston Moseley は Queens 区の彼女のアパートから数ヤードの場所で彼女を刺し、性的暴行を加えた。襲撃者ともみ合う中、Kitty は「大変！ 刺された！ 誰か助けて！」と叫んだ。しかし誰も応答しなかった。もみ合いは続き、Kitty はいったん Moseley から逃れたが、再び捕まり、何度も刺され、最終的に殺害された。
 
-The murder of Kitty Genovese shocked the nation, in large part because of the (often inaccurate) reporting of it. Stories about the killing in the *New York Times* and other papers indicated that as many as 38 people had overheard the struggle and killing, that none of them had bothered to intervene, and that only one person had even called the police, long after Genovese was dead.
+Kitty Genovese の殺害は全米へ衝撃を与えたが、その大きな理由は（しばしば不正確だった）報道にあった。_New York Times_ などの新聞は、最大38人が争いと殺害の物音を聞いていたにもかかわらず、誰も介入せず、Genovese が死亡してからかなり後になって警察へ電話した人が一人いただけだと伝えた。
 
-Although these stories about the lack of concern by people in New York City proved to be false (Manning, Levine, & Collins, 2007), they nevertheless led many people to think about the variables that might lead people to help or, alternatively, to be insensitive to the needs of others. Was this an instance of the uncaring and selfish nature of human beings? Or was there something about this particular social situation that was critical? It turns out, contrary to most people’s expectations, that having many people around during an emergency can in fact be the opposite of helpful—it can reduce the likelihood that anyone at all will help.
+New York City の人々の無関心についてのこうした話は後に誤りだったことが示されたが (Manning, Levine, & Collins, 2007)、それでも、人を援助させる、あるいは逆に他者のニーズへ鈍感にさせる変数について多くの人が考える契機となった。これは人間の冷淡で利己的な本性の例だったのだろうか。それとも、この特定の社会的状況に決定的な何かがあったのだろうか。実際には、多くの人の予想に反して、緊急事態で周囲に大勢の人がいることは、援助の助けになるどころか、誰かが援助する可能性を低下させることがある。
 
-## Latané and Darley’s Model of Helping
+## Latané と Darley の援助モデル
 
-Two social psychologists, Bibb Latané and John Darley, found themselves particularly interested in, and concerned about, the Kitty Genovese case. As they thought about the stories that they had read about it, they considered the nature of emergency situations, such as this one. They realized that emergencies are unusual and that people frequently do not really know what to do when they encounter one. Furthermore, emergencies are potentially dangerous to the helper, and it is therefore probably pretty amazing that anyone helps at all.<a id="f8.8"></a>
+二人の社会心理学者 Bibb Latané と John Darley は、Kitty Genovese 事件へ特に関心と懸念を抱いた。事件の記事について考える中で、彼らはこのような緊急事態の性質を検討した。緊急事態は通常とは異なる出来事で、人は遭遇しても何をすべきか本当に分からないことが多い。さらに、緊急事態では援助者自身が危険にさらされる可能性がある。そう考えると、そもそも誰かが援助すること自体がかなり驚くべきことなのかもしれない。
 
 ![image description linked in caption](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Figure-8.8-Latane-and-Darleys-Stages-of-Helping.jpg)
 
-*Figure 8.8 Latané and Darley’s Stages of Helping [\[Image description\]](/translations/social-psychology/08-03-how-the-social-context-influences-helping/)*
+_図8.8 Latané と Darley の援助の段階 [［画像の説明］](/translations/social-psychology/08-03-how-the-social-context-influences-helping/)_
 
-To better understand the processes of helping in an emergency, Latané and Darley developed a model of helping that took into consideration the important role of the social situation. Their model, which is shown in Figure 8.8, “Latané and Darley’s Stages of Helping,” has been extensively tested in many studies, and there is substantial support for it.
+緊急時の援助過程をよりよく理解するため、Latané と Darley は、社会的状況の重要な役割を組み込んだ援助モデルを開発した。図8.8「Latané と Darley の援助の段階」に示すこのモデルは、多くの研究で広範に検証され、かなりの支持を得ている。
 
-### Noticing
+### 気づくこと
 
-Latané and Darley thought that the first thing that had to happen in order for people to help is that they had to notice the emergency. This seems pretty obvious, but it turns out that the social situation has a big impact on noticing an emergency. Consider, for instance, people who live in a large city such as New York City, Bangkok, or Beijing. These cities are big, noisy, and crowded—it seems like there are a million things going at once. How could people living in such a city even notice, let alone respond to, the needs of all the people around them? They are simply too overloaded by the stimuli in the city (Milgram, 1970).
+Latané と Darley は、人が援助するために最初に必要なのは、緊急事態に*気づく*ことだと考えた。これは当然に思えるが、実際には社会的状況が緊急事態への気づきへ大きく影響する。たとえば New York City、Bangkok、Beijing のような大都市に住む人を考えてみよう。こうした都市は大きく、騒がしく、混雑しており、同時に百万もの出来事が起きているように感じられる。このような都市で暮らす人が、周囲の全員のニーズに気づき、まして応答することがどうして可能だろうか。都市の刺激によって単純に過負荷になっているのである (Milgram, 1970)。
 
-Many studies have found that people who live in smaller and less dense rural towns are more likely to help than those who live in large, crowded, urban cities (Amato, 1983; Levine, Martinez, Brase, & Sorenson, 1994). Although there are a lot of reasons for such differences, just noticing the emergency is critical. When there are more people around, it is less likely that the people notice the needs of others.
+多くの研究で、人口密度の低い小規模な地方の町に住む人は、大きく混雑した都市に住む人より援助しやすいことが見いだされている (Amato, 1983; Levine, Martinez, Brase, & Sorenson, 1994)。こうした差には多くの理由があるが、緊急事態へ単に気づくことが決定的である。周囲に人が多いほど、人は他者のニーズに気づきにくい。
 
-You may have had an experience that demonstrates the influence of the social situation on noticing. Imagine that you have lived with a family or a roommate for a while, but one night you find yourself alone in your house or apartment because your housemates are staying somewhere else that night. If you are like me, I bet you found yourself hearing sounds that you never heard before—and they might have made you pretty nervous. Of course, the sounds were always there, but when other people were around you, you were simply less alert to them. The presence of others can divert our attention from the environment—it’s as if we are unconsciously, and probably quite mistakenly, counting on the others to take care of things for us.
+社会的状況が気づきへ与える影響を示す経験をしたことがあるかもしれない。家族やルームメイトとしばらく暮らしていたが、ある晩、同居人が別の場所へ泊まりに行ったため、家やアパートで一人になったと想像してみよう。おそらく普段は聞こえなかった音が聞こえ、それにかなり不安になったのではないだろうか。もちろん、その音はいつも存在していた。しかし他者が周囲にいると、私たちはそれほど注意を向けない。他者の存在は環境から注意をそらすことがある。まるで無意識のうちに、しかもおそらくかなり誤って、他の人が物事へ対処してくれると当てにしているかのようである。
 
-Latané and Darley (1968) wondered if they could examine this phenomenon experimentally. To do so, they simply asked their research participants to complete a questionnaire in a small room. Some of the participants completed the questionnaire alone, while others completed the questionnaire in small groups in which two other participants were also working on questionnaires.
+Latané and Darley (1968) は、この現象を実験的に調べられるか考えた。参加者に小さな部屋で質問紙へ記入させ、一部は一人で、他の参加者はさらに二人が同室で質問紙に取り組む3人の小集団で記入させた。
 
-A few minutes after the participants had begun the questionnaires, the experimenters started to release some white smoke into the room through a vent in the wall while they watched through a one-way mirror. The smoke got thicker as time went on, until it filled the room. The experimenters timed how long it took before the first person in the room looked up and noticed the smoke. The people who were working alone noticed the smoke in about five seconds, and within four minutes most of the participants who were working alone had taken some action. But what about the participants working in groups of three? Although we would certainly expect that having more people around would increase the likelihood that someone would notice the smoke, on average, the first person in the group conditions did not notice the smoke until over 20 seconds had elapsed. And although 75% of the participants who were working alone reported the smoke within four minutes, the smoke was reported in only 12% of the three-person groups by that time. In fact, in only three of the eight three-person groups did anyone report the smoke at all, even after it had entirely filled the room!
+質問紙を始めて数分後、実験者は一方向鏡の向こうから観察しながら、壁の通気口から部屋へ白い煙を流し始めた。時間が経つにつれ煙は濃くなり、最後には部屋を満たした。実験者は、部屋の最初の一人が顔を上げて煙に気づくまでの時間を測った。一人で作業していた人は約5秒で煙に気づき、4分以内には大部分が何らかの行動を取った。では3人集団ではどうだっただろうか。人が多いほど誰かが煙に気づく可能性は高いと予想しがちだが、集団条件で最初の人が煙へ気づくまでには平均20秒以上かかった。そして一人条件では75%が4分以内に煙を報告した一方、3人集団で同じ時間内に報告した集団はわずか12%だった。実際、8組の3人集団のうち、煙が部屋を完全に満たした後まで含めても、誰かが煙を報告したのは3組だけだった。
 
-### Interpreting
+### 解釈すること
 
-Even if we notice an emergency, we might not interpret it as one. The problem is that events are frequently ambiguous, and we must interpret them to understand what they really mean. Furthermore, we often don’t see the whole event unfolding, so it is difficult to get a good handle on it. Is a man holding an iPhone and running away from a group of pursuers a criminal who needs to be apprehended, or is this just a harmless prank? Is someone stumbling around outside a nightclub drunk, or going into a diabetic coma? Were the cries of Kitty Genovese really calls for help, or were they simply an argument with a boyfriend? It’s hard for us to tell when we haven’t seen the whole event (Piliavin, Piliavin, & Broll, 1976). Moreover, because emergencies are rare and because we generally tend to assume that events are benign, we may be likely to treat ambiguous cases as not being emergencies.
+緊急事態に気づいたとしても、それを緊急事態だと解釈するとは限らない。出来事はしばしば曖昧で、その本当の意味を理解するには解釈が必要である。しかも出来事の全過程を見ることは通常ないため、正確に把握するのは難しい。iPhone を持って追跡者の集団から走って逃げる男性は、捕まえるべき犯罪者なのか、それとも無害ないたずらの一部なのか。ナイトクラブの外でよろめく人は酔っているのか、糖尿病性昏睡に陥りつつあるのか。Kitty Genovese の叫び声は本当に助けを求める声だったのか、それとも恋人との口論にすぎなかったのか。出来事全体を見ていなければ判断は難しい (Piliavin, Piliavin, & Broll, 1976)。さらに、緊急事態はまれで、私たちは一般に出来事を無害だと想定しがちなので、曖昧な事例を緊急事態ではないと扱いやすい。
 
-The problem is compounded when others are present because when we are unsure how to interpret events we normally look to others to help us understand them (this is informational social influence). However, the people we are looking toward for understanding are themselves unsure how to interpret the situation, and they are looking to us for information at the same time we are looking to them.
+他者がいると、この問題はさらに複雑になる。出来事をどう解釈すべきか分からないとき、私たちは通常、理解の助けを得るため他者を見る（情報的社会影響）。しかし、理解のために見ている相手も、その状況をどう解釈すべきか分からず、私たちが彼らを見ているのと同時に、彼らも私たちを情報源として見ている。
 
-When we look to others for information we may assume that they know something that we do not know. This is often a mistake, because all the people in the situation are doing the same thing. None of us really know what to think, but at the same time we assume that the others do know. Pluralistic ignorance occurs *when people think that others in their environment have information that they do not have and when they base their judgments on what they think the others are thinking*.
+他者を情報源として見ると、自分の知らない何かを相手は知っていると考えることがある。しかし、状況の全員が同じことをしているため、これはしばしば誤りである。誰も本当にはどう考えるべきか分かっていないのに、同時に「他の人は分かっている」と思っている。多元的無知とは、*周囲の他者が自分の持っていない情報を持っていると人々が考え、他者が考えていると思われることに基づいて自分の判断を行うとき*に生じる。
 
-Pluralistic ignorance seems to have been occurring in Latané and Darley’s studies, because even when the smoke became really heavy in the room, many people in the group conditions did not react to it. Rather, they looked at each other, and because nobody else in the room seemed very concerned, they each assumed that the others thought that everything was all right. You can see the problem—each bystander thinks that other people aren’t acting because they don’t see an emergency. Of course, everyone is confused, but believing that the others know something that they don’t, each observer concludes that help is not required.
+Latané と Darley の研究では多元的無知が生じていたようである。煙が非常に濃くなっても、集団条件の多くの人は反応しなかった。互いの様子を見て、部屋のほかの誰もあまり心配していないようだったため、それぞれが「他の人はすべて問題ないと思っている」と判断したのである。問題は明らかだ。各傍観者は、他者が行動しないのは緊急事態を見ていないからだと考える。実際には全員が混乱しているのに、他者は自分の知らない何かを知っていると信じるため、各観察者は援助は必要ないと結論づける。
 
-Pluralistic ignorance is not restricted to emergency situations (Miller, Turnbull, & McFarland, 1988; Suls & Green, 2003). Maybe you have had the following experience: You are in one of your classes and the instructor has just finished a complicated explanation. He is unsure whether the students are up to speed and asks, “Are there any questions?” All the class members are of course completely confused, but when they look at each other, nobody raises a hand in response. So everybody in the class (including the instructor) assumes that everyone understands the topic perfectly. This is pluralistic ignorance at its worst—we are all assuming that others know something that we don’t, and so we don’t act. The moral to instructors in this situation is clear: wait until at least one student asks a question. The moral for students is also clear: ask your question! Don’t think that you will look stupid for doing so—the other students will probably thank you.
+多元的無知は緊急事態に限られない (Miller, Turnbull, & McFarland, 1988; Suls & Green, 2003)。授業で、教員が複雑な説明を終えたところを想像してみよう。学生が理解しているか不安になった教員が「質問はありますか」と尋ねる。実は学生全員が完全に混乱している。しかし互いを見ると、誰も手を挙げない。その結果、授業の全員（教員を含む）が、全員が完全に理解していると想定する。これは多元的無知の最悪の形である。全員が「他の人は自分の知らない何かを知っている」と想定し、行動しない。この状況で教員への教訓は明確である。少なくとも一人が質問するまで待つこと。学生への教訓も明確である。質問しよう。それで愚かに見えるなどと考えないこと。他の学生はむしろ感謝するだろう。
 
-### Taking Responsibility
+### 責任を引き受けること
 
-Even if we have noticed the emergency and interpret it as being one, this does not necessarily mean that we will come to the rescue of the other person. We still need to decide that it is our responsibility to do something. The problem is that when we see others around, it is easy to assume that they are going to do something and that we don’t need to do anything. Diffusion of responsibility *occurs when we assume that others will take action and therefore we do not take action ourselves*. The irony, of course, is that people are more likely to help when they are the only ones in the situation than they are when there are others around.
+緊急事態に気づき、それを緊急事態だと解釈したとしても、それだけで相手を助けに行くとは限らない。何かをすることが自分の責任だと決める必要がある。問題は、周囲に他者がいると、その人たちが何かをしてくれるので自分は何もしなくてよい、と容易に考えてしまうことにある。責任の拡散とは、*他者が行動するだろうと想定し、そのため自分自身は行動しないこと*を指す。皮肉にも、人は周囲に他者がいるときより、その場に自分しかいないときの方が援助しやすい。
 
-Darley and Latané (1968) had study participants work on a communication task in which they were sharing ideas about how to best adjust to college life with other people in different rooms using an intercom. According to random assignment to conditions, each participant believed that he or she was communicating with either one, two, or five other people, who were in either one, two, or five other rooms. Each participant had an initial chance to give his or her opinions over the intercom, and on the first round one of the other people (actually a confederate of the experimenter) indicated that he had an “epileptic-like” condition that had made the adjustment process very difficult for him. After a few minutes, the subject heard the experimental confederate say,
+Darley and Latané (1968) は、参加者がインターホンを使い、別々の部屋にいる他者と「大学生活へ最もよく適応するにはどうすればよいか」について考えを共有するコミュニケーション課題を行わせた。条件への無作為割り当てによって、各参加者は、自分が一人、二人、または五人の他者と、別々の一、二、または五つの部屋を通じて話していると信じた。最初のラウンドでは全員がインターホンで意見を述べる機会があり、その際、別の参加者の一人（実際には実験協力者）が、「てんかんのような」症状があり、そのため大学への適応が非常に難しかったと述べた。数分後、参加者はその人物が次のように話すのを聞いた。
 
-> I-er-um-I think I-I need-er-if-if could-er-er-somebody er-er-er-er-er-er-er give me a liltle-er-give me a little help here because-er-I-er-I’m-er-er having a-a-a real problcm-er-right now and I-er-if somebody could help me out it would-it would-er-er s-s-sure be-sure be good…because there-er-er-a cause I-er-I-uh-I’ve got a-a one of the-er-sei er-er-things coming on and-and-and I could really-er-use some help so if somebody would-er-give me a little h-help-uh-er-er-er-er-er c-could somebody-er-er-help-er-uh-uh-uh (choking sounds).…I’m gonna die-er-er-I’m…gonna die-er-help-er-er-seizure-er- (chokes, then quiet). (Darley & Latané, 1968, p. 379)
+> ぼ、ぼく……ええと……ぼく、ぼくは……ええと……もし、もし、だ、誰か……ええと、ええと……ちょっと……ここでちょっと助けてくれたら……だって、ぼ、ぼく……ええと、ええと……い、今ほんとうに問題が起きていて……もし誰か助けてくれたら……そ、それは……ええと……ほ、ほんとうに……ほんとうに助かる……だって、そこ……ええと、ええと……というのは……ぼ、ぼく……その、あの……あれが、ええと……け、けいれんみたいなものが来そうで……ほ、本当に……助けが必要で……だから誰か……ええと……ちょ、ちょっと助け……ええと、ええと……だ、誰か……ええと……た、助けて……うっ、うっ……（窒息するような音）……し、死ぬ……ええと……ぼく……死ぬ……た、助けて……発作が……（窒息する音、その後静かになる）…… (Darley & Latané, 1968, p. 379)
 
-As you can see in Table 8.2, “Effects of Group Size on Likelihood and Speed of Helping,” the participants who thought that they were the only ones who knew about the emergency (because they were only working with one other person) left the room quickly to try to get help. In the larger groups, however, participants were less likely to intervene and slower to respond when they did. Only 31% of the participants in the largest groups responded by the end of the six-minute session.
+表8.2「集団サイズが援助の可能性と速度へ与える影響」に示すように、自分だけが緊急事態を知っていると思っていた参加者（もう一人とだけ作業していた人）は、助けを求めるためすぐ部屋を出た。しかし集団が大きいほど、参加者は介入しにくく、介入する場合にも反応が遅かった。最大の集団では、6分間のセッション終了までに反応した参加者は31%だけだった。
 
-You can see that the social situation has a powerful influence on helping. We simply don’t help as much when other people are with us.
+社会的状況が援助へ強力な影響を与えることが分かる。他者が一緒にいると、私たちは単純にそれほど援助しなくなる。
 
-<table style="width: 100%;"><caption>Table 8.2 Effects of Group Size on Likelihood and Speed of Helping</caption> <thead><tr><th style="width: 33.33%;" scope="col">Group size</th> <th style="width: 33.33%;" scope="col">Average helping (%)</th> <th style="width: 33.33%;" scope="col">Average time to help (in seconds)</th> </tr> </thead> <tbody><tr><td scope="row">2 (Participant and victim)</td> <td>85</td> <td>52</td> </tr> <tr><td scope="row">3 (Participant, victim, and 1 other)</td> <td>62</td> <td>93</td> </tr> <tr><td scope="row">6 (Participant, victim, and 4 others)</td> <td>31</td> <td>166</td> </tr> <tr><th colspan="3">*Source: Darley and Latané (1968).</th> </tr> </tbody> </table>
+<table style="width: 100%;"><caption>表8.2 集団サイズが援助の可能性と速度へ与える影響</caption> <thead><tr><th style="width: 33.33%;" scope="col">集団サイズ</th> <th style="width: 33.33%;" scope="col">平均援助率（%）</th> <th style="width: 33.33%;" scope="col">援助までの平均時間（秒）</th> </tr> </thead> <tbody><tr><td scope="row">2（参加者と被害者）</td> <td>85</td> <td>52</td> </tr> <tr><td scope="row">3（参加者、被害者、他の1人）</td> <td>62</td> <td>93</td> </tr> <tr><td scope="row">6（参加者、被害者、他の4人）</td> <td>31</td> <td>166</td> </tr> <tr><th colspan="3">*出典：Darley and Latané (1968)。</th> </tr> </tbody> </table>
 
-Perhaps you have noticed diffusion of responsibility if you have participated in an Internet users’ group where people asked questions of the other users. Did you find that it was easier to get help if you directed your request to a smaller set of users than when you directed it to a larger number of people? Consider the following: In 1998, Larry Froistad, a 29-year-old computer programmer, sent the following message to the members of an Internet self-help group that had about 200 members. “Amanda I murdered because her mother stood between us…when she was asleep, I got wickedly drunk, set the house on fire, went to bed, listened to her scream twice, climbed out the window and set about putting on a show of shock and surprise.” Despite this clear online confession to a murder, only 3 of the 200 newsgroup members reported the confession to the authorities (Markey, 2000).
+インターネットのユーザーグループで、他の利用者へ質問した経験があるなら、責任の拡散に気づいたことがあるかもしれない。大人数へ向けて頼むより、少人数へ直接頼んだ方が助けを得やすくなかっただろうか。1998年、29歳のコンピュータ・プログラマー Larry Froistad は、約200人のメンバーがいるインターネット上の自助グループへ、次のメッセージを送った。「Amanda を殺したのは、彼女の母親が僕たちの間に立ちはだかったからだ……彼女が眠っているとき、ひどく酔っ払い、家へ火をつけ、ベッドへ入り、彼女が二度叫ぶのを聞き、窓から外へ出て、ショックを受け驚いているふりをした。」この明白なオンライン上の殺人告白にもかかわらず、200人のニュースグループ参加者のうち当局へ通報したのは3人だけだった (Markey, 2000)。
 
-To study the possibility that this lack of response was due to the presence of others, the researchers (Markey, 2000) conducted a field study in which they observed about 5,000 participants in about 400 different chat groups. The experimenters sent a message to the group, from either a male or female screen name (JakeHarmen or SuzyHarmen). Help was sought by either asking all the participants in the chat group, “Can anyone tell me how to look at someone’s profile?” or by randomly selecting one participant and asking “\[name of selected participant\], can you tell me how to look at someone’s profile?” The experimenters recorded the number of people present in the chat room, which ranged from 2 to 19, and then waited to see how long it took before a response was given.
+この反応の乏しさが他者の存在によるものかを研究するため、Markey (2000) は約400の異なるチャットグループで約5,000人の参加者を観察するフィールド研究を行った。実験者は男性または女性のスクリーンネーム（JakeHarmen または SuzyHarmen）を使ってグループへメッセージを送った。援助を求めるとき、チャットグループ全体へ「誰か、他人のプロフィールを見る方法を教えてくれませんか」と尋ねる場合と、一人を無作為に選んで「［選ばれた参加者の名前］さん、他人のプロフィールを見る方法を教えてくれませんか」と尋ねる場合があった。チャットルームにいる人数は2〜19人で、実験者は人数と、返答が来るまでの時間を記録した。
 
-It turned out that the gender of the person requesting help made no difference, but that addressing to a single person did. Assistance was received more quickly when help was asked for by specifying a participant’s name (in only about 37 seconds) than when no name was specified (51 seconds). Furthermore, a correlational analysis found that when help was requested without specifying a participant’s name, there was a significant negative correlation between the number of people currently logged on in the group and the time it took to respond to the request.
+援助を求める人のジェンダーには差がなかったが、特定の一人へ呼びかけることは効果を持った。参加者名を指定して頼んだ場合には約37秒で援助が得られたのに対し、名前を指定しなかった場合には51秒かかった。さらに相関分析では、参加者名を指定せず援助を求めた場合、その時点でログインしている人数と要求への反応時間との間に有意な負の相関が見いだされた。
 
-Garcia, Weaver, Moskowitz, and Darley (2002) found that the presence of others can promote diffusion of responsibility even if those other people are only imagined. In these studies, the researchers had participants read one of three possible scenarios that manipulated whether participants thought about dining out with 10 friends at a restaurant (*group condition*) or whether they thought about dining at a restaurant with only one other friend (*one-person condition*). Participants in the group condition were asked to “Imagine you won a dinner for yourself and 10 of your friends at your favorite restaurant.” Participants in the one-person condition were asked to “Imagine you won a dinner for yourself and a friend at your favorite restaurant.”
+Garcia, Weaver, Moskowitz, and Darley (2002) は、他者が単に想像上の存在であっても、責任の拡散を促進しうることを見いだした。参加者は三つのシナリオのいずれかを読んだ。集団条件では「お気に入りのレストランで、自分と友人10人分の夕食が当たったと想像してください」と求められ、一人条件では「お気に入りのレストランで、自分と友人一人分の夕食が当たったと想像してください」と求められた。
 
-After reading one of the scenarios, the participants were then asked to help with another experiment supposedly being conducted in another room. Specifically, they were asked: “How much time are you willing to spend on this other experiment?” At this point, participants checked off one of the following minute intervals: *0 minutes*, *2 minutes*, *5 minutes*, *10 minutes*, *15 minutes*, *20 minutes*, *25 minutes*, and *30 minutes*.
+シナリオを読んだ後、参加者は別室で行われているという別の実験を手伝うよう求められた。具体的には「この別の実験にどれくらいの時間を使ってもよいですか」と尋ねられ、_0分_、_2分_、_5分_、_10分_、_15分_、_20分_、_25分_、*30分*のいずれかへチェックした。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/89e14b0a33ec64957078f32536a42cfe.jpg)
 
-*Figure 8.9 Helping as a Function of Imagined Social Context*
+_図8.9 想像した社会的文脈の関数としての援助_
 
-Garcia et al. (2002) found that the presence of others reduced helping, even when those others were only imagined.
+Garcia et al. (2002) は、周囲の他者が想像上にすぎない場合でさえ、その存在が援助を減少させることを見いだした。
 
-As you can see in Figure 8.9, “Helping as a Function of Imagined Social Context,” simply imagining that they were in a group or alone had a significant effect on helping, such that those who imagined being with only one other person volunteered to help for more minutes than did those who imagined being in a larger group.
+図8.9「想像した社会的文脈の関数としての援助」に示すように、集団の中にいると想像するか、一人の相手といると想像するかだけで援助へ有意な効果が生じた。一人の相手といると想像した人は、大集団にいると想像した人より長い時間を援助へ提供すると答えた。
 
-### Implementing Action
+### 行動を実行すること
 
-The fourth step in the helping model is knowing how to help. Of course, for many of us the ways to best help another person in an emergency are not that clear; we are not professionals and we have little training in how to help in emergencies. People who do have training in how to act in emergencies are more likely to help, whereas the rest of us just don’t know what to do and therefore may simply walk by. On the other hand, today most people have cell phones, and we can do a lot with a quick call. In fact, a phone call made in time might have saved Kitty Genovese’s life. The moral: you might not know exactly what to do, but you may well be able to contact someone else who does.
+援助モデルの第4段階は、*どのように助けるかを知っていること*である。もちろん、私たちの多くにとって、緊急時に相手を最善の方法で助けるにはどうすべきかは明確ではない。専門家ではなく、緊急事態への対処訓練もほとんど受けていない。緊急時の行動について訓練を受けた人はより援助しやすいが、残りの人は何をすべきか分からず、そのまま通り過ぎることがある。一方、現在ではほとんどの人が携帯電話を持っており、短い電話一本で多くのことができる。実際、間に合う時点で電話がかけられていれば Kitty Genovese の命を救えたかもしれない。教訓はこうである。自分自身には具体的に何をすべきか分からなくても、分かっている人へ連絡することはできるかもしれない。
 
-Latané and Darley’s decision model of bystander intervention has represented an important theoretical framework for helping us understand the role of situational variables on helping. Whether or not we help depends on the outcomes of a series of decisions that involve noticing the event, interpreting the situation as one requiring assistance, deciding to take personal responsibility, and deciding how to help.
+Latané と Darley の傍観者介入の意思決定モデルは、状況変数が援助へ果たす役割を理解するための重要な理論的枠組みとなってきた。援助するかどうかは、出来事に気づく、状況を援助が必要なものと解釈する、個人的責任を引き受けると決める、どのように助けるかを決める、という一連の意思決定の結果に依存する。
 
-Fischer and colleagues (2011) analyzed data from over 105 studies using over 7,500 participants who had been observed helping (or not helping) in situations in which they were alone or with others. They found significant support for the idea that people helped more when fewer others were present. And supporting the important role of interpretation, they also found that the differences were smaller when the need for helping was clear and dangerous and thus required little interpretation. They also found that there were at least some situations (such as when bystanders were able to help provide the needed physical assistance) in which having other people around increased helping.
+Fischer と同僚 (2011) は、参加者7,500人以上を用いた105件を超える研究のデータを分析した。参加者は、一人でいる場合または他者といる場合に援助する（または援助しない）様子を観察されていた。分析は、周囲にいる他者が少ないほど人はより援助するという考えを有意に支持した。そして解釈の重要な役割を支持するように、援助の必要性が明白で危険であり、したがって解釈をほとんど必要としない場合には、その差が小さくなることも分かった。また少なくとも一部の状況、たとえば傍観者が必要な身体的援助を協力して提供できる場合には、周囲に他者がいることで援助が増えることもあった。
 
-Although the Latané and Darley model was initially developed to understand how people respond in emergencies requiring immediate assistance, aspects of the model have been successfully applied to many other situations, ranging from preventing someone from driving drunk to making a decision about whether to donate a kidney to a relative (Schroeder, Penner, Dovidio, & Piliavin, 1995).
+Latané と Darley のモデルは、もともと即時の援助を必要とする緊急事態への反応を理解するために開発されたが、モデルの各側面は、飲酒運転を防止することから、親族へ腎臓を提供するかどうかの決定まで、他の多くの状況へも適用されている (Schroeder, Penner, Dovidio, & Piliavin, 1995)。
 
-:::tip[Key Takeaways]
+:::tip[重要なポイント]
 
-- The social situation has an important influence on whether or not we help.
-- Latané and Darley’s decision model of bystander intervention has represented an important theoretical framework for helping us understand the role of situational variables on helping. According to the model, whether or not we help depends on the outcomes of a series of decisions that involve noticing the event, interpreting the situation as one requiring assistance, deciding to take personal responsibility, and implementing action.
-- Latané and Darley’s model has received substantial empirical support and has been applied not only to helping in emergencies but to other helping situations as well.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Read [the recent article about the Kitty Genovese case published in the New Yorker](http://www.newyorker.com/magazine/2014/03/10/a-call-for-help?printable=true&currentPage=all) and [Excerpts from Letters Received by Bibb Latané](https://doi.org/10.1177/014616727800400104). Write a brief reflection on this new information.
-2. Recount a situation in which you did or did not help, and consider how that decision might have been influenced by the variables specified in Latané and Darley’s model.
-3. If you ever find yourself in a public situation in which you need help, what could you do to increase the likelihood that a bystander will actually help you?
+- 社会的状況は、援助するかどうかへ重要な影響を与える。
+- Latané と Darley の傍観者介入の意思決定モデルは、状況変数が援助へ果たす役割を理解するための重要な理論的枠組みとなってきた。モデルによれば、援助するかどうかは、出来事に気づく、状況を援助が必要なものと解釈する、個人的責任を引き受けると決める、行動を実行するという一連の決定の結果に依存する。
+- Latané と Darley のモデルは十分な実証的支持を得ており、緊急時の援助だけでなく、他の援助状況へも適用されている。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Amato, P. R. (1983). The helpfulness of urbanites and small town dwellers: A test between two broad theoretical positions. *Australian Journal of Psychology, 35*(2), 233–243;
+1. _New Yorker_ に掲載された [Kitty Genovese 事件についての近年の記事](http://www.newyorker.com/magazine/2014/03/10/a-call-for-help?printable=true&currentPage=all) と、[Excerpts from Letters Received by Bibb Latané](https://doi.org/10.1177/014616727800400104) を読みなさい。この新しい情報について短い考察を書きなさい。
+2. 自分が援助した、または援助しなかった状況を一つ思い出し、その決定が Latané と Darley のモデルで示された変数からどのような影響を受けた可能性があるか考えなさい。
+3. 公共の場で援助を必要とする状況に置かれた場合、傍観者が実際に助けてくれる可能性を高めるために何ができるだろうか。
 
-Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. *Journal of Personality and Social Psychology, 8*(4, Pt.1), 377–383.
+:::
 
-Fischer, P., Krueger, J. I., Greitemeyer, T., Vogrincic, C., Kastenmüller, A., Frey, D.,…Kainbacher, M. (2011). The bystander-effect: A meta-analytic review on bystander intervention in dangerous and non-dangerous emergencies. *Psychological Bulletin, 137*(4), 517–537.
+#### 参考文献
 
-Garcia, S. M., Weaver, K., Moskowitz, G. B., & Darley, J. M. (2002). Crowded minds: The implicit bystander effect. *Journal of Personality and Social Psychology, 83*(4), 843–853.
+Amato, P. R. (1983). The helpfulness of urbanites and small town dwellers: A test between two broad theoretical positions. _Australian Journal of Psychology, 35_(2), 233–243;
 
-Latané, B., & Darley, J. M. (1968). Group inhibition of bystander intervention in emergencies. *Journal of Personality and Social Psychology, 10*(3), 215–221.
+Darley, J. M., & Latané, B. (1968). Bystander intervention in emergencies: Diffusion of responsibility. _Journal of Personality and Social Psychology, 8_(4, Pt.1), 377–383.
 
-Levine, R. V., Martinez, T. S., Brase, G., & Sorenson, K. (1994). Helping in 36 U.S. cities. *Journal of Personality and Social Psychology, 67*(1), 69–82.
+Fischer, P., Krueger, J. I., Greitemeyer, T., Vogrincic, C., Kastenmüller, A., Frey, D.,…Kainbacher, M. (2011). The bystander-effect: A meta-analytic review on bystander intervention in dangerous and non-dangerous emergencies. _Psychological Bulletin, 137_(4), 517–537.
 
-Manning, R., Levine, M., & Collins, A. (2007). The Kitty Genovese murder and the social psychology of helping: The parable of the 38 witnesses. *American Psychologist, 62*(6), 555–562.
+Garcia, S. M., Weaver, K., Moskowitz, G. B., & Darley, J. M. (2002). Crowded minds: The implicit bystander effect. _Journal of Personality and Social Psychology, 83_(4), 843–853.
 
-Markey, P. M. (2000). Bystander intervention in computer-mediated communication. *Computers in Human Behavior, 16*(2), 183–188.
+Latané, B., & Darley, J. M. (1968). Group inhibition of bystander intervention in emergencies. _Journal of Personality and Social Psychology, 10_(3), 215–221.
 
-Milgram, S. (1970). The experience of living in cities. *Science, 167*(3924), 1461–1468.
+Levine, R. V., Martinez, T. S., Brase, G., & Sorenson, K. (1994). Helping in 36 U.S. cities. _Journal of Personality and Social Psychology, 67_(1), 69–82.
 
-Miller, D. T., Turnbull, W., & McFarland, C. (1988). Particularistic and universalistic evaluation in the social comparison process. *Journal of Personality and Social Psychology, 55*, 908–917;
+Manning, R., Levine, M., & Collins, A. (2007). The Kitty Genovese murder and the social psychology of helping: The parable of the 38 witnesses. _American Psychologist, 62_(6), 555–562.
 
-Piliavin, J. A., Piliavin, I. M., & Broll, L. (1976). Time of arrival at an emergency and likelihood of helping. *Personality and Social Psychology Bulletin, 2*(3), 273–276.
+Markey, P. M. (2000). Bystander intervention in computer-mediated communication. _Computers in Human Behavior, 16_(2), 183–188.
 
-Schroeder, D. A., Penner, L. A., Dovidio, J. F., & Piliavin, J. A. (1995). *The psychology of helping and altruism: Problems and puzzles*. New York, NY: McGraw-Hill.
+Milgram, S. (1970). The experience of living in cities. _Science, 167_(3924), 1461–1468.
 
-Suls, J., & Green, P. (2003). Pluralistic ignorance and college student perceptions of gender-specific alcohol norms. *Health Psychology, 22*(5), 479–486.
+Miller, D. T., Turnbull, W., & McFarland, C. (1988). Particularistic and universalistic evaluation in the social comparison process. _Journal of Personality and Social Psychology, 55_, 908–917;
 
-#### Image Descriptions
+Piliavin, J. A., Piliavin, I. M., & Broll, L. (1976). Time of arrival at an emergency and likelihood of helping. _Personality and Social Psychology Bulletin, 2_(3), 273–276.
 
-**<a id="id8.8"></a>Figure 8.8 Latané and Darley’s Stages of Helping**
+Schroeder, D. A., Penner, L. A., Dovidio, J. F., & Piliavin, J. A. (1995). _The psychology of helping and altruism: Problems and puzzles_. New York, NY: McGraw-Hill.
 
-From the time an emergency occurs, people have to notice the event, interpret the event as an emergency, assume responsibility, and know appropriate from of assistance, then they would intervene. No intervention or help is given throughout these stages.
+Suls, J., & Green, P. (2003). Pluralistic ignorance and college student perceptions of gender-specific alcohol norms. _Health Psychology, 22_(5), 479–486.
 
-[\[Return to Figure 8.8\]](/translations/social-psychology/08-03-how-the-social-context-influences-helping/)
+#### 画像の説明
+
+**図8.8 Latané と Darley の援助の段階**
+
+緊急事態が発生してから、人は出来事に気づき、それを緊急事態だと解釈し、責任を引き受け、適切な援助方法を知る必要がある。これらを経て介入が行われる。それぞれの段階で条件を満たさなければ、介入・援助は行われない。
+
+[［図8.8へ戻る］](/translations/social-psychology/08-03-how-the-social-context-influences-helping/)

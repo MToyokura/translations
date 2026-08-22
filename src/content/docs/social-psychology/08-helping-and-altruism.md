@@ -1,65 +1,66 @@
 ---
-title: "Chapter 8. Helping and Altruism"
+title: "第8章 援助と利他主義"
 sidebar:
   order: 51
 ---
-:::note[Chapter Learning Objectives]
 
-1. Understanding Altruism: Self and Other Concerns
+:::note[章の学習目標]
 
-- Understand the differences between altruism and helping, and explain how social psychologists try to differentiate the two.
-- Review the roles of reciprocity and social exchange in helping.
-- Describe the evolutionary factors that influence helping.
-- Summarize how the perceptions of rewards and costs influence helping.
-- Outline the social norms that influence helping.
+1. 利他主義を理解する：自己への関心と他者への関心
 
-2. The Role of Affect: Moods and Emotions
+- 利他主義と援助の違いを理解し、社会心理学者が両者をどのように区別しようとしているかを説明する。
+- 援助における互恵性と社会的交換の役割を概観する。
+- 援助に影響する進化的要因を説明する。
+- 報酬とコストの知覚が援助へどのように影響するかを要約する。
+- 援助に影響する社会規範を概説する。
 
-- Summarize the effects of positive and negative moods on helping.
-- Explain how the affective states of guilt, empathy, and personal distress influence helping.
+2. 感情の役割：気分と情動
 
-3. How the Social Context Influences Helping
+- 肯定的気分と否定的気分が援助へ与える影響を要約する。
+- 罪悪感、共感、個人的苦痛という感情状態が援助へどのように影響するかを説明する。
 
-- Review Bibb Latané and John Darley’s model of helping behavior and indicate the social psychological variables that influence each stage.
+3. 社会的文脈は援助行動にどのような影響を与えるか
 
-4. Other Determinants of Helping
+- Bibb Latané と John Darley の援助行動モデルを概観し、その各段階に影響する社会心理学的変数を示す。
 
-- Review the person, gender, and cultural variables that relate to altruism.
-- Explain how the reactions of the person being helped may influence the benefits of helping.
-- Outline the ways that we might be able to increase helping.
+4. 援助行動を規定するその他の要因
+
+- 利他主義に関連する個人、ジェンダー、文化の変数を概観する。
+- 援助を受ける人の反応が、援助の利益へどのように影響しうるかを説明する。
+- 援助を増やすために考えられる方法を概説する。
 
 :::
 
-## Brad Pitt Helping in New Orleans
+## New Orleans で援助活動を行う Brad Pitt
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Brad_Pitt_at_Incirlik2.jpg)
 
-*Figure 8.1 Brad Pitt.*
+_図8.1 Brad Pitt。_
 
-The film actor Brad Pitt has been personally involved in helping rebuild the U.S. city of New Orleans after it was devastated by Hurricane Katrina in 2005. As one who has always been interested in architecture, Pitt created a rebuilding project and donated $5 million of his own money to get it started. With the help of some architectural firms, he produced a wide variety of ecologically friendly homes and flood-proof designs. [Make it Right Foundation](https://en.wikipedia.org/wiki/Make_It_Right_Foundation) asks businesses, religious groups, and individuals to provide grants and donations for house projects.
+映画俳優 Brad Pitt は、2005年のハリケーン Katrina によって壊滅的な被害を受けた米国 New Orleans の復興支援に個人的に関わってきた。もともと建築に関心を持っていた Pitt は、復興プロジェクトを立ち上げ、その始動のために自ら500万ドルを寄付した。複数の建築事務所の協力を得て、環境に配慮した多様な住宅と、洪水に耐えられる設計を生み出した。[Make it Right Foundation](https://en.wikipedia.org/wiki/Make_It_Right_Foundation) は、企業、宗教団体、個人に対し、住宅プロジェクトへの助成金や寄付を求めている。
 
-Pitt says the primary goal of his work is to replace homes, although many officials and politicians wonder whether it is a good idea to rebuild these houses in area that is likely to be flooded again.
+Pitt は、自らの活動の第一の目標は住宅を建て直すことだと述べている。ただし、多くの行政当局者や政治家は、再び洪水に見舞われる可能性の高い地域に住宅を再建することが本当に適切なのか疑問を呈している。
 
-To publicize his cause, Pitt had 150 huge pink Monopoly-shaped houses built around New Orleans. The pink blocks, which he described as a work of art, emphasize the needs of the area and his ideas for redesign.
+この活動を広く知らせるため、Pitt は New Orleans 周辺に、Monopoly の家の形をした巨大なピンク色の建造物150個を設置した。Pitt が芸術作品と表現したこのピンク色のブロックは、地域のニーズと再設計に関する彼の構想を目立たせるものだった。
 
-Pitt said at the time that rebuilding the areas hit by the hurricane was a bigger priority than his movie career, a project he was going to see through to the end.
+Pitt は当時、ハリケーンの被災地域を復興することは映画の仕事よりも優先度が高く、最後まで見届けるつもりのプロジェクトだと語っていた。
 
-Source: [Brad Pitt unveils plans for New Orleans homes](http://www.guardian.co.uk/world/2007/dec/04/film.usa).
+出典：[Brad Pitt unveils plans for New Orleans homes](http://www.guardian.co.uk/world/2007/dec/04/film.usa)。
 
-In the fall of 2005, Hurricane Katrina hit the southern coast of the United States. The hurricane created billions of dollars in damage, destroyed a good part of the city of New Orleans and other southern towns, and caused the dislocation of thousands of people. The hurricane made news across the world, and the disaster was not ignored. Hundreds of thousands of people made financial contributions to help rebuild the cities and repair the lives that were devastated by the storm. During the first few months after the storm, thousands more people came from across the country, and even from around the world, to help clean up the mess and repair the damage that the storm had caused. Many of these volunteers had been to New Orleans, and some had families and friends there. Others came simply because they had heard about the disaster and wanted to help the people who were so profoundly affected by it.
+2005年秋、ハリケーン Katrina が米国南部沿岸を襲った。このハリケーンは数十億ドル規模の被害を生み、New Orleans の大部分と南部の他の町々を破壊し、何千人もの人々を住居から追いやった。災害は世界中で報道され、見過ごされることはなかった。何十万人もの人々が、町の再建と、嵐によって生活を破壊された人々の暮らしの立て直しを支援するために金銭を寄付した。嵐の後の最初の数か月には、さらに何千人もの人々が米国内各地から、さらには世界中から現地を訪れ、がれきの片付けや被害の修復を手伝った。こうしたボランティアの多くは New Orleans を訪れた経験があり、家族や友人が現地にいる人もいた。単に災害のことを聞き、それによって深刻な影響を受けた人々を助けたいと思って来た人もいた。
 
-When you hear about this type of behavior, you may wonder about its meaning for human nature. Why would people sacrifice so much of themselves for others who cannot help them in return? Is helping part of the normal human experience, or are these acts unusual, unexpected, and rare? Who is most likely to help, who are we most likely to help, and under what social circumstances do we help or not help? And what biological, personal, social, and cultural factors influence helping?
+このような行動について聞くと、それが人間の本性について何を意味するのか疑問に思うかもしれない。なぜ人は、お返しに自分を助けることのできない他者のために、それほど多くを犠牲にするのだろうか。援助は人間の通常の経験の一部なのか、それとも、このような行為は例外的で、予想外で、まれなのだろうか。最も援助しやすいのはどのような人で、私たちはどのような相手を最も援助しやすく、どのような社会的状況で援助したり援助しなかったりするのだろうか。そして、どのような生物学的、個人的、社会的、文化的要因が援助へ影響するのだろうか。
 
-On the other hand, perhaps you are skeptical about altruism. You may have noticed the many cases in which people seem oblivious to the needs of others. We allow tens of millions of people around the world to live in poverty, we do little to help those who are homeless, and often we seem to be more concerned with ourselves that we are with others. You might wonder whether people ever perform behaviors that are not designed—at least in some way—to benefit themselves. Perhaps at least some of the Katrina volunteers, and even Brad Pitt himself, were really helping—at least in part—for themselves. The money and time that they volunteered might have been motivated by the desire to avoid being seen as selfish, or by the fear of feeling guilty if they did not help. Perhaps our seemingly altruistic behaviors are actually motivated not by the desire to increase another’s welfare but by the desire to enhance the self.
+一方で、あなたは利他主義に懐疑的かもしれない。他者のニーズに人々がまったく無関心に見える多くの事例に気づいたこともあるだろう。世界中で何千万人もの人々が貧困の中で暮らすことを私たちは許容し、住居のない人々を助けるためにほとんど何もせず、しばしば他者よりも自分自身のことばかり気にしているように見える。少なくとも何らかの形で自分自身の利益になるよう設計されていない行動を、人は本当に行うことがあるのだろうか。Katrina 後のボランティアの少なくとも一部、さらには Brad Pitt 自身さえ、少なくとも部分的には自分自身のために援助していた可能性もある。彼らが提供したお金や時間は、利己的だと思われたくないという欲求や、助けなければ罪悪感を抱くのではないかという恐れによって動機づけられていたのかもしれない。一見すると利他的な行動も、実際には他者の福祉を高めたいという欲求ではなく、自己を高めたいという欲求によって動機づけられているのかもしれない。
 
-Human nature has created a general tendency for people to enjoy the company of others and to trust, care for, and respect other people. This idea leads us to expect that we will, in most cases, be helpful and cooperative, and perhaps even altruistic. In support of this idea, the [2010 Canada Survey of Giving, Volunteering, and Participating](http://volunteer.ca/content/canada-survey-giving-volunteering-and-participating) found that 47 percent of Canadians (including 58 percent of Canadian youth) volunteer their time to help others. This adds up to roughly 2.1 billion total volunteer hours every year! Similar results were found in the United States according to [independent sector](https://independentsector.org/), where a survey given by an established coalition that studies and encourages volunteering found that over 83 million American adults reported that they helped others by volunteering and did so an average of 3.6 hours per week. The survey estimated that the value of the volunteer time that was given was over $239 billion.
+人間の本性には、他者と一緒にいることを楽しみ、他者を信頼し、気遣い、尊重する一般的な傾向が備わっている。この考えからすれば、私たちは多くの場合に援助的で協力的であり、ときには利他的ですらあると予想できる。この考えを支持するように、[2010 Canada Survey of Giving, Volunteering, and Participating](http://volunteer.ca/content/canada-survey-giving-volunteering-and-participating) は、カナダ人の47%（カナダの若者では58%）が、他者を助けるために自分の時間をボランティアとして提供していることを示した。これは毎年およそ21億時間のボランティア活動に相当する。米国でも [Independent Sector](https://independentsector.org/) によって同様の結果が得られている。ボランティア活動を研究・促進する連合体が実施した調査では、8,300万人を超える米国成人がボランティアによって他者を助けており、平均して週3.6時間活動していると回答した。この調査では、提供されたボランティア時間の価値は2,390億ドルを超えると推計された。
 
-Taken together it seems that many people are helpful to others. Indeed, although few of us are likely to have the opportunity to engage in an act of helpful heroism, we are all likely to have the opportunity to help somebody sometime, and it is likely that—if the costs are not too great—we will do so.
+総合すると、多くの人が他者を助けているようである。私たちのうち、援助的な英雄行為を行う機会を得る人はほとんどいないとしても、誰かを助ける機会ならいずれ訪れる可能性が高く、コストがあまり大きくなければ、おそらく私たちは助けるだろう。
 
-If you are thinking like a social psychologist, you will realize that whether we help or don’t help is not likely to be determined completely by random factors. Rather, these decisions are influenced by the underlying human motivations of protecting the self and reaching out to others. Some of our altruistic behavior is part of our genetic endowment—we help because we are human beings, and human beings (as are many other species) are helpful. In other cases, our helping is more selfish, designed to make ourselves feel better or even to gain rewards such as praise, status, or money. Although we may not completely understand the characteristics of altruism and we cannot always predict who will or will not help others, social psychologists nevertheless have learned a great deal about these determinants.
+社会心理学者のように考えるなら、助けるか助けないかが完全に偶然の要因によって決まるわけではないことが分かる。むしろ、こうした決定は、自己を守ることと他者へ手を差し伸べることという、人間の根底にある動機の影響を受ける。私たちの利他的行動の一部は遺伝的資質の一部である。私たちは人間であり、人間は（多くの他の種と同様に）援助的だから助けるのである。別の場合には、援助はより利己的で、自分の気分を良くしたり、賞賛、地位、金銭などの報酬を得たりするために行われる。利他主義の特徴を完全に理解しているわけでも、誰が他者を助けるか助けないかを常に予測できるわけでもないが、社会心理学者はその規定因について多くのことを明らかにしてきた。
 
-Because we spend so much time in the presence of others, we have the opportunity to react to them in either positive or negative ways. To some people we are friendly, caring, and helpful; to others we are wary, unfriendly, or even mean and aggressive. The goal of this chapter and “[Chapter 9. Aggression](/translations/social-psychology/09-aggression/)” is to understand when and why people engage in either prosocial or antisocial behaviors. Let’s begin by focusing on the positive side of the equation—what makes us help others. “[Chapter 9. Aggression](/translations/social-psychology/09-aggression/)” will discuss the flip side—the causes of human aggression.
+私たちは他者の存在するところで多くの時間を過ごすため、他者へ肯定的にも否定的にも反応する機会がある。ある人には友好的で、思いやりがあり、援助的に接する一方、別の人には警戒し、非友好的になり、ときには意地悪で攻撃的にさえなる。本章と「[第9章 攻撃](/translations/social-psychology/09-aggression/)」の目標は、人がいつ、なぜ向社会的行動または反社会的行動をとるのかを理解することである。まず方程式の肯定的な側面――何が私たちに他者を助けさせるのか――に焦点を当てよう。「[第9章 攻撃](/translations/social-psychology/09-aggression/)」ではその裏側、すなわち人間の攻撃の原因を扱う。
 
-## Media Attributions
+## メディアの帰属表示
 
 - “[Brad Pitt at Incirlik2](https://commons.wikimedia.org/wiki/File:Brad_Pitt_at_Incirlik2.jpg)” by Airman 1st Class Tanaya M. Harms is licensed under a [CC0 1.0 licence](https://creativecommons.org/publicdomain/zero/1.0/).

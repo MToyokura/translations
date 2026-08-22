@@ -1,26 +1,27 @@
 ---
-title: "8.6 Chapter Summary"
+title: "8.6 章のまとめ"
 sidebar:
   order: 57
 ---
-Altruism refers to any behavior that is designed to increase another person’s welfare, and particularly those actions that do not seem to provide a direct reward to the person who performs them. Every day numerous acts of altruism occur all around us. People give up substantial time and energy to help others.
 
-The tendency to help others is at least in part a basic feature of human nature, designed to help us help ourselves. Altruism enhances our reproductive success by helping the species as a whole survive and prosper. We are particularly helpful to our kin and to people we perceive as being similar to us. We also help people who are not related or similar as the result of reciprocal altruism. By cooperating with others, we increase our and others’ chances of survival and reproductive success.
+利他主義とは、他者の福祉を高めるように設計されたあらゆる行動、とりわけ、その行動を行う人へ直接的な報酬をもたらすようには見えない行動を指す。毎日、私たちの周囲では数多くの利他的行為が生じている。人々は他者を助けるために、相当な時間とエネルギーを提供する。
 
-We are more likely to help when we are rewarded and less likely when the perceived costs of helping are high. When we act altruistically, we may gain a reputation as a person with high status who is able and willing to help others. Some countries have enacted Good Samaritan laws that require people to provide or call for aid in an emergency if they can do so. We also learn to help by modeling the helpful behavior of others.
+他者を助ける傾向は、少なくとも部分的には人間の本性の基本的特徴であり、自分自身を助けることにもつながるよう設計されている。利他主義は、種全体の生存と繁栄を助けることで私たちの繁殖成功を高める。私たちは血縁者や、自分と似ていると知覚する人を特に助ける。また、互恵的利他主義の結果として、血縁も類似性もない人を助ける。協力することで、自分と他者の生存と繁殖成功の可能性を高める。
 
-Social norms for helping include the reciprocity norm, which reminds us that we should follow the principles of reciprocal altruism, and the social responsibility norm, which tells us that we should try to help others who need assistance, even without any expectation of future payback.
+援助することで報酬を受けるときには援助しやすく、援助の知覚されたコストが高いときには援助しにくい。利他的に行動すると、他者を助ける能力と意思のある高地位の人物として評判を得ることがある。一部の国には、可能な場合、緊急事態で援助を提供するか援助を要請するよう義務づける「善きサマリア人法」がある。また、他者の援助行動をモデルとして観察することでも援助を学習する。
 
-We react to people in large part on the basis of how they make us feel and how we think we will feel if we help them. Positive mood states increase helping, and negative affective states, particularly guilt, do also. Personal distress refers to the negative feelings and emotions that we may experience when we view another person’s distress. Empathy refers to an affective response in which a person understands, and even feels, another person’s emotional distress and when he or she experiences events the way the other person does.
+援助の社会規範には、互恵的利他主義の原理に従うべきだと教える互恵性規範と、将来の見返りを期待しなくても援助を必要とする他者を助けるよう努めるべきだと教える社会的責任規範がある。
 
-Latané and Darley’s decision model of bystander intervention has represented an important theoretical framework for helping us understand the role of situational variables on helping. According to the model, whether or not we help depends on the outcomes of a series of decisions that involve noticing the event, interpreting the situation as one requiring assistance, deciding to take personal responsibility, and implementing action.
+私たちは、相手が自分をどのような気分にさせるか、また助けた場合に自分がどう感じると思うかに大きく基づいて他者へ反応する。肯定的気分状態は援助を増やし、否定的感情状態、とりわけ罪悪感も援助を増やす。個人的苦痛とは、他者の苦痛を見たときに経験する可能性のある否定的な感情と情動を指す。共感とは、他者の感情的苦痛を理解し、さらには感じ、出来事を相手と同じように経験する感情的反応を指す。
 
-Some people—for instance, those with altruistic personalities—are more helpful than others. And we help some people more than we help others; our perception of the amount of the need is important. We tend to provide less help to people who seem to have brought on their own problems or who don’t seem to be working very hard to solve them on their own. Gender differences in helping depend on the type of helping that is required. Men are more likely to help in situations that involve physical strength, whereas women are more likely than men to help in situations that involve long-term nurturance and caring, particularly within close relationships.
+Latané と Darley の傍観者介入の意思決定モデルは、状況変数が援助へ果たす役割を理解する重要な理論的枠組みとなってきた。このモデルによれば、援助するかどうかは、出来事に気づく、状況を援助が必要なものと解釈する、個人的責任を引き受けると決める、行動を実行するという一連の決定の結果に依存する。
 
-In some cases, helping can create negative consequences. Dependency-oriented help may make the helped feel negative emotions, such as embarrassment and worry that they are seen as incompetent or dependent. Autonomy-oriented help is more easily accepted and will be more beneficial in the long run.
+利他的パーソナリティを持つ人など、他者より援助的な人がいる。また私たちは、すべての人を同じように助けるわけではない。必要の大きさをどう知覚するかが重要である。自ら問題を引き起こしたように見える人や、自力で解決しようとあまり努力していないように見える人には、援助を少なくする傾向がある。援助のジェンダー差は必要とされる援助の種類に依存する。男性は身体的強さが必要な状況で援助しやすく、女性は、特に親密な関係の中で、長期的な養育や世話を伴う状況で男性より援助しやすい。
 
-Norms about helping vary across cultures, for instance, between Eastern and Western cultures. The strong individualistic norms in cultures such as the United States make it seem inappropriate to help in cases where we do not have a personal interest. People may feel more comfortable helping when they feel that they are acting, at least in part, in their own self-interest.
+場合によって援助は否定的結果を生む。依存志向的援助は、援助される人へ恥ずかしさや、自分が無能または依存的と見られているという心配などの否定的感情を生じさせることがある。自律志向的援助は、より容易に受け入れられ、長期的にもより有益である。
 
-We can increase helping by using our theoretical knowledge about the factors that produce it. Our strategies can be based on using both self- concern and other-concern. In terms of self-concern, if helping is seen as something positive for the self, people will help more. In terms of other-concern, we may try to increase our social connections with others, thereby increasing the likelihood we will help them. We must work to instill the appropriate norms about helping in our children. In emergency situations, we must be must be sure to disambiguate the emergency to others rather than assuming that those others will notice and interpret the event as one requiring help, and to help individuals experience that they have a personal responsibility to intervene.
+援助についての規範は、たとえば東洋文化と西洋文化の間など、文化によって異なる。米国のような文化の強い個人主義規範のもとでは、個人的利害がない場合に援助することが不適切に見えることがある。人は、少なくとも部分的には自己利益に従って行動していると感じられるとき、より気楽に援助できることがある。
 
-In sum, altruism is an important and frequent part of human lives. We couldn’t live without the help we receive from others, and we are generally willing in many cases to return that help. Helping others is beneficial to them, but helping is also beneficial to us—we often enjoy being helpful, and helping can make us feel good and be healthy.
+援助を生み出す要因についての理論的知識を使えば、援助を増やすことができる。方略は自己への関心と他者への関心の両方を利用できる。自己への関心の点では、援助が自己にとって肯定的なものだとみなされれば、人はより援助する。他者への関心の点では、他者との社会的つながりを増やすことで、その人々を助ける可能性を高められる。子どもへ援助についての適切な規範を根づかせる努力も必要である。緊急時には、他者が自ら気づき、その出来事を援助が必要だと解釈するはずだと想定せず、その状況が緊急であることを明確にし、個人が介入する個人的責任を感じられるようにしなければならない。
+
+要するに、利他主義は人間生活の重要かつ頻繁な一部である。他者から受ける援助なしに私たちは生きられず、多くの場合、その援助へ返礼する意思も持っている。他者を助けることは相手に利益をもたらすが、自分自身にも利益をもたらす。私たちはしばしば援助することを楽しみ、援助によってよい気分になり、健康にもなりうる。

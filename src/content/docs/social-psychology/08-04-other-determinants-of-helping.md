@@ -1,292 +1,293 @@
 ---
-title: "8.4 Other Determinants of Helping"
+title: "8.4 援助行動を規定するその他の要因"
 sidebar:
   order: 55
 ---
-:::note[Learning Objectives]
 
-1. Review the person, gender, and cultural variables that relate to altruism.
-2. Explain how the reactions of the person being helped may influence the benefits of helping.
-3. Outline the ways that we might be able to increase helping.
+:::note[学習目標]
+
+1. 利他主義に関連する個人、ジェンダー、文化の変数を概観する。
+2. 援助を受ける人の反応が、援助の利益へどのように影響しうるかを説明する。
+3. 援助を増やすために考えられる方法を概説する。
 
 :::
 
-Although we have discussed many of the most important factors, there are still other variables that determine our willingness to help others. These include characteristics of the people who are potentially providing help as well as the ways that others respond to the help they may receive. Let us consider them now.
+これまで最も重要な要因の多くを検討してきたが、他者を助けようとする意思を規定する変数はまだある。そこには、援助する可能性のある人の特徴と、受け取る援助へ他者がどのように反応するかの両方が含まれる。
 
-## Some People Are More Helpful Than Others: The Altruistic Personality
+## 他者より援助的な人がいる：利他的パーソナリティ
 
-We have seen that the social situation is a very strong determinant of whether or not we help. But although the effects of personality may not generally be as strong as those of the social context, person variables do matter. *Some people are indeed more helpful than others across a variety of situations*, and we say that these people have an altruistic or prosocial personality (Penner, Fritzsche, Craiger, & Freifeld, 1995). To see how you stand on this variable read the statements in Figure 8.10, “Measuring the Altruistic Personality,” and consider the extent to which you agree with them.
+社会的状況が援助するかどうかの非常に強い規定因であることを見てきた。しかし、パーソナリティの効果が一般に社会的文脈ほど強くないとしても、個人変数も重要である。_さまざまな状況を通じて、実際に他者より援助的な人がいる_。こうした人々は、利他的または向社会的パーソナリティを持つと言われる (Penner, Fritzsche, Craiger, & Freifeld, 1995)。自分がこの変数でどの位置にいるかを考えるには、図8.10「利他的パーソナリティの測定」の文を読み、どの程度同意するか考えてみよう。
 
-**Figure 8.10 Measuring the Altruistic Personality.**
+**図8.10 利他的パーソナリティの測定。**
 
-This scale measures individual differences in willingness to provide help—the prosocial personality. The scale includes questions on four dimensions of altruism. Adapted from Penner, Fritzsche, Craiger, and Freifeld (1995).
+この尺度は、援助を提供しようとする意思、すなわち向社会的パーソナリティの個人差を測定する。尺度には利他主義の四つの次元に関する項目が含まれる。Penner, Fritzsche, Craiger, and Freifeld (1995) をもとに改変。
 
-**Social Responsibility**
+**社会的責任**
 
-- No matter what a person has done to us, there is no excuse for taking advantage of them.
-- It makes sense to be very concerned about how we act when we are sick and feeling miserable.
+- 相手が自分に何をしたとしても、その人につけ込んでよい理由にはならない。
+- 病気で惨めな気分のとき、自分がどのように振る舞うかへ強く注意を払うのは当然だ。
 
-**Empathy**
+**共感**
 
-- I sometimes try to understand my friends better by imagining how things look from their perspective.
-- When I’m upset at someone, I usually try to “put myself in their shoes” for a while.
+- 友人の視点から物事がどのように見えるかを想像し、友人をもっと理解しようとすることがある。
+- 誰かに腹を立てたとき、その人の「立場に自分を置く」ことをしばらく試みるのが普通だ。
 
-**Moral Reasoning**
+**道徳的推論**
 
-- My decisions are usually based on my concern for other people.
-- My decisions are usually based on what is the most fair and just way to act.
+- 私の意思決定は通常、他者への関心に基づいている。
+- 私の意思決定は通常、最も公平で公正な行動は何かに基づいている。
 
-**Self-Reported Altrusim**
+**自己報告による利他主義**
 
-- I have helped carry a stranger’s belongings (e.g., books, parcels, etc.).
-- I have allowed someone to go ahead of me in a line (e.g., supermarket, copying machine, etc.)
+- 見知らぬ人の持ち物（本、小包など）を運ぶのを手伝ったことがある。
+- 列（スーパー、コピー機など）で、他の人を自分より先に行かせたことがある。
 
-The altruistic personality involves both the cognitive and the emotional responses that we experience around others. People with altruistic personalities tend to show empathy and sympathy for others and feel that it is appropriate and right to follow the norm of social responsibility. These people help more people in a wider variety of areas, including providing help to coworkers, donating organs, and volunteering, and also have been found to help more quickly than do people who score lower on these measures (Borman, Penner, Allen, & Motowidlo, 2001; Penner, 2002). A longitudinal study conducted by Nancy Eisenberg and her colleagues (Eisenberg et al., 1999) found that children who were the most helpful when they were measured in their preschool classes also were the most helpful later in childhood and in early adulthood, suggesting that they really were helpful people. People with altruistic personalities seem to be people who have a strong other-concern—they like to be with, to relate to, and to help others.
+利他的パーソナリティには、他者の周囲で経験する認知的反応と感情的反応の両方が含まれる。利他的パーソナリティを持つ人は他者への共感と同情を示しやすく、社会的責任規範に従うことが適切で正しいと感じる。こうした人は、同僚への援助、臓器提供、ボランティアなど、より多くの人を、より多様な領域で助け、これらの測度で低得点の人より素早く援助することも分かっている (Borman, Penner, Allen, & Motowidlo, 2001; Penner, 2002)。Nancy Eisenberg と同僚 (Eisenberg et al., 1999) の縦断研究では、就学前の教室で最も援助的だった子どもは、児童期後半および成人初期にも最も援助的だった。この結果は、彼らが本当に「援助的な人」であったことを示唆する。利他的パーソナリティを持つ人は他者への関心が強く、他者と一緒にいること、関係を築くこと、助けることを好むようである。
 
-The altruistic personality is in part heritable. Research has found that identical twins are more similar to each other in both their helping-related emotions (such as empathy) and their actual helping than are fraternal twins, who share only a portion of their genetic makeup (Davis, Luce, & Kraus, 1994).
+利他的パーソナリティは部分的に遺伝する。同一の遺伝的構成を持つ一卵性双生児は、一部しか共有しない二卵性双生児よりも、共感のような援助関連感情と実際の援助行動の両方で互いに似ていることが示されている (Davis, Luce, & Kraus, 1994)。
 
-### Gender Differences in Helping
+### 援助におけるジェンダー差
 
-You may have already asked yourself an important question about helping: do men or women help more? And perhaps you have answered this question. For instance, you might have decided that women would be more helpful because they are by and large more attuned to the needs of others. Or perhaps you decided that men would be more helpful because helping involves demonstrating bravery and men are more likely to desire to be heroes, or at least to look heroic in the eyes of other people.
+援助について、「男性と女性のどちらがより援助するのか」と考えたことがあるかもしれない。女性の方が一般に他者のニーズへ敏感だから、より援助的だと考えたかもしれない。あるいは、援助には勇敢さを示す側面があり、男性は英雄になりたい、少なくとも他者の目に英雄的に見えたいと思いやすいから、男性の方が援助的だと考えたかもしれない。
 
-In fact, on average there are no big differences between men and women in terms of their helping. For instance, in both the Canadian and U.S. surveys of altruism we discussed earlier in the chapter, the percentage of women volunteering (48% in Canada and 46% in the United States) was not significantly different from the percentage of men (46% in Canada and 42% in the United States). Rather, there appears to be a person-by-situation interaction, such that gender differences show up more strongly in some situations than in others. The differences depend not only on the opportunity to help but also on the type of helping that is required (Becker & Eagly, 2004). In general, men are more likely to help in situations that involve physical strength. If you look at photos and videos taken immediately after the World Trade Center attack in New York City in 2001, you will see many images of firefighters and police officers, who were primarily men, engaged in heroic acts of helping.
+実際には、援助全般について男女に平均的な大差はない。本章の前半で扱ったカナダと米国の利他主義調査でも、ボランティアをする女性の割合（カナダ48%、米国46%）は、男性（カナダ46%、米国42%）と有意には異ならなかった。むしろ人物‐状況相互作用があり、ジェンダー差は状況によって強く表れる。差は援助機会だけでなく、必要とされる援助の種類にも依存する (Becker & Eagly, 2004)。一般に、男性は身体的強さが必要な状況で援助しやすい。2001年の New York City の World Trade Center 攻撃直後の写真や映像を見ると、主に男性だった消防士や警察官が英雄的な援助行動をしている場面が多い。
 
-This does not mean that women are any less helpful—in fact thousands of women helped during and after the World Trade Center attack by tending to the wounded in hospitals, donating blood, raising money for the families of the victims, and helping with the cleanup of the disaster sites. Because women are, on average, more focused on other-concern, they are more likely than men to help in situations that involve long-term nurturance and caring, particularly within close relationships. Women are also more likely than men to engage in community behaviors, such as volunteering in the community or helping families (Becker & Eagly, 2004; Eagly & Becker, 2005). Helping within the family is done in large part by mothers, sisters, wives, and female friends.
+これは女性がそれほど援助的でないという意味ではない。実際、World Trade Center 攻撃の最中とその後、何千人もの女性が病院で負傷者を看護し、献血し、被害者の家族のために募金し、被災現場の清掃を手伝った。女性は平均すると他者への関心へより焦点を当てるため、特に親密な関係の中で、長期的な養育や世話を伴う状況では男性より援助しやすい。女性はまた、地域でのボランティアや家族への援助など、コミュニティ行動を男性より行いやすい (Becker & Eagly, 2004; Eagly & Becker, 2005)。家族内の援助の大部分は、母親、姉妹、妻、女性の友人によって担われている。
 
-Although this type of helping might be less likely to be rewarded with newspaper stories and medals, providing social support and helping connect people serves to help us meet the important goal of relating to others and thus helps improve the quality of our lives. And women are not afraid to help in situations that are dangerous. In fact, women have been found to be as likely as men are to engage in behaviors such as donating a kidney to others (Becker & Eagly, 2004).
+この種の援助は新聞記事やメダルという形で報われることは少ないかもしれないが、社会的支援を提供し、人と人をつなげる援助は、他者と関係を築くという重要な目標を満たす助けとなり、生活の質を高める。そして女性も危険な状況で援助することを恐れているわけではない。実際、他者への腎臓提供のような行動では、女性は男性と同程度に援助することが示されている (Becker & Eagly, 2004)。
 
-#### Social Psychology in the Public Interest
+#### 公共の利益における社会心理学
 
-Are the Religious More Altruistic?
+##### 宗教的な人ほど利他的なのか？
 
-Do you think that religious people are more helpful than are people who are less religious? There are plenty of reasons to think that this might be so. After all, every major religion preaches the importance of compassion and helpfulness, and many faith-based organizations help the poor and disadvantaged every year. Religious organizations help provide education, food, clothes, financial support, and other essentials to the needy across the globe.
+宗教的な人は、あまり宗教的でない人より援助的だと思うだろうか。そう考える理由は多い。主要な宗教はどれも慈悲と援助の重要性を説き、多くの信仰に基づく組織が毎年、貧しい人や不利な立場の人を助けている。宗教団体は世界中で、教育、食料、衣服、金銭的支援などの必需品を、困っている人々へ提供している。
 
-There is support, based on surveys and questionnaires, that religious people do indeed report being more helpful than the less religious (Penner, 2002). For instance, Morgan (1983) found that people who reported that they prayed more often also said that they better, friendlier, and more cooperative toward others. Furrow, King, and White (2004) found a significant positive relationship between religiousness and prosocial concerns such as empathy, moral reasoning, and responsibility in urban high school students. And Benson, Donahue, and Erickson (1989) found that adolescents who said that they were more religious were also more likely to have been involved in a volunteer service project in the last year.
+調査や質問紙に基づけば、宗教的な人は実際に、非宗教的な人より自分は援助的だと報告する (Penner, 2002)。たとえば Morgan (1983) は、祈る頻度が高いと報告した人ほど、自分はより善良で、友好的で、他者へ協力的だと回答することを見いだした。Furrow, King, and White (2004) は、都市部の高校生で、宗教性と、共感、道徳的推論、責任感のような向社会的関心との間に有意な正の関係を見いだした。Benson, Donahue, and Erickson (1989) も、より宗教的だと答えた青年は、過去1年間にボランティア奉仕プロジェクトへ参加した可能性が高いことを見いだした。
 
-Batson and his colleagues (1989) wondered if religious people were actually more likely to help or if they simply indicated that they would be on questionnaires. To test this question, they recruited college students and first asked them to report on their religious beliefs. On the basis of these responses, Batson categorized the students into one of four groups:
+Batson と同僚 (1989) は、宗教的な人が本当に援助しやすいのか、それとも質問紙上でそう答えるだけなのかを検討した。大学生を募集し、まず宗教的信念を報告させ、その回答に基づいて四つの集団へ分類した。
 
-- The *nonreligious* students were those who did not indicate much interest in religion.
-- The *externally religious* students were those who primarily indicated that they used religion for self-concern, such as for feeling more comfortable and being comforted by others, for gaining social status, and for finding support for one’s chosen way of life. The externally religious tended to agree with such statements as “The church is most important as a place to formulate good social relationships” and “What religion offers me most is comfort when sorrows and misfortune strike.”
-- The *internally religious* were those who indicated that they had accepted religion and that it was part of their inner experiences. The internally religious agreed with statements such as “I try hard to carry my religion over into all my other dealings in life” and “Quite often I have been keenly aware of the presence of God or the Divine Being.”
-- Finally, people who agreed with such statements as “It might be said that I value my religious doubts and uncertainties” and “Questions are far more central to my religious experience than are answers” were considered to be *quest-oriented*. These students see religion as a lifelong commitment to getting answers to important moral and religious questions.
+- *非宗教的*学生は、宗教への関心をあまり示さなかった。
+- *外発的に宗教的*な学生は、主として自己への関心のために宗教を利用していると答えた人である。より快適に感じること、他者に慰めてもらうこと、社会的地位を得ること、自分が選んだ生き方への支持を見つけることなどである。この人々は「教会は、良好な社会関係を築く場所として最も重要である」「宗教が私に最も与えてくれるのは、悲しみや不幸が襲ったときの慰めである」といった文へ同意しやすかった。
+- *内発的に宗教的*な人は、宗教を受け入れ、それが内的経験の一部になっていると答えた人である。「人生の他のすべての行いにも、自分の宗教を持ち込もうと一生懸命努力している」「神または神聖な存在の存在を強く意識することがかなり頻繁にある」といった文へ同意した。
+- 最後に、「自分は宗教上の疑問や不確かさを大切にしていると言えるかもしれない」「私の宗教的経験では、答えより問いの方がはるかに中心的である」といった文へ同意する人は、*探求志向*と分類された。この学生たちは、宗教を、重要な道徳的・宗教的問いへの答えを探し続ける生涯の取り組みとみなしている。
 
-Then Batson and his colleagues asked the participants whether or not they would be willing to volunteer their time by helping a woman in need or by walking in a walkathon for a charity. However, in each case Batson also gave one-half of the participants a possible excuse for not helping by informing them that a number of other students had already volunteered to help the woman or that they would have to complete a difficult physical exam before they could be in the walkathon.
+その後 Batson らは、困っている女性を助けたり、慈善団体のためのウォーカソンへ参加したりするために、自分の時間をボランティアとして提供する意思があるか尋ねた。ただし各場合に、参加者の半数には援助しないための言い訳になりうる情報も与えた。すでに多くの学生がその女性を助けるため志願している、またはウォーカソンへ参加する前に難しい身体検査を完了しなければならない、という情報である。
 
-The researchers found that the externally religious were not more likely to help overall and were actually less likely to help when there was an easy excuse not to. It seems that the externally religious were not really altruistic at all. The internally religious participants seemed somewhat more altruistic—they helped more when the helping was easy, but they did not continue to help when the task got difficult. However, Batson and his team found that the quest-oriented students were the true altruists—they volunteered to help even when doing so required engaging in some difficult exercise and continued to help even when there was an easy excuse not to.
+外発的に宗教的な人は全体として特に援助しやすくなく、援助しないための簡単な言い訳があると、むしろ援助しにくかった。外発的宗教性は真の利他性を示していないようだった。内発的に宗教的な参加者はやや利他的で、援助が容易な場合にはより助けたが、課題が難しくなると援助を続けなかった。一方、探求志向の学生は真の利他主義者だった。難しい運動が必要でも援助を志願し、援助しないための簡単な言い訳があっても援助を続けた。
 
-Although most studies investigating the role of religion on altruism have been correlational, there is also some experimental research showing that that activating symbols relating to religion causes increased altruism. Shariff and Norenzayan (2007) showed their research participants religious words such as *divine*, *God*, *sacred*, and *prophet* and then later asked them to contribute some money to a charity. The participants who had seen the religious words were more likely to donate money to an anonymous recipient than were a control group of people who had been exposed to nonreligious control words. However, religion was not the only concept that increased helping. Similar increases in altruism were found when people were shown words related to civil duty, such as *civic*, *jury*, *court*, *police*, and *contract*.
+宗教と利他主義の関係を調べた研究の多くは相関的だが、宗教に関連する象徴を活性化すると利他主義が増えることを示す実験研究もある。Shariff and Norenzayan (2007) は参加者へ _divine_、_God_、_sacred_、_prophet_ などの宗教語を提示し、その後、慈善目的へお金を寄付するよう求めた。宗教語を見た参加者は、非宗教的な統制語を見た統制群より、匿名の受取人へお金を寄付しやすかった。しかし援助を増やしたのは宗教だけではない。_civic_、_jury_、_court_、_police_、_contract_ など、市民としての義務に関する語を見たときにも同様に利他主義が増えた。
 
-In summary, when surveyed, religious people say that they are more helpful than are the nonreligious, but whether they really help when helping conflicts with self-interest seems to depend on what type of religious person they are. People who are religious for personal reasons related to self- concern generally are not more helpful. On the other hand, those who are more quest-oriented—those who really believe that helping is an important part of religious experience—are likely to help even when doing so requires effort. Furthermore, religion is not the only thing that makes us helpful. Being reminded of other social norms, such as our civil responsibility to others, also makes us more helpful.
+要するに、調査では宗教的な人は非宗教的な人より自分は援助的だと答えるが、援助が自己利益と衝突するとき実際に助けるかどうかは、どのような宗教性を持つかに依存するようだ。自己への関心に関わる個人的理由から宗教的である人は、一般により援助的ではない。一方、探求志向が強く、援助が宗教的経験の重要な一部だと本当に信じている人は、努力が必要でも援助しやすい。さらに、人を援助的にするのは宗教だけではない。他者への市民的責任のような別の社会規範を思い出させることも、人をより援助的にする。
 
-### Who Do We Help? Attributions and Helping
+### 誰を助けるのか？ 帰属と援助
 
-We do not help everyone equally—some people just seem to be more worthy of help than others. Our cognitions about people in need matter as do our emotions toward them. For one, our perception of the amount of the need is important. Bickman and Kamzan (1973) found that people were considerably more reluctant to help someone requesting money in a grocery store to buy some cookie dough (a relative luxury item) than they were to help someone requesting money to buy milk (which seems more necessary).
+私たちはすべての人を同じように助けるわけではなく、他者より援助に値するように見える人がいる。援助を必要とする人についての認知も、相手への感情も重要である。まず、必要の大きさをどう知覚するかが重要である。Bickman and Kamzan (1973) は、食料品店でクッキー生地（比較的ぜいたくな品）を買うためのお金を求める人へは、より必要性の高そうな牛乳を買うためのお金を求める人より、かなり援助しにくいことを見いだした。
 
-In addition to attempting to determine whether the help is really needed, we also tend to judge whether people are deserving of the help. We tend to provide less help to people who seem to have brought on their problems themselves or who don’t seem to be working very hard to solve them on their own than we do to people who need help as a result of events that seem to be out of their control. Imagine, for instance, that a student in your class asks to borrow your class notes to prepare for an exam. And then imagine if the student said, “I just can’t take good notes—I attend every class, and I really try, but I just can’t do it.” I’m guessing that you might be willing to help this student. On the other hand, imagine that the student said, “Well, I miss class a lot because I don’t feel like coming, and even when I’m here I don’t bother to take notes every day.” I bet you’d be less likely to help this person, who doesn’t seem to be trying very hard.
+援助が本当に必要か判断しようとするだけでなく、その人が援助に値するかも判断しがちである。自ら問題を引き起こしたように見える人や、自分で解決しようと十分努力していないように見える人には、自分では制御できない出来事の結果として援助を必要とする人より、援助を少なくする傾向がある。たとえば同じ授業の学生が試験勉強のためにノートを借りたいと言ったとする。「どうしても上手にノートを取れないんです。毎回授業には出て、本当に努力しているけれど、うまくできません」と言われれば、助けてもよいと思うだろう。ところが「授業へ来る気がしないのでよく欠席するし、来ても毎日ノートを取ろうとはしません」と言われれば、あまり努力していないように見えるその人を助けたいとは思いにくいだろう。
 
-Supporting this idea, Dooley (1995) had students read scenarios about a person who had been diagnosed with AIDS. Participants who learned that the person had contracted the disease through a blood transfusion felt more empathy and pity for the person, and also expressed a greater desire to help the person, than did participants who believed that the disease was caused by unprotected sex or by illicit drug use. One reason we may be particularly likely to help victims of hurricanes and other natural disasters, then, is that we see that these people did not cause their own problems. Those who do argue against helping these victims may well take the opposite position because they believe that the individuals deserved what they got (“they should have known better than to live there.”)
+この考えを支持するように、Dooley (1995) は AIDS と診断された人物についてのシナリオを学生へ読ませた。輸血によって感染したと知った参加者は、無防備な性行為または違法薬物使用によって感染したと考えた参加者より、その人へ強い共感と哀れみを感じ、助けたいという欲求も強く表明した。ハリケーンやその他の自然災害の被害者を私たちが特に助けやすい理由の一つは、彼らが自分自身で問題を引き起こしたわけではないとみなすからかもしれない。逆に、被害者への援助へ反対する人は、「そこに住めばどうなるか分かっていたはずだ」のように、本人が結果を受けるに値したと考えている可能性がある。
 
-It has been argued that a fundamental difference between individuals who hold politically conservative views and those who hold politically liberal views is how they perceive the necessity or moral responsibility of helping others, and that this relates to how they perceive the causes of people’s outcomes. Consider people who appear to need help because they have inadequate food, shelter, or health care, for example. Liberals tend to attribute these outcomes more externally, blaming them on unjust social practices and societal structures that create inequalities. Because they are likely to believe that the people do not deserve their unfortunate situation, they are likely to favor spending on social programs designed to help these people. Conservatives, on the other hand, are more likely to hold just world beliefs—*beliefs that people get what they deserve in life* (Lerner, 1980). Conservatives make more internal attributions for negative outcomes, believing that the needs are caused by the lack of effort or ability on the part of the individual. They are therefore less likely than liberals to favor government spending on welfare and other social programs designed to help people (Kluegel & Smith, 1986; Skitka, 1999).
+政治的に保守的な見解を持つ人とリベラルな見解を持つ人の基本的相違の一つは、他者を助ける必要性や道徳的責任をどう知覚するかであり、それは人々の結果の原因をどう知覚するかと関係する、と論じられてきた。十分な食料、住居、医療を得られず援助を必要としているように見える人を考えてみよう。リベラルな人は、こうした結果を、不平等を生み出す不公正な社会慣行や社会構造など、より外的な原因へ帰属する傾向がある。その人々は不幸な状況に陥るに値しないと考えやすいため、彼らを助ける社会プログラムへの支出を支持しやすい。これに対し、保守的な人は公正世界信念、すなわち*人生では人は自分に値するものを受け取るという信念*を持ちやすい (Lerner, 1980)。否定的結果を個人の努力や能力不足といった内的原因へ帰属しやすいため、福祉などの援助を目的とする政府の社会プログラムへの支出を、リベラルな人より支持しにくい (Kluegel & Smith, 1986; Skitka, 1999)。
 
-### Reactions to Receiving Help
+### 援助を受けることへの反応
 
-To this point in the chapter, we have proceeded as if helping is always a good thing—that people need to receive help and that they are appreciative of and thankful to the people who help them. But perhaps this is not always true. We haven’t yet considered the cognitive and affective reactions of the people who are *receiving* the help. Can you remember a time when somebody tried to help you make a decision or perform a task, but you didn’t really want the help? How did that make you think and feel about yourself? Maybe there are costs involved in receiving help, just as there are in giving it.
+ここまでは、援助は常によいことであり、人は助けを必要としており、助けてくれた人へ感謝するという前提で進んできた。しかし常にそうとは限らない。まだ、援助を*受け取る*人の認知的・感情的反応を考えていない。誰かが意思決定や課題遂行を助けようとしたものの、自分は実際には助けを望んでいなかった経験を思い出せるだろうか。そのとき自分自身についてどう考え、どう感じただろうか。援助を与えることと同様に、受けることにもコストがあるかもしれない。
 
-Although people who receive help often really need the help and may indeed feel appreciative and grateful to those who help them, receiving help may also have some negative consequences. When we help another person, it indicates that we have enough resources that we can afford to give some of them to the recipient; it also indicates that the recipient is dependent on our goodwill. Thus helping can create a status disparity in the sense that the helper is seen as having higher status than the person being helped. This inequality makes giving help an indication of high status and power, and receiving help a potentially self-threatening experience for the recipient (Nadler, 2002; Nadler & Halabi, 2006). There are a variety of emotions that help recipients might feel in these cases, including embarrassment and worry that they are, or are seen as, incompetent or dependent (DePaulo, Brown, Ishii, & Fisher, 1981; Nadler, Fisher, & Itzhak, 1983). Research has found that people frequently respond negatively when they receive help and may in some cases even prefer to endure hardships rather than to seek out help (Nadler, 1991). Receiving help, then, can be a potential blow to our self-esteem.
+援助を受ける人は本当にそれを必要としていて、援助者へ感謝することも多いが、援助を受けることには否定的結果もありうる。他者を助けるとき、それは援助者が受取人へ分けられるだけの資源を持っていることを示すと同時に、受取人が援助者の善意へ依存していることも示す。そのため援助は、援助者の方が援助される人より高地位に見えるという地位格差を作ることがある。この不平等によって、援助を与えることは高い地位や権力のシグナルとなり、援助を受けることは受取人の自己を脅かす経験になりうる (Nadler, 2002; Nadler & Halabi, 2006)。受取人は、恥ずかしさや、自分が無能または依存的だと見られているのではないかという心配など、さまざまな感情を抱くことがある (DePaulo, Brown, Ishii, & Fisher, 1981; Nadler, Fisher, & Itzhak, 1983)。研究によれば、人は援助を受けることへ否定的に反応することが多く、場合によっては援助を求めるより困難に耐えることを選ぶことさえある (Nadler, 1991)。したがって援助を受けることは、自尊心への打撃になりうる。
 
-The negative feelings that we experience when receiving help are likely to be particularly strong *when the recipient feels that the implication of the helping is that they are unable to care for themselves*. In these cases the help is perceived as being dependency oriented (Nadler et al., 1983). When the helper takes control of the situation and solves the problem facing the individual, leaving little left for the individual to accomplish on his or her own, the behavior may be seen as indicating that the individual cannot help herself. The potential recipients of help are likely to reject offers of dependency-oriented help, refrain from seeking it, and react negatively when it is offered.
+援助を受けたときの否定的感情は、*援助されるということは、自分自身を世話する能力がないと意味している、と受取人が感じる場合*に特に強い。このような場合、その援助は依存志向的援助と知覚される (Nadler et al., 1983)。援助者が状況を支配し、本人が直面する問題を解決してしまい、本人自身が達成すべきことをほとんど残さない場合、その行動は「この人は自力では自分を助けられない」という意味に受け取られることがある。援助を受ける可能性のある人は、依存志向的援助を拒否し、援助を求めることを控え、申し出られた場合に否定的に反応しやすい。
 
-Another situation in which people may not appreciate the help they are receiving is when that help comes on the basis of one’s presumed need. For instance Blaine, Crocker, and Major (1995) found that people who imagined that they had been hired for a job because they were disabled experienced lower self-esteem and felt that they were less likely to work hard on the job than those who imagined that they were hired on the basis of their job qualifications. You can see that government programs, such as those based on the notion of affirmative action, although likely to be helpful for the people who receive them, may also lead those people to feel dependent on others.
+援助が想定された「必要性」に基づいて与えられる場合も、受取人が感謝しないことがある。たとえば Blaine, Crocker, and Major (1995) は、障害があることを理由に仕事へ採用されたと想像した人は、職務上の資格に基づいて採用されたと想像した人より自尊心が低く、その仕事へ一生懸命取り組む可能性も低いと感じることを見いだした。アファーマティブ・アクションの考えに基づくような政府プログラムは、受益者にとって役立つ可能性が高い一方で、その人々に「他者へ依存している」と感じさせる可能性もある。
 
-In contrast to dependency-oriented help, autonomy-oriented help is partial and temporary and provides information to the other, for instance, by giving instructions or guidance or providing ideas about how to help oneself. Autonomy-oriented help *reflects the helper’s view that, given the appropriate tools, recipients can help themselves* (Brickman, 1982). Autonomy-oriented help allows help recipients to retain their independence despite their reliance on the more resourceful helper. This type of help is less likely to clash with the recipients’ view of themselves as capable people who can help themselves.
+依存志向的援助とは対照的に、自律志向的援助は部分的かつ一時的であり、指示、助言、自分自身を助ける方法についてのアイデアなど、相手へ情報を提供する。自律志向的援助は、_適切な道具が与えられれば、受取人は自分自身を助けられるという援助者の見方を反映する_ (Brickman, 1982)。自律志向的援助なら、より多くの資源を持つ援助者へ一時的に頼っても、受取人は独立性を保つことができる。この援助は「自分は自力で対処できる有能な人間だ」という受取人の自己観と衝突しにくい。
 
-There are also observed gender differences in the willingness to seek help. Boys and men are less likely to ask for help overall, perhaps in part because they feel that asking for help indicates to others that they are less capable of handling their own affairs or that they have low status (Addis & Mahalik, 2003; Mansfield, Addis, & Mahalik, 2003).
+援助を求める意思にもジェンダー差が観察される。少年や男性は全体として援助を求めにくい。これは部分的には、援助を求めると、自分は自分自身の問題を処理する能力が低い、または地位が低いと他者へ示すことになると感じるからかもしれない (Addis & Mahalik, 2003; Mansfield, Addis, & Mahalik, 2003)。
 
-In short, when we help others we must be careful that we do it in a way that allows them to maintain their independence and that reminds them that they are still able to help themselves. This type of help will be more easily accepted and more beneficial in the long run.
+要するに、他者を援助するときには、その人が独立性を保ち、自分にはまだ自力で対処する能力があると思える形で行う必要がある。そのような援助の方が受け入れられやすく、長期的にもより有益である。
 
-### Cultural Issues in Helping
+### 援助における文化的問題
 
-Although almost every culture has a social responsibility norm, the strength of those norms varies across cultures. And these differences relate well to what we know about individualism and collectivism. In one study, Miller, Bersoff, and Harwood (1990) found that children and adults in the United States (a Western and therefore individualistic culture) were less likely than children and adults in India (an Eastern and therefore collectivistic culture) to believe that people have an obligation to provide assistance to others. The Indian respondents believed that there was an absolute requirement to help, whereas the Americans offered their helping more selectively, even to their friends. Similarly, Baron and Miller (2000) found that Indian students were more likely than U.S. students to view donating bone marrow to save someone’s life as morally required, whereas U.S. students were more likely than Indian students to say that donating was a decision that the potential donor had to make himself or herself.
+ほぼすべての文化に社会的責任規範があるが、その強さは文化によって異なる。この差は、個人主義と集団主義について私たちが知っていることとよく対応する。Miller, Bersoff, and Harwood (1990) は、米国（西洋の個人主義文化）の子どもと成人は、インド（東洋の集団主義文化）の子どもと成人より、人には他者を助ける義務があると考えにくいことを見いだした。インドの回答者は援助することを絶対的要件と考えた一方、米国の回答者は友人に対してさえ、より選択的に援助を提供した。同様に Baron and Miller (2000) は、人命を救うための骨髄提供を、インドの学生は米国の学生より道徳的義務だと考えやすく、米国の学生はインドの学生より、提供は本人が決めるべき個人的選択だと答えやすいことを見いだした。
 
-Perlow and Weeks (2002) found that there were substantial cultural differences in the behavior of software engineers working at similar companies and doing the same type of work in the United States and in India. Engineers at the American site were more focused on exchange and reciprocity—they tended to provide help to others only if they thought those people could be helpful to them in the future. The engineers at the Indian company, on the other hand, were more willing to help anyone who seemed to need help, regardless of the potential for a return. Perlow and Weeks interpreted these differences in terms of different ways of meeting the goal of self-interest. Among the Americans, helping was seen as an unwanted interruption on the time of the individual, and thus helping was not personally beneficial. At the Indian company, however, helping was seen more as an opportunity for improving one’s skills. These results suggest that helping, at least in Western contexts such as the United States, can be increased if it is framed to be perceived as important toward achieving one’s goals.
+Perlow and Weeks (2002) は、米国とインドで、似た企業に勤め同じ種類の仕事をするソフトウェア・エンジニアの行動に大きな文化差があることを見いだした。米国の職場のエンジニアは交換と互恵性へより焦点を当て、将来自分を助けてくれそうな人にのみ援助を提供しやすかった。一方、インド企業のエンジニアは、返礼の可能性に関係なく、援助を必要としているように見える人なら誰でも助けやすかった。Perlow と Weeks は、こうした差を、自己利益という目標を満たす方法の違いとして解釈した。米国人にとって援助は個人の時間への望ましくない中断とみなされ、そのため本人に利益がないと考えられた。インド企業では、援助はむしろ自分の技能を向上させる機会とみなされた。これらの結果は、少なくとも米国のような西洋の文脈では、援助が自分の目標を達成するうえで重要だと捉えられるよう枠づければ、援助を増やせることを示唆する。
 
-One important difference between Eastern and Western cultures is that the importance of self-concern (versus other-concern) is higher in the latter. In fact, the strong individualistic norms in cultures such as the United States make it sometimes inappropriate to try to help in cases where we do not have a personal interest. Rebecca Ratner and Dale Miller (2001) had participants read a scenario in which a governmental funding agency was planning to reduce funding for research regarding a disease. The disease was said to affect only women or only men. Then the participants were asked to indicate both whether they were opposed to the reduction in funding and how comfortable they would be in attending a meeting to protest the funding changes.
+東洋文化と西洋文化の重要な違いの一つは、後者では他者への関心に対する自己への関心の重要性が高いことである。実際、米国のような文化の強い個人主義規範のもとでは、自分に個人的利害がない場合に援助しようとすることが不適切に感じられることさえある。Rebecca Ratner and Dale Miller (2001) は、政府の資金提供機関が、ある疾患についての研究費を削減しようとしているシナリオを参加者へ読ませた。その疾患は女性だけ、または男性だけに影響すると説明された。その後、資金削減へ反対するかどうかと、その変更へ抗議する集会へ参加することにどの程度抵抗を感じるかの両方を尋ねた。
 
-In terms of their attitudes toward the reduction in funding, there were no significant gender differences. Men thought that the funding should be maintained even when the disease only affected women, and vice versa. However, as you can see in Figure 8.11, “Effects of Standing on Feelings of Comfort in Taking Action,” when asked how comfortable they would feel attending a meeting protesting the funding decreases, significant differences occurred. The men predicted that they would feel less comfortable attending a meeting to protest the funding reductions when the disease only affected women, and the women predicted that they would feel less comfortable attending a meeting to protest the funding reductions when the disease only affected men.
+資金削減への態度には有意なジェンダー差がなかった。男性は疾患が女性だけに影響する場合にも研究費を維持すべきだと考え、女性もその逆だった。しかし図8.11「立場が行動を起こす際の快適さへ与える影響」に示すように、資金削減への抗議集会へ参加することにどの程度抵抗があるかを尋ねると、有意な差が生じた。男性は疾患が女性だけに影響するとき、女性は疾患が男性だけに影響するときに、その集会への参加をより居心地悪く感じると予測した。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Figure-8.11-Effects-of-Standing-on-Feelings-of-Comfort-in-Taking-Action-1024x438.jpg)
 
-*Figure 8.11 Effects of Standing on Feelings of Comfort in Taking Action. This figure represents participants’ ratings of how comfortable they would be attending a meeting supporting the attempt to prevent funding reductions for a disease. Suggesting that a norm of self-interest is necessary to get involved, both men and women were less likely to feel comfortable arguing for a position that does not influence them personally. Data from Ratner and Miller (2001, Experiment 3).*
+_図8.11 立場が行動を起こす際の快適さへ与える影響。この図は、ある疾患の研究費削減を防ぐ取り組みを支持する集会へ参加することに、参加者がどの程度抵抗なくいられるかの評定を示している。関与するには自己利益の規範が必要であることを示唆するように、男女とも、自分自身へ個人的に影響しない立場を主張することには抵抗を感じやすかった。Ratner and Miller (2001, Experiment 3) のデータ。_
 
-Ratner and Miller argued that in Western cultures there is a norm of self-interest that influences whether or not we feel that we can be involved in actions designed to help others. In short, people are not expected to volunteer for, or to be involved in, causes that do not affect them personally. It is simply inappropriate to lend help to others unless the person is personally involved in the issue and thus stands to benefit. Indeed, participants in another study by Ratner and Miller reacted more negatively to an individual’s altruistic behaviors when they did not appear consistent with his or her self-interest.
+Ratner と Miller は、西洋文化には、他者を助けるための行動へ関与できると感じるかどうかに影響する自己利益規範があると論じた。つまり、個人的に影響を受けない大義のために志願したり関与したりすることは期待されていない。問題へ個人的に関わり、それゆえ利益を得る可能性がなければ、他者へ援助を提供することが単純に不適切とされるのである。実際、別の研究では、ある人の利他的行動がその人の自己利益と一致していないように見えると、参加者はその行動へより否定的に反応した。
 
-There is still another example of the subtle role of self-interest in helping. Did you ever notice that many people who are looking for contributions to a cause do not ask directly but rather ask that you purchase something from them, allowing them to keep the profit from the sale? Bake sales, car washes, and address sticker and magazine subscription charity campaigns are all examples of this. Of course, it would be more profitable for the charity if people simply gave the same amount of money rather than taking the gift—and perhaps the people who are making the purchases would prefer not to have to buy the product anyway.
+自己利益が援助へ微妙に果たす役割を示す例はほかにもある。大義への寄付を求める人が、直接お金を求めるのではなく、何かを買うよう頼み、その売上利益を活動へ充てることが多いことに気づいたことがあるだろう。焼き菓子販売、洗車、住所ラベルや雑誌購読を使った慈善キャンペーンなどがその例である。同じ額を何かと交換するのではなく単純に寄付してもらえれば、慈善団体にはもっと利益が残るし、買う側も本当は商品を欲しくないかもしれない。
 
-Is it possible that people are simply more comfortable making donations in exchange for a product than they are simply giving money to a charity? Research by John Holmes and his colleagues (Holmes, Miller, & Lerner, 2002) has supported this idea, finding that people are more likely to help when they can pretend that they are acting in their own self-interest. In one study, Holmes and his team found that students were more likely to donate money to a needy charity when they were offered a small candle in return for their donation than when they were not offered the candle. However, and suggesting that they didn’t really care about the candle that much, when the request was to contribute to a charity that did not seem that needy, contributions were smaller overall but were not greater when the candle was offered than when it was not. Again, it seems that people feel more comfortable being altruistic when they can pretend that they are really helping themselves—not violating the norm of self-interest.
+人は単純に慈善団体へお金を渡すより、商品と引き換えに寄付する方が気楽なのだろうか。John Holmes と同僚 (Holmes, Miller, & Lerner, 2002) の研究はこの考えを支持し、自分は自己利益に従っているふりができるとき、人はより援助しやすいことを示した。ある研究では、困窮している慈善団体への寄付と引き換えに小さなろうそくを受け取れる場合、受け取れない場合より学生は多く寄付した。しかし、ろうそくそのものをそれほど重要視していたわけではないことを示すように、あまり困窮していないように見える慈善団体への寄付を求めた場合、寄付額は全体に小さく、ろうそくの有無による差もなかった。ここでも、人は「本当は自分自身を助けている」と装えるとき、つまり自己利益規範へ違反していないふりができるときに、より気楽に利他的になれるようである。
 
-### Increasing Helping
+### 援助を増やす
 
-Now that we have a fundamental understanding of the variables that influence the likelihood that we will help others, let’s spend some time considering how we might use this information in our everyday life to try to become more helpful ourselves and to encourage those around us to do the same. In doing so, we will make use of many of the principles of altruism that we have discussed in this chapter.
+援助する可能性へ影響する変数について基本的理解を得たので、この情報を日常生活でどのように利用し、自分自身をより援助的にし、周囲の人にも同様の行動を促せるかを考えよう。そのために、本章で扱ってきた利他主義の多くの原理を利用する。
 
-First, we need to remember that not all helping is based on other-concern—self-concern is also important. People help in part because it makes them feel good, and therefore anything that we can do to increase the benefits of helping and to decrease the costs of helping would be useful. Consider, for instance, the research of Mark Snyder, who has extensively studied the people who volunteer to help other people who are suffering from AIDS (Snyder & Omoto, 2004; Snyder, Omoto, & Lindsay, 2004). To help understand which volunteers were most likely to continue to volunteer over time, Snyder and his colleagues (Omoto & Snyder, 1995) asked the AIDS volunteers to indicate why they volunteered. As you can see in Figure 8.12, “Reasons for Volunteering to Help AIDS Victims,” the researchers found that the people indicated that they volunteered for many different reasons, and these reasons fit well with our assumptions about human nature—they involve both self-concern as well as other-concern.
+まず、すべての援助が他者への関心だけに基づくわけではなく、自己への関心も重要であることを覚えておく必要がある。人は部分的には、援助すると気分がよくなるから助ける。そのため、援助の利益を増やし、援助のコストを下げることができれば役立つ。たとえば Mark Snyder は、AIDS に苦しむ人を支援するボランティアを広範に研究してきた (Snyder & Omoto, 2004; Snyder, Omoto, & Lindsay, 2004)。どのボランティアが長期にわたり活動を続けやすいかを理解するため、Snyder と同僚 (Omoto & Snyder, 1995) は AIDS ボランティアへ志願した理由を尋ねた。図8.12「AIDS 被害者を助けるためにボランティアをする理由」に示すように、人々は多くの異なる理由を挙げ、それらは自己への関心と他者への関心の両方を含んでいた。
 
-**Figure 8.12 Reasons for Volunteering to Help AIDS Victims.**
+**図8.12 AIDS 被害者を助けるためにボランティアをする理由。**
 
-From Omoto and Snyder (1995).
+Omoto and Snyder (1995) より。
 
-**Values**
+**価値観**
 
-- Because of my humanitarian obligation to help others.
-- Because I enjoy helping other people.
-- Because I consider myself to be a loving and caring person.
-- Because people should do something about issues that are important to them.
-- Because of my personal values, convictions, and beliefs.
+- 他者を助けることは人道的義務だから。
+- 他者を助けることを楽しんでいるから。
+- 自分を愛情深く思いやりのある人だと考えているから。
+- 人は自分にとって重要な問題について何かをすべきだから。
+- 自分の個人的価値観、信念、確信のため。
 
-**Understanding**
+**理解**
 
-- To learn more about how to prevent AIDS.
-- To learn how to help people with AIDS.
-- To learn about how people cope with AIDS.
-- To understand AIDS and what it does with people.
+- AIDS を予防する方法についてもっと学ぶため。
+- AIDS の人を助ける方法を学ぶため。
+- 人々が AIDS へどのように対処しているかを学ぶため。
+- AIDS と、それが人々へ何をもたらすかを理解するため。
 
-**Personal development**
+**個人的発達**
 
-- To get to know people who are similar to myself.
-- To meet new people and make new friends.
-- To gain experience dealing with emotionally difficult topics.
-- To challenge myself and test my skills.
-- To learn about myself and my strengths and weaknesses.
+- 自分と似た人々と知り合うため。
+- 新しい人と出会い、友人を作るため。
+- 感情的に難しい話題へ対処する経験を得るため。
+- 自分へ挑戦し、自分の技能を試すため。
+- 自分自身と、自分の長所・短所について学ぶため。
 
-**Community concern**
+**コミュニティへの関心**
 
-- Because of my sense of obligation to the gay community.
-- Because I consider myself an advocate for gay-related issues.
-- Because of my concern and worry about the gay community.
-- To get to know people in the gay community.
-- To help members of the gay community.
+- ゲイ・コミュニティへの義務感から。
+- 自分をゲイ関連の問題の擁護者だと考えているから。
+- ゲイ・コミュニティを気遣い、心配しているから。
+- ゲイ・コミュニティの人々と知り合うため。
+- ゲイ・コミュニティの成員を助けるため。
 
-**Esteem enhancement**
+**自尊心の向上**
 
-- To make my life more stable.
-- To scape other pressures and stress in my life (e.g., from work, from home).
-- To feel less lonely.
-- To feel needed.
+- 自分の生活をより安定させるため。
+- 生活のほかの圧力やストレス（仕事、家庭など）から逃れるため。
+- 孤独をあまり感じないようにするため。
+- 自分が必要とされていると感じるため。
 
-Omoto and Snyder (1995) found that the volunteers were more likely to continue their volunteer work if their reasons for volunteering involved self-related activities, such as understanding, personal development, or esteem enhancement. The volunteers who felt that they were getting something back from their work were likely to stay involved. In addition, Snyder and his colleagues found that that people were more likely to continue volunteering when their existing social support networks were weak. This result suggests that some volunteers were using the volunteer opportunity to help them create better social connections (Omoto & Snyder, 1995). On the other hand, the volunteers who reported experiencing negative reactions about their helping from their friends and family members, which made them feel embarrassed, uncomfortable, and stigmatized for helping, were also less likely to continue working as volunteers (Snyder, Omoto, & Crain, 1999).
+Omoto and Snyder (1995) は、ボランティアの理由に理解、個人的発達、自尊心の向上のような自己関連活動が含まれると、活動を続ける可能性が高いことを見いだした。自分の活動から何かを得ていると感じるボランティアは、関与を続けやすかった。さらに、既存の社会的支援ネットワークが弱い人ほどボランティアを続けやすかった。この結果は、一部の人がボランティアの機会を、よりよい社会的つながりを作るために利用していたことを示唆する (Omoto & Snyder, 1995)。一方、友人や家族から援助行動について否定的反応を受け、それによって恥ずかしさ、不快感、スティグマを感じた人は、ボランティア活動を続けにくかった (Snyder, Omoto, & Crain, 1999)。
 
-These results again show that people will help more if they see it as rewarding. So if you want to get people to help, try to increase the rewards of doing so, for instance, by enhancing their mood or by offering incentives. Simple things, such as noticing, praising, and even labeling helpful behavior can be enough. When children are told that they are “kind and helpful children,” they contribute more of their prizes to other children (Grusec, Kuczynski, Rushton, & Simutis, 1978). Rewards work for adults too: people were more likely to donate to charity several weeks after they were described by another person as being “generous” and “charitable” people (Kraut, 1973). In short, once we start to think of ourselves as helpful people, self-perception takes over and we continue to help.
+こうした結果は、人が援助を報酬的だと感じれば、より助けることを改めて示す。人々に援助してほしいなら、気分を高めたりインセンティブを提供したりして、援助の報酬を増やすとよい。援助行動に気づき、褒め、さらにはラベルを与えるだけでも十分なことがある。「親切で、人助けをする子どもだ」と言われた子どもは、自分の賞品を他の子どもへより多く分ける (Grusec, Kuczynski, Rushton, & Simutis, 1978)。報酬は成人にも働く。他者から「寛大で」「慈善的な」人だと言われた人は、数週間後に慈善団体へ寄付しやすかった (Kraut, 1973)。つまり、自分を援助的な人間だと考え始めると、自己知覚が作用し、その後も援助し続ける。
 
-The countries that have passed Good Samaritan laws realize the importance of self-interest: if people must pay fines or face jail sentences if they don’t help, then they are naturally more likely to help. And the programs in many schools, businesses, and other institutions that encourage students and workers to volunteer by rewarding them for doing so are also effective in increasing volunteering (Clary et al., 1998; Clary, Snyder, & Stukas, 1998).
+善きサマリア人法を制定した国は、自己利益の重要性を理解している。助けなければ罰金や懲役の可能性があるなら、当然、人は援助しやすくなる。また、多くの学校、企業、その他の組織で、学生や労働者がボランティアをすることへ報酬を与えるプログラムも、ボランティアを増やすうえで効果的である (Clary et al., 1998; Clary, Snyder, & Stukas, 1998)。
 
-Helping also occurs in part because of other-concern. We are more likely to help people we like and care about, we feel similar to, and with whom we experience positive emotions. Therefore, anything that we can do to increase our connections with others will likely increase helping. We must work to encourage ourselves, our friends, and our children to interact with others—to help them meet and accept new people and to instill a sense of community and caring in them. These social connections will make us feel closer to others and increase the likelihood we will help them. We must also work to install the appropriate norms in our children. Kids must be taught not to be selfish and to value the norms of sharing and altruism.
+援助は他者への関心からも部分的に生じる。私たちは、好きで、気にかけ、似ていると感じ、肯定的感情を持つ相手を助けやすい。したがって、他者とのつながりを増やすことができれば、援助も増える可能性が高い。自分自身、友人、子どもたちが他者と交流し、新しい人と出会って受け入れ、コミュニティ感覚と思いやりを持てるよう促す必要がある。こうした社会的つながりは他者との近さを高め、援助する可能性を増やす。また子どもへ適切な規範を根づかせる必要もある。子どもには利己的にならず、分かち合いと利他主義の規範を大切にするよう教えなければならない。
 
-One way to increase our connection with others is to make those people highly salient and personal. The effectiveness of this strategy was vividly illustrated by a recent campaign by Sport Club Recife, a Brazilian football club, which promoted the idea of becoming an “immortal fan” of the club by registering as an organ donor (Carneiro, 2014). As a result of this campaign, in only the first year of the campaign, the waiting list for organ transplants in the city of Recife was reduced to zero. Similar campaigns are now being planned in France and Spain.
+他者とのつながりを増す方法の一つは、その人を非常に目立つ、個人的な存在として感じられるようにすることである。この方略の有効性は、ブラジルのサッカークラブ Sport Club Recife のキャンペーンで鮮やかに示された。このクラブは、臓器提供者として登録することでクラブの「不滅のファン」になるという考えを広めた (Carneiro, 2014)。このキャンペーンの結果、最初の1年だけで Recife 市の臓器移植待機リストがゼロになった。同様のキャンペーンが France と Spain でも計画されている。
 
-Another way to increase our connection with others is for charities to individualize the people they are asking us to help. When we see a single person suffering, we naturally feel strong emotional responses to that person. And, as we have seen, the emotions that we feel when others are in need are powerful determinants of helping. In fact, Paul Slovic (2007) found that people are simply unable to identify with statistical and abstract descriptions of need because they do not feel emotions for these victims in the same way they do for individuals. They argued that when people seem completely oblivious or numb to the needs of millions of people who are victims of earthquakes, genocide, and other atrocities, it is because the victims are presented as statistics rather than as individual cases. As Joseph Stalin, the Russian dictator who executed millions of Russians, put it, “A single death is a tragedy; a million deaths is a statistic.”
+他者とのつながりを増す別の方法は、慈善団体が、助けを求める対象を個人化することである。一人の人が苦しむのを見ると、その人へ自然に強い感情反応を抱く。そしてこれまで見てきたように、他者が困っているときに抱く感情は援助の強力な規定因である。Paul Slovic (2007) は、人は統計的で抽象的なニーズの記述には、個人の被害者へ感じるような感情を抱けないため、同一化することが難しいと述べている。地震、ジェノサイド、その他の残虐行為の被害者が何百万人いても、人が完全に無関心または麻痺しているように見えるのは、被害者が個人ではなく統計として提示されるからだと論じた。何百万人ものロシア人を処刑したロシアの独裁者 Joseph Stalin の言葉とされる表現では、「一人の死は悲劇だが、百万人の死は統計である」。
 
-We can also use what we have learned about helping in emergency situations to increase the likelihood of responding. Most importantly, we must remember how strongly pluralistic ignorance can influence the interpretation of events and how quickly responsibility can be diffused among the people present at an emergency. Therefore, in emergency situations we must attempt to counteract pluralistic ignorance and diffusion of responsibility by remembering that others do not necessarily know more than we do. Depend on your own interpretation—don’t simply rely on your assumptions about what others are thinking and don’t just assume that others will do the helping.
+緊急事態について学んだことを使い、反応の可能性を高めることもできる。最も重要なのは、多元的無知が出来事の解釈へどれほど強く影響し、緊急事態にいる人々の間で責任がどれほど速く拡散するかを覚えておくことである。したがって緊急時には、他者が必ずしも自分より多くを知っているわけではないことを覚え、多元的無知と責任の拡散へ対抗しなければならない。自分自身の解釈を信頼し、他者が何を考えているかについての推測だけに頼らず、「誰か別の人が助けるだろう」と想定しないことが重要である。
 
-We must be sure to follow the steps in Latané and Darley’s model, attempting to increase helping at each stage. We must make the emergency noticeable and clearly an emergency, for instance, by yelling out: “This is an emergency! Please call the police! I need help!” And we must attempt to avoid the diffusion of responsibility, for instance, by designating one individual to help: “You over there in the red shirt, please call 911 now!”
+Latané と Darley のモデルの各段階を確実に進み、それぞれの段階で援助を増やす必要がある。たとえば「これは緊急事態です！ 警察を呼んでください！ 助けが必要です！」と叫んで、緊急事態を目立たせ、明確に緊急だと伝える。そして「赤いシャツのあなた、今すぐ911へ電話してください！」のように特定の一人を指名し、責任の拡散を避ける必要がある。
 
-:::tip[Key Takeaways]
+:::tip[重要なポイント]
 
-- Some people—for instance, those with altruistic personalities—are more helpful than others.
-- Gender differences in helping depend on the type of helping that is required. Men are more likely to help in situations that involve physical strength, whereas women are more likely to help in situations that involve long-term nurturance and caring, particularly within close relationships.
-- Our perception of the amount of the need is important. We tend to provide less help to people who seem to have brought on their own problems or who don’t seem to be working very hard to solve them on their own.
-- In some cases, helping can create negative consequences. Dependency-oriented help may make the helped feel negative emotions, such as embarrassment and worry that they are seen as incompetent or dependent. Autonomy-oriented help is more easily accepted and will be more beneficial in the long run.
-- Norms about helping vary across cultures, for instance, between Eastern and Western cultures.
-- We can increase helping by using our theoretical knowledge about the factors that produce it. Our strategies can be based on using both self-concern and other-concern.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. complete the online “[Morality Test.](https://www.outofservice.com/morality/)” Write a brief reflection on the results of the test.
-2. Imagine that you knew someone who was ill and needed help. How would you frame your help to make him or her willing to accept it?
-3. Assume for a moment that you were in charge of creating an advertising campaign designed to increase people’s altruism. On the basis of your reading, what approaches might you take?
+- 利他的パーソナリティを持つ人など、他者より援助的な人がいる。
+- 援助のジェンダー差は、必要な援助の種類に依存する。男性は身体的強さが必要な状況で援助しやすく、女性は、特に親密な関係の中で、長期的な養育や世話を伴う状況で男性より援助しやすい。
+- 必要の大きさをどう知覚するかが重要である。自ら問題を引き起こしたように見える人や、自分で解決しようとあまり努力していないように見える人には、援助を少なくする傾向がある。
+- 場合によって援助は否定的結果を生む。依存志向的援助は、援助される人に、恥ずかしさや、自分が無能・依存的だと見られているという心配を生じさせることがある。自律志向的援助は受け入れられやすく、長期的により有益である。
+- 援助についての規範は、東洋文化と西洋文化の間など、文化によって異なる。
+- 援助を生み出す要因についての理論的知識を使えば、援助を増やすことができる。方略は、自己への関心と他者への関心の両方を利用できる。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Addis, M. E., & Mahalik, J. R. (2003). Men, masculinity, and the contexts of help seeking. *American Psychologist, 58*(1), 5–14.
+1. オンラインの「[Morality Test](https://www.outofservice.com/morality/)」を完了しなさい。結果について短い考察を書きなさい。
+2. 病気で援助を必要としている知人がいると想像しなさい。その人が援助を受け入れやすくなるよう、どのような形で援助を提示するだろうか。
+3. 人々の利他主義を高める広告キャンペーンを自分が担当すると仮定しなさい。本節の内容に基づき、どのような方法を採用するだろうか。
 
-Baron, J., & Miller, J. G. (2000). Limiting the scope of moral obligations to help: A cross-cultural investigation. *Journal of Cross-Cultural Psychology, 31*(6), 703–725.
+:::
 
-Batson, C. D., Oleson, K. C., Weeks, J. L., Healy, S. P., Reeves, P. J., Jennings, P., & Brown, T. (1989). Religious prosocial motivation: Is it altruistic or egoistic? *Journal of Personality and Social Psychology, 57*(5), 873–884.
+#### 参考文献
 
-Becker, S. W., & Eagly, A. H. (2004). The heroism of women and men. *American Psychologist, 59*(3), 163–178.
+Addis, M. E., & Mahalik, J. R. (2003). Men, masculinity, and the contexts of help seeking. _American Psychologist, 58_(1), 5–14.
 
-Benson, P. L., Donahue, M. J., & Erickson, J. A. (Eds.). (1989). Adolescence and religion: A review of the literature from 1970 to 1986. *Research in the Social Scientific Study of Religion, 1*, 153–181.
+Baron, J., & Miller, J. G. (2000). Limiting the scope of moral obligations to help: A cross-cultural investigation. _Journal of Cross-Cultural Psychology, 31_(6), 703–725.
 
-Bickman, L., & Kamzan, M. (1973). The effect of race and need on helping behavior. *Journal of Social Psychology, 89*(1), 73–77.
+Batson, C. D., Oleson, K. C., Weeks, J. L., Healy, S. P., Reeves, P. J., Jennings, P., & Brown, T. (1989). Religious prosocial motivation: Is it altruistic or egoistic? _Journal of Personality and Social Psychology, 57_(5), 873–884.
 
-Blaine, B., Crocker, J., & Major, B. (1995). The unintended negative consequences of sympathy for the stigmatized. *Journal of Applied Social Psychology, 25*(10), 889–905.
+Becker, S. W., & Eagly, A. H. (2004). The heroism of women and men. _American Psychologist, 59_(3), 163–178.
 
-Borman, W. C., Penner, L. A., Allen, T. D., & Motowidlo, S. J. (2001). Personality predictors of citizenship performance. *International Journal of Selection and Assessment, 9*(1–2), 52–69.
+Benson, P. L., Donahue, M. J., & Erickson, J. A. (Eds.). (1989). Adolescence and religion: A review of the literature from 1970 to 1986. _Research in the Social Scientific Study of Religion, 1_, 153–181.
 
-Brickman, P. (1982). Models of helping and coping. *American Psychologist, 37*(4), 368–384.
+Bickman, L., & Kamzan, M. (1973). The effect of race and need on helping behavior. _Journal of Social Psychology, 89_(1), 73–77.
 
-Carneiro, J. (2014). *How thousands of football fans are helping to save lives.* Retrieved from http://www.bbc.com/news/magazine-27632527
+Blaine, B., Crocker, J., & Major, B. (1995). The unintended negative consequences of sympathy for the stigmatized. _Journal of Applied Social Psychology, 25_(10), 889–905.
 
-Clary, E. G., Snyder, M., & Stukas, A. (1998). *Service-learning and psychology: Lessons from the psychology of volunteers’ motivations*. Washington, DC: American Psychological Association.
+Borman, W. C., Penner, L. A., Allen, T. D., & Motowidlo, S. J. (2001). Personality predictors of citizenship performance. _International Journal of Selection and Assessment, 9_(1–2), 52–69.
 
-Clary, E. G., Snyder, M., Ridge, R. D., Copeland, J., Stukas, A. A., Haugen, J., & Miene, P. (1998). Understanding and assessing the motivations of volunteers: A functional approach. *Journal of Personality and Social Psychology, 74*(6), 1516–1530.
+Brickman, P. (1982). Models of helping and coping. _American Psychologist, 37_(4), 368–384.
 
-Davis, M. H., Luce, C., & Kraus, S. J. (1994). The heritability of characteristics associated with dispositional empathy. *Journal of Personality, 62*(3), 369–391.
+Carneiro, J. (2014). _How thousands of football fans are helping to save lives._ Retrieved from http://www.bbc.com/news/magazine-27632527
 
-DePaulo, B. M., Brown, P. L., Ishii, S., & Fisher, J. D. (1981). Help that works: The effects of aid on subsequent task performance. *Journal of Personality and Social Psychology, 41*(3), 478–487.
+Clary, E. G., Snyder, M., & Stukas, A. (1998). _Service-learning and psychology: Lessons from the psychology of volunteers’ motivations_. Washington, DC: American Psychological Association.
 
-Dooley, P. A. (1995). Perceptions of the onset controllability of AIDS and helping judgments: An attributional analysis. *Journal of Applied Social Psychology, 25*(10), 858–869.
+Clary, E. G., Snyder, M., Ridge, R. D., Copeland, J., Stukas, A. A., Haugen, J., & Miene, P. (1998). Understanding and assessing the motivations of volunteers: A functional approach. _Journal of Personality and Social Psychology, 74_(6), 1516–1530.
 
-Eagly, A. H., & Becker, S. W. (2005). Comparing the heroism of women and men. *American Psychologist, 60*(4), 343–344.
+Davis, M. H., Luce, C., & Kraus, S. J. (1994). The heritability of characteristics associated with dispositional empathy. _Journal of Personality, 62_(3), 369–391.
 
-Eisenberg, N., Guthrie, I. K., Murphy, B. C., Shepard, S. A., Cumberland, A., & Carlo, G. (1999). Consistency and development of prosocial dispositions: A longitudinal study. *Child Development, 70*(6), 1360–1372.
+DePaulo, B. M., Brown, P. L., Ishii, S., & Fisher, J. D. (1981). Help that works: The effects of aid on subsequent task performance. _Journal of Personality and Social Psychology, 41_(3), 478–487.
 
-Furrow, J. L., King, P. E., & White, K. (2004). Religion and positive youth development: Identity, meaning, and prosocial concerns. *Applied Developmental Science, 8*(1), 17–26.
+Dooley, P. A. (1995). Perceptions of the onset controllability of AIDS and helping judgments: An attributional analysis. _Journal of Applied Social Psychology, 25_(10), 858–869.
 
-Grusec, J. E., Kuczynski, L., Rushton, J. P., & Simutis, Z. M. (1978). Modeling, direct instruction, and attributions: Effects on altruism. *Developmental Psychology, 14*(1), 51–57.
+Eagly, A. H., & Becker, S. W. (2005). Comparing the heroism of women and men. _American Psychologist, 60_(4), 343–344.
 
-Holmes, J. G., Miller, D. T., & Lerner, M. J. (2002). Committing altruism under the cloak of self-interest: The exchange fiction. *Journal of Experimental Social Psychology, 38*(2), 144–151.
+Eisenberg, N., Guthrie, I. K., Murphy, B. C., Shepard, S. A., Cumberland, A., & Carlo, G. (1999). Consistency and development of prosocial dispositions: A longitudinal study. _Child Development, 70_(6), 1360–1372.
 
-Kluegel, J. R., & Smith, E. R. (1986). *Beliefs about inequality: Americans’ views of what is and what ought to be*. Hawthorne, NY: Aldine de Gruyter.
+Furrow, J. L., King, P. E., & White, K. (2004). Religion and positive youth development: Identity, meaning, and prosocial concerns. _Applied Developmental Science, 8_(1), 17–26.
 
-Kraut, R. E. (1973). Effects of social labeling on giving to charity. *Journal of Experimental Social Psychology, 9*(6), 551–562.
+Grusec, J. E., Kuczynski, L., Rushton, J. P., & Simutis, Z. M. (1978). Modeling, direct instruction, and attributions: Effects on altruism. _Developmental Psychology, 14_(1), 51–57.
 
-Lerner, M. (1980). *The belief in a just world: A fundamental delusion*. New York, NY: Plenum.
+Holmes, J. G., Miller, D. T., & Lerner, M. J. (2002). Committing altruism under the cloak of self-interest: The exchange fiction. _Journal of Experimental Social Psychology, 38_(2), 144–151.
 
-Mansfield, A. K., Addis, M. E., & Mahalik, J. R. (2003). “Why won’t he go to the doctor?”: The psychology of men’s help seeking. *International Journal of Men’s Health, 2*(2), 93–109.
+Kluegel, J. R., & Smith, E. R. (1986). _Beliefs about inequality: Americans’ views of what is and what ought to be_. Hawthorne, NY: Aldine de Gruyter.
 
-Miller, J. G., Bersoff, D. M., & Harwood, R. L. (1990). Perceptions of social responsibilities in India and in the United States: Moral imperatives or personal decisions? *Journal of Personality and Social Psychology, 58*(1), 33–47.
+Kraut, R. E. (1973). Effects of social labeling on giving to charity. _Journal of Experimental Social Psychology, 9_(6), 551–562.
 
-Morgan, S. P. (1983). A research note on religion and morality: Are religious people nice people? *Social Forces, 61*(3), 683–692.
+Lerner, M. (1980). _The belief in a just world: A fundamental delusion_. New York, NY: Plenum.
 
-Nadler, A. (2002). Inter-group helping relations as power relations: Maintaining or challenging social dominance between groups through helping. *Journal of Social Issues, 58*(3), 487–502.
+Mansfield, A. K., Addis, M. E., & Mahalik, J. R. (2003). “Why won’t he go to the doctor?”: The psychology of men’s help seeking. _International Journal of Men’s Health, 2_(2), 93–109.
 
-Nadler, A. (Ed.). (1991). *Help-seeking behavior: Psychological costs and instrumental benefits*. Thousand Oaks, CA: Sage.
+Miller, J. G., Bersoff, D. M., & Harwood, R. L. (1990). Perceptions of social responsibilities in India and in the United States: Moral imperatives or personal decisions? _Journal of Personality and Social Psychology, 58_(1), 33–47.
 
-Nadler, A., & Halabi, S. (2006). Intergroup helping as status relations: Effects of status stability, identification, and type of help on receptivity to high-status group’s help. *Journal of Personality and Social Psychology, 91*(1), 97–110.
+Morgan, S. P. (1983). A research note on religion and morality: Are religious people nice people? _Social Forces, 61_(3), 683–692.
 
-Nadler, A., Fisher, J. D., & Itzhak, S. B. (1983). With a little help from my friend: Effect of single or multiple act aid as a function of donor and task characteristics. *Journal of Personality and Social Psychology, 44*(2), 310–321.
+Nadler, A. (2002). Inter-group helping relations as power relations: Maintaining or challenging social dominance between groups through helping. _Journal of Social Issues, 58_(3), 487–502.
 
-Omoto, A. M., & Snyder, M. (1995). Sustained helping without obligation: Motivation, longevity of service, and perceived attitude change among AIDS volunteers. *Journal of Personality and Social Psychology, 68*(4), 671–686.
+Nadler, A. (Ed.). (1991). _Help-seeking behavior: Psychological costs and instrumental benefits_. Thousand Oaks, CA: Sage.
 
-Penner, L. A. (2002). Dispositional and organizational influences on sustained volunteerism: An interactionist perspective. *Journal of Social Issues, 58*(3), 447–467.
+Nadler, A., & Halabi, S. (2006). Intergroup helping as status relations: Effects of status stability, identification, and type of help on receptivity to high-status group’s help. _Journal of Personality and Social Psychology, 91_(1), 97–110.
 
-Penner, L. A., Fritzsche, B. A., Craiger, J. P., & Freifeld, T. S. (1995). Measuring the prosocial personality. In J. Butcher & C. Speigelberger (Eds.), *Advances in personality assessment* (Vol. 10, pp. 147–163). Hillsdale, NJ: Lawrence Erlbaum.
+Nadler, A., Fisher, J. D., & Itzhak, S. B. (1983). With a little help from my friend: Effect of single or multiple act aid as a function of donor and task characteristics. _Journal of Personality and Social Psychology, 44_(2), 310–321.
 
-Perlow, L., & Weeks, J. (2002). Who’s helping whom? Layers of culture and workplace behavior. *Journal of Organizational Behavior, 23*(Spec. Issue), 345–361.
+Omoto, A. M., & Snyder, M. (1995). Sustained helping without obligation: Motivation, longevity of service, and perceived attitude change among AIDS volunteers. _Journal of Personality and Social Psychology, 68_(4), 671–686.
 
-Ratner, R. K., & Miller, D. T. (2001). The norm of self-interest and its effects on social action. *Journal of Personality and Social Psychology, 81*(1), 5–16.
+Penner, L. A. (2002). Dispositional and organizational influences on sustained volunteerism: An interactionist perspective. _Journal of Social Issues, 58_(3), 447–467.
 
-Shariff, A. F., & Norenzayan, A. (2007). God is watching you: Priming God concepts increases prosocial behavior in an anonymous economic game. *Psychological Science, 18*(9), 803–809.
+Penner, L. A., Fritzsche, B. A., Craiger, J. P., & Freifeld, T. S. (1995). Measuring the prosocial personality. In J. Butcher & C. Speigelberger (Eds.), _Advances in personality assessment_ (Vol. 10, pp. 147–163). Hillsdale, NJ: Lawrence Erlbaum.
 
-Skitka, L. J. (1999). Ideological and attributional boundaries on public compassion: Reactions to individuals and communities affected by a natural disaster. *Personality and Social Psychology Bulletin, 25*(7), 793–808.
+Perlow, L., & Weeks, J. (2002). Who’s helping whom? Layers of culture and workplace behavior. _Journal of Organizational Behavior, 23_(Spec. Issue), 345–361.
 
-Slovic, P. (2007). “If I look at the mass I will never act”: Psychic numbing and genocide. *Judgment and Decision Making, 2*(2), 79–95.
+Ratner, R. K., & Miller, D. T. (2001). The norm of self-interest and its effects on social action. _Journal of Personality and Social Psychology, 81_(1), 5–16.
 
-Snyder, M., & Omoto, A. M. (Eds.). (2004). *Volunteers and volunteer organizations: Theoretical perspectives and practical concerns*. San Francisco, CA: Jossey-Bass.
+Shariff, A. F., & Norenzayan, A. (2007). God is watching you: Priming God concepts increases prosocial behavior in an anonymous economic game. _Psychological Science, 18_(9), 803–809.
 
-Snyder, M., Omoto, A. M., & Crain, A. L. (1999). Punished for their good deeds: Stigmatization of AIDS volunteers. *American Behavioral Scientist, 42*(7), 1175–1192.
+Skitka, L. J. (1999). Ideological and attributional boundaries on public compassion: Reactions to individuals and communities affected by a natural disaster. _Personality and Social Psychology Bulletin, 25_(7), 793–808.
 
-Snyder, M., Omoto, A. M., & Lindsay, J. J. (Eds.). (2004). *Sacrificing time and effort for the good of others: The benefits and costs of volunteerism*. New York, NY: Guilford Press.
+Slovic, P. (2007). “If I look at the mass I will never act”: Psychic numbing and genocide. _Judgment and Decision Making, 2_(2), 79–95.
+
+Snyder, M., & Omoto, A. M. (Eds.). (2004). _Volunteers and volunteer organizations: Theoretical perspectives and practical concerns_. San Francisco, CA: Jossey-Bass.
+
+Snyder, M., Omoto, A. M., & Crain, A. L. (1999). Punished for their good deeds: Stigmatization of AIDS volunteers. _American Behavioral Scientist, 42_(7), 1175–1192.
+
+Snyder, M., Omoto, A. M., & Lindsay, J. J. (Eds.). (2004). _Sacrificing time and effort for the good of others: The benefits and costs of volunteerism_. New York, NY: Guilford Press.
