@@ -6,10 +6,10 @@
  * Runtime dependencies: none. This file uses only Node.js built-ins.
  *
  * Converts the complete book body from the full title page through Versioning History.
- * Default mode creates one Markdown file per top-level Pressbooks part/chapter,
- * plus title/copyright/contents/front matter/back matter pages.
- * `--mode sections` creates a chapter overview plus one page per numbered section,
- * while retaining the same surrounding book matter.
+ * Default mode creates a chapter overview plus one Markdown file per numbered
+ * subchapter/section (1.1, 1.2, etc.), while retaining title/copyright/contents,
+ * front matter, and back matter. `--mode chapters` is available if you ever want
+ * to combine each top-level chapter into a single Markdown file instead.
  */
 
 // @ts-ignore -- Node built-in; keeping this script self-contained even without @types/node.
@@ -103,8 +103,8 @@ function usage(exitCode = 1): never {
 
 Options:
   --mode chapters|sections
-      chapters (default): one Markdown file per top-level chapter.
-      sections: chapter overview pages plus one file per 1.1/1.2-style section.
+      sections (default): chapter overview pages plus one file per 1.1/1.2-style subchapter.
+      chapters: one Markdown file per top-level chapter.
       Both modes also include every book page from the full title page through
       Versioning History (copyright, contents, front matter, and back matter).
 
@@ -114,12 +114,12 @@ Options:
 
 Defaults:
   output-dir:   src/content/docs/social-psychology
-  mode:         chapters
+  mode:         sections
   route-prefix: inferred from output-dir
 
 Examples:
   node pressbooks-to-starlight.js book.html src/content/docs/social-psychology
-  node pressbooks-to-starlight.js book.html src/content/docs/social-psychology --mode sections
+  node pressbooks-to-starlight.js book.html src/content/docs/social-psychology --mode chapters
 `;
 
   (exitCode === 0 ? console.log : console.error)(text);
@@ -130,7 +130,7 @@ Examples:
 function parseArgs(argv: string[]): Options {
   const positional: string[] = [];
   let routePrefix: string | undefined;
-  let mode: Mode = 'chapters';
+  let mode: Mode = 'sections';
 
   for (let i = 0; i < argv.length; i++) {
     const arg = argv[i];
