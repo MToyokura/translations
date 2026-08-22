@@ -1,68 +1,65 @@
 ---
-title: "Accessibility Statement"
+title: "アクセシビリティ声明"
 sidebar:
   order: 4
 ---
-<a id="front-matter-accessibility-statement"></a>
+BCcampus Open Educationは、教育はすべての人が利用できるものでなければならないと考えています。そのため、無料で、オープンかつアクセシブルな教育リソースの制作を支援しています。私たちは、制作するリソースのアクセシビリティと使いやすさを向上させることに積極的に取り組んでいます。
 
+## このリソースのアクセシビリティ
 
-BCcampus Open Education believes that education must be available to everyone. This means supporting the creation of free, open, and accessible educational resources. We are actively committed to increasing the accessibility and usability of the resources we produce.
+*[社会心理学の原理―第1版国際H5P版](https://opentextbc.ca/socialpsychology/)* のウェブ版は、[Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG20/) のレベルAAを満たすよう設計されています。さらに、[*Accessibility Toolkit – 第2版*](https://opentextbc.ca/accessibilitytoolkit/) の [付録A：アクセシビリティ・チェックリスト](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) に記載されたすべてのガイドラインに従っています。具体的には、以下の特徴があります。
 
-## Accessibility of This Resource
+- **容易なナビゲーション**。このリソースにはリンク付きの目次があり、各章では見出しを使用して移動しやすくしています。
+- **アクセシブルな動画**。このリソースに含まれるすべての動画には字幕があります。
+- **アクセシブルな画像**。このリソースに含まれる情報を伝えるすべての画像には代替テキストがあります。装飾目的の画像には空の代替テキストが設定されています。
+- **アクセシブルなリンク**。すべてのリンクに、リンク先の内容が分かる説明的なリンクテキストを使用しています。
 
-The web version of *[Principles of Social Psychology – 1st International H5P Edition](https://opentextbc.ca/socialpsychology/)* has been designed to meet [Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG20/), level AA. In addition, it follows all guidelines in [Appendix A: Checklist for Accessibility](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) of the [*Accessibility Toolkit – 2nd Edition*](https://opentextbc.ca/accessibilitytoolkit/). It includes:
+*アクセシビリティ・チェックリスト*
 
-- **Easy navigation**. This resource has a linked table of contents and uses headings in each chapter to make navigation easy.
-- **Accessible videos**. All videos in this resource have captions.
-- **Accessible images**. All images in this resource that convey information have alternative text. Images that are decorative have empty alternative text.
-- **Accessible links**. All links use descriptive link text.
-
-*Accessibility Checklist*
-
-| Element | Requirements | Pass? |
+| 要素 | 要件 | 適合？ |
 | --- | --- | --- |
-| Headings | Content is organized under headings and subheadings that are used sequentially. | Yes |
-| Images | Images that convey information include alternative text descriptions. These descriptions are provided in the alt text field, in the surrounding text, or linked to as a long description. | Yes |
-| Images | Images and text do not rely on colour to convey information. | Yes |
-| Images | Images that are purely decorative or are already described in the surrounding text contain empty alternative text descriptions. (Descriptive text is unnecessary if the image doesn’t convey contextual content information.) | Yes |
-| Tables | Tables include row and/or column headers that have the correct scope assigned. | Yes |
-| Tables | Tables include a title or caption. | Yes |
-| Tables | Tables do not have merged or split cells. | No |
-| Tables | Tables have adequate cell padding. | Yes |
-| Links | The link text describes the destination of the link. | Yes |
-| Links | Links do not open new windows or tabs. If they do, a textual reference is included in the link text. | Yes |
-| **Links** | Links to files include the file type in the link text. | Yes |
-| Video | All videos include high-quality (i.e., not machine generated) captions of all speech content and relevant non-speech content. | No |
-| Video | All videos with contextual visuals (graphs, charts, etc.) are described audibly in the video. | Yes |
-| H5P | All H5P activities have been tested for accessibility by the H5P team and have passed their testing. | Yes |
-| H5P | All H5P activities that include images, videos, and/or audio content meet the accessibility requirements for those media types. | Yes |
-| Font | Font size is 12 point or higher for body text. | Yes |
-| Font | Font size is 9 point for footnotes or endnotes. | Yes |
-| Font | Font size can be zoomed to 200% in the webbook or eBook formats. | Yes |
+| 見出し | コンテンツが、順序に沿って使用された見出しおよび小見出しの下に整理されている。 | はい |
+| 画像 | 情報を伝える画像に代替テキストによる説明が含まれている。説明はaltテキスト欄、周囲の本文、または長い説明へのリンクとして提供されている。 | はい |
+| 画像 | 情報を伝えるために、画像やテキストが色だけに依存していない。 | はい |
+| 画像 | 純粋に装飾目的の画像、または周囲の本文ですでに説明されている画像には、空の代替テキストが設定されている。（画像が文脈上の情報を伝えていない場合、説明文は不要です。） | はい |
+| 表 | 表に、適切なscopeが設定された行見出しおよび／または列見出しが含まれている。 | はい |
+| 表 | 表にタイトルまたはキャプションが含まれている。 | はい |
+| 表 | 表に結合または分割されたセルがない。 | いいえ |
+| 表 | 表のセルに十分な余白が設定されている。 | はい |
+| リンク | リンクテキストがリンク先を説明している。 | はい |
+| リンク | リンクが新しいウィンドウやタブを開かない。開く場合は、そのことを示すテキストがリンクテキストに含まれている。 | はい |
+| **リンク** | ファイルへのリンクには、リンクテキストにファイル形式が含まれている。 | はい |
+| 動画 | すべての動画に、発話内容および関連する非発話内容について、高品質な（機械生成ではない）字幕が含まれている。 | いいえ |
+| 動画 | グラフやチャートなど、文脈上重要な視覚情報を含むすべての動画で、その内容が音声によって説明されている。 | はい |
+| H5P | すべてのH5Pアクティビティについて、H5Pチームによるアクセシビリティテストが実施され、合格している。 | はい |
+| H5P | 画像、動画、および／または音声コンテンツを含むすべてのH5Pアクティビティが、それぞれのメディア形式に関するアクセシビリティ要件を満たしている。 | はい |
+| フォント | 本文のフォントサイズが12ポイント以上である。 | はい |
+| フォント | 脚注または巻末注のフォントサイズが9ポイントである。 | はい |
+| フォント | ウェブブックまたは電子書籍形式で、フォントサイズを200%まで拡大できる。 | はい |
 
-## Known Accessibility Issues and Areas for Improvement
+## 既知のアクセシビリティ上の問題と改善点
 
-- Tables use merged cells but they have been structured to work properly with screen readers.
-- These videos do not have edited captions
-  - Video 2.1 [Funny Commercials](https://www.youtube.com/watch?v=_Km-2ecLrPo) uploaded by kin100.
-  - Video 2.2 [Bandura Discussing Clips From His Modeling Studies](https://www.youtube.com/watch?v=8ZXOp5PopIA) uploaded by Heath Kaplan.
+- 表では結合セルを使用していますが、スクリーンリーダーで適切に読み取れるよう構造化されています。
+- 以下の動画には編集済みの字幕がありません。
+  - 動画2.1 [Funny Commercials](https://www.youtube.com/watch?v=_Km-2ecLrPo)（kin100によるアップロード）
+  - 動画2.2 [Bandura Discussing Clips From His Modeling Studies](https://www.youtube.com/watch?v=8ZXOp5PopIA)（Heath Kaplanによるアップロード）
 
-## Let Us Know if You are Having Problems Accessing This Book
+## この教科書へのアクセスに問題がある場合はお知らせください
 
-We are always looking for ways to make our resources more accessible. If you have problems accessing this resource, please contact us to let us know so we can fix the issue.
+私たちは、リソースをよりアクセシブルにする方法を常に検討しています。このリソースへのアクセスに問題がある場合は、問題を修正できるよう、ぜひご連絡ください。
 
-Please include the following information:
+以下の情報をお知らせください。
 
-- The name of the resource
-- The location of the problem by providing a web address or page description.
-- A description of the problem
-- The computer, software, browser, and any assistive technology you are using that can help us diagnose and solve your issue (e.g., Windows 10, Google Chrome (Version 65.0.3325.181), NVDA screen reader)
+- リソースの名称
+- ウェブアドレスまたはページの説明による、問題が発生している場所
+- 問題の内容
+- 問題の診断と解決に役立つ、使用中のコンピューター、ソフトウェア、ブラウザ、および支援技術の情報（例：Windows 10、Google Chrome（バージョン65.0.3325.181）、NVDAスクリーンリーダー）
 
-You can contact us one of the following ways:
+以下のいずれかの方法でご連絡いただけます。
 
-- Web form: [BCcampus Open Ed Help](https://collection.bccampus.ca/contact/)
-- Web form: [Report an Error](https://open.bccampus.ca/browse-our-collection/reporting-an-error/)
+- ウェブフォーム：[BCcampus Open Ed Help](https://collection.bccampus.ca/contact/)
+- ウェブフォーム：[Report an Error](https://open.bccampus.ca/browse-our-collection/reporting-an-error/)
 
-This statement was last updated on October 27, 2022.
+この声明の最終更新日は2022年10月27日です。
 
-The Accessibility Checklist table was adapted from one originally created by the [Rebus Community](https://press.rebus.community/the-rebus-guide-to-publishing-open-textbooks/back-matter/accessibility-assessment/) and shared under a [CC BY 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+アクセシビリティ・チェックリストの表は、[Rebus Community](https://press.rebus.community/the-rebus-guide-to-publishing-open-textbooks/back-matter/accessibility-assessment/) が作成し、[CC BY 4.0ライセンス](https://creativecommons.org/licenses/by/4.0/) の下で公開したものをもとに改変しています。

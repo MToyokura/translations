@@ -1,24 +1,21 @@
 ---
-title: "Acknowledgments"
+title: "謝辞"
 sidebar:
   order: 7
 ---
-<a id="front-matter-acknowledgments"></a>
+## 改訂著者より
 
+まず、この教科書を執筆し、誰もが利用できるよう公開してくださった原著者Charles Stangor博士に、心より感謝いたします。私たち二人にとって、これほど読みやすく魅力的な教材に内容を加える作業は、とても楽しいものでした。また、Mary BurgessとClint LalondeをはじめとするBCcampusのOpen Educationチーム全体、とりわけ、このプロジェクトを最初から最後まで導いてくださったAmanda Coolidgeに感謝いたします。さらに、私たちが見落としていた書式や参考文献の誤りを発見してくださった編集者の皆様、作業を円滑にしてくれたPressbooksプラットフォームに多大な貢献をされたBrad Payne、そして原版について有益かつ詳細なレビューを寄せてくださったChris Montoya（Thompson Rivers University）、Dawn-Louise McLeod（Thompson Rivers University—Open Learning）、Jennifer Walinga（Royal Roads University）にも感謝いたします。
 
-## From the Adapting Authors
+Rajiv Jhangianiは、有益な助言と変わらぬ支援をしてくれたSurita Jhangiani（Capilano University & Justice Institute of British Columbia）、そしてこのプロセスを通じて大きな励みと尽きることのない喜びを与えてくれたKabir JhangianiとAahaan Jhangianiにも感謝いたします。
 
-First, we owe a great debt to the original author, Dr. Charles Stangor, for writing the textbook and making it available to all. We both enjoyed adding to such a readable and engaging resource. We are also grateful to the entire Open Education team at BCcampus, including Mary Burgess and Clint Lalonde, but especially Amanda Coolidge, who shepherded this project from start to finish. Thanks also to our editors for spotting the formatting and referencing errors that escaped our attention, to Brad Payne for his incredible work on the Pressbooks platform that facilitated our work, and to Chris Montoya (Thompson Rivers University), Dawn-Louise McLeod (Thompson Rivers University—Open Learning), and Jennifer Walinga (Royal Roads University) for their useful and detailed reviews of the original edition.
+Hammond Tarryもまた、愛情、支援、そして励ましを与えてくれた家族に感謝いたします。
 
-Rajiv Jhangiani would also like to thank Surita Jhangiani (Capilano University & Justice Institute of British Columbia) for her helpful suggestions and constant support, as well as Kabir and Aahaan Jhangiani, for providing great inspiration and endless joy during the entire process.
+## 原著者より
 
-Hammond Tarry would also like to thank his family for their love, support, and inspiration.
+この本は、多くの学生たちとの長年にわたる交流の成果であり、彼らなしには決して書かれることはありませんでした。ですから、まず、私の多くの素晴らしい学生たちに感謝します。また、とりわけMichael Boezi、Pam Hersperger、Becky Knauerには、その助力と支援に感謝いたします。
 
-## From the Original Author
-
-This book is the result of many years of interacting with many students, and it would never have been written without them. So thanks, first, to my many excellent students. Also a particular thanks to Michael Boezi, Pam Hersperger, and Becky Knauer for their help and support.
-
-I would also like to thank the following reviewers whose comprehensive feedback and suggestions for improving the material helped make this a better text:
+さらに、包括的なフィードバックと教材改善のための提案によって、この教科書をより良いものにしてくださった以下の査読者の皆様にも感謝いたします。
 
 - Mark Agars, California State University, San Bernadino
 - Sarah Allgood, Virginia Tech University

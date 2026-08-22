@@ -1,15 +1,12 @@
 ---
-title: "Adapting Authors' Notes"
+title: "改訂著者からの注記"
 sidebar:
   order: 9
 ---
-<a id="front-matter-about-the-adapted-edition"></a>
+この教科書の原版は、ブリティッシュコロンビア州の教員から好意的な評価を受けましたが、査読者からは、授業で採用できる状態にする前に対処すべきいくつかの領域や問題が指摘されました。具体的には、新しい研究や理論的発展を取り入れること、各章の冒頭にある逸話や現実世界の例を現代の学生にとってより身近なものに更新すること、より国際的な文脈を反映するよう例・参考文献・統計を変更すること、そして別々になっていた「社会的学習（Social Learning）」と「社会的感情（Social Affect）」の章を統合して一つの「社会的認知（Social Cognition）」の章とすることなどです。私たちは改訂作業を通じて、これらすべての問題への対応を試みました（ただし、より本質的な問題に集中するため、アメリカ式綴りはそのまま残しました）。さらに、原版に含まれていなかったいくつかの概念、理論、主要研究の概要を追加するなど、必要と考えたその他の変更や追加も行いました。最後に、学生がすぐに参照できるよう、各章の冒頭に学習目標の一覧を追加し、教科書の巻末には主要用語の用語集を追加しました。
 
-
-Although the original edition of this textbook was favourably reviewed by B.C. faculty, the reviewers noted several areas and issues that needed to be addressed before it was ready for adoption. These included incorporating new research and theoretical developments, updating the chapter opening anecdotes and real world examples to make them more relevant for contemporary students, changing examples, references, and statistics to reflect a more international context, and merging the separate chapters on “Social Learning” and “Social Affect” to create a single “Social Cognition” chapter. Over the course of our adaptation we attempted to address all of these issues (with the exception of American spelling, which was retained in order to focus on more substantive issues), while making other changes and additions we thought necessary, such as writing overviews of some concepts, theories, and key studies not included in the original edition. Finally, we added a list of learning objectives at the start of each chapter and a glossary of key terms at the end of the textbook as a quick-reference for students.
-
-We hope that our work enables more instructors to adopt this open textbook for their Social Psychology or related courses and we further invite you to build upon our work by modifying this textbook to suit your course and pedagogical goals.
+私たちは、この作業によって、より多くの教員が社会心理学または関連科目でこのオープン教科書を採用できるようになることを願っています。また、ご自身の授業や教育上の目標に合うよう、この教科書を改変し、私たちの成果をさらに発展させていただければ幸いです。
 
 Rajiv Jhangiani and Hammond Tarry
 
-August 2014
+2014年8月

@@ -1,15 +1,12 @@
 ---
-title: "About BCcampus Open Education"
+title: "BCcampus Open Educationについて"
 sidebar:
   order: 6
 ---
-<a id="front-matter-about-bccampus-open-education"></a>
+*[社会心理学の原理―第1版国際H5P版](https://opentextbc.ca/socialpsychology/)* は、BCcampus Open Educationの資金提供を受けて制作されました。
 
+[BCcampus Open Education](https://open.bccampus.ca/) は、オープン教科書やその他のOERを活用して学生の費用負担を軽減し、ブリティッシュコロンビア州の高等教育をより利用しやすいものにすることを目的として、2012年にB.C. Open Textbook Projectとして始まりました。[BCcampus](https://bccampus.ca/) は、ブリティッシュコロンビア州の高等教育機関が教育・学習実践を適応・発展させ、同州の学生に充実した学習機会を提供できるよう支援しています。BCcampus Open Educationは、[高等教育・将来技能省（Ministry of Post-Secondary Education and Future Skills）](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/post-secondary-education-and-future-skills) および [Hewlett Foundation](http://www.hewlett.org/) の資金提供を受けています。
 
-*[Principles of Social Psychology – 1st International H5P Edition](https://opentextbc.ca/socialpsychology/)* by was funded by BCcampus Open Education.
+オープン教育リソース（OER）とは、著作権者によって付与された許諾に基づき、他者が利用、配布、保持、または改変できる教育・学習・研究用のリソースです。私たちのオープン教科書には、[クリエイティブ・コモンズ・ライセンス](https://creativecommons.org/licenses/) によるオープンライセンスが付与されており、さまざまな電子書籍形式で無料提供されるほか、印刷版を実費で入手することもできます。
 
-[BCcampus Open Education](https://open.bccampus.ca/) began in 2012 as the B.C. Open Textbook Project with the goal of making post-secondary education in British Columbia more accessible by reducing students’ costs through the use of open textbooks and other OER. [BCcampus](https://bccampus.ca/) supports the post-secondary institutions of British Columbia as they adapt and evolve their teaching and learning practices to enable powerful learning opportunities for the students of B.C. BCcampus Open Education is funded by the [Ministry of Post-Secondary Education and Future Skills](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/post-secondary-education-and-future-skills) and the [Hewlett Foundation](http://www.hewlett.org/).
-
-Open educational resources (OER) are teaching, learning, and research resources that, through permissions granted by the copyright holder, allow others to use, distribute, keep, or make changes to them. Our open textbooks are openly licensed using a [Creative Commons licence](https://creativecommons.org/licenses/) and are offered in various eBook formats free of charge, or as printed books that are available at cost.
-
-For more information about open education in British Columbia, please visit the [BCcampus Open Education](https://open.bccampus.ca/) website. If you are an instructor who is using this book for a course, please fill out our [Adoption of an Open Textbook](https://open.bccampus.ca/use-open-textbooks/tell-us-youre-using-an-open-textbook/) form.
+ブリティッシュコロンビア州におけるオープン教育について詳しくは、[BCcampus Open Education](https://open.bccampus.ca/) のウェブサイトをご覧ください。この教科書を授業で使用している教員の方は、[Adoption of an Open Textbook](https://open.bccampus.ca/use-open-textbooks/tell-us-youre-using-an-open-textbook/) フォームへのご記入をお願いします。

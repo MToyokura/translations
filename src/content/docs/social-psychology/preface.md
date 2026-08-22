@@ -1,54 +1,51 @@
 ---
-title: "Preface"
+title: "序文"
 sidebar:
   order: 8
 ---
-<a id="front-matter-preface"></a>
+## 原著者による序文
 
+私が初めて社会心理学を教え始めたとき、この広大な分野に含まれるさまざまなトピックが、互いにどのように結びついているのかを理解するのに苦労しました。統合された原理や知識の体系を提示しているというより、アイデア、研究、現象をただ羅列しているように感じていたのです。当然ながら、私にとって難しかったことは、学生にとってはさらに難しいことでした。社会心理学者が研究するこれほど多くのトピックを、学生たちにどうすれば理解し、記憶してもらえるのでしょうか。そして、その中で何が最も重要なのかを、どうすれば判断できるのでしょうか。彼らの学習を構造化し、統合するための何かが必要でした。
 
-## Preface from Original Author
+しばらく時間がかかりましたが、やがて私は、自分の講義に欠けていたものが、社会心理学の基本原理に一貫して焦点を当てることだと気づきました。原理について考え、語るようになると、すべてがうまくつながり始めました。利他主義について講義する頃には、私がこれから何を話そうとしているのかを、ほとんどの学生がすでに理解していることに気づきました。興味深さを保つための多少の違いはあるとしても、利他主義も、それ以前の講義で扱った同調や対人知覚と同じ考え方、つまりその根底にある基本原理によって理解できることを、学生たちは分かっていたのです。彼らはまさに、社会心理学者のように考えていました。
 
-When I first started teaching social psychology, I had trouble figuring out how the various topics in this expansive field fit together. I felt like I was presenting a laundry list of ideas, research studies, and phenomena, rather than an integrated set of principles and knowledge. Of course, what was difficult for me was harder still for my students. How could they be expected to understand and remember all of the many topics that we social psychologists study? And how could they tell what was most important? Something was needed to structure and integrate their learning.
+私は、学生が社会心理学についての考えを概念的なレベルで整理できるようにするために、この本を書きました。5年後、あるいは10年後に、学生たちが2011年に発表された研究の細部を覚えているとは思いませんし、この本に掲載されている定義の大部分を覚えているとも思いません。しかし、いくつかの基本的な考え方については覚えていてほしいと思っています。なぜなら、そうした原理こそが、新しい状況を批判的に分析し、実際に知識を活用することを可能にするからです。
 
-It took me some time, but eventually, I realized that the missing piece in my lectures was a consistent focus on the basic principles of social psychology. Once I started thinking and talking about principles, then it all fell into place. I knew that when I got to my lecture on altruism, most of my students already knew what I was about to tell them. They understood that, although there were always some tweaks to keep things interesting, altruism was going to be understood using the same ideas that conformity and person perception had been in earlier lectures—in terms of the underlying fundamentals—they were truly thinking like social psychologists!
+したがって、この教科書は批判的思考のアプローチに基づいています。その目的は、学生に能動的かつ概念的に考えてもらうことであり、一本一本の木よりも森全体を見ることに重点を置いています。もちろん、正しい答えと間違った答えはあります。しかし、答えだけが重要なのではありません。それ以上に重要なのは、どのようにしてその答えにたどり着くのか、つまり思考のプロセスそのものかもしれません。学生が「ああ、そうか」と気づき、新しい考えが社会心理学の基本概念の中にぴたりと収まる瞬間を迎えたとき、私の試みは成功したといえます。
 
-I wrote this book to help students organize their thinking about social psychology at a conceptual level. Five or ten years from now, I do not expect my students to remember the details of a study published in 2011, or even to remember most of the definitions in this book. I do hope, however, that they will remember some basic ideas, for it is these principles that will allow them to critically analyze new situations and really put their knowledge to use.
+学生が社会心理学の全体像をよりよく理解できるようにし、また皆さんが講義を構成する際に利用できるテーマを提供するため、この教科書では各章を通じて一貫した教育方法を採用しています。私は、社会心理学にとって不可欠な二つの基本原理を中心に説明を構成しています。
 
-My text is therefore based on a critical thinking approach—its aim is to get students thinking actively and conceptually—with more of a focus on the forest than on the trees. Although there are right and wrong answers, the answers are not the only thing. What is perhaps even more important is how we get to those answers—the thinking process itself. My efforts are successful when my students have that “aha” moment, in which they find new ideas fitting snugly into the basic concepts of social psychology.
+1. 人と状況（古典的なアプローチ）
+2. 社会心理学のABC（*感情［affect］、行動［behavior］、認知［cognition］*）
 
-To help students better grasp the big picture of social psychology and to provide you with a theme that you can use to organize your lectures, my text has a consistent pedagogy across the chapters. I organize my presentation around two underlying principles that are essential to social psychology:
+また、議論の多くを、人間の二つの動機である *自己への関心（self-concern）* と *他者への関心（other-concern）* を軸に構成しています。これらの基本的な動機を、利他主義、攻撃、偏見、ジェンダー差、文化差など、さまざまな側面について議論する際の枠組みとして用いています。皆さんの教育方針に応じて、これらの視点を授業に取り入れてください。
 
-1. Person and situation (the classic treatment)
-2. The ABCs of social psychology (*affect, behavior*, and *cognition*)
+長年の教育経験を通じて、私はこれらの視点が基本的なものであり、極めて発見的な価値を持ち、学生に学び、記憶してもらいたい内容そのものであると確信するようになりました。この構成は、皆さんがすでに講義で行っていることを、より明示的に表したものだと感じられるかもしれません。私の教育方法には一貫性がありますが、それによって授業の自由が制限されるわけではありません。ある講義ではこれらの視点を多く用い、別の講義ではあまり用いないかもしれません。また、あるトピックでは有用でも、別のトピックではそれほど有用ではないかもしれません。それでも、必要になったときにはいつでも役立つでしょう。皆さんの授業を補強するため、適切だと思う方法で利用してください。
 
-I also frame much of my discussion around the two human motivations of *self-concern* and *other-concern*. I use these fundamental motivations to frame discussions on a variety of dimensions including altruism, aggression, prejudice, gender differences, and cultural differences. You can incorporate these dimensions into your teaching as you see fit.
+おそらく最も重要なのは、これらの視点に焦点を当てることで、教科書、学生たちの現実生活での経験、そして教室での講義との間にある隔たりを埋められることです。講義ですべての現象を扱うことはできないため、細部については当然、教科書に補ってもらうことになります。この本の目的は、学生が社会心理学の基礎、すなわち社会心理学の基本的な言語を教科書から身につけていると、皆さんが安心して考えられるようにすることです。その基礎の上に、皆さんが必要に応じて内容を積み上げていくことができます。そして、学んだことを現実生活に応用するよう学生に求めるとき、彼らは社会心理学者と同じように、基本となる枠組みを使ってそれを行うことができるでしょう。
 
-My years of teaching have convinced me that these dimensions are fundamental, that they are extremely heuristic, and that they are what I hope my students will learn and remember. I think that you may find that this organization represents a more explicit representation of what you’re already doing in your lectures. Although my pedagogy is consistent, it is not constraining. You will use these dimensions more in some lectures than in others, and you will find them more useful for some topics than others. But they will always work for you when you are ready for them. Use them to reinforce your presentation as you see fit.
+## 構成
 
-Perhaps most important, a focus on these dimensions helps us bridge the gap between the textbook, the real-life experiences of our students, and our class presentations. We can’t cover every phenomenon in our lectures—we naturally let the textbook fill in the details. The goal of my book is to allow you to rest assured that the text has provided your students with the foundations—the fundamental language of social psychology—from which you can build as you see fit. And when you turn to ask students to apply their learning to real life, you can know that they will be doing this as social psychologists do—using a basic underlying framework.
+本書は、低い分析レベルから高い分析レベルへと体系的に進んでいきます。これは、私の経験上、学生にとって理解しやすい方法です。ただし、章の順序に縛られる必要はありません。必要であれば別の順序で扱ってください。[第1章「社会心理学への導入」](/translations/social-psychology/01-introducing-social-psychology/) では社会心理学と社会心理学における研究方法を紹介し、[第2章「社会的認知」](/translations/social-psychology/02-social-cognition/) では社会的認知の基本原理を紹介します。それ以降の内容は三つの分析レベルを中心に構成されており、個人レベル（[第3章「自己」](/translations/social-psychology/03-the-self/) から [第5章「他者の知覚」](/translations/social-psychology/05-perceiving-others/)）、社会的相互作用のレベル（[第6章「影響と同調」](/translations/social-psychology/06-influencing-and-conforming/) から [第9章「攻撃」](/translations/social-psychology/09-aggression/)）、そして集団・文化レベル（[第10章「作業集団：パフォーマンスと意思決定」](/translations/social-psychology/10-working-groups-performance-and-decision-making/) から [第12章「私たちの社会世界における競争と協力」](/translations/social-psychology/12-competition-and-cooperation-in-our-social-worlds/)）へと体系的に進みます。
 
-## Organization
+応用的な教材を「モジュール」や「付録」として別に設けるのではなく、この教科書では応用概念を本文そのものに組み込んでいます。この方法は、学生が社会心理学者のように考えることを学べば、その知識をあらゆる応用場面に容易かつ自然に適用できるという私の基本的な考え方と一致しています。以下のような応用テーマが、本書全体に組み込まれています。
 
-The text moves systematically from lower to higher levels of analysis—a method that I have found makes sense to students. On the other hand, the chapter order should not constrain you—choose a different order if you wish. [Chapter 1 “Introducing Social Psychology”](/translations/social-psychology/01-introducing-social-psychology/) presents an introduction to social psychology and the research methods in social psychology, [Chapter 2 “Social Cognition”](/translations/social-psychology/02-social-cognition/) presents the fundamental principles of social cognition. The remainder of the text is organized around three levels of analysis, moving systematically from the individual level ([Chapter 3 “The Self](/translations/social-psychology/03-the-self/)” through [Chapter 5 “Perceiving Others”](/translations/social-psychology/05-perceiving-others/)), to the level of social interaction ([Chapter 6 “Influencing and Conforming”](/translations/social-psychology/06-influencing-and-conforming/) through [Chapter 9 “Aggression”](#part-aggression-3)), to the group and cultural level ([Chapter 10 “Working Groups: Performance and Decision Making”](/translations/social-psychology/10-working-groups-performance-and-decision-making/) through [Chapter 12 “Competition and Cooperation in Our Social Worlds”](/translations/social-psychology/12-competition-and-cooperation-in-our-social-worlds/)).
+- ビジネスと消費者行動（たとえば、マーケティングと説得については [第4章「態度、行動、説得」](/translations/social-psychology/04-attitudes-behavior-and-persuasion/)、集団の意思決定については [第10章「作業集団：パフォーマンスと意思決定」](/translations/social-psychology/10-working-groups-performance-and-decision-making/) を参照）
+- 健康と行動（たとえば、帰属スタイルについては [第5章「他者の知覚」](/translations/social-psychology/05-perceiving-others/) を参照）
+- 法律（たとえば、目撃証言については [第2章「社会的認知」](/translations/social-psychology/02-social-cognition/)、テロリズムについては [第9章「攻撃」](/translations/social-psychology/09-aggression/) を参照）
 
-Rather than relying on “modules” or “appendices” of applied materials, my text integrates applied concepts into the text itself. This approach is consistent with my underlying belief that if students learn to think like social psychologists they will easily and naturally apply that knowledge to any and all applications. The following applications are woven throughout the text:
+## 教育方法
 
-- Business and consumer behavior (see, for instance, [Chapter 4 “Attitudes, Behavior, and Persuasion](/translations/social-psychology/04-attitudes-behavior-and-persuasion/)” on marketing and persuasion and [Chapter 10 “Working Groups: Performance and Decision Making”](/translations/social-psychology/10-working-groups-performance-and-decision-making/) on group decision making)
-- Health and Behavior (see, for instance, [Chapter 5 “Perceiving Others”](/translations/social-psychology/05-perceiving-others/) on attributional styles)
-- Law (see, for instance, [Chapter 2 “Social Cognition”](/translations/social-psychology/02-social-cognition/) on eyewitness testimony and [Chapter 9 “Aggression”](#part-aggression-3) on Terrorism)
+『社会心理学の原理』には、学生が社会心理学の多様なトピックについて能動的かつ統合的な理解を深め、社会心理学者のように考えられるよう支援するための、さまざまな教育上の工夫が含まれています。
 
-## Pedagogy
+## 研究の焦点
 
-Principles of Social Psychology contains a number of pedagogical features designed to help students develop an active, integrative understanding of the many topics of social psychology and to think like social psychologists.
+研究はもちろん社会心理学の中心であり、「研究の焦点」では、特定の研究または研究プログラムについて詳細な情報を提供します。古典的研究と現代的研究を組み合わせ、興味深さと教育上の有用性の両方を重視して選びました。研究結果は本文の流れの中に組み込まれており、見出しと薄い網掛けによって強調されています。
 
-## Research Foci
+## 公共の利益のための社会心理学
 
-Research is of course the heart of social psychology, and the research foci provide detailed information about a study or research program. I’ve chosen a mix of classic and contemporary research, with a focus on both what’s interesting and what’s pedagogical. The findings are part of the running text—simply highlighted with a heading and light shading.
+社会心理学の研究成果が学生の関心を引く大きな理由の一つは、それらが日常生活の経験と非常に直接的に結びついていることです。「公共の利益のための社会心理学」という特集では、こうしたつながりをさらに強調しています。扱われるテーマには、「高い自尊心は幸福やその他の肯定的な結果をもたらすのか？」（[第3章「自己」](/translations/social-psychology/03-the-self/)）、「欺瞞を見抜く」（[第5章「他者の知覚」](/translations/social-psychology/05-perceiving-others/)）、「道具的攻撃としてのテロリズム」（[第9章「攻撃」](/translations/social-psychology/09-aggression/)）、「学校におけるステレオタイプ脅威」（[第11章「ステレオタイプ、偏見、差別」](/translations/social-psychology/11-stereotypes-prejudice-and-discrimination/)）などがあります。ここでの目的は、こうした応用的なテーマを関連する概念の議論の中に組み込み、説明の文脈の中で学生がより豊かな理解を得られるようにすることです。
 
-## Social Psychology in the Public Interest
+## 社会心理学者のように考える
 
-Social psychological findings interest students in large part because they relate so directly to everyday experience. The Social Psychology in the Public Interest Feature reinforces these links. Topics include Does High Self-Esteem Cause Happiness or Other Positive Outcomes? ([Chapter 3 “Self”](/translations/social-psychology/03-the-self/)), Detecting Deception ([Chapter 5 “Perceiving Others”](/translations/social-psychology/05-perceiving-others/)), Terrorism as Instrumental Aggression ([Chapter 9 “Aggression”](/translations/social-psychology/09-aggression/)), and Stereotype Threat in Schools ([Chapter 11 “Stereotypes, Prejudice, and Discrimination”](/translations/social-psychology/11-stereotypes-prejudice-and-discrimination/)). The goal here is to include these applied topics within the relevant conceptual discussions to provide students with a richer understanding within the context of the presentation.
-
-## Thinking Like a Social Psychologist
-
-Each chapter ends with a section that summarizes how the material presented in the chapter can help the student think about contemporary issues using social psychological principles. This section is designed to work with the chapter summary to allow a better integration of fundamental concepts.
+各章の最後には、その章で扱った内容を使って、学生が社会心理学の原理に基づいて現代の問題をどのように考えられるかをまとめたセクションがあります。このセクションは章のまとめと連動し、基本概念をよりよく統合できるよう設計されています。

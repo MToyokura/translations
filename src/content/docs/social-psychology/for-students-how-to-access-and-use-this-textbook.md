@@ -1,44 +1,41 @@
 ---
-title: "For Students: How to Access and Use this Textbook"
+title: "学生向け：この教科書へのアクセス方法と利用方法"
 sidebar:
   order: 5
 ---
-<a id="front-matter-for-students-how-to-access-and-use-this-textbook"></a>
+この教科書は、以下の形式で利用できます。
 
+- **オンライン・ウェブブック**。Chrome、Firefox、Edge、Safariのいずれかのブラウザを使用して、コンピューターまたはモバイル端末からオンラインで読むことができます。
+- **PDF**。コンピューターで読むためのPDF（Digital PDF）としてダウンロードしたり、印刷用PDF（Print PDF）として印刷したりできます。
+- **モバイル**。スマートフォンやタブレットでこの教科書を読みたい場合は、EPUB（eReader）ファイルを利用できます。
+- **HTML**。HTMLファイルはブラウザで開くことができます。スタイル設定がほとんどないため見た目はあまり整っていませんが、人によっては便利に利用できるでしょう。
 
-This textbook is available in the following formats:
+この教科書のアクセシビリティについて詳しくは、「アクセシビリティ声明」を参照してください。
 
-- **Online webbook**. You can read this textbook online on a computer or mobile device in one of the following browsers: Chrome, Firefox, Edge, and Safari.
-- **PDF**. You can download this book as a PDF to read on a computer (Digital PDF) or print it out (Print PDF).
-- **Mobile**. If you want to read this textbook on your phone or tablet, you can use the EPUB (eReader) file.
-- **HTML**. An HTML file can be opened in a browser. It has very little style so it doesn’t look very nice, but some people might find it useful.
+オンライン・ウェブブックへのアクセス、および各形式の無料ダウンロードはこちらから行えます：*[社会心理学の原理―第1版国際H5P版](https://opentextbc.ca/socialpsychology/)*。別の形式で本書をダウンロードするには、「Download this book」のドロップダウンメニューを探し、希望するファイル形式を選択してください。
 
-For more information about the accessibility of this textbook, see the Accessibility Statement.
+*各形式はどのように利用できますか？*
 
-You can access the online webbook and download any of the formats for free here: *[Principles of Social Psychology – 1st International H5P Edition](https://opentextbc.ca/socialpsychology/)*. To download the book in a different format, look for the “Download this book” drop-down menu and select the file type you want.
-
-*How can I use the different formats?*
-
-| Format | Internet required? | Device | Required apps | Accessibility Features | Screen reader compatible |
+| 形式 | インターネット接続が必要？ | 端末 | 必要なアプリ | アクセシビリティ機能 | スクリーンリーダー対応 |
 | --- | --- | --- | --- | --- | --- |
-| Online webbook | Yes | Computer, tablet, phone | An Internet browser (Chrome, Firefox, Edge, or Safari) | WCAG 2.0 AA compliant, option to enlarge text, and compatible with browser text-to-speech tools | Yes |
-| PDF | No | Computer, print copy | Adobe Reader (for reading on a computer) or a printer | Ability to highlight and annotate the text. If reading on the computer, you can zoom in. | Unsure |
-| EPUB | No | Computer, tablet, phone | An eReader app | Option to enlarge text, change font style, size, and colour. | Unsure |
-| HTML | No | Computer, tablet, phone | An Internet browser (Chrome, Firefox, Edge, or Safari) | WCAG 2.0 AA compliant and compatible with browser text-to-speech tools. | Yes |
+| オンライン・ウェブブック | はい | コンピューター、タブレット、スマートフォン | インターネットブラウザ（Chrome、Firefox、Edge、Safari） | WCAG 2.0 AA準拠、文字拡大機能、ブラウザのテキスト読み上げツールに対応 | はい |
+| PDF | いいえ | コンピューター、印刷物 | Adobe Reader（コンピューターで読む場合）またはプリンター | テキストのハイライトや注釈が可能。コンピューターで読む場合は拡大表示も可能 | 不明 |
+| EPUB | いいえ | コンピューター、タブレット、スマートフォン | eReaderアプリ | 文字の拡大、フォントの種類・サイズ・色の変更が可能 | 不明 |
+| HTML | いいえ | コンピューター、タブレット、スマートフォン | インターネットブラウザ（Chrome、Firefox、Edge、Safari） | WCAG 2.0 AA準拠、ブラウザのテキスト読み上げツールに対応 | はい |
 
-## Tips for Using This Textbook
+## この教科書を利用する際のヒント
 
-- **Search the textbook**.
-  - If using the online webbook, you can use the search bar in the top right corner to search the entire book for a key word or phrase. To search a specific chapter, open that chapter and use your browser’s search feature by hitting **\[Cntr\] + \[f\]** on your keyboard if using a Windows computer or **\[Command\] + \[f\]** if using a Mac computer.
-  - The **\[Cntr\] + \[f\]** and **\[Command\] + \[f\]** keys will also allow you to search a PDF, HTML, and EPUB files if you are reading them on a computer.
-  - If using an eBook app to read this textbook, the app should have a built-in search tool.
-- **Navigate the textbook**.
-  - This textbook has a table of contents to help you navigate through the book easier. If using the online webbook, you can find the full table of contents on the book’s homepage or by selecting “Contents” from the top menu when you are in a chapter.
-- **Annotate the textbook**.
-  - If you like to highlight or write on your textbooks, you can do that by getting a print copy, using the Digital PDF in Adobe Reader, or using the highlighting tools in eReader apps.
+- **教科書内を検索する**。
+  - オンライン・ウェブブックを利用している場合、右上の検索バーを使って、キーワードや語句を本全体から検索できます。特定の章だけを検索する場合は、その章を開き、Windowsコンピューターではキーボードの **\[Cntr\] + \[f\]**、Macでは **\[Command\] + \[f\]** を押して、ブラウザの検索機能を使用してください。
+  - コンピューターでPDF、HTML、EPUBファイルを読んでいる場合も、**\[Cntr\] + \[f\]** または **\[Command\] + \[f\]** を使って検索できます。
+  - 電子書籍アプリを使用してこの教科書を読む場合、通常はアプリに検索ツールが組み込まれています。
+- **教科書内を移動する**。
+  - この教科書には、内容を簡単に移動できるよう目次が用意されています。オンライン・ウェブブックを利用している場合は、本のホームページで目次全体を確認するか、各章を開いているときに上部メニューから「Contents」を選択できます。
+- **教科書に注釈を付ける**。
+  - 教科書にハイライトを付けたり書き込みをしたりしたい場合は、印刷版を使用する、Adobe ReaderでDigital PDFを利用する、またはeReaderアプリのハイライト機能を利用することができます。
 
-## Webbook vs. All Other Formats
+## ウェブブックとその他の形式の違い
 
-The webbook includes 25 interactive H5P activities. If you are not using the webbook to access this textbook, you will see a non-interactive version of the activity instead. To access the interactive version, open the webbook in your browser and find the chapter that the activity appears in: *[Principles of Social Psychology – 1st International H5P Edition](https://opentextbc.ca/socialpsychology/)*.
+ウェブブックには、25個のインタラクティブなH5Pアクティビティが含まれています。この教科書をウェブブック以外の形式で利用している場合は、代わりに非インタラクティブ版のアクティビティが表示されます。インタラクティブ版を利用するには、ブラウザでウェブブックを開き、そのアクティビティが掲載されている章を探してください：*[社会心理学の原理―第1版国際H5P版](https://opentextbc.ca/socialpsychology/)*。
 
-If you decide to use a PDF or a print copy to access the textbook, you can access the webbook and download any other formats at any time.
+PDFまたは印刷版でこの教科書を利用することにした場合でも、いつでもウェブブックにアクセスし、その他の形式をダウンロードできます。

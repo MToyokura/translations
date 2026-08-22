@@ -39,7 +39,7 @@ export function socialPsychologySidebar() {
   );
   const frontMatter = other.filter((item) => !backMatter.includes(item));
   return [
-    { label: "Contents and front matter", collapsed: true, items: frontMatter },
+    { label: "目次と前付け", collapsed: true, items: frontMatter },
     ...items,
     { label: "Back matter", collapsed: true, items: backMatter },
   ];
