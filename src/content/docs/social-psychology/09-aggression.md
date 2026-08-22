@@ -1,68 +1,69 @@
 ---
-title: "Chapter 9. Aggression"
+title: "第9章 攻撃"
 sidebar:
   order: 58
 ---
-:::note[Chapter Learning Objectives]
 
-1. Defining Aggression
+:::note[章の学習目標]
 
-- Define aggression and violence as social psychologists do.
-- Differentiate emotional from instrumental aggression.
+1. 攻撃の定義
 
-2. The Biological and Emotional Causes of Aggression
+- 社会心理学者が用いる意味で、攻撃と暴力を定義する。
+- 感情的攻撃と道具的攻撃を区別する。
 
-- Explain how aggression might be evolutionarily adaptive.
-- Describe how different parts of the brain influence aggression.
-- Summarize the effects of testosterone and serotonin on aggression.
+2. 攻撃の生物学的・感情的原因
 
-3. The Violence around Us: How the Social Situation Influences Aggression
+- 攻撃が進化的にどのように適応的でありうるかを説明する。
+- 脳のさまざまな部位が攻撃へどのように影響するかを説明する。
+- テストステロンとセロトニンが攻撃へ与える影響を要約する。
 
-- Review the situational variables that increase and decrease aggression.
-- Explain the different effects of reward, punishment, and modeling on aggression.
-- Review the influences of viewing violent behavior on aggression and explain why these effects might occur.
+3. 私たちを取り巻く暴力：社会的状況が攻撃に与える影響
 
-4. Personal and Cultural Influences on Aggression
+- 攻撃を増加・減少させる状況変数を概観する。
+- 報酬、罰、モデリングが攻撃へ与える異なる影響を説明する。
+- 暴力行動を見ることが攻撃へ与える影響を概観し、その影響がなぜ生じる可能性があるかを説明する。
 
-- Summarize the individual difference variables related to aggression.
-- Explain how men and women differ, on average, in terms of aggression.
-- Give examples of some cultural differences in aggression.
+4. 攻撃に対する個人的・文化的影響
+
+- 攻撃に関連する個人差変数を要約する。
+- 攻撃という点で、平均的に男性と女性がどのように異なるかを説明する。
+- 攻撃に見られる文化差の例をいくつか挙げる。
 
 :::
 
-## Star Striker Banned for Biting (Again)
+## スター・ストライカー、噛みつき（再び）で出場停止
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/5813585992_13c1326004_b.jpg)
 
-*Figure 9.1 Luis Suarez.*
+_図9.1 Luis Suarez。_
 
-On June 24, 2014, Luis Suarez, Uruguay’s star football player, was representing his country in a group-stage match against Italy at the FIFA World Cup. The match was still tied at 0-0 when, in the 79th minute, Suarez appeared to intentionally bite the shoulder of Giorgio Chiellini, the Italian defender. Chiellini immediately alerted the officials to the act while Suarez, who fell to the ground, appeared to indicate an injury to his teeth. At the time, the attention of the match officials was focused on other players closer to the soccer ball, and so they did not notice the bite and play continued. Two minutes later, Uruguay scored the only goal of the match, which took them through to the knockout stage of the World Cup while sending Italy, the 2006 champions, crashing out.
+2014年6月24日、Uruguay のスター・サッカー選手 Luis Suarez は、FIFA World Cup のグループステージで Italy と対戦し、母国を代表していた。試合は0対0のまま迎えた79分、Suarez は Italy のディフェンダー Giorgio Chiellini の肩へ意図的に噛みついたように見えた。Chiellini はただちに審判へ行為を訴えた一方、地面へ倒れた Suarez は、自分の歯を負傷したかのようなそぶりを見せた。当時、審判団の注意はボールに近い別の選手たちへ向いていたため、噛みつきに気づかず、試合は続行された。その2分後、Uruguay がこの試合唯一のゴールを決め、World Cup の決勝トーナメント進出を決めた一方、2006年王者 Italy は敗退した。
 
-Suarez and the Uruguayan management initially denied the bite only for the striker to later apologize on Twitter, admitting that “the truth is that my colleague Giorgio Chiellini suffered the physical result of a bite in the collision he suffered with me.” FIFA’s disciplinary committee found Suarez guilty and banned him from playing soccer for four months and nine competitive internationals—the longest-ever ban imposed on a player at the World Cup.
+Suarez と Uruguay のチーム運営側は当初、噛みつき行為を否定した。しかしその後、Suarez は Twitter で謝罪し、「実際のところ、同僚 Giorgio Chiellini は、私との接触の中で噛みつかれたことによる身体的な結果を受けた」と認めた。FIFA の懲戒委員会は Suarez を有罪と判断し、4か月間のサッカー活動禁止と、代表公式戦9試合の出場停止処分を科した。これは World Cup で選手に科された史上最長の出場停止処分だった。
 
-Although some fans were tempted to explain Suarez’s actions in terms of his passion and the pressure of a World Cup match, interestingly, Suarez had twice before been banned for biting players on the pitch, when playing for Dutch club Ajax and English Premier club Liverpool. As a result, FIFA was determined to impose a relatively harsh punishment. The ban meant that Suarez would miss Uruguay’s round of 16 match against Colombia in the World Cup, a match that Uruguay lost 0-2.
+一部のファンは、Suarez の行動を、彼の情熱や World Cup の試合で受けるプレッシャーによって説明したくなったかもしれない。しかし興味深いことに、Suarez はそれ以前にも、Dutch club Ajax と English Premier club Liverpool でプレーしていた際、ピッチ上で相手選手へ噛みついたとして2度出場停止処分を受けていた。そのため FIFA は、比較的重い処分を科すことを決めた。この出場停止により、Suarez は World Cup のラウンド16、Colombia 戦へ出場できず、Uruguay はこの試合に0対2で敗れた。
 
-Despite all this, Suarez received a hero’s welcome when he returned to Uruguay, where the country’s president and the national media considered that he had been made a scapegoat.
+こうした出来事にもかかわらず、Suarez が Uruguay へ帰国すると英雄のような歓迎を受けた。同国の大統領や国内メディアは、彼がスケープゴートにされたと考えていた。
 
-Source: [World Cup over for Suarez after record ban for biting](https://www.reuters.com/article/us-soccer-world-suarez-idUSKBN0F11K320140627)
+出典：[World Cup over for Suarez after record ban for biting](https://www.reuters.com/article/us-soccer-world-suarez-idUSKBN0F11K320140627)
 
-If you go to the movies tonight, you may choose to see a violent film, in which you may view depictions of assaults, kidnappings, murders, rapes, wars, or executions. If you turn on the TV or surf the Internet, you’ll likely see news reports of the real thing—more assaults, kidnappings, murders, rapes, wars, and executions. We also suffer more directly from aggression in our everyday life. When we get in our cars we may become the victim of aggressive driving by other drivers, or we may play violent video games that involve—well, more murder and killing. Even relaxing by watching sports on TV will lead us to see violence, as football players purposely kick and trip one another and hockey players start violent fistfights. Although there is evidence to suggest that human violence has steadily declined over the centuries (adjusting for population growth; Pinker, 2011), we certainly live in a world in which violence—be it terrorism, war, rape, child abuse, or even bullying—occurs with uncomfortable frequency (Dutton, Boyanowsky, & Bond, 2005).
+今夜映画館へ行くなら、暴力的な映画を選ぶかもしれない。その中では、暴行、誘拐、殺人、レイプ、戦争、処刑などが描かれているかもしれない。テレビをつけたりインターネットを見たりすれば、おそらく現実に起きた同様の出来事――さらに多くの暴行、誘拐、殺人、レイプ、戦争、処刑――を伝えるニュースを見ることになる。私たちは日常生活でも、より直接的に攻撃の被害を受ける。自動車へ乗れば他の運転者による攻撃的運転の被害者になることがあり、暴力的なビデオゲームをすれば――やはり――殺人や殺害へ関与する。テレビでスポーツを見てくつろいでいるだけでも、サッカー選手が意図的に互いを蹴ったり足をかけたりし、ホッケー選手が激しい殴り合いを始めるのを見ることになる。人口増加を調整すると、人間の暴力は何世紀にもわたり着実に減少してきたことを示す証拠はあるものの (Pinker, 2011)、テロ、戦争、レイプ、児童虐待、さらにはいじめまで、不快なほど頻繁に暴力が起きる世界で私たちが暮らしていることは確かである (Dutton, Boyanowsky, & Bond, 2005)。
 
-Although we have argued that people are generally caring toward others—that they have a basic desire to accept, care for, and help them—the violent events that surround us present a problem for this assumption. If people are generally good and care about others so much, then how could anyone possibly kill another human being, let alone participate in a suicide bombing or even genocide? Do aggressive events mean that people are naturally aggressive, violent, and hostile—or are they unusual events, shaped more by particularly extreme social situations that do not reflect the normal character of human beings?
+これまで、人は一般に他者を思いやり、受け入れ、気遣い、助けたいという基本的欲求を持つと論じてきた。しかし私たちを取り巻く暴力的出来事は、この仮定へ問題を突きつける。もし人が概して善良で、それほど他者を気遣っているのなら、どうして別の人間を殺すことができるのだろうか。まして、自爆攻撃や大量虐殺へ参加することなど、どうして可能なのだろうか。攻撃的な出来事は、人が本来的に攻撃的、暴力的、敵対的であることを意味するのだろうか。それとも、人間の通常の性質を反映しない、特に極端な社会的状況によって形づくられた異例の出来事なのだろうか。
 
-We will answer these questions by considering the underlying principles of aggression—in terms of affect, cognition, and behavior, and in terms of the general goals of protecting the self and reaching out to others. (In this case, however, it is the former goal that prevails.) Aggression is wired into the deepest and oldest parts of our brain and yet is stimulated and controlled by social, situational, and cultural variables. In this chapter, we will study the causes of aggression and make some suggestions for how we might be able to reduce it. Most importantly, we will see that—consistent with our analysis of human behavior more generally—aggression is not so much about the goal of harming others as it is about the goal of protecting the self.
+これらの問いには、感情、認知、行動という観点から、また自己を守ることと他者へ手を差し伸べることという一般的目標の観点から、攻撃の根底にある原理を考えることで答えていく（ただしこの場合には、前者の目標が優勢である）。攻撃は、脳の最も深く、最も古い部分に組み込まれているが、同時に社会的、状況的、文化的変数によって刺激され、統制される。本章では攻撃の原因を研究し、それを減らすために何ができるかについていくつか提案する。最も重要なのは、人間行動一般についてのこれまでの分析と一致するように、攻撃は他者を傷つけるという目標そのものより、自己を守るという目標に深く関わっていることを見る点である。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/9.2aggression.png)
 
-*Figure 9.2. When they feel that their self-concept is threatened, humans may engage in aggressive behavior.*
+_図9.2 自己概念が脅かされていると感じると、人間は攻撃行動をとることがある。_
 
-## References
+## 参考文献
 
 Dutton, D. G., Boyanowsky, E. O., & Bond, M. H. (2005). Extreme mass homicide: From military massacre to genocide. Aggression and Violent Behavior, 10 (4), 437
 
-Pinker, S. (2011). *The better angels of our nature: Why violence has declined.* New York: Viking.
+Pinker, S. (2011). _The better angels of our nature: Why violence has declined._ New York: Viking.
 
-## Media Attributions
+## メディアの帰属表示
 
 - “[Luis Suarez celebrates his Gol to put Uruguay 1 – Netherlands 0 – Take 2 | 110608-6714-jikatu](https://www.flickr.com/photos/jikatu/5813585992/)” by [Jimmy Baikovicius](https://www.flickr.com/photos/jikatu/) is licensed under a [CC BY-SA 2.0 licence.](https://creativecommons.org/licenses/by-sa/2.0/)<br />
 - “[Mahmoud Ahmadinejad at Columbia 4 by David Shankbone](https://commons.wikimedia.org/wiki/File:Mahmoud_Ahmadinejad_at_Columbia_4_by_David_Shankbone.jpg)” by [David Shankbone](https://en.wikipedia.org/wiki/David_Shankbone) is licensed under a [CC BY-SA 3.0 licence.](https://creativecommons.org/licenses/by-sa/3.0/deed.en)<br />

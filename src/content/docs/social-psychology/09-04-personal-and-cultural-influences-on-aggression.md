@@ -1,184 +1,185 @@
 ---
-title: "9.4 Personal and Cultural Influences on Aggression"
+title: "9.4 攻撃に対する個人的・文化的影響"
 sidebar:
   order: 62
 ---
-:::note[Learning Objectives]
 
-1. Summarize the individual difference variables related to aggression.
-2. Explain how men and women differ, on average, in terms of aggression.
-3. Give examples of some cultural differences in aggression.
+:::note[学習目標]
+
+1. 攻撃に関連する個人差変数を要約する。
+2. 攻撃という点で、平均的に男性と女性がどのように異なるかを説明する。
+3. 攻撃に見られる文化差の例をいくつか挙げる。
 
 :::
 
-The occurrence of aggression is still another example of the interaction between person variables and situation variables. Although the social situation is extremely important, it does not influence everyone equally—not all people become aggressive when they view violence. You may be able to watch a lot of violent television and play a lot of violent video games without ever being aggressive yourself. On the other hand, other people may not be so lucky—remember that, *on average*, watching violence *does* increase aggression. Just as we may know some people who smoked cigarettes all their lives but never got lung cancer, I would still not recommend that anyone start smoking. The problem is that we don’t know if we are going to be affected until it is too late.
+攻撃が生じることも、人物変数と状況変数の相互作用を示す一例である。社会的状況は極めて重要だが、誰にでも同じように影響するわけではない。暴力を見たすべての人が攻撃的になるわけではない。大量の暴力的テレビ番組を見たり、暴力的ビデオゲームを大量にしたりしても、自分自身は一度も攻撃的にならない人もいるだろう。一方、他の人はそれほど幸運ではないかもしれない。暴力を見ることは、*平均すれば*攻撃を*増加させる*ことを思い出してほしい。一生たばこを吸い続けても肺がんにならなかった人を知っていることがあっても、だからといって誰かへ喫煙を始めるよう勧めることはないだろう。問題は、影響を受けるかどうかは手遅れになるまで分からないという点である。
 
-Let’s consider in this section the personality variables that are known to relate to aggression and how these variables may interact with the influence of the social situation.
+この節では、攻撃と関連することが知られている性格変数と、それらが社会的状況の影響とどのように相互作用する可能性があるかを考えよう。
 
-## Individual Differences in Aggression
+## 攻撃の個人差
 
-Aggression occurs when we feel that we are being threatened by others, and thus personality variables that relate to perceived threat also predict aggression. Aggression is particularly likely among people who feel that they are being rejected by others whom they care about (Downey, Irwin, Ramsay, & Ayduk, 2004). In addition, people who experience a lot of negative affect, and particularly those who tend to perceive others as threatening, are likely to be aggressive (Crick & Dodge, 1994). When these people see behavior that may or may not be hostile in intent, they tend to perceive it as aggressive, and these perceptions can increase their aggression.
+攻撃は、他者から脅かされていると感じるときに生じるため、知覚された脅威と関連する性格変数も攻撃を予測する。自分が大切にしている他者から拒絶されていると感じる人では、攻撃が特に起こりやすい (Downey, Irwin, Ramsay, & Ayduk, 2004)。また、否定的感情を多く経験する人、とりわけ他者を脅威として知覚しやすい人は、攻撃的になりやすい (Crick & Dodge, 1994)。こうした人は、敵意があるともないとも取れる行動を目にしたとき、それを攻撃的なものとして知覚する傾向があり、その知覚が自分自身の攻撃を増加させることがある。
 
-People also differ in their general attitudes toward the appropriateness of using violence. Some people are simply more likely to believe in the value of using aggression as a means of solving problems than are others. For many people, violence is a perfectly acceptable method of dealing with interpersonal conflict, and these people are more aggressive (Anderson, 1997; Dill, Anderson, & Deuser, 1997). The social situation that surrounds people also helps determine their beliefs about aggression. Members of youth gangs find violence to be acceptable and normal (Baumeister, Smart, & Boden, 1996), and membership in the gang reinforces these beliefs. For these individuals, the important goals are to be respected and feared, and engaging in violence is an accepted means to this end (Horowitz & Schwartz, 1974).
+暴力を使うことの適切さについての一般的態度にも個人差がある。問題を解決する手段として攻撃を使うことには価値があると、他の人より信じやすい人もいる。多くの人にとって、暴力は対人葛藤へ対処する完全に受け入れられる方法であり、そのような人はより攻撃的である (Anderson, 1997; Dill, Anderson, & Deuser, 1997)。人を取り巻く社会的状況も、攻撃についての信念を決定する助けとなる。若者の gang の成員は暴力を受け入れられる普通のものと見なし (Baumeister, Smart, & Boden, 1996)、gang への所属がその信念を強化する。こうした人々にとって重要な目標は、尊敬され、恐れられることであり、暴力へ関与することはその目的を達成するために受け入れられた手段である (Horowitz & Schwartz, 1974)。
 
-Perhaps you believe that people with low self-esteem would be more aggressive than those with high self-esteem. In fact, the opposite is true. Research has found that individuals with inflated or unstable self-esteem are more prone to anger and are highly aggressive when their high self-image is threatened (Kernis, Brockner, & Frankel, 1989; Baumeister et al., 1996). For instance, classroom bullies are those who always want to be the center of attention, who think a lot of themselves, and who cannot take criticism (Salmivalli & Nieminen, 2002). It appears that these people are highly motivated to protect their inflated self-concepts and react with anger and aggression when it is threatened.
+自尊心の低い人のほうが、自尊心の高い人より攻撃的だと思うかもしれない。しかし実際には逆である。研究では、誇張された、または不安定な自尊心を持つ人は怒りやすく、自分についての高いイメージが脅かされると非常に攻撃的になることが明らかになっている (Kernis, Brockner, & Frankel, 1989; Baumeister et al., 1996)。たとえば教室のいじめっ子は、常に注目の中心でいたがり、自分を高く評価し、批判を受け入れられない人である (Salmivalli & Nieminen, 2002)。こうした人は、膨らんだ自己概念を守ることへ強く動機づけられており、それが脅かされると怒りと攻撃で反応するようである。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/1bd57aa793cbd7d40823c44e324844b4-1.jpg)
 
-*Figure 9.11 Self-Perceptions, Aggression, and Altruism*
+_図9.11 自己知覚、攻撃、利他主義_
 
-Children who saw themselves, and who were seen by peers, as having self-concerned motives were more aggressive and less altruistic than were children who were rated as more caring of others. Data are from Salmivalli et al. (2005).
+自分自身を自己への関心を持つ動機が強いと見なし、仲間からもそのように見られていた子どもは、他者をより気遣うと評価された子どもより攻撃的で、利他的でなかった。データは Salmivalli et al. (2005) に基づく。
 
-Underlying these observed individual differences in aggression are the fundamental motives of self-concern and other-concern. Salmivalli, Ojanen, Haanpaa, and Peets (2005) asked fifth- and sixth-grade children to complete a number of measures describing themselves and their preferred relationships with others. In addition, each of the children was given a roster of the other students in their class and was asked to check off the names of the children who were most aggressive and most helpful. As you can see in Figure 9.11, “Self-Perceptions, Aggression, and Altruism,” the underlying personality orientations of the children influenced how they were perceived by their classmates, and in a way that fits well with our knowledge about the role of self-concern and other-concern. Children who rated goals of self-concern highly (agreeing that it was important, for instance, that “others respect and admire me”) were more likely to be rated as acting aggressively, whereas children for whom other-concern was seen as more important (agreeing with statements such as “I feel close to others”) were more likely to be seen as altruistic.
+こうした攻撃の個人差の根底には、自己への関心と他者への関心という基本的動機がある。Salmivalli, Ojanen, Haanpaa, and Peets (2005) は、小学5・6年生の子どもに、自分自身と、他者との望ましい関係を記述する複数の尺度へ回答させた。さらに各児童には、同じクラスの他の児童の名簿が渡され、最も攻撃的な子どもと最も援助的な子どもの名前へ印をつけるよう求められた。図9.11「自己知覚、攻撃、利他主義」から分かるように、子どもの根底にある性格的方向づけは、クラスメートからどのように知覚されるかへ影響し、そのパターンは自己への関心と他者への関心の役割についての知識とよく一致していた。自己への関心の目標を高く評価した子ども（たとえば「他の人が私を尊敬し、称賛すること」が重要だと同意する子ども）は、攻撃的に行動すると評価されやすかった。一方、他者への関心をより重要だと見る子ども（「他者と親しさを感じる」などの文へ同意する子ども）は、より利他的だと見られやすかった。
 
-### Gender Differences in Aggression
+### 攻撃におけるジェンダー差
 
-Given what we know about the tendency toward self-enhancement and a desire for status, you will not be surprised to learn that there is a universal tendency for men to be more violent than women (Archer & Coyne, 2005; Crick & Nelson, 2002). In comparison to women and girls, who use more nonphysical and relational aggression such as shouting, insulting, spreading rumors, and excluding others from activities, men and boys prefer more physical and violent aggression—behaviors such as hitting, pushing, tripping, and kicking (Österman et al., 1998).
+自己高揚の傾向や地位への欲求について分かっていることを考えれば、男性のほうが女性より暴力的であるという普遍的傾向があると知っても驚かないだろう (Archer & Coyne, 2005; Crick & Nelson, 2002)。女性や女子は、怒鳴る、侮辱する、うわさを広める、活動から他者を排除するなど、非身体的・関係性攻撃をより多く使うのに対し、男性や男子は、殴る、押す、足をかける、蹴るなど、より身体的で暴力的な攻撃を好む (Österman et al., 1998)。
 
-Strong gender differences in aggression have been found in virtually every culture that has been studied. Worldwide, about 99% of rapes are committed by men, as are about 90% of robberies, assaults, and murders (Graham & Wells, 2001). Among children, boys show higher rates of physical aggression than girls do (Loeber & Hay, 1997), and even infants differ, such that infant boys tend to show more anger and poorer emotional regulation in comparison to infant girls. These findings will probably not surprise you because aggression, as we have seen, is due in large part to desires to gain status in the eyes of others, and (on average) men are more concerned about this than are women.
+攻撃における強いジェンダー差は、研究されてきたほぼすべての文化で見つかっている。世界全体で、レイプの約99%は男性によって行われ、強盗、暴行、殺人も約90%が男性による (Graham & Wells, 2001)。子どもでは、男子は女子より身体的攻撃の割合が高く (Loeber & Hay, 1997)、乳児でさえ違いが見られ、男児は女児より怒りを多く示し、感情調節がうまくない傾向がある。こうした知見はおそらく驚きではない。これまで見てきたように、攻撃は他者の目から見た地位を得たいという欲求によって大きく生じ、平均すれば男性のほうが女性よりそれを重視するからである。
 
-Although these gender differences exist, they do not mean that men and women are completely different, or that women are never aggressive. Both men and women respond to insults and provocation with aggression. In fact, the differences between men and women are smaller after they have been frustrated, insulted, or threatened (Bettencourt & Miller, 1996). And men and women seem to use similar amounts of verbal aggression (Graham & Wells, 2001).
+こうしたジェンダー差が存在するとしても、男性と女性が完全に異なるという意味でも、女性が決して攻撃的でないという意味でもない。男性も女性も、侮辱や挑発へ攻撃で反応する。実際、欲求不満にさせられたり、侮辱されたり、脅されたりした後には、男女差は小さくなる (Bettencourt & Miller, 1996)。また、男性と女性が使う言語的攻撃の量は似ているようである (Graham & Wells, 2001)。
 
-Gender differences in violent aggression are likely caused in part by hormones. Testosterone, which exists at higher levels in boys and men, plays a significant role in aggression, and this is in part responsible for these differences. And the observed gender differences in aggression are almost certainly due, in part, to evolutionary factors. During human evolution, women primarily stayed near the home, taking care of children and doing the cooking, whereas men engaged in more aggressive behaviors, such as defense, hunting, and fighting. Thus men probably learned to aggress, in part, because successfully fulfilling their duties required them to be aggressive. In addition, there is an evolutionary tendency for males to be more competitive with each other in order to gain status. Men who have high social status are more attractive to women, and having status allows them to attract the most desirable, attractive, and healthy mates (Buss & Shackelford, 1997).
+暴力的攻撃におけるジェンダー差は、部分的にはホルモンによって引き起こされている可能性が高い。男子・男性でより高い水準にあるテストステロンは攻撃で重要な役割を果たし、それがこうした差の一因となっている。また、観察される攻撃のジェンダー差には、ほぼ確実に進化的要因も部分的に関与している。人類の進化の過程では、女性は主に住居の近くにとどまり、子どもの世話や調理を行った一方、男性は防衛、狩猟、戦闘など、より攻撃的な行動へ従事した。したがって男性は、役割をうまく果たすため攻撃的である必要があったことから、部分的に攻撃することを学んだ可能性がある。さらに、地位を得るため男性同士がより競争的になる進化的傾向もある。社会的地位の高い男性は女性にとってより魅力的であり、地位を持つことで、最も望ましく、魅力的で、健康な配偶相手を惹きつけることができる (Buss & Shackelford, 1997)。
 
-But gender differences are not entirely determined by biology and evolution; many of these differences are the result of social learning. Imagine for a moment that 10-year-old Jean comes home from school and tells her father that she got in a big fight at school. How do you think he would respond to her? Now, imagine that her twin brother, Jake, comes home and reports the same thing. I think you can imagine that the father’s response would be different in this case. Boys are more likely to be reinforced for being aggressive than are girls. Aggressive boys are often the most popular children in elementary schools (Rodkin, Farmer, Pearl, & Van Acker, 2000) because they can use their aggressiveness to gain and maintain social status. On the other hand, girls who successfully use nonphysical or relational aggression may also gain social benefits.
+しかしジェンダー差は、生物学と進化だけで決まるわけではない。こうした差の多くは社会的学習の結果でもある。10歳の Jean が学校から帰宅し、学校で大げんかをしたと父親へ話したと想像してみよう。父親は彼女へどのように反応すると思うだろうか。次に、双子の兄弟 Jake が帰宅し、同じことを報告したと想像してみよう。この場合、父親の反応が異なることは想像できるだろう。男子は女子より、攻撃的であることについて強化を受けやすい。攻撃的な男子は小学校で最も人気のある子どもであることも多い (Rodkin, Farmer, Pearl, & Van Acker, 2000)。攻撃性を使って社会的地位を得て維持できるからである。一方、非身体的または関係性攻撃をうまく使う女子も、社会的利益を得る場合がある。
 
-Eagly and her colleagues have proposed that gender differences in aggression stem primarily from social norms and expectations about the appropriate roles of men and women (Eagly, 1987; Eagly & Wood, 1991). Eagly notes that in many nations, women are expected to have more highly developed other-oriented attributes, such as friendliness and emotional expressivity, and that when women do aggress, they use aggression as a means of expressing anger and reducing stress. Men, on the other hand, are socialized to value more self-oriented attributes, such as independence and assertiveness, and they are more likely to use aggression to attain social or material rewards (Campbell, Muncer, & Gorman, 1993). One meta-analysis found that participants were more likely to indicate that men, rather than women, would and should engage in the most aggressive behaviors (Eagly & Steffen, 1986).
+Eagly と同僚は、攻撃におけるジェンダー差は主として、男性と女性の適切な役割についての社会規範と期待から生じると提案した (Eagly, 1987; Eagly & Wood, 1991)。Eagly は、多くの国で女性には、友好性や感情表出性など、他者志向の属性がより発達していることが期待され、女性が攻撃する場合には、怒りを表現しストレスを減らす手段として攻撃を使うと指摘する。一方、男性は独立性や自己主張性など、より自己志向の属性を重視するよう社会化され、社会的または物質的報酬を得るため攻撃を使う可能性が高い (Campbell, Muncer, & Gorman, 1993)。あるメタ分析では、最も攻撃的な行動を行うのは女性より男性であり、また男性がそうした行動を行うべきだと参加者が回答する可能性が高かった (Eagly & Steffen, 1986)。
 
-### Cultural and Societal Differences in Aggression
+### 攻撃における文化差・社会差
 
-The United States continues to be an extremely violent country, much more so than other countries that are similar to it in many ways, such as Canada, Australia, New Zealand, and the Western European countries. On the other hand, other countries in Eastern Europe, Africa, Asia, and South America have more violence than does the United States. These differences show that cultures vary dramatically in how, and how much, their members aggress against each other.
+United States は現在も極めて暴力的な国であり、Canada、Australia、New Zealand、西欧諸国など、多くの点で類似した国々よりはるかに暴力が多い。一方、Eastern Europe、Africa、Asia、South America の他の国々の中には、United States より暴力が多い国もある。こうした違いは、文化によって、成員が互いにどのように、またどの程度攻撃するかが劇的に異なることを示している。
 
-When children enter a violent culture such as that of the United States, they may be socialized to be even more violent. In a study of students at a high school near Detroit, Michigan, Souweidane and Huesmann (1999) found that the children who had been born in the United States were more accepting of aggression than were children who had emigrated from the Middle East, especially if they did so after the age of 11. And in a sample of Hispanic schoolchildren in Chicago, children who had been in the United States longer showed greater approval of aggression (Guerra, Huesmann, & Zelli, 1993).
+United States のような暴力的文化へ子どもが入ると、さらに暴力的になるよう社会化される可能性がある。Michigan 州 Detroit 近郊の高校生を対象とした研究で、Souweidane and Huesmann (1999) は、United States 生まれの子どものほうが Middle East から移住してきた子どもより攻撃を受け入れやすいことを明らかにした。その差は、11歳を過ぎてから移住した子どもで特に大きかった。また Chicago の Hispanic の学童サンプルでは、United States での居住期間が長い子どもほど攻撃へ強く賛成していた (Guerra, Huesmann, & Zelli, 1993)。
 
-In addition to differences across cultures, there are also regional differences in the incidences of violence—for example, in different parts of the United States. The Research Focus below describes one of these differences—variations in *a social norm that condones and even encourages responding to insults with aggression*, known as the **culture of honor**.
+文化間の差に加えて、暴力の発生率には地域差もある。たとえば United States の異なる地域でも差が見られる。以下の「研究フォーカス」では、その違いの一つ――侮辱へ攻撃で反応することを容認し、さらには奨励する社会規範である*名誉の文化（culture of honor）*の差――を説明する。
 
-#### Research Focus
+#### 研究フォーカス
 
-The Culture of Honor
+##### 名誉の文化
 
-In the United States, the homicide rate is significantly higher in the southern and western states but lower in the eastern and northern states. One explanation for these differences is in terms of variation in cultural norms about the appropriate reactions to threats against one’s social status. These cultural differences apply primarily to men; some men react more violently than others when they believe that others are threatening them. The social norm that condones and even encourages responding to insults with aggression (the culture of honor) leads even relatively minor conflicts or disputes to be seen as challenges to one’s social status and reputation and can therefore trigger aggressive responses. The culture of honor is more prevalent in areas that are closer to the equator, including the southern parts of the United States.
+United States では、殺人率が南部・西部の州で有意に高く、東部・北部の州では低い。この違いの一つの説明は、自分の社会的地位への脅威にどう反応するのが適切かについて、文化規範が異なるというものである。この文化差は主として男性へ当てはまる。他者が自分を脅していると信じたとき、一部の男性は他の男性より暴力的に反応する。侮辱へ攻撃で反応することを容認し、さらには奨励する社会規範（名誉の文化）によって、比較的小さな対立や争いでさえ自分の社会的地位や評判への挑戦として見られ、そのため攻撃反応が引き起こされることがある。名誉の文化は、United States 南部を含め、赤道へ近い地域でより一般的である。
 
-In one series of experiments (Cohen, Nisbett, Bosdle, & Schwarz, 1996), researchers investigated how White male students who had grown up either in the northern or in the southern regions of the United States responded to insults (Figure 9.12). The experiments, which were conducted at the University of Michigan (located in the northern United States), involved an encounter in which the research participant was walking down a narrow hallway. The experimenters enlisted the help of a confederate who did not give way to the participant but who rather bumped into the participant and insulted him. Compared with northerners, students from the south who had been bumped were more likely to think that their masculine reputations had been threatened, exhibited greater physiological signs of being upset, had higher testosterone levels, engaged in more aggressive and dominant behavior (gave firmer handshakes), and were less willing to yield to a subsequent confederate.
+一連の実験 (Cohen, Nisbett, Bosdle, & Schwarz, 1996) で、研究者は United States の北部または南部で育った White の男子学生が、侮辱へどのように反応するかを調べた（図9.12）。実験は United States 北部に位置する University of Michigan で行われ、研究参加者が狭い廊下を歩いているところで出来事が起きるよう設定された。実験者は協力者を用意し、この協力者は参加者へ道を譲らず、むしろ参加者へぶつかって侮辱した。北部出身者と比べ、ぶつかられた南部出身の学生は、自分の男性としての評判が脅かされたと考えやすく、動揺を示す生理学的徴候が大きく、テストステロン水準が高く、より攻撃的・支配的な行動（より強い握手）を示し、その後に出会う別の協力者へ道を譲ろうとしにくかった。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/26ce4b428a42312891c6585ab4333799-1.jpg)
 
-*Figure 9.12. Students from southern states expressed more anger and had greater levels of testosterone after being insulted than did students from northern states (Cohen, Nisbett, Bosdle, & Schwarz, 1996).*
+_図9.12 南部州出身の学生は、北部州出身の学生より、侮辱された後に強い怒りを表し、テストステロン水準も高かった (Cohen, Nisbett, Bosdle, & Schwarz, 1996)。_
 
-In another test of the impact of culture of honor, Cohen and Nisbett (1997) sent letters to employers all over the United States from a fictitious job applicant who admitted having been convicted of a felony. To half the employers, the applicant reported that he had impulsively killed a man who had been having an affair with his fiancée and then taunted him about it in a crowded bar. To the other half, the applicant reported that he had stolen a car because he needed the money to pay off debts. Employers from the south and the west, places in which the culture of honor is strong, were more likely than employers in the north and east to respond in an understanding and cooperative way to the letter from the convicted killer, but there were no cultural differences for the letter from the auto thief.
+名誉の文化の影響を調べた別の研究で、Cohen and Nisbett (1997) は、重罪で有罪判決を受けたことを認める架空の求職者からの手紙を United States 各地の雇用主へ送った。雇用主の半数には、婚約者と不倫していた男性から混雑したバーでそのことを嘲笑されたため、衝動的にその男性を殺したと応募者が説明した。残りの半数には、借金を返すため金が必要だったので自動車を盗んだと説明した。名誉の文化が強い南部・西部の雇用主は、北部・東部の雇用主より、有罪となった殺人者からの手紙へ理解的・協力的に反応しやすかった。一方、自動車泥棒からの手紙については文化差がなかった。
 
-A culture of honor, in which defending the honor of one’s reputation, family, and property is emphasized, may be a risk factor for school violence. More students from culture-of-honor states (i.e., southern and western states) reported having brought a weapon to school in the past month than did students from non-culture-of-honor states (i.e., northern and eastern states). Furthermore, over a 20-year period, culture-of-honor states had more than twice as many school shootings per capita as non-culture-of-honor states, suggesting that acts of school violence may be a response of defending one’s honor in the face of perceived social humiliation (Brown, Osterman, & Barnes, 2009).
+自分の評判、家族、財産の名誉を守ることが重視される名誉の文化は、学校暴力のリスク要因となる可能性がある。名誉の文化を持つ州（すなわち南部・西部州）の生徒は、名誉の文化を持たない州（北部・東部州）の生徒より、過去1か月に学校へ武器を持ってきたと報告する割合が高かった。さらに20年間では、名誉の文化を持つ州の人口当たり学校銃撃事件数は、名誉の文化を持たない州の2倍を超えていた。このことは、学校暴力が、社会的屈辱を受けたと知覚した際に自分の名誉を守る反応である可能性を示唆する (Brown, Osterman, & Barnes, 2009)。
 
-One possible explanation for regional differences in the culture of honor involves the kind of activities typically engaged in by men in the different regions (Nisbett & Cohen, 1996). While people in the northern parts of the United States were usually farmers who grew crops, people from southern climates were more likely to raise livestock. Unlike the crops grown by the northerners, the herds were mobile and vulnerable to theft, and it was difficult for law enforcement officials to protect them. To be successful in an environment where theft was common, a man had to build a reputation for strength and toughness, and this was accomplished by a willingness to use swift, and sometimes violent, punishment against thieves. Areas in which livestock raising is more common also tend to have higher status disparities between the wealthiest and the poorest inhabitants (Henry, 2009). People with low social status are particularly likely to feel threatened when they are insulted and are particularly likely to retaliate with aggression.
+名誉の文化の地域差を説明する一つの可能性は、それぞれの地域で男性が伝統的に行ってきた活動の種類に関係する (Nisbett & Cohen, 1996)。United States 北部の人々は通常、作物を育てる農民だった一方、南部の気候に暮らす人々は家畜を飼育することが多かった。北部の作物と異なり、家畜の群れは移動でき、盗まれやすく、法執行機関がそれを守るのは難しかった。盗難が一般的な環境で成功するには、男性は強さとタフさについての評判を築かなければならず、それは泥棒へ迅速で、ときには暴力的な罰を与える意志を示すことで達成された。家畜飼育がより一般的な地域は、最も裕福な住民と最も貧しい住民との地位格差も大きい傾向がある (Henry, 2009)。社会的地位の低い人は、侮辱されると特に脅威を感じやすく、攻撃で報復しやすい。
 
-In summary, as in virtually every case, a full understanding of the determinants of aggression requires taking a person-situation approach. Although biology, social learning, the social situation, and culture are all extremely important, we must keep in mind that none of these factors alone predicts aggression but that they work together to do so. For instance, we have seen that testosterone predicts aggressive behavior. But this relationship is stronger for people with low socioeconomic status than for those with higher socioeconomic status (Dabbs & Morris, 1990). And children who have a genetic predisposition to aggression are more likely to become aggressive if they are abused as children (Caspi et al., 2002). It seems that biological factors may predispose us to aggression, but that social factors act as triggers—a classic example of interactionism at work.
+まとめると、ほぼすべての場合と同様に、攻撃の規定因を完全に理解するには人物‐状況アプローチを取る必要がある。生物学、社会的学習、社会的状況、文化はいずれも極めて重要だが、これらのどの要因も単独で攻撃を予測するのではなく、互いに協働して攻撃を予測することを忘れてはならない。たとえば、テストステロンが攻撃行動を予測することを見てきた。しかしこの関係は、社会経済的地位が高い人より低い人で強い (Dabbs & Morris, 1990)。また攻撃への遺伝的素因を持つ子どもは、幼少期に虐待を受けると攻撃的になる可能性が高い (Caspi et al., 2002)。生物学的要因は私たちを攻撃へ向かいやすくする一方、社会的要因が引き金として働くようであり、相互作用論が働く典型的な例である。
 
-#### Social Psychology in the Public Interest
+#### 公共の利益のための社会心理学
 
-##### Preventing Violence
+##### 暴力を予防する
 
-The social psychological study of aggression represents a classic example of the conundrum faced by social psychologists: Although we have developed a good understanding of the causes of aggression—and that understanding gets clearer every day—what exactly to do about it is an even more difficult question. Human aggression has remained with us since the beginning of time, and it is difficult to imagine that it is going to disappear soon.
+攻撃についての社会心理学的研究は、社会心理学者が直面する難問の典型例である。攻撃の原因についてかなり理解できるようになり、その理解は日々明確になっている。しかし、それについて具体的に*何をするか*という問いは、さらに難しい。人間の攻撃は歴史の始まりから私たちとともにあり、それがすぐに消えるとは想像しにくい。
 
-Stopping the cycle of violence that characterizes so many families, neighborhoods, cities, and countries will not be easy. On the other hand, if we are serious about it, then we have a good idea where to begin to try to make a difference, because the principles that we have discussed in this chapter form a foundation both for understanding the causes of violence and for potentially reducing it. One thing that is certain is that reducing the prevalence of violence must involve changes in cognitions and emotions, as well as behavior. Also, this work must begin with children of very young ages, before aggressive behaviors, thoughts, and feelings become so well developed that they are difficult to change (Zigler, Taussig, & Black, 1992).
+多くの家庭、地域、都市、国家を特徴づける暴力の連鎖を止めることは容易ではない。一方、本気で取り組むなら、どこから変化を生み出し始めるべきかについてはかなり分かっている。本章で検討してきた原理が、暴力の原因を理解するためだけでなく、それを減らす可能性の基盤にもなるからである。確かなことの一つは、暴力の蔓延を減らすには、行動だけでなく認知と感情の変化も必要だという点である。また、攻撃行動、攻撃的思考、攻撃的感情が十分に発達しすぎて変えにくくなる前、非常に幼い年齢の子どもから取り組みを始めなければならない (Zigler, Taussig, & Black, 1992)。
 
-With increasing life experiences, our schemas about the world become more well defined and stable, and these established knowledge structures become more difficult to change. Not surprisingly, attempts at treating or rehabilitating violent adults (including such things as “boot camps,” individual and group therapy, and “scared straight” programs) have not been that successful. One problem is that these approaches do not address the wide range of factors that contribute to the development and maintenance of violent behavior. The most successful interventions appear to be those that address both person and situation factors, and which do so at a relatively young age.
+人生経験が増えるにつれ、世界についてのスキーマはより明確で安定したものになり、確立した知識構造は変えにくくなる。当然ながら、暴力的な成人を治療・更生させようとする試み（「boot camps」、個人・集団療法、「scared straight」プログラムなど）は、それほど成功していない。一つの問題は、こうしたアプローチが、暴力行動の発達と維持へ寄与する幅広い要因を扱っていない点である。最も成功する介入は、人物要因と状況要因の双方へ取り組み、それを比較的若い年齢で行うもののようである。
 
-To prevent the cycle of violence from beginning, we must reduce exposure to violence, particularly among children. There is no question that viewing violence breeds more violence. The more violence we see or participate in, and the more violence we experience, the more we commit. The relationship is not perfect, and it does not hold for everyone, but it is clear. Just as smoking cigarettes causes cancer, so viewing aggression causes violence. And just as many countries have developed advertising campaigns, taxes, and laws to reduce the use of cigarettes, particularly among minors, so we must work to reduce the exposure, particularly of children, to violent material. Governments can and have been involved in this effort (Huesmann & Skoric, 2003), but the primary source will be parents, who must find out what their children are watching on TV, in movies, and on the Internet—as well as what video games they are playing—and monitor and restrict their use.
+暴力の連鎖が始まるのを防ぐには、特に子どもの暴力への接触を減らさなければならない。暴力を見ることがさらなる暴力を生むことには疑いがない。見る、参加する、経験する暴力が多いほど、自分が行う暴力も多くなる。この関係は完全ではなく、すべての人に当てはまるわけでもないが、明確である。喫煙ががんを引き起こすのと同じように、攻撃を見ることは暴力を引き起こす。そして多くの国が、特に未成年者の喫煙を減らすため広告キャンペーン、税、法律を導入してきたのと同様、暴力的素材への接触、とりわけ子どもの接触を減らすよう取り組まなければならない。政府もこの取り組みに関与でき、実際に関与してきた (Huesmann & Skoric, 2003)。しかし中心となるのは親であり、子どもがテレビ、映画、インターネットで何を見ているのか、どのビデオゲームをしているのかを把握し、その利用を監視し制限しなければならない。
 
-People must work to dispel the popular notion that engaging in aggressive actions is cathartic. When we attempt to reduce aggression by punching a pillow or pounding on our computer keyboard, we are bound to fail. The arousal and negative emotions that result from engaging in aggression do not reduce but rather increase the likelihood of engaging in more aggression. It is better to simply let the frustration dissipate over time, for instance, by distracting oneself with laughter or other activities than to attempt to fight aggression with more aggression.
+攻撃行動を行うことにはカタルシス効果があるという一般的な考えを、人々は打ち消していかなければならない。枕を殴ったりコンピューターのキーボードを叩いたりして攻撃を減らそうとしても、失敗する。攻撃行動から生じる覚醒と否定的感情は、さらなる攻撃の可能性を減らすのではなく、むしろ増加させる。攻撃へさらに攻撃で対抗しようとするより、たとえば笑いや別の活動で注意をそらしながら、欲求不満が時間とともに薄れるのを待つほうがよい。
 
-We need to help people control their emotions. Most violence is emotional aggression—the result of negative affect and high arousal. We need to better teach children to think about how they are feeling, to consider the sources of their negative emotions, and to learn ways to respond to them that do not involve aggression. When we think more carefully about our situation, rather than simply responding in an emotional way, we can more carefully choose the most effective responses when we are frustrated or angry (Berkowitz, 1993).
+人が感情を制御できるよう助ける必要もある。暴力の多くは感情的攻撃であり、否定的感情と高い覚醒の結果である。自分がどのように感じているかを考え、否定的感情の原因を検討し、攻撃を伴わない反応方法を学ぶよう、子どもへよりよく教える必要がある。単に感情的に反応するのではなく、自分の状況についてより注意深く考えれば、欲求不満や怒りを感じたとき、最も効果的な反応をより慎重に選ぶことができる (Berkowitz, 1993)。
 
-We must also work at the societal and government level by creating and enforcing laws that punish those who are aggressive, by increasing controls on the presence and availability of handguns and violent material more generally, and by creating programs to help the many victims of sexual and physical violence. In schools, it is essential that administrators, teachers, and staff become aware of the potential for violence and make themselves available as resources for students. School systems must have explicit policies that prohibit and specify sanctions for any student who teases, threatens, excludes, or otherwise mistreats another individual. A step forward in this regard is the legislation designed to stop cyberbullying that has recently been introduced in countries such as Canada, New Zealand, and the United States.
+社会・政府レベルでも取り組まなければならない。攻撃的な人を罰する法律を整備・施行し、拳銃や暴力的素材全般の存在と入手可能性への規制を強め、性的・身体的暴力の多数の被害者を支援するプログラムを作る必要がある。学校では、管理職、教員、職員が暴力の可能性を認識し、生徒が頼れる資源として利用できる状態にしておくことが不可欠である。学校制度は、別の人をからかう、脅す、排除する、その他の形で不当に扱う生徒を禁止し、制裁を明記する明確な方針を持たなければならない。この点での前進の一つが、Canada、New Zealand、United States などで近年導入されている、サイバーいじめを止めるための法律である。
 
-Reducing the large income disparities between the poorest and the richest members of society will also be important. As a result of upward comparison, poverty creates frustration that begets violence.
+社会の最も貧しい成員と最も裕福な成員との大きな所得格差を減らすことも重要である。上方比較の結果、貧困は欲求不満を生み、それが暴力を生む。
 
-Children (and adults) must be better educated about the causes of violence, because understanding the causes can help us learn to be less aggressive. Furthermore, because abuse of alcohol and other drugs so often leads to violence, better education about the effects of such substances, as well as support for individuals who need help dealing with them, is an important investment, not only for these individuals but also for the people around them.
+子ども（そして成人）には、暴力の原因についてよりよい教育が必要である。原因を理解することは、より攻撃的でなくなることを学ぶ助けになるからである。さらに、アルコールやその他の薬物の乱用は非常にしばしば暴力へつながるため、こうした物質の影響についてのよりよい教育と、それに対処する助けを必要とする人への支援は、本人だけでなく周囲の人々にとっても重要な投資である。
 
-We must also work to improve the situation in which children find themselves. Children who grow up in abusive homes learn that aggression is the norm; it is not surprising that they then often respond to social problems through aggression. We must help these families learn to use reward rather than punishment and particularly to avoid violent punishment, which leads children to model the violent behavior. If we can reduce the extent of violence within families, then children who grow up in those families will likely be less violent themselves.
+子どもが置かれている状況を改善することにも取り組まなければならない。虐待的な家庭で育つ子どもは、攻撃が普通のことだと学ぶ。そのため後に、社会的問題へ攻撃で反応することが多いのは驚きではない。こうした家庭には、罰より報酬を使うこと、特に子どもが暴力行動をモデリングする原因になる暴力的な罰を避けることを学んでもらう必要がある。家庭内の暴力を減らすことができれば、その家庭で育つ子ども自身も、より暴力的でなくなる可能性が高い。
 
-And we must help people find alternatives to violence by encouraging them to think about others more positively rather than as threats to their own status and self-worth. If we can increase other-concern, for instance, by helping children learn to better communicate with each other, and at the same time increase people’s positive feelings about themselves, we will create more positive social situations that reduce violence and aggression.
+また、自分の地位や自己価値への脅威としてではなく、より肯定的に他者について考えるよう促すことで、暴力の代替手段を見つけるのを助けなければならない。たとえば子どもが互いによりよくコミュニケーションする方法を学べるよう助けることで他者への関心を高め、それと同時に人々が自分自身について持つ肯定的感情を高められれば、暴力と攻撃を減らす、より肯定的な社会的状況を作ることができる。
 
-:::tip[Key Takeaways]
+:::tip[要点]
 
-- There are individual differences in aggression, for instance, in terms of how people respond to negative emotions.
-- Men are more physically aggressive, but there are few differences between men and women in nonphysical aggression.
-- Different cultures have different norms about aggression as well as different rates of aggressive behavior. The culture of honor is an example.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Consider yourself and people you know in terms of individual differences related to aggression, as well as gender and cultural influences on aggression. Do the variables we discussed in this section predict their likelihood of aggressing?
-2. Consider a case in which you or someone you know is frustrated, angry, or experiencing other emotions that may lead to aggressive behavior. What techniques might you use to prevent the aggression from occurring?
-3. Create a print, web, or video advertisement that conveys information that would help students learn to be less aggressive.
+- 攻撃には、たとえば否定的感情へどのように反応するかという点で個人差がある。
+- 男性は身体的攻撃が多いが、非身体的攻撃では男女差はほとんどない。
+- 文化によって攻撃についての規範が異なり、攻撃行動の割合も異なる。名誉の文化はその一例である。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Anderson, C. A. (1997). Effects of violent movies and trait hostility on hostile feelings and aggressive thoughts. *Aggressive Behavior, 23*(3), 161–178.
+1. 攻撃に関連する個人差、そして攻撃に対するジェンダー・文化の影響という観点から、自分自身と知人について考えなさい。この節で検討した変数は、その人が攻撃する可能性を予測しているだろうか。
+2. あなた自身または知人が、攻撃行動へつながりうる欲求不満、怒り、その他の感情を経験している場合を考えなさい。攻撃が起こるのを防ぐため、どのような方法を利用できるだろうか。
+3. 生徒がより攻撃的でなくなることを学ぶ助けとなる情報を伝える、印刷広告、ウェブ広告、または動画広告を作りなさい。
 
-Archer, J., & Coyne, S. M. (2005). An integrated review of indirect, relational, and social aggression. *Personality and Social Psychology Review, 9*(3), 212–230.
+:::
 
-Baumeister, R. F., Smart, L., & Boden, J. M. (1996). Relation of threatened egotism to violence and aggression: The dark side of high self-esteem. *Psychological Review, 103*(1), 5–33.
+#### 参考文献
 
-Berkowitz, L. (1993). *Aggression: Its causes, consequences, and control*. New York, NY: McGraw-Hill.
+Anderson, C. A. (1997). Effects of violent movies and trait hostility on hostile feelings and aggressive thoughts. _Aggressive Behavior, 23_(3), 161–178.
 
-Bettencourt, B., & Miller, N. (1996). Gender differences in aggression as a function of provocation: A meta-analysis. *Psychological Bulletin, 119*, 422–447.
+Archer, J., & Coyne, S. M. (2005). An integrated review of indirect, relational, and social aggression. _Personality and Social Psychology Review, 9_(3), 212–230.
 
-Brown, R. P., Osterman, L. L., & Barnes, C. D. (2009). School violence and the culture of honor. *Psychological Science, 20*(11), 1400–1405.
+Baumeister, R. F., Smart, L., & Boden, J. M. (1996). Relation of threatened egotism to violence and aggression: The dark side of high self-esteem. _Psychological Review, 103_(1), 5–33.
 
-Buss, D. M., & Shackelford, T. K. (1997). Human aggression in evolutionary psychological perspective. *Clinical Psychology Review, 17*(6), 605–619.
+Berkowitz, L. (1993). _Aggression: Its causes, consequences, and control_. New York, NY: McGraw-Hill.
 
-Campbell, A., Muncer, S., & Gorman, B. (1993). Sex and social representations of aggression: A communal-agentic analysis. *Aggressive Behavior, 19*(2), 125–135.
+Bettencourt, B., & Miller, N. (1996). Gender differences in aggression as a function of provocation: A meta-analysis. _Psychological Bulletin, 119_, 422–447.
 
-Caspi, A., McClay, J., Moffitt, T., Mill, J., Martin, J., Craig, I. W.,…Poulton, R. (2002). Role of genotype in the cycle of violence in maltreated children. *Science, 297*(5582), 851–854.
+Brown, R. P., Osterman, L. L., & Barnes, C. D. (2009). School violence and the culture of honor. _Psychological Science, 20_(11), 1400–1405.
 
-Cohen, D., & Nisbett, R. E. (1997). Field experiments examining the culture of honor: The role of institutions in perpetuating norms about violence. *Personality and Social Psychology Bulletin, 23*(11), 1188–1199.
+Buss, D. M., & Shackelford, T. K. (1997). Human aggression in evolutionary psychological perspective. _Clinical Psychology Review, 17_(6), 605–619.
 
-Cohen, D., Nisbett, R. E., Bosdle, B., & Schwarz, N. (1996). Insult, aggression, and the southern culture of honor: An “experimental ethnography.” *Journal of Personality and Social Psychology, 70*, 945–960.
+Campbell, A., Muncer, S., & Gorman, B. (1993). Sex and social representations of aggression: A communal-agentic analysis. _Aggressive Behavior, 19_(2), 125–135.
 
-Crick, N. R., & Dodge, K. A. (1994). A review and reformulation of social information-processing mechanisms in children’s social adjustment. *Psychological Bulletin, 115*(1), 74–101.
+Caspi, A., McClay, J., Moffitt, T., Mill, J., Martin, J., Craig, I. W.,…Poulton, R. (2002). Role of genotype in the cycle of violence in maltreated children. _Science, 297_(5582), 851–854.
 
-Crick, N. R., & Nelson, D. A. (2002). Relational and physical victimization within friendships: Nobody told me there’d be friends like these. *Journal of Abnormal Child Psychology, 30*(6), 599–607.
+Cohen, D., & Nisbett, R. E. (1997). Field experiments examining the culture of honor: The role of institutions in perpetuating norms about violence. _Personality and Social Psychology Bulletin, 23_(11), 1188–1199.
 
-Dabbs, J. M., & Morris, R. (1990). Testosterone, social class, and antisocial behavior in a sample of 4,462 men. *Psychological Science, 1*(3), 209–211.
+Cohen, D., Nisbett, R. E., Bosdle, B., & Schwarz, N. (1996). Insult, aggression, and the southern culture of honor: An “experimental ethnography.” _Journal of Personality and Social Psychology, 70_, 945–960.
 
-Dill, K. E., Anderson, C. A., & Deuser, W. E. (1997). Effects of aggressive personality on social expectations and social perceptions. *Journal of Research in Personality, 31*(2), 272–292.
+Crick, N. R., & Dodge, K. A. (1994). A review and reformulation of social information-processing mechanisms in children’s social adjustment. _Psychological Bulletin, 115_(1), 74–101.
 
-Downey, G., Irwin, L., Ramsay, M., & Ayduk, O. (Eds.). (2004). *Rejection sensitivity and girls’ aggression*. New York, NY: Kluwer Academic/Plenum Publishers.
+Crick, N. R., & Nelson, D. A. (2002). Relational and physical victimization within friendships: Nobody told me there’d be friends like these. _Journal of Abnormal Child Psychology, 30_(6), 599–607.
 
-Eagly, A. H. (1987). *Sex differences in social behavior: A social-role interpretation*. Hillsdale, NJ: Lawrence Erlbaum.
+Dabbs, J. M., & Morris, R. (1990). Testosterone, social class, and antisocial behavior in a sample of 4,462 men. _Psychological Science, 1_(3), 209–211.
 
-Eagly, A. H., & Steffen, V. J. (1986). Gender and aggressive behavior: A meta-analytic review of the social psychology literature. *Psychological Bulletin, 100*, 309–330.
+Dill, K. E., Anderson, C. A., & Deuser, W. E. (1997). Effects of aggressive personality on social expectations and social perceptions. _Journal of Research in Personality, 31_(2), 272–292.
 
-Eagly, A. H., & Wood, W. (1991). Explaining sex differences in social behavior: A meta-analytic perspective. *Personality and Social Psychology Bulletin, 17*, 306–315.
+Downey, G., Irwin, L., Ramsay, M., & Ayduk, O. (Eds.). (2004). _Rejection sensitivity and girls’ aggression_. New York, NY: Kluwer Academic/Plenum Publishers.
 
-Graham, K., & Wells, S. (2001). The two worlds of aggression for men and women. *Sex Roles, 45*(9–10), 595–622.
+Eagly, A. H. (1987). _Sex differences in social behavior: A social-role interpretation_. Hillsdale, NJ: Lawrence Erlbaum.
 
-Guerra, N. G., Huesmann, L. R., & Zelli, A. (1993). Attributions for social failure and adolescent aggression. *Aggressive Behavior, 19*(6), 421–434.
+Eagly, A. H., & Steffen, V. J. (1986). Gender and aggressive behavior: A meta-analytic review of the social psychology literature. _Psychological Bulletin, 100_, 309–330.
 
-Henry, P. J. (2009). Low-status compensation: A theory for understanding the role of status in cultures of honor. *Journal of Personality and Social Psychology, 97*(3), 451–466.
+Eagly, A. H., & Wood, W. (1991). Explaining sex differences in social behavior: A meta-analytic perspective. _Personality and Social Psychology Bulletin, 17_, 306–315.
 
-Horowitz, R., & Schwartz, G. (1974). Honor, normative ambiguity and gang violence. *American Sociological Review, 39*(2), 238–251.
+Graham, K., & Wells, S. (2001). The two worlds of aggression for men and women. _Sex Roles, 45_(9–10), 595–622.
 
-Huesmann, L. R., & Skoric, M. M. (Eds.). (2003). *Regulating media violence: Why, how and by whom?* Mahwah, NJ: Lawrence Erlbaum.
+Guerra, N. G., Huesmann, L. R., & Zelli, A. (1993). Attributions for social failure and adolescent aggression. _Aggressive Behavior, 19_(6), 421–434.
 
-Kernis, M. H., Brockner, J., & Frankel, B. S. (1989). Self-esteem and reactions to failure: The mediating role of overgeneralization. *Journal of Personality and Social Psychology, 57*(4), 707–714.
+Henry, P. J. (2009). Low-status compensation: A theory for understanding the role of status in cultures of honor. _Journal of Personality and Social Psychology, 97_(3), 451–466.
 
-Loeber, R., & Hay, D. (1997). Key issues in the development of aggression and violence from childhood to early adulthood. *Annual Review of Psychology*, 371–410.
+Horowitz, R., & Schwartz, G. (1974). Honor, normative ambiguity and gang violence. _American Sociological Review, 39_(2), 238–251.
 
-Nisbett, R. E., & Cohen, D. (1996). *Culture of honor: The psychology of violence in the South*. Boulder, CO: Westview Press.
+Huesmann, L. R., & Skoric, M. M. (Eds.). (2003). _Regulating media violence: Why, how and by whom?_ Mahwah, NJ: Lawrence Erlbaum.
 
-Österman, K., Björkqvist, K., Lagerspetz, K. M. J., Kaukiainen, A., Landau, S. F., Fraczek, A., & Caprara, G. V. (1998). Cross-cultural evidence of female indirect aggression. *Aggressive Behavior, 24*(1), 1–8.
+Kernis, M. H., Brockner, J., & Frankel, B. S. (1989). Self-esteem and reactions to failure: The mediating role of overgeneralization. _Journal of Personality and Social Psychology, 57_(4), 707–714.
 
-Rodkin, P. C., Farmer, T. W., Pearl, R., & Van Acker, R. (2000). Heterogeneity of popular boys: Antisocial and prosocial configurations. *Developmental Psychology, 36*(1), 14–24.
+Loeber, R., & Hay, D. (1997). Key issues in the development of aggression and violence from childhood to early adulthood. _Annual Review of Psychology_, 371–410.
 
-Salmivalli, C., & Nieminen, E. (2002). Proactive and reactive aggression among school bullies, victims, and bully-victims. *Aggressive Behavior, 28*(1), 30–44.
+Nisbett, R. E., & Cohen, D. (1996). _Culture of honor: The psychology of violence in the South_. Boulder, CO: Westview Press.
 
-Salmivalli, C., Ojanen, T., Haanpaa, J., & Peets, K. (2005). “I’m OK but you’re not” and other peer-relational schemas: Explaining individual differences in children’s social goals. *Developmental Psychology, 41*(2), 363–375.
+Österman, K., Björkqvist, K., Lagerspetz, K. M. J., Kaukiainen, A., Landau, S. F., Fraczek, A., & Caprara, G. V. (1998). Cross-cultural evidence of female indirect aggression. _Aggressive Behavior, 24_(1), 1–8.
 
-Souweidane, V., & Huesmann, L. R. (1999). The influence of American urban culture on the development of normative beliefs about aggression in Middle-Eastern immigrants. *American Journal of Community Psychology, 27*(2), 239–254.
+Rodkin, P. C., Farmer, T. W., Pearl, R., & Van Acker, R. (2000). Heterogeneity of popular boys: Antisocial and prosocial configurations. _Developmental Psychology, 36_(1), 14–24.
 
-Zigler, E., Taussig, C., & Black, K. (1992). Early childhood intervention: A promising preventative for juvenile delinquency. *American Psychologist, 47*(8), 997–1006.
+Salmivalli, C., & Nieminen, E. (2002). Proactive and reactive aggression among school bullies, victims, and bully-victims. _Aggressive Behavior, 28_(1), 30–44.
+
+Salmivalli, C., Ojanen, T., Haanpaa, J., & Peets, K. (2005). “I’m OK but you’re not” and other peer-relational schemas: Explaining individual differences in children’s social goals. _Developmental Psychology, 41_(2), 363–375.
+
+Souweidane, V., & Huesmann, L. R. (1999). The influence of American urban culture on the development of normative beliefs about aggression in Middle-Eastern immigrants. _American Journal of Community Psychology, 27_(2), 239–254.
+
+Zigler, E., Taussig, C., & Black, K. (1992). Early childhood intervention: A promising preventative for juvenile delinquency. _American Psychologist, 47_(8), 997–1006.

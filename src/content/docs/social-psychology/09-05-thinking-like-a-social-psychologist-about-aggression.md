@@ -1,32 +1,33 @@
 ---
-title: "9.5 Thinking Like a Social Psychologist about Aggression"
+title: "9.5 攻撃について社会心理学者のように考える"
 sidebar:
   order: 63
 ---
-This chapter has reviewed how social psychologists understand human aggression and violence. These actions surround us every day and cause much pain for many people. We have seen how social psychologists study aggression, their understanding of why it occurs, and how we might attempt to reduce it. Did you learn something about human aggression that surprised you and that helps you better understand social tragedies, such as school shootings, violence in sports, and even terrorism?
 
-Perhaps you were surprised that social psychologists consider aggression to be primarily about self-concern. Although violence is designed to harm others, this is not usually its underlying goal or its underlying cause. Violence is more about the self and threats to it. We react violently when we feel bad about ourselves, for instance, when we feel that our status is threatened or when we are experiencing other negative emotions. But because you are thinking like a social psychologist, you will realize how important the self-concept is—so important, indeed, that threats against it can result in extremely violent acts.
+本章では、社会心理学者が人間の攻撃と暴力をどのように理解しているかを概観してきた。こうした行動は毎日私たちの周囲で起き、多くの人へ大きな苦痛をもたらす。社会心理学者が攻撃をどのように研究し、それがなぜ生じると理解しているか、そしてどのように減らそうと試みられるかを見てきた。学校での銃撃、スポーツにおける暴力、さらにはテロリズムなどの社会的悲劇をよりよく理解する助けとなる、人間の攻撃について意外なことを学んだだろうか。
 
-Think about the recent school shootings in the United States and in other countries. And think of other events, such as wars, terrorism, and even genocides, that have occurred over the past century and even in your lifetime. Does your new understanding of aggression help you better understand that how unusual and unexpected events such as these—which go against our natural desires to trust, respect, and care for others—occur, and how they are understandable outcomes of the nature of human beings?
+社会心理学者が、攻撃を主として自己への関心に関わるものと考えていることに驚いたかもしれない。暴力は他者を傷つけるよう設計されているが、それが通常、根底にある目標や原因というわけではない。暴力はむしろ自己と、それへの脅威に関わっている。たとえば自分の地位が脅かされていると感じるときや、別の否定的感情を経験しているときなど、自分自身について嫌な気分になると、私たちは暴力的に反応する。しかし社会心理学者のように考えているなら、自己概念がどれほど重要かが分かるだろう。実際、それに対する脅威が極端に暴力的な行為につながるほど重要なのである。
 
-Aggression is another example of the person-situation interaction. Some people are naturally more aggressive than others, but the social situation may either increase or decrease the likelihood that aggression actually occurs. Think for a moment about your personality and about the situations that you spend time in. Are these likely to create aggression? If so, how might you change your behavior to reduce the likelihood of being aggressive?
+United States や他の国々で近年起きた学校銃撃事件について考えてみよう。また、過去1世紀、さらにはあなた自身の生涯に起きた戦争、テロリズム、大量虐殺など、別の出来事についても考えてみよう。攻撃についての新しい理解によって、他者を信頼し、尊重し、気遣いたいという私たちの自然な欲求に反する、このような異例で予想外の出来事がどのように起こるのか、そしてそれらが人間の本性から理解可能な結果であることを、以前よりよく理解できるだろうか。
 
-Because you are now more aware of the variables that cause aggression, we hope that you will work harder to try to prevent it—both in yourself and others. Can you see how alcohol abuse can be harmful because it may lead to sexual and physical violence? Can you see how even nonviolent aggression, such as gossiping, spreading rumors, and bullying, can be harmful to the self-concept of others and have unexpected negative outcomes? Do you see now the strong influence of viewing violence, for instance on TV and in video games, can increase aggression? Can you see why catharsis doesn’t work? Perhaps now you can also understand how you and others can learn to react more calmly to the frustrations that provoke you.
+攻撃も人物‐状況相互作用の一例である。生まれつき他の人より攻撃的な人もいるが、実際に攻撃が起こる可能性は社会的状況によって高まったり低くなったりする。自分の性格と、自分が時間を過ごしている状況について少し考えてみよう。それらは攻撃を生み出しやすいだろうか。もしそうなら、攻撃的になる可能性を減らすため、自分の行動をどのように変えられるだろうか。
 
-We hope you will apply this new knowledge in your everyday life. We must all work harder to reduce our own aggression and to help others reduce theirs.
+攻撃を引き起こす変数について以前より意識できるようになった今、自分自身と他者の双方で、攻撃を防ぐためより一層取り組んでほしい。アルコール乱用が性的・身体的暴力へつながりうるため、有害であることが分かるだろうか。うわさ話、うわさを広めること、いじめなどの非暴力的攻撃でさえ、他者の自己概念を傷つけ、予想外の否定的結果をもたらしうることが分かるだろうか。テレビやビデオゲームなどで暴力を見ることが、攻撃を増加させる強い影響を持つことが今は分かるだろうか。カタルシスがなぜ機能しないか分かるだろうか。そしておそらく、自分や他者が、自分を挑発する欲求不満へより冷静に反応することをどのように学べるかも理解できるだろう。
 
-:::note[Interactive activity]
+この新しい知識を日常生活で活用してほしい。私たちは皆、自分自身の攻撃を減らし、他者がその攻撃を減らせるよう助けるため、より一層取り組まなければならない。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3326#h5p-20](https://opentextbc.ca/socialpsychology/?p=3326#h5p-20)
+:::note[インタラクティブ・アクティビティ]
+
+インタラクティブな H5P 要素は、この版のテキストから除外されています。オンライン版はこちらから確認できます：<br /> [https://opentextbc.ca/socialpsychology/?p=3326#h5p-20](https://opentextbc.ca/socialpsychology/?p=3326#h5p-20)
 
 :::
 
-**H5P: Test your Learning: Chapter 9 True or False Quiz**
+**H5P：学習を確認しよう：第9章 正誤クイズ**
 
-Check your learning of some key concepts in this chapter by taking this quick true-false quiz. You can retry any question, or choose to see the correct answer as you go. Good luck!
+この短い正誤クイズで、本章の主要概念の一部について学習を確認しなさい。どの問題も再挑戦でき、進めながら正解を見ることもできる。健闘を祈る。
 
-1. Playing violent video games can cause changes in affective and cognitive processes related to aggressive behavior.
-2. Level of frustration alone accounts for most of the variation in human aggression across situations.
-3. Cultures of honor are ones where aggressive responses to insults to collective rather than individual honor are supported.
-4. In general, the presence of cues for violence in a situation will increase the salience of a violent response.
-5. In experimental studies, catharsis has been shown to be a reliable way of reducing aggressive behavior.
+1. 暴力的ビデオゲームをプレイすることは、攻撃行動に関連する感情過程と認知過程の変化を引き起こしうる。
+2. 欲求不満の水準だけで、状況間に見られる人間の攻撃の変動の大部分を説明できる。
+3. 名誉の文化とは、個人の名誉ではなく集団の名誉への侮辱に対する攻撃的反応が支持される文化である。
+4. 一般に、ある状況で暴力の手がかりが存在すると、暴力的反応の顕著性が高まる。
+5. 実験研究では、カタルシスは攻撃行動を減少させる信頼できる方法であることが示されている。

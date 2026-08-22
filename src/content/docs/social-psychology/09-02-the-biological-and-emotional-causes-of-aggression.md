@@ -1,302 +1,303 @@
 ---
-title: "9.2 The Biological and Emotional Causes of Aggression"
+title: "9.2 攻撃の生物学的・感情的原因"
 sidebar:
   order: 60
 ---
-:::note[Learning Objectives]
 
-1. Explain how aggression might be evolutionarily adaptive.
-2. Describe how different parts of the brain influence aggression.
-3. Summarize the effects of testosterone and serotonin on aggression.
+:::note[学習目標]
+
+1. 攻撃が進化的にどのように適応的でありうるかを説明する。
+2. 脳のさまざまな部位が攻撃へどのように影響するかを説明する。
+3. テストステロンとセロトニンが攻撃へ与える影響を要約する。
 
 :::
 
-When we see so much violence around us every day, we might conclude that people have an innate tendency, or even an instinct, to be aggressive. Some well-known philosophers and psychologists have argued that this is the case. For instance, the philosopher Thomas Hobbes (1588–1679) took this view, arguing that humans are naturally evil and that only society could constrain their aggressive tendencies. On the other hand, the philosopher Jean-Jacques Rousseau (1712–1778) was more positive. He believed that humans are naturally gentle creatures who are aggressive only because we are taught to be so by our society. The influential psychologist Sigmund Freud, who lived through the disaster of World War I in which millions of his fellow human beings were massacred, argued that although people do have a “life instinct,” they also have a “death instinct”—an impulse toward destruction of themselves and others.
+毎日、身の回りで非常に多くの暴力を見ると、人には攻撃的になろうとする生得的傾向、さらには本能さえあるのではないかと結論したくなるかもしれない。著名な哲学者や心理学者の中にも、そのように論じた者がいる。たとえば哲学者 Thomas Hobbes (1588–1679) は、人間は生まれつき邪悪であり、その攻撃的傾向を抑えられるのは社会だけだと論じた。一方、哲学者 Jean-Jacques Rousseau (1712–1778) はより肯定的だった。彼は、人間は生まれつき穏やかな存在であり、社会からそうなるよう教えられるためにのみ攻撃的になると考えた。何百万人もの同胞が殺された第一次世界大戦の惨禍を経験した影響力のある心理学者 Sigmund Freud は、人には「生の本能」がある一方で、「死の本能」――自分自身と他者を破壊する方向へ向かう衝動――もあると論じた。
 
-## Is Aggression Evolutionarily Adaptive?
+## 攻撃は進化的に適応的なのか？
 
-A belief in the innate aggressive tendencies of human beings—that the ability to be aggressive toward others, at least under some circumstances, is part of our fundamental human makeup—is consistent with the principles of evolutionary psychology. After all, the goal of maintaining and enhancing the self will in some cases require that we prevent others from harming us and those we care about. We may aggress against others because it allows us to gain access to valuable resources such as food and desirable mates or to protect ourselves from direct attack by others. And we may aggress when we feel that our social status is threatened. Therefore, if aggression helps with either our individual survival or in the survival of our genes, then the process of natural selection may well cause humans, as it would any other animal, to be aggressive. Human beings need to be able to aggress in certain situations, and nature has provided us with these skills (Buss & Duntley, 2006). Under the right situation, almost all of us will aggress.
+人間には生得的な攻撃傾向がある、すなわち少なくとも一定の状況では他者へ攻撃的になれる能力が人間の基本的な構成の一部であるという考えは、進化心理学の原理と一致する。結局のところ、自己を維持し高めるという目標を達成するには、自分や自分が大切にしている人を他者の害から守らなければならない場合がある。食物や望ましい配偶相手など価値ある資源を得ることができるため、あるいは他者からの直接的攻撃から自分を守るために、私たちは他者へ攻撃することがある。また、自分の社会的地位が脅かされたと感じるときにも攻撃することがある。したがって、攻撃が個人の生存または自分の遺伝子の生存に役立つのであれば、自然選択の過程によって、人間も他の動物と同様に攻撃的になる可能性が十分にある。人間は特定の状況では攻撃できなければならず、自然はそのための能力を私たちへ与えている (Buss & Duntley, 2006)。適切な状況がそろえば、ほぼ誰でも攻撃する。
 
-However, just because we *can* aggress does not mean that we will. It is not necessarily evolutionarily adaptive to aggress in all situations. For one, aggressing can be costly if the other person aggresses back. Therefore, neither people nor animals are always aggressive. Rather, they use aggression only when they feel that they absolutely need to (Berkowitz, 1993a). In animals, the *fight-or-flight response* to threat leads them sometimes to attack and sometimes to flee the situation. Human beings have an even wider variety of potential responses to threat, only one of which is aggression. Again, the social situation is critical. We may react violently in situations in which we are uncomfortable or fearful or when another person has provoked us, but we may react more calmly in other settings. And there are cultural differences, such that violence is more common in some cultures than in others.
+しかし、攻撃することが*できる*からといって、必ず攻撃するわけではない。あらゆる状況で攻撃することが進化的に適応的であるとは限らない。第一に、相手が攻撃し返してくるなら、攻撃には大きなコストが伴う可能性がある。そのため、人間も動物も常に攻撃的なわけではない。むしろ、本当に必要だと感じたときにだけ攻撃を用いる (Berkowitz, 1993a)。動物では、脅威に対する*闘争・逃走反応（fight-or-flight response）*によって、ときには攻撃し、ときにはその状況から逃げる。人間には脅威に対してさらに幅広い反応の選択肢があり、攻撃はその一つにすぎない。ここでも社会的状況が決定的に重要である。不快であったり恐怖を感じたりする状況や、他者から挑発された状況では暴力的に反応することがあるが、別の状況ではより冷静に反応することもある。そして文化差もあり、ある文化では他の文化より暴力が一般的である。
 
-There is no doubt that aggression is in part genetically determined. Animals can be bred to be aggressive by breeding the most aggressive offspring with each other (Lagerspetz & Lagerspetz, 1971). Children who are aggressive as infants also are aggressive when they are adults (Coie & Dodge, 1998; Dubow, Huesmann, & Boxer, 2003; Raine, 1993) and identical twins are more similar than fraternal twins in their aggressive tendencies and criminal records. Behavioral genetics studies have found that criminal and aggressive behavior is correlated at about .70 for identical twins but only at about .40 for fraternal twins (Tellegen et al., 1988).
+攻撃が部分的に遺伝によって規定されていることは疑いない。最も攻撃的な子同士を交配することで、動物をより攻撃的に繁殖させることができる (Lagerspetz & Lagerspetz, 1971)。乳幼児期に攻撃的だった子どもは成人後も攻撃的である傾向があり (Coie & Dodge, 1998; Dubow, Huesmann, & Boxer, 2003; Raine, 1993)、攻撃傾向や犯罪歴について、一卵性双生児は二卵性双生児より互いに似ている。行動遺伝学研究では、犯罪行動・攻撃行動の相関が、一卵性双生児では約 .70 であるのに対し、二卵性双生児では約 .40 にとどまることが明らかになっている (Tellegen et al., 1988)。
 
-Avsalom Caspi and his colleagues (2002) found evidence for the person-by-situation interaction in determining aggression. They focused on the the influence of a particular genetic factor, the monoamine oxidase (MAOA) gene, located on the X chromosome, that produces an enzyme that influences the production of serotonin, a neurotransmitter that influences mood, appetite, and sleep and that inhibits aggression. Supporting the role of genetics in aggression, they found that individuals who had lower levels of activity of this gene were more at risk to show a variety of aggressive behaviors as adults. However, they also found that the genetic factor was only important for children who had also been severely mistreated. This person-by-situation interaction effect is shown in Figure 9.4. Although much more research is needed, it appears that aggressive behavior, like most other behaviors, is affected by an interaction between genetic and environmental variations.<a id="f9.4"></a>
+Avsalom Caspi と同僚 (2002) は、攻撃を規定する人物‐状況相互作用の証拠を見いだした。彼らは、X染色体上にあるモノアミン酸化酵素（MAOA）遺伝子という特定の遺伝要因の影響へ注目した。この遺伝子は、気分、食欲、睡眠へ影響し、攻撃を抑制する神経伝達物質セロトニンの産生へ影響する酵素を作る。攻撃における遺伝の役割を支持するように、この遺伝子の活動水準が低い人は、成人後にさまざまな攻撃行動を示すリスクが高いことが分かった。しかし同時に、この遺伝要因が重要なのは、幼少期に深刻な虐待も受けていた子どもだけであることも分かった。この人物‐状況相互作用効果を図9.4に示す。さらに多くの研究が必要ではあるが、攻撃行動も他の多くの行動と同様に、遺伝的変異と環境的変異の相互作用から影響を受けるようである。
 
 ![image description linked in caption](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Figure-9.4-Person-by-situation-interaction-effect.jpg)
 
-*Figure 9.4 Person-by-situation interaction effect [\[Image description\]](/translations/social-psychology/09-02-the-biological-and-emotional-causes-of-aggression/)*
+_図9.4 人物‐状況相互作用効果 [\[画像の説明\]](/translations/social-psychology/09-02-the-biological-and-emotional-causes-of-aggression/)_
 
-Caspi and his colleagues (2002) found evidence for a person-by-situation interaction regarding the role of genetics and parental treatment in aggression. Antisocial behavior and aggression were greater for children who had been severely maltreated, but this effect was even stronger for children with a gene variation that reduced the production of serotonin.
+Caspi と同僚 (2002) は、攻撃における遺伝と親からの扱いの役割について、人物‐状況相互作用の証拠を見いだした。深刻な虐待を受けた子どもでは反社会的行動と攻撃が多かったが、その効果は、セロトニン産生を減少させる遺伝子変異を持つ子どもでさらに強かった。
 
-Evolutionary principles suggest that we should be less likely to harm those who are genetically related to us than we are to harm others who are different. And research has supported this finding—for instance, biological parents are much less likely to abuse or murder their own children than stepparents are to harm their stepchildren (Daly & Wilson, 1998, 1999). In fact, these researchers found that preschool children living with a stepparent or foster parent were many times more likely to be murdered by their parent than were children who lived with both biological parents.
+進化の原理からすると、遺伝的に自分と関係のある人を傷つける可能性は、遺伝的に異なる他者を傷つける可能性より低いはずである。研究はこの予測を支持している。たとえば、生物学的な親は、継親が継子を虐待したり殺害したりする場合と比べ、自分の実子を虐待または殺害する可能性がはるかに低い (Daly & Wilson, 1998, 1999)。実際、この研究者らは、継親または里親と暮らす就学前児童は、生物学的な両親と暮らす子どもより、親によって殺害される可能性が何倍も高いことを明らかにした。
 
-### The Role of Biology in Aggression
+### 攻撃における生物学の役割
 
-Aggression is controlled in large part by the area in the older part of the brain known as the *amygdala* (Figure 9.5, “Key Brain Structures Involved in Regulating and Inhibiting Aggression”). The amygdala is a brain region responsible for regulating our perceptions of, and reactions to, aggression and fear. The amygdala has connections with other body systems related to fear, including the sympathetic nervous system, facial responses, the processing of smells, and the release of neurotransmitters related to stress and aggression.
+攻撃は、脳のより古い部分にある*扁桃体（amygdala）*と呼ばれる領域によって大きく統制されている（図9.5「攻撃の調節と抑制に関与する主要な脳構造」）。扁桃体は、攻撃や恐怖についての知覚と、それに対する反応を調節する脳領域である。扁桃体は、交感神経系、顔面反応、においの処理、ストレスや攻撃に関連する神経伝達物質の放出など、恐怖と関係する他の身体システムと結びついている。
 
-In addition to helping us experience fear, the amygdala also helps us learn from situations that create fear. The amygdala is activated in response to positive outcomes but also to negative ones, and particularly to stimuli that we see as threatening and fear arousing. When we experience events that are dangerous, the amygdala stimulates the brain to remember the details of the situation so that we learn to avoid it in the future. The amygdala is activated when we look at facial expressions of other people experiencing fear or when we are exposed to members of racial outgroups (Morris, Frith, Perrett, & Rowland, 1996; Phelps et al., 2000).
+扁桃体は、恐怖を経験する助けとなるだけでなく、恐怖を生み出す状況から学習することも助ける。扁桃体は肯定的な結果だけでなく否定的な結果に対しても活性化し、特に、脅威と見なし恐怖を喚起する刺激に対して活性化する。危険な出来事を経験すると、扁桃体は脳を刺激してその状況の詳細を記憶させ、将来それを避けることを学習できるようにする。他者が恐怖を経験している顔の表情を見るときや、人種的外集団の成員へ接するときにも、扁桃体は活性化する (Morris, Frith, Perrett, & Rowland, 1996; Phelps et al., 2000)。
 
-Although the amygdala helps us perceive and respond to danger, and this may lead us to aggress, other parts of the brain serve to control and inhibit our aggressive tendencies. One mechanism that helps us control our negative emotions and aggression is a neural connection between the amygdala and regions of the *prefrontal cortex* (Gibson, 2002).
+扁桃体は危険を知覚し、それへ反応するのを助け、そのことが攻撃へつながる場合があるが、脳の別の部分は攻撃傾向を統制・抑制する役割を果たす。否定的感情と攻撃を制御する助けとなる仕組みの一つが、扁桃体と*前頭前皮質（prefrontal cortex）*の各領域との神経結合である (Gibson, 2002)。
 
-The prefrontal cortex is in effect a control center for aggression: when it is more highly activated, we are more able to control our aggressive impulses. Research has found that the cerebral cortex is less active in murderers and death row inmates, suggesting that violent crime may be caused at least in part by a failure or reduced ability to regulate emotions (Davidson, Jackson, & Kalin, 2000; Davidson, Putnam, & Larson, 2000).
+前頭前皮質は、実質的に攻撃の制御センターである。ここがより強く活性化していると、攻撃衝動をよりうまく制御できる。研究では、殺人者や死刑囚では大脳皮質の活動が低いことが明らかになっており、暴力犯罪が少なくとも部分的には、感情を調節する能力の失敗または低下によって生じる可能性が示されている (Davidson, Jackson, & Kalin, 2000; Davidson, Putnam, & Larson, 2000)。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/29774068104a702792308e12134e177d-1.jpg)
 
-*Figure 9.5 Key Brain Structures Involved in Regulating and Inhibiting Aggression.*
+_図9.5 攻撃の調節と抑制に関与する主要な脳構造。_
 
-Brain regions that influence aggression include the amygdala (area 1) and the prefrontal cortex (area 2). Individual differences in one or more of these regions or in the interconnections among them can increase the propensity for impulsive aggression.
+攻撃へ影響する脳領域には、扁桃体（領域1）と前頭前皮質（領域2）がある。これら一つ以上の領域や、それらの間の結合に見られる個人差は、衝動的攻撃を起こす傾向を高める可能性がある。
 
-### Hormones Influence Aggression: Testosterone and Serotonin
+### ホルモンは攻撃へ影響する：テストステロンとセロトニン
 
-Hormones are also important in creating aggression. Most important in this regard is *the male sex hormone* testosterone, which is associated with increased aggression in both animals and in humans. Research conducted on a variety of animals has found a strong correlation between levels of testosterone and aggression. This relationship seems to be weaker among humans than among animals, yet it is still significant (Dabbs, Hargrove, & Heusel, 1996).
+ホルモンも攻撃を生み出すうえで重要である。この点で最も重要なのが、*男性性ホルモン*のテストステロンであり、動物でも人間でも、テストステロンは攻撃の増加と関連している。さまざまな動物を対象とした研究では、テストステロン水準と攻撃との間に強い相関が見つかっている。この関係は動物より人間で弱いようだが、それでも有意である (Dabbs, Hargrove, & Heusel, 1996)。
 
-In one study showing the relationship between testosterone and behavior, James Dabbs and his colleagues (Dabbs, Hargrove, & Heusel, 1996) measured the testosterone levels of 240 men who were members of 12 fraternities at two universities. They also obtained descriptions of the fraternities from university officials, fraternity officers, yearbook and chapter house photographs, and researcher field notes. The researchers correlated the testosterone levels and the descriptions of each of the fraternities. They found that the fraternities that had the highest average testosterone levels were also more wild and unruly, and in one case were known across campus for the crudeness of their behavior. The fraternities with the lowest average testosterone levels, on the other hand, were more well-behaved, friendly, academically successful, and socially responsible. Another study found that juvenile delinquents and prisoners who have high levels of testosterone also acted more violently (Banks & Dabbs, 1996). Testosterone affects aggression by influencing the development of various areas of the brain that control aggressive behaviors. The hormone also affects physical development such as muscle strength, body mass, and height that influence our ability to successfully aggress.
+テストステロンと行動との関係を示すある研究で、James Dabbs と同僚 (Dabbs, Hargrove, & Heusel, 1996) は、2大学にある12の fraternity に所属する男性240人のテストステロン水準を測定した。また、大学職員、fraternity の役員、年鑑や fraternity house の写真、研究者のフィールドノートから、各 fraternity についての記述も得た。研究者はテストステロン水準と各 fraternity の特徴を相関させた。その結果、平均テストステロン水準が最も高い fraternity は、より奔放で秩序に欠けており、ある fraternity は粗野な行動でキャンパス中に知られていた。一方、平均テストステロン水準が最も低い fraternity は、より行儀がよく、友好的で、学業成績がよく、社会的責任を持っていた。別の研究では、テストステロン水準の高い非行少年と受刑者ほど、より暴力的に行動することも明らかになっている (Banks & Dabbs, 1996)。テストステロンは、攻撃行動を統制する脳のさまざまな領域の発達へ影響することで攻撃へ作用する。またこのホルモンは、筋力、体格、身長などの身体発達にも影響し、それらは攻撃を成功させる能力へ影響する。
 
-Although testosterone levels are much higher in men than in women, the relationship between testosterone and aggression is not limited to males. Studies have also shown a positive relationship between testosterone and aggression and related behaviors (such as competitiveness) in women (Cashdan, 2003). Although women have lower levels of testosterone overall, they are more influenced by smaller changes in these levels than are men.
+テストステロン水準は女性より男性ではるかに高いが、テストステロンと攻撃との関係は男性だけに限られない。女性でも、テストステロンと攻撃、および競争性などの関連行動との間に正の関係があることが研究から示されている (Cashdan, 2003)。女性は全体としてテストステロン水準が低いが、その水準の小さな変化から受ける影響は男性より大きい。
 
-It must be kept in mind that the observed relationships between testosterone levels and aggressive behavior that have been found in these studies cannot prove that testosterone causes aggression—the relationships are only correlational. In fact, the effect of aggression on testosterone is probably stronger than the effect of testosterone on aggression. Engaging in aggression causes temporary increases in testosterone. People who feel that they have been insulted show both more aggression as well as more testosterone (Cohen, Nisbett, Bosdle, & Schwarz, 1996), and the experience of stress is also associated with higher levels of testosterone and also with aggression. Even playing an aggressive game, such as tennis or chess, increases the testosterone levels of the winners and decreases the testosterone levels of the losers (Gladue, Boechler, & McCaul, 1989; Mazur, Booth, & Dabbs, 1992). Perhaps this is why the fans of the Montreal Canadiens, a professional ice hockey team, rioted after their team *won* an important game against the Pittsburgh Penguins in 2010.
+ただし、これらの研究で見つかっているテストステロン水準と攻撃行動との関係は、テストステロンが攻撃を*引き起こす*ことを証明するものではないことに注意しなければならない。これらは相関関係にすぎない。実際には、テストステロンが攻撃へ与える効果より、攻撃がテストステロンへ与える効果のほうが強い可能性がある。攻撃行動をとると、テストステロンは一時的に上昇する。侮辱されたと感じる人は、より攻撃的になると同時にテストステロンも増加し (Cohen, Nisbett, Bosdle, & Schwarz, 1996)、ストレスの経験もテストステロン水準の上昇および攻撃と関連している。テニスやチェスのような競争的なゲームをするだけでも、勝者のテストステロン水準は上昇し、敗者では低下する (Gladue, Boechler, & McCaul, 1989; Mazur, Booth, & Dabbs, 1992)。おそらくこれが、プロのアイスホッケーチーム Montreal Canadiens のファンが、2010年に Pittsburgh Penguins との重要な試合で自分たちのチームが*勝った*後に暴動を起こした理由なのかもしれない。
 
-Testosterone is not the only biological factor linked to human aggression. Recent research has found that serotonin is also important, as serotonin tends to inhibit aggression. Low levels of serotonin have been found to predict future aggression (Kruesi, Hibbs, Zahn, & Keysor, 1992; Virkkunen, de Jong, Bartko, & Linnoila, 1989). Violent criminals have lower levels of serotonin than do nonviolent criminals, and criminals convicted of impulsive violent crimes have lower serotonin levels than criminals convicted of premeditated crimes (Virkkunen, Nuutila, Goodwin, & Linnoila, 1987).
+人間の攻撃と関連する生物学的要因はテストステロンだけではない。近年の研究では、セロトニンも重要であることが明らかになっている。セロトニンには攻撃を抑制する傾向がある。低いセロトニン水準は将来の攻撃を予測することが明らかになっている (Kruesi, Hibbs, Zahn, & Keysor, 1992; Virkkunen, de Jong, Bartko, & Linnoila, 1989)。暴力犯罪者は非暴力犯罪者よりセロトニン水準が低く、衝動的な暴力犯罪で有罪となった犯罪者は、計画的犯罪で有罪となった犯罪者よりセロトニン水準が低い (Virkkunen, Nuutila, Goodwin, & Linnoila, 1987)。
 
-In one experiment assessing the influence of serotonin on aggression, Berman, McCloskey, Fanning, Schumacher, and Coccaro (2009) first chose two groups of participants, one of which indicated that they had frequently engaged in aggression (temper outbursts, physical fighting, verbal aggression, assaults, and aggression toward objects) in the past, and a second group that reported that they had not engaged in aggressive behaviors.
+セロトニンが攻撃へ与える影響を検討した実験で、Berman, McCloskey, Fanning, Schumacher, and Coccaro (2009) はまず2群の参加者を選んだ。一方は、過去にしばしば攻撃（激しい怒りの爆発、身体的なけんか、言語的攻撃、暴行、物への攻撃）を行ったと回答した群であり、もう一方は攻撃行動を行ってこなかったと回答した群だった。
 
-In a laboratory setting, participants from both groups were then randomly assigned to receive either a drug that raises serotonin levels or a placebo. Then the participants completed a competitive task with what they thought was another person in another room. (The opponent’s responses were actually controlled by computer.) During the task, the person who won each trial could punish the loser of the trial by administering electric shocks to the finger. Over the course of the game, the “opponent” kept administering more intense shocks to the participants.
+実験室では、両群の参加者を、セロトニン水準を上昇させる薬を投与される条件か、プラセボを投与される条件へランダムに割り当てた。その後、参加者は別室にいると思っている相手と競争課題を行った（実際には相手の反応はコンピューターで制御されていた）。課題では、各試行の勝者が敗者の指へ電気ショックを与えて罰することができた。ゲームが進むにつれて、「相手」は参加者へますます強いショックを与え続けた。
 
-As you can see in Figure 9.6, the participants who had a history of aggression were significantly more likely to retaliate by administering severe shocks to their opponent than were the less aggressive participants. The aggressive participants who had been given serotonin, however, showed significantly reduced aggression levels during the game. Increased levels of serotonin appear to help people and animals inhibit impulsive responses to unpleasant events (Soubrié, 1986).
+図9.6から分かるように、攻撃歴のある参加者は、攻撃性の低い参加者と比べ、相手へ強いショックを与えて報復する可能性が有意に高かった。しかし、セロトニンを投与された攻撃的参加者では、ゲーム中の攻撃水準が有意に低下した。セロトニン水準の上昇は、人間や動物が不快な出来事への衝動的反応を抑制するのを助けるようである (Soubrié, 1986)。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/1470deabce3076334df567ee4063a075-1.jpg)
 
-*Figure 9.6 Self reported aggression: serotonin vs. Placebo.*
+_図9.6 自己報告された攻撃：セロトニン対プラセボ。_
 
-Participants who reported having engaged in a lot of aggressive behaviors (right panel) showed more aggressive responses in a competitive game than did those who reported being less aggressive (left panel). The aggression levels for the more aggressive participants increased over the course of the experiment for those who did not take a dosage of serotonin but aggression did not significantly increase for those who had taken serotonin. Data are from Berman et al. (2009).
+多くの攻撃行動を行ったことがあると報告した参加者（右パネル）は、攻撃性が低いと報告した参加者（左パネル）より、競争ゲームでより攻撃的な反応を示した。より攻撃的な参加者のうち、セロトニンを投与されなかった人では実験の進行とともに攻撃水準が上昇したが、セロトニンを投与された人では攻撃は有意に上昇しなかった。データは Berman et al. (2009) に基づく。
 
-### Drinking Alcohol Increases Aggression
+### 飲酒は攻撃を増加させる
 
-Perhaps unsurprisingly, research has found that the consumption of alcohol increases aggression. In fact, excessive alcohol consumption is involved in a majority of violent crimes, including rape and murder (Abbey, Ross, McDuffie, & McAuslan, 1996). The evidence is very clear, both from correlational research designs and from experiments in which participants are randomly assigned either to ingest or not ingest alcohol, that alcohol increases the likelihood that people will respond aggressively to provocations (Bushman, 1997; Graham, Osgood, Wells, & Stockwell, 2006; Ito, Miller, & Pollock, 1996). Even people who are not normally aggressive may react with aggression when they are intoxicated (Bushman & Cooper, 1990).
+おそらく驚くことではないが、飲酒によって攻撃が増加することが研究から明らかになっている。実際、過度の飲酒は、レイプや殺人を含む暴力犯罪の大多数に関与している (Abbey, Ross, McDuffie, & McAuslan, 1996)。相関研究からも、参加者を飲酒条件または非飲酒条件へランダムに割り当てる実験からも、アルコールが挑発に対して攻撃的に反応する可能性を高めることを示す証拠は非常に明確である (Bushman, 1997; Graham, Osgood, Wells, & Stockwell, 2006; Ito, Miller, & Pollock, 1996)。普段は攻撃的でない人でさえ、酔うと攻撃的に反応することがある (Bushman & Cooper, 1990)。
 
-Alcohol increases aggression for a couple of reasons. First, alcohol disrupts executive functions, which are the cognitive abilities that help us plan, organize, reason, achieve goals, control emotions, and inhibit behavioral tendencies (Séguin & Zelazo, 2005). Executive functioning occurs in the prefrontal cortex, which is the area that allows us to control aggression. Alcohol therefore reduces the ability of the person who has consumed it to inhibit his or her aggression (Steele & Southwick, 1985). Acute alcohol consumption is more likely to facilitate aggression in people with low, rather than high, executive functioning abilities.
+アルコールが攻撃を増やす理由はいくつかある。第一に、アルコールは実行機能を妨げる。実行機能とは、計画する、組織化する、推論する、目標を達成する、感情を制御する、行動傾向を抑制することを助ける認知能力である (Séguin & Zelazo, 2005)。実行機能は、攻撃を制御できる領域である前頭前皮質で働く。そのためアルコールは、それを摂取した人が自分の攻撃を抑制する能力を低下させる (Steele & Southwick, 1985)。急性の飲酒は、実行機能能力が高い人より低い人で、攻撃を促進しやすい。
 
-Second, when people are intoxicated, they become more self-focused and less aware of the social situation, a state that is known as *alcohol myopia*. As a result, they are less likely to notice the social constraints that normally prevent them from engaging aggressively and are less likely to use those social constraints to guide them. We might normally notice the presence of a police officer or other people around us, which would remind us that being aggressive is not appropriate, but when we are drunk we are less likely to be so aware. The narrowing of attention that occurs when we are intoxicated also prevents us from being aware of the negative outcomes of our aggression. When we are sober, we realize that being aggressive may produce retaliation as well as cause a host of other problems, but we are less likely to be aware of these potential consequences when we have been drinking (Bushman & Cooper, 1990).
+第二に、酔うと人は自分自身へ注意が集中し、社会的状況への気づきが低下する。この状態は*アルコール近視（alcohol myopia）*と呼ばれる。その結果、通常なら攻撃行動を防ぐ社会的制約へ気づきにくくなり、その制約を自分の行動の指針として利用しにくくなる。普段なら警察官や周囲の他者の存在へ気づき、それによって攻撃的に振る舞うことが適切でないと思い出すかもしれないが、酔っているとそのことに気づきにくい。酔ったときに生じる注意の狭まりは、自分の攻撃がもたらす否定的結果へ気づくことも妨げる。しらふのときには、攻撃すれば報復を招いたり、ほかにも多くの問題を生じさせたりすることが分かるが、飲酒しているとこうした潜在的結果へ気づきにくい (Bushman & Cooper, 1990)。
 
-Alcohol also influences aggression through expectations. If we expect that alcohol will make us more aggressive, then we tend to become more aggressive when we drink. The sight of a bottle of alcohol or an alcohol advertisement increases aggressive thoughts and hostile attributions about others (Bartholow & Heinz, 2006), and the belief that we have consumed alcohol increases aggression (Bègue et al., 2009).
+アルコールは期待を通じても攻撃へ影響する。アルコールを飲むと自分はより攻撃的になると期待しているなら、実際に飲んだときより攻撃的になる傾向がある。酒の瓶やアルコール広告を見るだけでも、攻撃的思考や他者への敵意的帰属が増加し (Bartholow & Heinz, 2006)、自分がアルコールを摂取したと信じることも攻撃を増加させる (Bègue et al., 2009)。
 
-### Negative Emotions Cause Aggression
+### 否定的感情は攻撃を引き起こす
 
-If you were to try to recall the times that you have been aggressive, you would probably report that many of them occurred when you were angry, in a bad mood, tired, in pain, sick, or frustrated. And you would be right—we are much more likely to aggress when we are experiencing negative emotions. When we are feeling ill, when we get a poor grade on an exam, or when our car doesn’t start—in short, when we are angry and frustrated in general—we are likely to have many unpleasant thoughts and feelings, and these are likely to lead to violent behavior. Aggression is caused in large part by the negative emotions that we experience as a result of the aversive events that occur to us and by our negative thoughts that accompany them (Berkowitz & Heimer, 1989).
+自分が攻撃的だったときを思い出そうとすれば、その多くは怒っていた、機嫌が悪かった、疲れていた、痛みを感じていた、病気だった、または欲求不満だったときだと答えるだろう。そしてその認識は正しい。否定的感情を経験しているとき、私たちははるかに攻撃しやすい。気分が悪いとき、試験で悪い成績を取ったとき、自動車のエンジンがかからないとき――要するに、全般的に怒りや欲求不満を感じているとき――私たちは多くの不快な思考や感情を持ちやすく、それが暴力行動へつながりやすい。攻撃は、私たちに生じる嫌悪的出来事の結果として経験する否定的感情と、それに伴う否定的思考によって大きく引き起こされる (Berkowitz & Heimer, 1989)。
 
-One kind of negative affect that increases arousal when we are experiencing it is *frustration* (Berkowitz, 1989; Dollard, Doob, Miller, Mowrer, & Sears, 1939). Frustration occurs *when we feel that we are not obtaining the important goals that we have set for ourselves*. We get frustrated when our computer crashes while we are writing an important paper, when we feel that our social relationships are not going well, or when our schoolwork is going poorly. How frustrated we feel is also determined in large part through social comparison. If we can make downward comparisons with important others, in which we see ourselves as doing as well or better than they are, then we are less likely to feel frustrated. But when we are forced to make upward comparisons with others, we may feel frustration. When we receive a poorer grade than our classmates received or when we are paid less than our coworkers, this can be frustrating to us.
+経験しているときに覚醒を高める否定的感情の一つが*欲求不満（frustration）*である (Berkowitz, 1989; Dollard, Doob, Miller, Mowrer, & Sears, 1939)。欲求不満は、*自分で設定した重要な目標を達成できていないと感じるとき*に生じる。重要なレポートを書いている途中でコンピューターがクラッシュしたとき、社会的関係がうまくいっていないと感じるとき、学校の課題が思うように進まないとき、私たちは欲求不満になる。どれほど欲求不満を感じるかは、社会的比較によっても大きく決まる。重要な他者と下方比較を行い、自分が相手と同じくらい、あるいはそれ以上うまくいっていると見られるなら、欲求不満になりにくい。一方、他者との上方比較を余儀なくされると、欲求不満を感じることがある。クラスメートより悪い成績を取ったり、同僚より低い給料しかもらっていなかったりすると、それは欲求不満を引き起こしうる。
 
-Although frustration is an important cause of the negative affect that can lead to aggression, there are other sources as well. In fact, anything that leads to discomfort or negative emotions can increase aggression. Consider pain, for instance. Berkowitz (1993b) reported a study in which participants were made to feel pain by placing their hands in a bucket of ice-cold water, and it was found that this source of pain also increased subsequent aggression. As another example, working in extremely high temperatures is also known to increase aggression—when we are hot, we are more aggressive. Griffit and Veitch (1971) had students complete questionnaires either in rooms in which the heat was at a normal temperature or in rooms in which the temperature was over 32 degrees Celsius (90 degrees Fahrenheit). The students in the latter condition expressed significantly more hostility.
+欲求不満は、攻撃へつながる否定的感情の重要な原因だが、他にも原因はある。実際、不快感や否定的感情を生み出すものは何でも攻撃を増加させる可能性がある。たとえば痛みを考えてみよう。Berkowitz (1993b) は、参加者に氷水の入ったバケツへ手を入れさせて痛みを感じさせた研究を報告し、この痛みの経験も、その後の攻撃を増加させることを明らかにした。別の例として、非常に高温の環境で働くことも攻撃を増加させることが知られている。暑いとき、私たちはより攻撃的になる。Griffit and Veitch (1971) は、学生に、通常の室温の部屋か、気温が摂氏32度（華氏90度）を超える部屋のいずれかで質問紙へ回答させた。後者の条件の学生は、有意に強い敵意を示した。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Heat_wave_refresh_it_with_water.jpg)
 
-*Figure 9.7. Heat creates negative experiences that increase aggression. It has been predicted that global warming will increase overall levels of human aggression.*
+_図9.7 暑さは攻撃を増加させる否定的経験を生み出す。地球温暖化は、人間の攻撃全体の水準を高めると予測されている。_
 
-Hotter temperatures are associated with higher levels of aggression (Figure 9.7) and violence (Anderson, Anderson, Dorr, DeNeve, & Flanagan, 2000). Hotter regions generally have higher violent crime rates than cooler regions, and violent crime is greater on hot days than it is on cooler days, and during hotter years than during cooler years (Bushman, Wang, & Anderson, 2005). Even the number of baseball batters hit by pitches is higher when the temperature at the game is higher (Reifman, Larrick, & Fein, 1991). Researchers who study the relationship between heat and aggression have proposed that global warming is likely to produce even more violence (Anderson & Delisi, 2011).
+気温が高いことは、より高い攻撃水準（図9.7）や暴力と関連している (Anderson, Anderson, Dorr, DeNeve, & Flanagan, 2000)。一般に、暑い地域では涼しい地域より暴力犯罪率が高く、暑い日は涼しい日より、暑い年は涼しい年より暴力犯罪が多い (Bushman, Wang, & Anderson, 2005)。野球で打者が投球を当てられる回数でさえ、試合時の気温が高いほど多い (Reifman, Larrick, & Fein, 1991)。暑さと攻撃の関係を研究する研究者は、地球温暖化によってさらに暴力が増える可能性が高いと提案している (Anderson & Delisi, 2011)。
 
-#### Research Focus
+#### 研究フォーカス
 
-The Effects of Provocation and Fear of Death on Aggression
+##### 挑発と死への恐怖が攻撃へ与える影響
 
-McGregor et al. (1998) demonstrated that people who have been provoked by others may be particularly aggressive if they are also experiencing negative emotions about the fear of their own death. The participants in the study had been selected, on the basis of prior reporting, to have either politically liberal or politically conservative views. When they arrived at the lab they were asked to write a short paragraph describing their opinion of national politics. In addition, half of the participants (the *mortality salience condition*) were asked to “briefly describe the emotions that the thought of your own death arouses in you” and to “Jot down as specifically as you can, what you think will happen to you as you physically die, and once you are physically dead.” Participants in the *exam control condition* also thought about a negative event, but not one associated with a fear of death. They were instructed to “Please briefly describe the emotions that the thought of your next important exam arouses in you’’ and to “Jot down as specifically as you can, what you think will happen to you as you physically take your next exam, and once you are physically taking your next exam.”
+McGregor et al. (1998) は、他者から挑発された人は、自分自身の死への恐怖について否定的感情も経験している場合、特に攻撃的になる可能性があることを示した。研究の参加者は、事前の回答に基づき、政治的に liberal または conservative な見解を持つ人として選ばれていた。実験室へ到着すると、国内政治についての自分の意見を短い段落にまとめるよう求められた。さらに参加者の半数（_死の顕現性条件（mortality salience condition）_）は、「自分自身の死について考えることがあなたの中に引き起こす感情を簡潔に記述してください」「身体的に死んでいくとき、そして身体的に死んだ後、自分に何が起こると思うか、できるだけ具体的に書いてください」と求められた。*試験統制条件（exam control condition）*の参加者も否定的な出来事について考えたが、それは死への恐怖とは関係しないものだった。「次に受ける重要な試験について考えることがあなたの中に引き起こす感情を簡潔に記述してください」「次の試験を実際に受けるとき、そして試験を受けている最中、自分に何が起こると思うか、できるだけ具体的に書いてください」と指示された。
 
-Then the participants read an essay that had supposedly just been written by another person in the study. (The other person did not exist, but the participants didn’t know this until the end of the experiment.) The essay that the participants read had been prepared by the experimenters to condemn politically liberal views or to condemn politically conservative views. Thus one-half of the participants were provoked by the other person by reading a statement that strongly conflicted with their own political beliefs, whereas the other half read an essay that supported their beliefs (liberal or conservative).
+その後、参加者は、研究に参加している別の人がたった今書いたとされるエッセイを読んだ（その人物は実際には存在しなかったが、参加者は実験終了までそのことを知らなかった）。参加者が読むエッセイは、政治的に liberal な見解を非難するもの、または conservative な見解を非難するものとして実験者が作成していた。したがって参加者の半数は、自分自身の政治的信念と強く衝突する主張を読むことで相手から挑発され、残りの半数は自分の信念（liberal または conservative）を支持するエッセイを読んだ。
 
-At this point, the participants moved on to what they thought was a completely separate study in which they were to be tasting and giving their impression of some foods. Furthermore, they were told that it was necessary for the participants in the research study to administer the food samples to each other. The participants then found out that the food they were going to be sampling was spicy hot sauce and that they were going to be administering the sauce to the same person whose essay they had just read! In addition, the participants read some information about the other person that indicated that the other person very much disliked eating spicy food. Participants were given a taste of the hot sauce (which was very hot) and then instructed to place a quantity of it into a cup for the other person to sample. Furthermore, they were told that the other person had to eat all the sauce.
+この時点で参加者は、完全に別の研究だと思っている課題へ移り、いくつかの食品を試食して感想を述べることになった。さらに、その研究では参加者同士が互いに食品サンプルを渡す必要があると説明された。そして参加者は、試食する食品が辛いホットソースであり、しかも先ほどエッセイを読んだ相手へ、そのソースを渡すことになると知らされた。加えて、その相手について、辛い食べ物が非常に嫌いだという情報も読んだ。参加者はホットソース（非常に辛いもの）を味見し、その後、相手が試食するための量をカップへ入れるよう指示された。さらに、相手はそのソースをすべて食べなければならないと伝えられた。
 
-As you can see in Figure 9.8, “Mortality Salience and Aggression,” this research provides another example of how negative feelings can lead us to be aggressive after we have been provoked. The threatening essay had little effect on the participants in the exam control condition. On the other hand, the participants who were both provoked by the other person and who had also been reminded of their own death administered significantly more aggression than did the participants in the other three conditions.
+図9.8「死の顕現性と攻撃」から分かるように、この研究は、挑発された後、否定的感情がどのように攻撃へつながりうるかを示すもう一つの例である。脅威となるエッセイは、試験統制条件の参加者にはほとんど影響しなかった。一方、相手から挑発され、同時に自分自身の死も思い出させられた参加者は、他の3条件の参加者より有意に強い攻撃を示した。
 
 ![Figure 9.8 Mortality Salience and Aggression](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/481c5f01536dcd89a44ba6cbd57fcb97.jpg)
 
-*Figure 9.8 Mortality Salience and Aggression*
+_図9.8 死の顕現性と攻撃_
 
-A threat to one’s worldview increased aggression but only for participants who had been thinking about their own death. Data are from McGregor et al. (1998).
+自分の世界観への脅威は攻撃を増加させたが、それは自分自身の死について考えていた参加者だけであった。データは McGregor et al. (1998) に基づく。
 
-Just as negative feelings can increase aggression, positive affect can reduce it. In one study (Baron & Ball, 1974), participants were first provoked by an experimental confederate. Then the participants were, according to random assignment, shown either funny cartoons or neutral pictures. When the participants were given an opportunity to retaliate by giving shocks as part of an experiment on learning, those who had seen the positive cartoons gave fewer shocks than those who had seen the neutral pictures.
+否定的感情が攻撃を増加させるのと同様に、肯定的感情は攻撃を減少させることができる。ある研究 (Baron & Ball, 1974) では、まず実験協力者が参加者を挑発した。その後、参加者はランダムに、面白い漫画か中性的な画像のいずれかを見せられた。その後、学習についての実験の一部として電気ショックを与えて報復する機会が与えられると、肯定的な漫画を見た参加者は、中性的な画像を見た参加者より少ないショックを与えた。
 
-It seems that feeling good about ourselves, or feeling good about others, is incompatible with anger and aggression. You can see that this is in essence the flip side of the results we discussed in “[Chapter 8. Helping and Altruism](/translations/social-psychology/08-helping-and-altruism/)” regarding altruism: just as feeling bad leads us to aggress, feeling good makes us more likely to help and less likely to hurt others. This makes perfect sense, of course, since emotions are signals regarding the threat level around us. When we feel good, we feel safe and do not think that we need to aggress.
+自分自身について気分がよいこと、あるいは他者について好ましい感情を持つことは、怒りや攻撃とは両立しにくいようである。これは本質的に、「[第8章 援助と利他主義](/translations/social-psychology/08-helping-and-altruism/)」で利他主義について検討した結果の裏返しだと分かるだろう。気分が悪いことが攻撃へつながるのと同様に、気分がよいことは援助を増やし、他者を傷つける可能性を減らす。感情は周囲の脅威水準についてのシグナルなのだから、これは当然である。気分がよいとき、私たちは安全だと感じ、攻撃する必要があるとは考えない。
 
-Of course, negative emotions do not always lead to aggression toward the source of our frustration. If we receive a bad grade from our teacher or a ticket from a police officer, it is not likely that we will directly aggress against him or her. Rather, we may displace our aggression onto others, and particularly toward others who seem similar to the source of our frustration (Miller, Pedersen, Earleywine, & Pollock, 2003). Displaced aggression occurs *when negative emotions caused by one person trigger aggression toward a different person*. A recent meta-analysis has found clear evidence that people who are provoked but are unable to retaliate against the person who provoked them are more aggressive toward an innocent other person, and particularly toward people who are similar in appearance to the true source of the provocation, in comparison to those who were not previously provoked (Marcus-Newhall, Pedersen, Carlson, & Miller, 2000).
+もちろん、否定的感情が、欲求不満の原因となった相手への攻撃へ必ずつながるわけではない。教師から悪い成績をつけられたり、警察官から違反切符を切られたりしても、その人を直接攻撃する可能性は低いだろう。むしろ、攻撃を別の他者へ転嫁することがあり、特に欲求不満の原因と似ているように見える他者へ向けることがある (Miller, Pedersen, Earleywine, & Pollock, 2003)。転嫁された攻撃（displaced aggression）は、*ある人によって生じた否定的感情が、別の人への攻撃を引き起こすとき*に生じる。近年のメタ分析では、挑発されたものの挑発した本人へ報復できない人は、事前に挑発されなかった人と比べ、罪のない別の人へより攻撃的になり、特に本当の挑発源と外見が似ている人へ攻撃的になるという明確な証拠が得られている (Marcus-Newhall, Pedersen, Carlson, & Miller, 2000)。
 
-It is clear that negative affect increases aggression. And you will recall that emotions that are accompanied by high arousal are more intense than those that have only low levels of arousal. Thus it would be expected that aggression is more likely to occur when we are more highly aroused, and indeed this is the case. For instance, in his important research on arousal, Dolf Zillmann found that many types of stimuli that create arousal, including riding on a bicycle, listening to an erotic story, and experiencing loud noises, tend to increase both arousal as well as aggression (Zillman, Hoyt, & Day, 1974; Zillman, Katcher, & Milavsky, 1972). Arousal probably has its effects on aggression in part through the misattribution of emotion. If we are experiencing arousal that was actually caused by a loud noise or by any other cause, we might misattribute that arousal as anger toward someone who has recently frustrated or provoked us.
+否定的感情が攻撃を増加させることは明らかである。また、高い覚醒を伴う感情は、低い覚醒しか伴わない感情より強いことを思い出してほしい。したがって、覚醒が高いほど攻撃が起こりやすいと予想され、実際にそうである。たとえば覚醒に関する重要な研究で、Dolf Zillmann は、自転車へ乗ること、性的な物語を聞くこと、大きな騒音を経験することなど、覚醒を生み出すさまざまな刺激が、覚醒だけでなく攻撃も増加させる傾向があることを明らかにした (Zillman, Hoyt, & Day, 1974; Zillman, Katcher, & Milavsky, 1972)。覚醒が攻撃へ影響する一因は、感情の誤帰属にあると考えられる。大きな騒音など別の原因によって実際には生じた覚醒を経験していても、その覚醒を、最近自分を欲求不満にしたり挑発したりした相手への怒りだと誤って帰属する可能性がある。
 
-### Can We Reduce Negative Emotions by Engaging in Aggressive Behavior?
+### 攻撃行動を行うことで否定的感情を減らせるのか？
 
-We have seen that when we are experiencing strong negative emotions accompanied by arousal, such as when we are frustrated, angry, or uncomfortable, or anxious about our own death, we may be more likely to aggress. However, if we are aware that we are feeling these negative emotions, we might try to find a solution to prevent ourselves from lashing out at others. Perhaps, we might think, if we can release our negative emotions in a relatively harmless way, then the probability that we will aggress might decrease. Maybe you have tried this method. Have you ever tried to yell really loud, hit a pillow, or kick something when you are angry, with the hopes that doing so will release your aggressive tendencies?
+欲求不満、怒り、不快感、自分自身の死への不安など、高い覚醒を伴う強い否定的感情を経験すると、攻撃しやすくなることを見てきた。しかし、自分がこうした否定的感情を抱いていることに気づけば、他者へ激しく当たるのを防ぐ方法を探そうとするかもしれない。否定的感情を比較的無害な方法で解放できれば、その後に攻撃する可能性を減らせるのではないか、と考えるかもしれない。この方法を試した経験があるかもしれない。怒ったとき、攻撃傾向を解放できることを期待して、大声で叫んだり、枕を殴ったり、何かを蹴ったりしたことはないだろうか。
 
-*The idea that engaging in less harmful aggressive actions will reduce the tendency to aggress later in a more harmful way*, known as catharsis, is an old one. It was mentioned as a way of decreasing violence by the Greek philosopher Aristotle and was an important part of the theories of Sigmund Freud. Many others believe in catharsis too. Russell, Arms, and Bibby (1995) reported that more than two-thirds of the people they surveyed believed in catharsis, agreeing with statements that suggested that participating in and observing aggressive sports and other aggressive activities is a good way to get rid of one’s aggressive urges. People who believe in the value of catharsis use it because they think that doing so is going to make them feel better (Bushman, Baumeister, & Phillips, 2001). The belief in catharsis leads people to engage in popular techniques such as venting and cathartic therapies or even to play violent video games (Whitaker, Melzer, Steffgen, & Bushman, 2013), even though numerous studies have shown that these approaches are not effective.
+*より害の少ない攻撃行為をすることで、後により有害な形で攻撃する傾向が減少するという考え*は、カタルシス（catharsis）と呼ばれ、古くから存在する。ギリシャの哲学者 Aristotle は暴力を減らす方法としてこの考えへ言及し、Sigmund Freud の理論でも重要な位置を占めた。カタルシスを信じる人は他にも多い。Russell, Arms, and Bibby (1995) は、調査対象者の3分の2を超える人がカタルシスを信じており、攻撃的なスポーツやその他の攻撃的活動へ参加したり、それを観察したりすることは、自分の攻撃衝動を取り除くよい方法だという主張へ同意したと報告している。カタルシスの価値を信じる人は、それによって気分がよくなると考えるため、この方法を利用する (Bushman, Baumeister, & Phillips, 2001)。数多くの研究がこうした方法は有効でないことを示しているにもかかわらず、カタルシスへの信念によって、人は感情を吐き出す方法やカタルシス療法、さらには暴力的なビデオゲームをするといった人気の方法へ取り組む (Whitaker, Melzer, Steffgen, & Bushman, 2013)。
 
-It is true that reducing negative affect and arousal can reduce the likelihood of aggression. For instance, if we are able to distract ourselves from our negative emotions or our frustration by doing something else, rather than ruminating on it, we can feel better and will be less likely to aggress. However, as far as social psychologists have been able to determine, attempting to remove negative emotions by engaging in or observing aggressive behaviors (that is, the idea of catharsis) simply does not work.
+否定的感情や覚醒を減らすことで、攻撃の可能性を低下させられること自体は確かである。たとえば、否定的感情や欲求不満について反すうし続けるのではなく、別のことをしてそこから注意をそらすことができれば、気分が改善し、攻撃しにくくなる。しかし社会心理学者がこれまで明らかにしてきた限りでは、攻撃行動を行ったり観察したりすることで否定的感情を取り除こうとすること、すなわちカタルシスという考えは、まったく機能しない。
 
-In one relevant study, Bushman, Baumeister, and Stack (1999) first had their participants write an article about their opinions about a social topic such as abortion. Then they convinced them that another participant had read the article and provided very negative feedback about it. The other person said such things as, “This is one of the worst essays I have read!” Then the participants read a message suggesting that catharsis really did work. (It claimed that engaging in aggressive action is a good way to relax and reduce anger.) At this point, half of the participants were allowed to engage in a cathartic behavior—they were given boxing gloves, some instructions about boxing, and then got a chance to hit a punching bag for two minutes.
+関連するある研究で、Bushman, Baumeister, and Stack (1999) はまず参加者に、人工妊娠中絶などの社会的テーマについて自分の意見を述べる文章を書かせた。その後、別の参加者がその文章を読み、非常に否定的なフィードバックをしたと思わせた。その「相手」は、「これは今まで読んだ中で最悪のエッセイの一つだ！」などと言った。続いて参加者は、カタルシスは本当に有効だと示唆するメッセージを読んだ（攻撃的行動をとることは、リラックスして怒りを減らすよい方法だと主張する内容だった）。この時点で、参加者の半数はカタルシス的行動を行うことを許された。ボクシンググローブとボクシングについての簡単な説明を渡され、2分間パンチングバッグを殴る機会を得た。
 
-Then all the participants got a chance to engage in aggression with the same person who had angered them earlier. The participant and the partner played a game in which the losing person on each trial received a blast of noise. At the beginning of each trial, each participant was permitted to set the intensity of the noise that the other person would receive if he or she lost the trial, as well as the duration of the loser’s suffering, because the duration of the noise depended on how long the winner pressed the button.
+その後、すべての参加者に、先ほど自分を怒らせた同じ人物へ攻撃する機会が与えられた。参加者と相手は、各試行で負けた人が騒音を浴びせられるゲームを行った。各試行の開始時に、参加者は、相手がその試行で負けた場合に浴びる騒音の強度を設定できた。また、勝者がボタンを押している時間に応じて騒音の持続時間が決まるため、敗者がどれくらい長く苦しむかも設定できた。
 
-Contrary to the catharsis hypothesis, the students who punched the punching bag did not release and reduce their aggression as the message they had read suggested would happen. Rather, these students actually set a higher noise level and delivered longer bursts of noise than did the participants who did not get a chance to hit the punching bag. It seems that if we hit a punching bag, punch a pillow, or scream as loud as we can, with the idea of releasing our frustration, the opposite occurs—rather than decreasing aggression, these behaviors in fact increase it (Bushman et al., 1999). Participating in aggression simply makes us *more*, not less, aggressive.
+カタルシス仮説とは反対に、パンチングバッグを殴った学生は、読んだメッセージが示唆したように攻撃を解放して減少させることはなかった。むしろ、パンチングバッグを殴る機会を与えられなかった参加者より高い騒音レベルを設定し、より長く騒音を浴びせた。欲求不満を解放するつもりでパンチングバッグを殴ったり、枕を殴ったり、できる限り大声で叫んだりすると、実際には逆のことが起こるようである。つまり、こうした行動は攻撃を減少させるのではなく、むしろ増加させる (Bushman et al., 1999)。攻撃へ参加することは、攻撃性を低下させるのではなく、単に*より*攻撃的にする。
 
-One prediction that could be derived from the catharsis idea is that countries that are currently fighting wars would show less domestic aggression than those that are not. After all, the citizens in these countries read about the war in the newspapers and see images of it on TV on a regular basis—wouldn’t that reduce their needs and desires to aggress in other ways? Again, the answer is no. Rather than decreasing, aggression *increases* when the country that one lives in is currently or recently fighting a war, perhaps in part because war hardens group alliances (Bauer, Cassar, Chytilová & Heinrich, 2014). In an archival study, Archer and Gartner (1976) found that countries that were in wars experienced significant postwar increases in their rates of homicide. These increases were large in magnitude, occurred after both large wars and smaller wars, with several types of homicide rate indicators, in victorious as well as defeated nations, in nations with both improved and worsened postwar economies, among both men and women offenders, and among offenders of several age groups. Homicide rate increases occurred with particular consistency among nations with large numbers of combat deaths.
+カタルシスという考えから導かれる一つの予測は、現在戦争を行っている国では、戦争をしていない国より国内の攻撃が少ないはずだというものである。結局、そうした国の国民は新聞で戦争について読み、テレビで戦争の映像を日常的に見る。それなら、他の形で攻撃したいという必要や欲求が減るのではないだろうか。しかしここでも答えは「そうではない」である。自分が暮らす国が現在戦争中である、または最近まで戦争していた場合、攻撃は減少するどころか*増加する*。その一因は、戦争が集団内の結束を硬化させることにあるかもしれない (Bauer, Cassar, Chytilová & Heinrich, 2014)。資料研究で Archer and Gartner (1976) は、戦争を経験した国では戦後に殺人率が有意に上昇することを明らかにした。この上昇は規模が大きく、大規模戦争と小規模戦争のどちらの後にも、複数の種類の殺人率指標で、勝戦国・敗戦国の双方で、戦後の経済が改善した国・悪化した国の双方で、男性・女性の加害者の双方で、複数の年齢集団の加害者で生じていた。殺人率の上昇は、戦闘による死者数が多かった国で特に一貫していた。
 
-The increases in aggression that follow from engaging in aggressive behavior are not unexpected—and they occur for a variety of reasons. For one, engaging in a behavior that relates to violence, such as punching a pillow, increases our arousal. Furthermore, if we enjoy engaging in the aggressive behavior, we may be rewarded, making us more likely to engage in it again. And aggression reminds us of the possibility of being aggressive in response to our frustrations. In sum, relying on catharsis by engaging in or viewing aggression is dangerous behavior—it is more likely to increase the flames of aggression than to put them out. It is better to simply let the frustration dissipate over time or perhaps to engage in other nonviolent but distracting activities.
+攻撃行動を行った後に攻撃が増加することは意外ではなく、さまざまな理由で生じる。第一に、枕を殴るなど暴力と関連する行動を行うと、覚醒が高まる。さらに、攻撃行動をすることを楽しめば、それが報酬となり、その行動を再び行う可能性が高まる。そして攻撃は、欲求不満への反応として攻撃的に振る舞う可能性を思い出させる。要するに、攻撃へ参加したり攻撃を見たりすることでカタルシスに頼るのは危険な行動である。それは攻撃の炎を消すより、燃え上がらせる可能性のほうが高い。欲求不満が時間とともに薄れるのを待つか、暴力的ではないが注意をそらす別の活動をするほうがよい。
 
-:::tip[Key Takeaways]
+:::tip[要点]
 
-- The ability to aggress is part of the evolutionary adaptation of humans. But aggression is not the only, nor always the best, approach to dealing with conflict.
-- The amygdala plays an important role in monitoring fearful situations and creating aggressive responses to them. The prefrontal cortex serves as a regulator to our aggressive impulses.
-- The male sex hormone testosterone is closely associated with aggression in both men and women. The neurotransmitter serotonin helps us inhibit aggression.
-- Negative emotions, including fear, anger, pain, and frustration, particularly when accompanied by high arousal, may create aggression.
-- Contrary to the idea of catharsis, social psychological research has found that engaging in aggression does not reduce further aggression.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Recall a time when you experienced frustration. Did you react with aggression? If so, what type of aggression was it?
-2. Consider a time when you or someone you know engaged in an aggressive act with the goal of reducing further aggression (catharsis). Was the attempt successful?
+- 攻撃する能力は、人間の進化的適応の一部である。しかし攻撃は、対立へ対処する唯一の方法でも、常に最善の方法でもない。
+- 扁桃体は、恐怖を伴う状況を監視し、それに対する攻撃反応を生み出すうえで重要な役割を果たす。前頭前皮質は攻撃衝動の調節器として働く。
+- 男性性ホルモンのテストステロンは、男性でも女性でも攻撃と密接に関連する。神経伝達物質セロトニンは、攻撃を抑制するのを助ける。
+- 恐怖、怒り、痛み、欲求不満などの否定的感情は、特に高い覚醒を伴うとき、攻撃を生み出す可能性がある。
+- カタルシスという考えに反して、社会心理学研究では、攻撃行動を行っても、その後の攻撃は減少しないことが明らかになっている。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Abbey, A., Ross, L. T., McDuffie, D., & McAuslan, P. (1996). Alcohol and dating risk factors for sexual assault among college women. *Psychology of Women Quarterly, 20*(1), 147–169.
+1. 欲求不満を経験したときを思い出しなさい。攻撃で反応しただろうか。もしそうなら、それはどの種類の攻撃だっただろうか。
+2. あなた自身または知人が、その後の攻撃を減らすこと（カタルシス）を目標として攻撃行為を行ったときを考えなさい。その試みは成功しただろうか。
 
-Anderson, C. A., & DeLisi, M. (2011). Implications of global climate change for violence in developed and developing countries. In J. Forgas, A. Kruglanski, & K. Williams (Eds.), *Social conflict and aggression*. New York, NY: Psychology Press.
+:::
 
-Anderson, C. A., Anderson, K. B., Dorr, N., DeNeve, K. M., & Flanagan, M. (2000). Temperature and aggression. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 32, pp. 63–133). San Diego, CA: Academic Press.
+#### 参考文献
 
-Archer, D., & Gartner, R. (1976). Violent acts and violent times: A comparative approach to postwar homicide rates. *American Sociological Review, 41*(6), 937–963.
+Abbey, A., Ross, L. T., McDuffie, D., & McAuslan, P. (1996). Alcohol and dating risk factors for sexual assault among college women. _Psychology of Women Quarterly, 20_(1), 147–169.
 
-Banks, T., & Dabbs, J. M., Jr. (1996). Salivary testosterone and cortisol in delinquent and violent urban subculture. *Journal of Social Psychology, 136*(1), 49–56.
+Anderson, C. A., & DeLisi, M. (2011). Implications of global climate change for violence in developed and developing countries. In J. Forgas, A. Kruglanski, & K. Williams (Eds.), _Social conflict and aggression_. New York, NY: Psychology Press.
 
-Baron, R. A., & Ball, R. L. (1974). The aggression-inhibiting influence of nonhostile humor. *Journal of Experimental Social Psychology, 10*(1), 23–33.
+Anderson, C. A., Anderson, K. B., Dorr, N., DeNeve, K. M., & Flanagan, M. (2000). Temperature and aggression. In M. P. Zanna (Ed.), _Advances in experimental social psychology_ (Vol. 32, pp. 63–133). San Diego, CA: Academic Press.
 
-Bartholow, B. D., & Heinz, A. (2006). Alcohol and aggression without consumption: Alcohol cues, aggressive thoughts, and hostile perception bias. *Psychological Science, 17*(1), 30–37.
+Archer, D., & Gartner, R. (1976). Violent acts and violent times: A comparative approach to postwar homicide rates. _American Sociological Review, 41_(6), 937–963.
 
-Bauer, M., Cassar, A., Chytilová, J., & Henrich, J. (2014). War’s enduring effects on the development of egalitarian motivations and in-group biases. *Psychological Science, 25*(1), 47-57.
+Banks, T., & Dabbs, J. M., Jr. (1996). Salivary testosterone and cortisol in delinquent and violent urban subculture. _Journal of Social Psychology, 136_(1), 49–56.
 
-Bègue, L., Subra, B., Arvers, P., Muller, D., Bricout, V., & Zorman, M. (2009). A message in a bottle: Extrapharmacological effects of alcohol on aggression. *Journal of Experimental Social Psychology, 45*(1), 137–142.
+Baron, R. A., & Ball, R. L. (1974). The aggression-inhibiting influence of nonhostile humor. _Journal of Experimental Social Psychology, 10_(1), 23–33.
 
-Berkowitz, L. (1989). Frustration-aggression hypothesis: Examination and reformulation. *Psychological Bulletin, 106*(1), 59–73.
+Bartholow, B. D., & Heinz, A. (2006). Alcohol and aggression without consumption: Alcohol cues, aggressive thoughts, and hostile perception bias. _Psychological Science, 17_(1), 30–37.
 
-Berkowitz, L. (1993a). *Aggression: Its causes, consequences and control*. New York, NY: McGraw-Hill.
+Bauer, M., Cassar, A., Chytilová, J., & Henrich, J. (2014). War’s enduring effects on the development of egalitarian motivations and in-group biases. _Psychological Science, 25_(1), 47-57.
 
-Berkowitz, L. (1993b). Pain and aggression: Some findings and implications. *Motivation and Emotion, 17*(3), 277–293.
+Bègue, L., Subra, B., Arvers, P., Muller, D., Bricout, V., & Zorman, M. (2009). A message in a bottle: Extrapharmacological effects of alcohol on aggression. _Journal of Experimental Social Psychology, 45_(1), 137–142.
 
-Berkowitz, L., & Heimer, K. (1989). On the construction of the anger experience: Aversive events and negative priming in the formation of feelings. In L. Berkowitz (Ed.), *Advances in experimental social psychology* (Vol. 22, pp. 1–37). San Diego, CA: Academic Press.
+Berkowitz, L. (1989). Frustration-aggression hypothesis: Examination and reformulation. _Psychological Bulletin, 106_(1), 59–73.
 
-Berman, M. E., McCloskey, M. S., Fanning, J. R., Schumacher, J. A., & Coccaro, E. F. (2009). Serotonin augmentation reduces response to attack in aggressive individuals. *Psychological Science, 20*(6), 714–720.
+Berkowitz, L. (1993a). _Aggression: Its causes, consequences and control_. New York, NY: McGraw-Hill.
 
-Bushman, B. J. (Ed.). (1997). *Effects of alcohol on human aggression: Validity of proposed explanations*. New York, NY: Plenum Press.
+Berkowitz, L. (1993b). Pain and aggression: Some findings and implications. _Motivation and Emotion, 17_(3), 277–293.
 
-Bushman, B. J., & Cooper, H. M. (1990). Effects of alcohol on human aggression: An integrative research review. *Psychological Bulletin, 107*(3), 341–354.
+Berkowitz, L., & Heimer, K. (1989). On the construction of the anger experience: Aversive events and negative priming in the formation of feelings. In L. Berkowitz (Ed.), _Advances in experimental social psychology_ (Vol. 22, pp. 1–37). San Diego, CA: Academic Press.
 
-Bushman, B. J., Baumeister, R. F., & Phillips, C. M. (2001). Do people aggress to improve their mood? Catharsis beliefs, affect regulation opportunity, and aggressive responding. *Journal of Personality and Social Psychology, 81*(1), 17–32.
+Berman, M. E., McCloskey, M. S., Fanning, J. R., Schumacher, J. A., & Coccaro, E. F. (2009). Serotonin augmentation reduces response to attack in aggressive individuals. _Psychological Science, 20_(6), 714–720.
 
-Bushman, B. J., Baumeister, R. F., & Stack, A. D. (1999). Catharsis, aggression, and persuasive influence: Self-fulfilling or self-defeating prophecies? *Journal of Personality and Social Psychology, 76*(3), 367–376.
+Bushman, B. J. (Ed.). (1997). _Effects of alcohol on human aggression: Validity of proposed explanations_. New York, NY: Plenum Press.
 
-Bushman, B. J., Wang, M. C., & Anderson, C. A. (2005). Is the curve relating temperature to aggression linear or curvilinear? Assaults and temperature in Minneapolis reexamined. *Journal of Personality and Social Psychology, 89*(1), 62–66.
+Bushman, B. J., & Cooper, H. M. (1990). Effects of alcohol on human aggression: An integrative research review. _Psychological Bulletin, 107_(3), 341–354.
 
-Buss, D. M., & Duntley, J. D. (Eds.). (2006). *The evolution of aggression*. Madison, CT: Psychosocial Press.
+Bushman, B. J., Baumeister, R. F., & Phillips, C. M. (2001). Do people aggress to improve their mood? Catharsis beliefs, affect regulation opportunity, and aggressive responding. _Journal of Personality and Social Psychology, 81_(1), 17–32.
 
-Cashdan, E. (2003). Hormones and competitive aggression in women. *Aggressive Behavior, 29*(2), 107–115.
+Bushman, B. J., Baumeister, R. F., & Stack, A. D. (1999). Catharsis, aggression, and persuasive influence: Self-fulfilling or self-defeating prophecies? _Journal of Personality and Social Psychology, 76_(3), 367–376.
 
-Caspi, A., McClay, J., Moffitt, T., Mill, J., Martin, J., Craig, I. W.Caspi, A., McClay, J., Moffitt, T., Mill, J., Martin, J., Craig, I. W., et al.#8230;Poulton, R. (2002). Role of genotype in the cycle of violence in maltreated children. *Science, 297*(5582), 851–854.
+Bushman, B. J., Wang, M. C., & Anderson, C. A. (2005). Is the curve relating temperature to aggression linear or curvilinear? Assaults and temperature in Minneapolis reexamined. _Journal of Personality and Social Psychology, 89_(1), 62–66.
 
-Cohen, D., Nisbett, R. E., Bosdle, B., & Schwarz, N. (1996). Insult, aggression, and the southern culture of honor: An “experimental ethnography.” *Journal of Personality and Social Psychology, 70*, 945–960.
+Buss, D. M., & Duntley, J. D. (Eds.). (2006). _The evolution of aggression_. Madison, CT: Psychosocial Press.
 
-Coie, J. D., & Dodge, K. A. (1998). Aggression and antisocial behavior. In N. Eisenberg & W. Damon (Eds.), *Handbook of child psychology* (5th ed., Vol. 3, pp. 779–862). Hoboken, NJ: John Wiley & Sons.
+Cashdan, E. (2003). Hormones and competitive aggression in women. _Aggressive Behavior, 29_(2), 107–115.
 
-Dabbs, J. M., Jr., Hargrove, M. F., & Heusel, C. (1996). Testosterone differences among college fraternities: Well-behaved vs. rambunctious. *Personality and Individual Differences, 20*(2), 157–161.
+Caspi, A., McClay, J., Moffitt, T., Mill, J., Martin, J., Craig, I. W.Caspi, A., McClay, J., Moffitt, T., Mill, J., Martin, J., Craig, I. W., et al.#8230;Poulton, R. (2002). Role of genotype in the cycle of violence in maltreated children. _Science, 297_(5582), 851–854.
 
-Daly, M., & Wilson, M. (Eds.). (1998). *The evolutionary social psychology of family violence*. Mahwah, NJ: Lawrence Erlbaum
+Cohen, D., Nisbett, R. E., Bosdle, B., & Schwarz, N. (1996). Insult, aggression, and the southern culture of honor: An “experimental ethnography.” _Journal of Personality and Social Psychology, 70_, 945–960.
 
-Daly, M., & Wilson, M. (Eds.). (1999). *An evolutionary psychological perspective on homicide*. Thousand Oaks, CA: Sage.
+Coie, J. D., & Dodge, K. A. (1998). Aggression and antisocial behavior. In N. Eisenberg & W. Damon (Eds.), _Handbook of child psychology_ (5th ed., Vol. 3, pp. 779–862). Hoboken, NJ: John Wiley & Sons.
 
-Davidson, R. J., Jackson, D. C., & Kalin, N. H. (2000). Emotion, plasticity, context, and regulation: Perspectives from affective neuroscience. *Psychological Bulletin, 126*(6), 890–909.
+Dabbs, J. M., Jr., Hargrove, M. F., & Heusel, C. (1996). Testosterone differences among college fraternities: Well-behaved vs. rambunctious. _Personality and Individual Differences, 20_(2), 157–161.
 
-Davidson, R. J., Putnam, K. M., & Larson, C. L. (2000). Dysfunction in the neural circuitry of emotion regulation—A possible prelude to violence. *Science, 289*(5479), 591–594.
+Daly, M., & Wilson, M. (Eds.). (1998). _The evolutionary social psychology of family violence_. Mahwah, NJ: Lawrence Erlbaum
 
-Dollard, J., Miller, N., & Doob, L. (1939). *Frustration and aggression*. New Haven, CT: Yale University Press.
+Daly, M., & Wilson, M. (Eds.). (1999). _An evolutionary psychological perspective on homicide_. Thousand Oaks, CA: Sage.
 
-Dubow, E. F., Huesmann, L. R., & Boxer, P. (2003). Theoretical and methodological considerations in cross-generational research on parenting and child aggressive behavior. *Journal of Abnormal Child Psychology, 31*(2), 185–192.
+Davidson, R. J., Jackson, D. C., & Kalin, N. H. (2000). Emotion, plasticity, context, and regulation: Perspectives from affective neuroscience. _Psychological Bulletin, 126_(6), 890–909.
 
-Gibson, K. R. (2002). Evolution of human intelligence: The roles of brain size and mental construction. *Brain Behavior and Evolution, 59*, 10–20.
+Davidson, R. J., Putnam, K. M., & Larson, C. L. (2000). Dysfunction in the neural circuitry of emotion regulation—A possible prelude to violence. _Science, 289_(5479), 591–594.
 
-Gladue, B. A., Boechler, M., & McCaul, K. D. (1989). Hormonal response to competition in human males. *Aggressive Behavior, 15*(6), 409–422.
+Dollard, J., Miller, N., & Doob, L. (1939). _Frustration and aggression_. New Haven, CT: Yale University Press.
 
-Graham, K., Osgood, D. W., Wells, S., & Stockwell, T. (2006). To what extent is intoxication associated with aggression in bars? A multilevel analysis. *Journal of Studies on Alcohol, 67*(3), 382–390.
+Dubow, E. F., Huesmann, L. R., & Boxer, P. (2003). Theoretical and methodological considerations in cross-generational research on parenting and child aggressive behavior. _Journal of Abnormal Child Psychology, 31_(2), 185–192.
 
-Griffit, W., & Veitch, R. (1971). Hot and crowded: Influence of population density and temperature on interpersonal affective behavior. *Journal of Personality and Social Psychology, 17*(1), 92–98.
+Gibson, K. R. (2002). Evolution of human intelligence: The roles of brain size and mental construction. _Brain Behavior and Evolution, 59_, 10–20.
 
-Ito, T. A., Miller, N., & Pollock, V. E. (1996). Alcohol and aggression: A meta-analysis on the moderating effects of inhibitory cues, triggering events, and self-focused attention. *Psychological Bulletin, 120*(1), 60–82.
+Gladue, B. A., Boechler, M., & McCaul, K. D. (1989). Hormonal response to competition in human males. _Aggressive Behavior, 15_(6), 409–422.
 
-Kruesi, M. J., Hibbs, E. D., Zahn, T. P., & Keysor, C. S. (1992). A 2-year prospective follow-up study of children and adolescents with disruptive behavior disorders: Prediction by cerebrospinal fluid 5-hydroxyindoleacetic acid, homovanillic acid, and autonomic measures? *Archives of General Psychiatry, 49*(6), 429–435.
+Graham, K., Osgood, D. W., Wells, S., & Stockwell, T. (2006). To what extent is intoxication associated with aggression in bars? A multilevel analysis. _Journal of Studies on Alcohol, 67_(3), 382–390.
 
-Lagerspetz, K. M., & Lagerspetz, K. Y. (1971). Changes in the aggressiveness of mice resulting from selective breeding, learning and social isolation. *Scandinavian Journal of Psychology, 12*(4), 241–248.
+Griffit, W., & Veitch, R. (1971). Hot and crowded: Influence of population density and temperature on interpersonal affective behavior. _Journal of Personality and Social Psychology, 17_(1), 92–98.
 
-Marcus-Newhall, A., Pedersen, W. C., Carlson, M., & Miller, N. (2000). Displaced aggression is alive and well: A meta-analytic review. *Journal of Personality and Social Psychology, 78*(4), 670–689.
+Ito, T. A., Miller, N., & Pollock, V. E. (1996). Alcohol and aggression: A meta-analysis on the moderating effects of inhibitory cues, triggering events, and self-focused attention. _Psychological Bulletin, 120_(1), 60–82.
 
-Mazur, A., Booth, A., & Dabbs, J. M. (1992). Testosterone and chess competition. *Social Psychology Quarterly, 55*(1), 70–77.
+Kruesi, M. J., Hibbs, E. D., Zahn, T. P., & Keysor, C. S. (1992). A 2-year prospective follow-up study of children and adolescents with disruptive behavior disorders: Prediction by cerebrospinal fluid 5-hydroxyindoleacetic acid, homovanillic acid, and autonomic measures? _Archives of General Psychiatry, 49_(6), 429–435.
 
-McGregor, H. A., Lieberman, J. D., Greenberg, J., Solomon, S., Arndt, J., Simon, L., & Pyszczynski, T. (1998). Terror management and aggression: Evidence that mortality salience motivates aggression against worldview-threatening others. *Journal of Personality and Social Psychology, 74*(3), 590–605.
+Lagerspetz, K. M., & Lagerspetz, K. Y. (1971). Changes in the aggressiveness of mice resulting from selective breeding, learning and social isolation. _Scandinavian Journal of Psychology, 12_(4), 241–248.
 
-Miller, N., Pedersen, W. C., Earleywine, M., & Pollock, V. E. (2003). A theoretical model of triggered displaced aggression. *Personality and Social Psychology Review, 7*(1), 75–97.
+Marcus-Newhall, A., Pedersen, W. C., Carlson, M., & Miller, N. (2000). Displaced aggression is alive and well: A meta-analytic review. _Journal of Personality and Social Psychology, 78_(4), 670–689.
 
-Morris, J. S., Frith, C. D., Perrett, D. I., & Rowland, D. (1996). A differential neural response in the human amygdala to fearful and happy facial expressions. *Nature, 383*(6603), 812–815.
+Mazur, A., Booth, A., & Dabbs, J. M. (1992). Testosterone and chess competition. _Social Psychology Quarterly, 55_(1), 70–77.
 
-Phelps, E. A., O’Connor, K. J., Cunningham, W. A., Funayama, E. S., Gatenby, J. C., Gore, J. C., & Banaji, M. R. (2000). Performance on indirect measures of race evaluation predicts amygdala activation. *Journal of Cognitive Neuroscience, 12*(5), 729–738.
+McGregor, H. A., Lieberman, J. D., Greenberg, J., Solomon, S., Arndt, J., Simon, L., & Pyszczynski, T. (1998). Terror management and aggression: Evidence that mortality salience motivates aggression against worldview-threatening others. _Journal of Personality and Social Psychology, 74_(3), 590–605.
 
-Raine, A. (1993). *The psychopathology of crime: Criminal behavior as a clinical disorder*. San Diego, CA: Academic Press.
+Miller, N., Pedersen, W. C., Earleywine, M., & Pollock, V. E. (2003). A theoretical model of triggered displaced aggression. _Personality and Social Psychology Review, 7_(1), 75–97.
 
-Reifman, A. S., Larrick, R. P., & Fein, S. (1991). Temper and temperature on the diamond: The heat-aggression relationship in major league baseball. *Personality and Social Psychology Bulletin, 17*(5), 580–585.
+Morris, J. S., Frith, C. D., Perrett, D. I., & Rowland, D. (1996). A differential neural response in the human amygdala to fearful and happy facial expressions. _Nature, 383_(6603), 812–815.
 
-Russell, G. W., Arms, R. L., & Bibby, R. W. (1995). Canadians’ beliefs in catharsis. *Social Behavior and Personality, 23*(3), 223–228.
+Phelps, E. A., O’Connor, K. J., Cunningham, W. A., Funayama, E. S., Gatenby, J. C., Gore, J. C., & Banaji, M. R. (2000). Performance on indirect measures of race evaluation predicts amygdala activation. _Journal of Cognitive Neuroscience, 12_(5), 729–738.
 
-Séguin, J. R., & Zelazo, P. D. (2005). Executive function in early physical aggression. In R. E. Tremblay, W. W. Hartup, & J. Archer (Eds.), *Developmental origins of aggression* (pp. 307–329). New York, NY: Guilford Press.
+Raine, A. (1993). _The psychopathology of crime: Criminal behavior as a clinical disorder_. San Diego, CA: Academic Press.
 
-Soubrié, P. (1986). Reconciling the role of central serotonin neurons in human and animal behavior. *Behavioral and Brain Sciences, 9*(2), 319–335.
+Reifman, A. S., Larrick, R. P., & Fein, S. (1991). Temper and temperature on the diamond: The heat-aggression relationship in major league baseball. _Personality and Social Psychology Bulletin, 17_(5), 580–585.
 
-Steele, C. M., & Southwick, L. (1985). Alcohol and social behavior: I. The psychology of drunken excess. *Journal of Personality and Social Psychology, 48*(1), 18–34.
+Russell, G. W., Arms, R. L., & Bibby, R. W. (1995). Canadians’ beliefs in catharsis. _Social Behavior and Personality, 23_(3), 223–228.
 
-Tellegen, A., Lykken, D. T., Bouchard, T. J., Wilcox, K. J., Segal, N. L., & Rich, S. (1988). Personality similarity in twins reared apart and together. *Journal of Personality and Social Psychology, 54*(6), 1031–1039.
+Séguin, J. R., & Zelazo, P. D. (2005). Executive function in early physical aggression. In R. E. Tremblay, W. W. Hartup, & J. Archer (Eds.), _Developmental origins of aggression_ (pp. 307–329). New York, NY: Guilford Press.
 
-Virkkunen, M., de Jong, J., Bartko, J. J., & Linnoila, M. (1989). Psychobiological concomitants of history of suicide attempts among violent offenders and impulsive fire setters. *Archives of General Psychiatry, 46*(7), 604–606.
+Soubrié, P. (1986). Reconciling the role of central serotonin neurons in human and animal behavior. _Behavioral and Brain Sciences, 9_(2), 319–335.
 
-Virkkunen, M., Nuutila, A., Goodwin, F. K., & Linnoila, M. (1987). Cerebrospinal fluid monoamine metabolite levels in male arsonists. *Archives of General Psychiatry, 44*(3), 241–247.
+Steele, C. M., & Southwick, L. (1985). Alcohol and social behavior: I. The psychology of drunken excess. _Journal of Personality and Social Psychology, 48_(1), 18–34.
 
-Whitaker, J. L., Melzer, A., Steffgen, G. & Bushman, B. J. (2013). The allure of the forbidden: Breaking taboos, frustration, and attraction to violent video games. *Psychological Science, 24*(4), 507.513.
+Tellegen, A., Lykken, D. T., Bouchard, T. J., Wilcox, K. J., Segal, N. L., & Rich, S. (1988). Personality similarity in twins reared apart and together. _Journal of Personality and Social Psychology, 54_(6), 1031–1039.
 
-Zillman, D., Hoyt, J. L., & Day, K. D. (1974). Strength and duration of the effect of aggressive, violent, and erotic communications on subsequent aggressive behavior. *Communication Research, 1*(3), 286–306.
+Virkkunen, M., de Jong, J., Bartko, J. J., & Linnoila, M. (1989). Psychobiological concomitants of history of suicide attempts among violent offenders and impulsive fire setters. _Archives of General Psychiatry, 46_(7), 604–606.
 
-Zillman, D., Katcher, A. H., & Milavsky, B. (1972). Excitation transfer from physical exercise to subsequent aggressive behavior. *Journal of Experimental Social Psychology, 8*(3), 247–259.
+Virkkunen, M., Nuutila, A., Goodwin, F. K., & Linnoila, M. (1987). Cerebrospinal fluid monoamine metabolite levels in male arsonists. _Archives of General Psychiatry, 44_(3), 241–247.
 
-#### Image Descriptions
+Whitaker, J. L., Melzer, A., Steffgen, G. & Bushman, B. J. (2013). The allure of the forbidden: Breaking taboos, frustration, and attraction to violent video games. _Psychological Science, 24_(4), 507.513.
 
-**<a id="id9.4"></a>Figure 9.4 Person-by-situation interaction effect**
+Zillman, D., Hoyt, J. L., & Day, K. D. (1974). Strength and duration of the effect of aggressive, violent, and erotic communications on subsequent aggressive behavior. _Communication Research, 1_(3), 286–306.
 
-A line graph with extent of childhood maltreatment on the x-axis and composite index of antisocial behaviour (z scores) on the y-axis. The data is summarized in the following table.
+Zillman, D., Katcher, A. H., & Milavsky, B. (1972). Excitation transfer from physical exercise to subsequent aggressive behavior. _Journal of Experimental Social Psychology, 8_(3), 247–259.
 
-*Composite index of antisocial behaviour (z scores)*
+#### 画像の説明
 
-| Childhood maltreatment | Low MAOA activity | High MAOA activity |
-| --- | --- | --- |
-| None | − 0.25 | between 0 and − 0.25 |
-| Probable | 0.25 | 0 |
-| Severe | 1 | between 0.25 and 0.5 |
+**図9.4 人物‐状況相互作用効果**
 
-[\[Return to Figure 9.4\]](/translations/social-psychology/09-02-the-biological-and-emotional-causes-of-aggression/)
+横軸に幼少期の虐待の程度、縦軸に反社会的行動の合成指標（z得点）を示した折れ線グラフ。データは以下の表に要約されている。
 
-**Figure 9.8 Mortality Salience and Aggression**
+_反社会的行動の合成指標（z得点）_
 
-A bar graph compares the the aggression of participants in worldview threatening essay condition and the worldview consistent essay condition. The aggression is measured by the grams of hot sauce allocated. The x-axis shows 2 different priming condition: exam control and mortality salience. The y-axis shows the grams of hot sauce allocated. The data is summarized in the following table.
+| 幼少期の虐待 | 低い MAOA 活動 | 高い MAOA 活動   |
+| ------------ | -------------- | ---------------- |
+| なし         | −0.25          | 0 と −0.25 の間  |
+| 可能性あり   | 0.25           | 0                |
+| 深刻         | 1              | 0.25 と 0.5 の間 |
 
-*Grams of hot sauce allocated*
+[\[図9.4へ戻る\]](/translations/social-psychology/09-02-the-biological-and-emotional-causes-of-aggression/)
 
-| Priming condition | Worldview threatening | Worldview consistent |
-| --- | --- | --- |
-| Exam control | 15 | between 25 and 30 |
-| Mortality salience | between 15 and 20 | between 10 and 15 |
+**図9.8 死の顕現性と攻撃**
 
-#### Media Attributions
+世界観を脅かすエッセイ条件と、世界観に一致するエッセイ条件における参加者の攻撃を比較した棒グラフ。攻撃は割り当てたホットソースのグラム数で測定されている。横軸には試験統制と死の顕現性という2つのプライミング条件が示され、縦軸には割り当てられたホットソースのグラム数が示される。データは以下の表に要約されている。
+
+_割り当てられたホットソース（グラム）_
+
+| プライミング条件 | 世界観への脅威 | 世界観と一致  |
+| ---------------- | -------------- | ------------- |
+| 試験統制         | 15             | 25 と 30 の間 |
+| 死の顕現性       | 15 と 20 の間  | 10 と 15 の間 |
+
+#### メディアの帰属表示
 
 - “[Heat wave refresh it with water](https://en.wikipedia.org/wiki/File:Heat_wave_refresh_it_with_water.jpg)” by Instant Vantage is licensed under a [CC BY-SA 2.0 licence](https://creativecommons.org/licenses/by-sa/2.0/deed.en).

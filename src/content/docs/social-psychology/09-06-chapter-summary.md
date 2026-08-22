@@ -1,64 +1,65 @@
 ---
-title: "9.6 Chapter Summary"
+title: "9.6 章のまとめ"
 sidebar:
   order: 64
 ---
-Aggression refers to behavior that is intended to harm another individual. To determine whether or not a behavior is aggressive, we must determine the intent of the perpetrator. The level of intent that underlies an aggressive behavior creates the distinction between emotional or impulsive aggression (which refers to aggression that occurs with only a small amount of forethought or intent) and instrumental or cognitive aggression (which is intentional and planned). Aggression can be nonphysical as well as physical, and nonphysical aggression can be very damaging to its victims.
 
-The ability to be aggressive to others, at least under some circumstances, is part of our fundamental human makeup. Because aggression helps in both our individual survival as well as in the survival of our genes, human beings need to be able to aggress. Under the right situation, if we feel that our self is threatened, almost all of us will aggress.
+攻撃とは、別の個人へ害を与えることを意図した行動を指す。ある行動が攻撃的かどうかを判断するには、加害者の意図を判断しなければならない。攻撃行動の根底にある意図の程度によって、感情的または衝動的攻撃（事前の熟慮や意図がほとんどないまま生じる攻撃）と、道具的または認知的攻撃（意図的で計画された攻撃）が区別される。攻撃は身体的なものだけでなく非身体的なものでもあり、非身体的攻撃も被害者へ非常に大きな害を与えうる。
 
-Aggression is controlled in large part by the area in the core of the brain known as the amygdala. Although the amygdala helps us perceive and respond to danger, and this may lead us to aggress, other parts of the brain—including the prefrontal cortex—help us control and inhibit our aggressive tendencies. Hormones and chemicals such as testosterone, serotonin, and alcohol also relate to our tendencies to aggress.
+少なくとも一定の状況では他者へ攻撃的になれる能力は、人間の基本的な構成の一部である。攻撃は個人の生存と遺伝子の生存の双方に役立つため、人間には攻撃できる能力が必要である。適切な状況で自己が脅かされていると感じれば、ほぼ誰でも攻撃する。
 
-We are more likely to aggress when we are experiencing negative emotions—a signal that the self is threatened. Frustration occurs when we feel that we are not obtaining the important goals that we have set for ourselves, and frustration increases aggression. Other negative emotions, including pain and the fear of our own death, also increase aggression. These effects are heightened when we are also experiencing arousal. On the other hand, feeling good about ourselves, or feeling good about others, appears to be incompatible with anger and aggression.
+攻撃は、脳の中心部にある扁桃体と呼ばれる領域によって大きく統制されている。扁桃体は危険を知覚して反応するのを助け、それが攻撃へつながることがある一方、前頭前皮質など脳の別の部分は、攻撃傾向を統制・抑制するのを助ける。テストステロン、セロトニン、アルコールなどのホルモンや化学物質も、攻撃する傾向と関連している。
 
-Although catharsis, the idea that engaging in less harmful aggressive actions will reduce the tendency to aggress later in a more harmful way, is a theory that is endorsed by many people, there is no evidence that catharsis actually occurs. If we hit a punching bag, pound on a pillow, or scream as loud as we can with the idea of releasing our frustration, the opposite occurs—rather than decreasing aggression, these behaviors in fact increase it. Participating in aggression simply makes us more, not less, aggressive.
+自己が脅かされているシグナルである否定的感情を経験すると、攻撃しやすくなる。欲求不満は、自分で設定した重要な目標を達成できていないと感じるときに生じ、攻撃を増加させる。痛みや自分自身の死への恐怖など、別の否定的感情も攻撃を増加させる。こうした効果は、同時に覚醒を経験しているときさらに強くなる。一方、自分自身について気分がよいこと、または他者について好ましい感情を持つことは、怒りや攻撃とは両立しにくいようである。
 
-As would be expected by principles of social reinforcement, if we are rewarded by being aggressive, we’ll likely aggress again, but if we are punished for our violence, we may subsequently curb our aggression. And we learn aggression by modeling others, an outcome that is particularly problematic for children who grow up in violent families. Although rewarding aggression can increase it, there is, however, a problem with using punishment to reduce aggression: the punishment can be modeled, which can increase the aggressive behaviors that we are trying to stop.
+より害の少ない攻撃行為をすることで、後により有害な方法で攻撃する傾向が減るというカタルシスの考えは、多くの人が支持する理論だが、カタルシスが実際に生じることを示す証拠はない。欲求不満を解放するつもりでパンチングバッグを殴ったり、枕を叩いたり、できる限り大声で叫んだりすると、逆のことが起こる。攻撃は減少せず、実際にはこうした行動によって増加する。攻撃へ参加することは、攻撃性を低下させるのではなく、単により攻撃的にする。
 
-The evidence is clear that the more media violence we view, the more aggressive we are likely to be. If you watch a lot of violence, you are likely to be aggressive. Viewing violence increases the cognitive accessibility of violence, leads us to model that behavior, and desensitizes us to violence. In short, continually viewing violence substantially changes how we think about and respond to the events that occur to us.
+社会的強化の原理から予測されるように、攻撃的であることによって報酬を受ければ、おそらく再び攻撃する一方、暴力について罰を受ければ、その後は攻撃を抑える可能性がある。また私たちは、他者をモデリングすることで攻撃を学習する。これは暴力的な家庭で育つ子どもにとって特に問題となる。攻撃へ報酬を与えると攻撃が増える一方、攻撃を減らすために罰を使うことにも問題がある。罰そのものがモデリングされ、止めようとしている攻撃行動を増加させる可能性があるからである。
 
-Aggression occurs when we feel that we are being threatened by others, and thus personality variables that relate to perceived threat also predict aggression. Gender differences in aggression have been found in virtually every culture that has been studied. These differences in violent aggression are caused by hormones, by evolutionary factors, and also by social learning.
+メディア暴力を見る量が多いほど、攻撃的になる可能性が高いことを示す証拠は明確である。大量の暴力を見る人は攻撃的になりやすい。暴力を見ることで、暴力の認知的アクセス可能性が高まり、その行動をモデリングするようになり、暴力へ脱感作される。要するに、暴力を継続的に見ることは、私たちに起こる出来事についての考え方と反応の仕方を大きく変化させる。
 
-There are cultural differences, both across and within societies, in the observed level of violence. The social norm that condones and even encourages responding to insults with aggression is known as the culture of honor. The culture of honor leads even relatively minor conflicts or disputes to be seen as challenges to one’s social status and reputation and can therefore trigger aggressive responses.
+攻撃は他者から脅かされていると感じるときに生じるため、知覚された脅威と関連する性格変数も攻撃を予測する。攻撃のジェンダー差は、研究されてきたほぼすべての文化で見つかっている。暴力的攻撃におけるこうした差は、ホルモン、進化的要因、社会的学習によって生じる。
 
-Although biology, social learning, the social situation, and culture are all extremely important, we must keep in mind that none of these factors alone predicts aggression, but that they work together to do so.
+観察される暴力水準には、社会間でも社会内でも文化差がある。侮辱へ攻撃で反応することを容認し、さらには奨励する社会規範は、名誉の文化と呼ばれる。名誉の文化によって、比較的小さな対立や争いでさえ自分の社会的地位や評判への挑戦と見られ、そのため攻撃反応を引き起こす可能性がある。
 
-Our knowledge about aggression forms a foundation for potentially reducing violence. To prevent the cycle of violence from beginning, we must reduce exposure to violence, help people control their emotions, and work at the societal and government level to create and enforce laws that punish those who are aggressive.
+生物学、社会的学習、社会的状況、文化はいずれも極めて重要だが、これらのどの要因も単独で攻撃を予測するのではなく、協働して攻撃を予測することを忘れてはならない。
 
-This chapter has reviewed how social psychologists understand aggression. Hopefully, you now have a better understanding of the causes of aggression and may also work harder to try to prevent it—both in yourself and others.
+攻撃についての知識は、暴力を減らす可能性の基盤となる。暴力の連鎖が始まるのを防ぐには、暴力への接触を減らし、人々が感情を制御するのを助け、社会・政府レベルで攻撃的な人を罰する法律を整備・施行する必要がある。
 
-:::note[Interactive activity]
+本章では、社会心理学者が攻撃をどのように理解しているかを概観した。攻撃の原因について以前よりよく理解し、自分自身と他者の双方で、それを防ぐためより一層取り組めるようになったことを願う。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3328#h5p-21](https://opentextbc.ca/socialpsychology/?p=3328#h5p-21)
+:::note[インタラクティブ・アクティビティ]
+
+インタラクティブな H5P 要素は、この版のテキストから除外されています。オンライン版はこちらから確認できます：<br /> [https://opentextbc.ca/socialpsychology/?p=3328#h5p-21](https://opentextbc.ca/socialpsychology/?p=3328#h5p-21)
 
 :::
 
-**H5P: Test your Learning: Chapter 9 Multiple-Choice Quiz**
+**H5P：学習を確認しよう：第9章 多肢選択クイズ**
 
-Check how well you remember some key concepts and findings from this chapter by taking the multiple-choice quiz. Feedback is available after each question and at the end of the quiz. Good luck!
+多肢選択クイズに取り組み、本章の主要概念と研究知見をどの程度覚えているか確認しなさい。各問題の後とクイズの最後にフィードバックが表示される。健闘を祈る。
 
-1. Kyler wishes to harm Cristian, who does not wish to be harmed. What behavior does this describe?
-  1. Catharsis
-  2. Instrumental cognition
-  3. Type A
-  4. Aggression
-2. After seeing a clip of the Ultimate Fighting Championship online, eight-year old Carter started wrestling with his six-year old brother, Jay. He grabs him in a headlock he saw in the clip, and his mother has to intervene. Carter’s behavior here is best explained by \_\_\_\_.
-  1. instrumental aggression
-  2. displacement theory
-  3. the social learning perspective
-  4. excitation transfer theory
-3. Vincent has a hostile intention bias. This means that when someone does something to him that appears neutral in intent, he will often \_\_\_\_.
-  1. have a neutral intention in his response
-  2. often assume that the person has hostile intentions towards him
-  3. will find it difficult to see the other person’s hostility
-  4. respond prosocially to diffuse the situation
-4. Which of the following describes a culture of honor?
-  1. one where there is a strong military presence
-  2. one where cultural norms support aggressive responses if one’s honor has been insulted
-  3. one where wealth is distributed in honorable ways
-  4. one where there are cultural beliefs that prioritize collective over personal honor
-5. Which statement best describes the relationship between testosterone levels and aggression?
-  1. testosterone and aggression levels influence each other.
-  2. testosterone levels influence aggression, but not the other way around.
-  3. there is no relationship between testosterone levels and aggression.
-  4. aggression influences testosterone levels, but not the other way around
+1. Kyler は、傷つけられることを望んでいない Cristian を傷つけたいと思っている。これはどの行動を説明しているか。
+1. カタルシス
+1. 道具的認知
+1. Type A
+1. 攻撃
+1. 8歳の Carter は、オンラインで Ultimate Fighting Championship の映像を見た後、6歳の弟 Jay とレスリングを始めた。映像で見た headlock を弟へかけ、母親が止めなければならなくなった。ここでの Carter の行動を最もよく説明するのは \_\_\_\_ である。
+1. 道具的攻撃
+1. 転嫁理論
+1. 社会的学習の観点
+1. 興奮転移理論
+1. Vincent には敵意的意図バイアスがある。これは、意図としては中立に見えることを誰かが彼へ行ったとき、彼はしばしば \_\_\_\_ ということを意味する。
+1. 自分の反応では中立的意図を持つ
+1. 相手が自分へ敵意ある意図を持っていると考えることが多い
+1. 相手の敵意を見抜くことが難しい
+1. 状況を和らげるため向社会的に反応する
+1. 以下のどれが名誉の文化を説明しているか。
+1. 軍事的存在感が強い文化
+1. 自分の名誉を侮辱された場合、攻撃的に反応することを文化規範が支持する文化
+1. 富が名誉ある方法で分配される文化
+1. 個人の名誉より集団の名誉を優先する文化的信念を持つ文化
+1. テストステロン水準と攻撃との関係を最もよく説明する文はどれか。
+1. テストステロンと攻撃の水準は互いに影響し合う。
+1. テストステロン水準は攻撃へ影響するが、その逆はない。
+1. テストステロン水準と攻撃の間に関係はない。
+1. 攻撃はテストステロン水準へ影響するが、その逆はない。
