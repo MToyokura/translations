@@ -1,6 +1,7 @@
 // @ts-check
 import starlight from "@astrojs/starlight";
 import { defineConfig } from "astro/config";
+import { socialPsychologySidebar } from "./tools/social-psychology-sidebar.mjs";
 
 // https://astro.build/config
 export default defineConfig({
@@ -63,7 +64,7 @@ export default defineConfig({
         {
           label: "Principles of Social Psychology",
           collapsed: true,
-          items: [{ autogenerate: { directory: "social-psychology" } }],
+          items: socialPsychologySidebar(),
         },
         {
           label: "Miscellaneous",
