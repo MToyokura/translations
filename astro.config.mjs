@@ -61,6 +61,11 @@ export default defineConfig({
           items: [{ autogenerate: { directory: "public-money-public-code" } }],
         },
         {
+          label: "Principles of Social Psychology",
+          collapsed: true,
+          items: [{ autogenerate: { directory: "social-psychology" } }],
+        },
+        {
           label: "Miscellaneous",
           collapsed: true,
           items: [{ autogenerate: { directory: "miscellaneous" } }],
