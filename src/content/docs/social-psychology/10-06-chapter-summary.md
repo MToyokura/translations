@@ -1,36 +1,37 @@
 ---
-title: "10.6 Chapter Summary"
+title: "10.6 章のまとめ"
 sidebar:
   order: 71
 ---
-We started out this chapter by looking at how groups are defined and perceived. One determinant of the perception of a group is a cognitive one—the perception of similarity. A group can only be a group to the extent that its members have something in common. A group also has more entitativity when the group members have frequent interaction and communication with each other. Interaction is particularly important when it is accompanied by interdependence—the extent to which the group members are mutually dependent upon each other to reach a goal. A group that develops group structure is also more likely to be seen as a group. The affect that we have toward the group we belong to—social identity—also helps to create an experience of a group. Most groups pass through a series of stages—forming, storming, norming and performing, and adjourning—during their time together.
 
-Because groups consist of many members, group performance is often better, and group decisions generally more accurate, than that of any individual acting alone. On the other hand, there are also costs to working in groups—we call them process losses.
+この章ではまず、集団がどのように定義され、知覚されるかを見た。集団の知覚を決める要因の一つは認知的なものであり、それは類似性の知覚である。集団は、そのメンバーに何らかの共通点がある範囲でのみ集団となりうる。また、メンバー同士が頻繁に相互作用し、コミュニケーションするほど、集団はより高い実体性をもつ。相互作用は、とくに相互依存、すなわち目標を達成するためにメンバー同士が互いに依存している程度を伴うときに重要である。集団構造を発達させる集団も、より集団として知覚されやすい。自分が所属する集団に対してもつ感情、すなわち社会的アイデンティティも、集団という経験をつくるのに役立つ。ほとんどの集団は、一緒に過ごす期間の中で、形成、混乱、規範形成、遂行、解散という一連の段階を通過する。
 
-A variety of research has found that the presence of others can create social facilitation—an increase in task performance—on many types of tasks. However, the presence of others sometimes creates poorer individual performance—social inhibition. According to Robert Zajonc’s explanation for the difference, when we are with others, we experience more arousal than we do when we are alone, and this arousal increases the likelihood that we will perform the dominant response—the action that we are most likely to emit in any given situation. Although the arousal model proposed by Zajonc is perhaps the most elegant, other explanations have also been proposed to account for social facilitation and social inhibition.
+集団は多くのメンバーからなるため、集団のパフォーマンスは、一人で行動する個人のものより高いことが多く、集団の意思決定も一般により正確である。一方、集団で働くことにはコストもあり、それをプロセス損失と呼ぶ。
 
-We can compare the *potential productivity* of the group—that is, what the group *should* be able to do, given its membership—with the *actual productivity* of the group by use of the following formula:
+さまざまな研究から、他者の存在は、多くの種類の課題で社会的促進、すなわち課題パフォーマンスの向上を生み出すことがわかっている。しかし、他者の存在が個人のパフォーマンスを悪化させる、社会的抑制を生む場合もある。Robert Zajoncによるこの違いの説明では、他者と一緒にいるとき、私たちは一人でいるときより高い覚醒を経験し、この覚醒によって優勢反応、すなわちある状況で最も生じやすい行動を行う可能性が高まる。Zajoncが提案した覚醒モデルはおそらく最も簡潔な説明であるが、社会的促進と社会的抑制を説明する他の説明も提案されている。
 
-actual productivity = potential productivity − process loss + process gain.
+集団の*潜在的生産性*、すなわちメンバー構成から考えて集団が*できるはずのこと*と、集団の*実際の生産性*は、次の式を使って比較できる。
 
-The actual productivity of a group is based in part on the member characteristics of the group—the relevant traits, skills, or abilities of the individual group members. But group performance is also influenced by situational variables, such as the type of task needed to be performed. Tasks vary in terms of whether they can be divided into smaller subtasks or not, whether the group performance on the task is dependent on the abilities of the best or the worst member of the group, what specific product the group is creating, and whether there is an objectively correct decision for the task.
+実際の生産性 = 潜在的生産性 − プロセス損失 + プロセス利得。
 
-Process losses are caused by events that occur within the group that make it difficult for the group to live up to its full potential. They occur in part as a result of coordination losses that occur when people work together and in part because people do not work as hard in a group as they do when they are alone—social loafing.
+集団の実際の生産性は、部分的には集団のメンバー特性、すなわち個々のメンバーがもつ関連する特性、技能、能力に基づいている。しかし集団パフォーマンスは、遂行する必要のある課題の種類などの状況変数からも影響を受ける。課題は、より小さな下位課題に分割できるか、集団パフォーマンスが最も優れたメンバーまたは最も能力の低いメンバーの能力に依存するか、集団がどのような具体的成果物をつくっているか、課題に客観的な正解があるかどうか、などの点で異なる。
 
-In terms of decision making, we reviewed many reasons why groups can and often do make better choices than individuals, for example, due to their wider knowledge base, their superior collective and transactive memories, and their greater ability to spot and correct mistakes. However, we also saw a number of phenomena illustrating when and how groups can make poorer decisions than individuals.
+プロセス損失は、集団内部で起こり、集団が潜在能力を十分に発揮することを難しくする出来事によって生じる。それは部分的には、人々が共同で働くときに生じる調整損失によって、また部分的には、人々が一人のときほど集団内では懸命に働かない、社会的手抜きによって生じる。
 
-One such group process that can lead to very poor group decisions is groupthink. Groupthink occurs when a group, which is made up of members who may actually be very competent and thus quite capable of making excellent decisions, nevertheless ends up making a poor decision as a result of a flawed group process and strong conformity pressures. And process losses also occur because group members tend to the shared information bias, which is a tendency to discuss information that they all have access to while ignoring equally important information that is available to only a few of the members.
+意思決定に関しては、より広い知識基盤、優れた集合的記憶とトランザクティブ・メモリー、誤りを見つけて修正する高い能力など、集団が個人よりよい選択を行える、そして実際によく行う理由を多数検討した。しかし同時に、集団がいつ、どのように個人より悪い意思決定をするかを示す多くの現象も見た。
 
-One technique that is frequently used to produce creative decisions in working groups is brainstorming. However, as a result of social loafing, evaluation apprehension, and production blocking, brainstorming also often creates a process loss in groups. Approaches to brainstorming that reduce production blocking, such as group support systems, can be successful.
+非常に悪い集団意思決定につながる可能性のある集団プロセスの一つが集団思考である。集団思考とは、実際には非常に有能で優れた意思決定をする能力が十分にあるメンバーから構成された集団であっても、欠陥のある集団プロセスと強い同調圧力の結果として悪い意思決定をしてしまうことである。また、集団メンバーが共有情報バイアス、すなわち少数のメンバーだけが利用できる同じくらい重要な情報を無視し、全員が利用できる情報について話し合う傾向をもつためにも、プロセス損失が生じる。
 
-Group polarization occurs when the attitudes held by the individual group members become more extreme than they were before the group began discussing the topic. Group polarization is the result of both cognitive and affective factors.
+作業集団で創造的な意思決定を生み出すためによく用いられる技法の一つがブレインストーミングである。しかし、社会的手抜き、評価懸念、生産ブロッキングの結果として、ブレインストーミングもしばしば集団にプロセス損失を生み出す。集団支援システムなど、生産ブロッキングを減らすブレインストーミングの方法は成功する可能性がある。
 
-Group members frequently overvalue the productivity of their group—the illusion of group effectivity. This occurs because the productivity of the group as a whole is highly accessible and because the group experiences high social identity. Thus groups must be motivated to work harder and to realize that their positive feelings may lead them to overestimate their worth.
+集団分極化は、個々の集団メンバーがもつ態度が、集団がその話題を討議し始める前より極端になるときに生じる。集団分極化は認知的要因と感情的要因の両方によって生じる。
 
-Perhaps the most straightforward approach to getting people to work harder in groups is to provide rewards for performance. This approach is frequently, but not always, successful. People also work harder in groups when they feel that they are contributing to the group and that their work is visible to and valued by the other group members.
+集団メンバーは、自分たちの集団の生産性を過大評価することが多い。これが集団有効性の錯覚である。これは、集団全体の生産性が認知的にアクセスしやすく、また集団が高い社会的アイデンティティを経験するために生じる。したがって、集団はより懸命に働くよう動機づけられ、肯定的な感情によって自分たちの価値を過大評価している可能性があることに気づく必要がある。
 
-Groups are also more effective when they develop appropriate social norms—for instance, norms about sharing information. Information is more likely to be shared when the group has plenty of time to make its decision. The group leader is extremely important in fostering norms of open discussion.
+集団で人々により懸命に働いてもらう最も直接的な方法は、おそらくパフォーマンスに対して報酬を与えることである。このアプローチはしばしば成功するが、常に成功するわけではない。また、人々は、自分が集団に貢献しており、その仕事が他のメンバーから見え、価値を認められていると感じるときにも、集団内でより懸命に働く。
 
-One aspect of planning that has been found to be strongly related to positive group performance is the setting of goals that the group uses to guide its work. Groups that set specific, difficult, and yet attainable goals perform better. In terms of group diversity, there are both pluses and minuses. Although diverse groups may have some advantages, the groups—and particularly the group leaders—must work to create a positive experience for the group members.
+集団は、たとえば情報共有についての規範など、適切な社会的規範を発達させるときにも、より効果的になる。集団が意思決定に十分な時間をもっているとき、情報はより共有されやすい。開かれた討議の規範を促すうえで、集団リーダーは非常に重要である。
 
-Your new knowledge about working groups can help you in your everyday life. When you find yourself in a working group, be sure to use this information to become a more effective group member and to make the groups you work in more productive.
+肯定的な集団パフォーマンスと強く関連することがわかっている計画の一側面は、集団が作業を導くために使う目標を設定することである。具体的で、困難ではあるが達成可能な目標を設定する集団は、よりよいパフォーマンスを示す。集団の多様性については、利点と欠点の両方がある。多様な集団にはいくつかの利点がある可能性があるが、集団、とくに集団リーダーは、メンバーにとって肯定的な経験をつくるために取り組まなければならない。
+
+作業集団について新たに得た知識は、日常生活で役立てることができる。作業集団に参加することになったときには、この情報を活用して、より効果的な集団メンバーとなり、自分が働く集団をより生産的にするようにしよう。

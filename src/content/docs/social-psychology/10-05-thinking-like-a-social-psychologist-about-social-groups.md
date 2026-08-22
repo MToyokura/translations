@@ -1,12 +1,13 @@
 ---
-title: "10.5 Thinking Like a Social Psychologist about Social Groups"
+title: "10.5 社会集団について社会心理学者のように考える"
 sidebar:
   order: 70
 ---
-This chapter has looked at the ways in which small working groups come together to perform tasks and make decisions. In particular, we have taken a close look at some of the advantages and disadvantages of collective versus solo performance. Although groups can perform many tasks well, and although people like to use groups to make decisions, they also often come with their own problems.
 
-Since you are likely to spend time working with others in small groups—almost everyone does—hopefully you can now see how groups can succeed and how they can fail. Will you use your new knowledge about social groups to help you be a more effective group member and to help the groups you work in become more effective?
+この章では、小規模な作業集団がどのように集まり、課題を遂行し、意思決定を行うかを見てきた。とくに、集団で行う場合と一人で行う場合のパフォーマンスについて、それぞれの利点と欠点を詳しく検討した。集団は多くの課題をうまく遂行でき、人々は意思決定に集団を利用することを好むが、集団には固有の問題も多く伴う。
 
-Because you are thinking like a social psychologist, you will realize that group performance and decision making are partly determined by the personalities of the members. But you also know that this is not enough and that group productivity and decision making are also influenced by what happens in the group itself. For example, groups may become too sure of themselves, and too attached to the social identity the group brings, to the detriment of looking at others’ perspectives. They may also experience strong conformity pressures, making it difficult for them to hear their individual voices and differences. Can you now see the many ways that you—either as a group member or as a group leader—can help prevent these negative outcomes?
+あなたは今後、小集団で他者と一緒に働くことに多くの時間を費やす可能性が高い――ほとんどの人がそうする――ので、集団がどのように成功し、どのように失敗しうるかが、今では見えるようになっているだろう。社会集団について新たに得た知識を使って、より効果的な集団メンバーになり、自分が働く集団をより効果的にすることができるだろうか。
 
-Your value as a group member will increase when you make use of your knowledge about groups. You now have many ideas about how to recognize phenomena like social loafing, groupthink, and group polarization when they occur and how to prevent them. And you can now see how important group discussion is. When you are in a group, you must work to get the group to talk about the topics fully, even if the group members feel that they have already done enough. Groups think that they are doing better than they really are, and you must work to help them overcome this overconfidence.
+社会心理学者のように考えるなら、集団のパフォーマンスと意思決定が、部分的にはメンバーのパーソナリティによって決まることに気づくだろう。しかし、それだけでは不十分であり、集団の生産性と意思決定は、集団そのものの内部で何が起こるかによっても影響されることも知っている。たとえば、集団は自信をもちすぎ、集団がもたらす社会的アイデンティティに強く執着しすぎることで、他者の視点を検討しなくなる場合がある。また、強い同調圧力を経験し、個々の声や違いに耳を傾けることが難しくなる場合もある。集団メンバーとして、または集団リーダーとして、こうした否定的結果を防ぐために自分ができる多くの方法が、今では見えるだろうか。
+
+集団についての知識を活用すると、集団メンバーとしてのあなたの価値は高まる。社会的手抜き、集団思考、集団分極化のような現象が生じたとき、それをどのように認識し、どう防ぐかについて、今では多くの考えをもっている。また、集団討議がどれほど重要かも理解できる。集団にいるときには、メンバーがすでに十分に話し合ったと感じていたとしても、話題について十分に討議するよう集団に働きかけなければならない。集団は、実際よりもうまくやっていると思いがちであり、あなたはその過信を乗り越えられるよう助けなければならない。

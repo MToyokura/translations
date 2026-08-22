@@ -1,336 +1,337 @@
 ---
-title: "10.3 Group Decision Making"
+title: "10.3 集団の意思決定"
 sidebar:
   order: 68
 ---
-:::note[Learning Objectives]
 
-1. Explain factors that can lead to process gain in group versus individual decision making.
-2. Explain how groupthink can harm effective group decision making.
-3. Outline the ways that lack of information sharing can reduced decision-making quality in group contexts.
-4. Explain why brainstorming can often be counterproductive to sound decision making in groups.
-5. Describe how group polarization can lead groups to make more extreme decisions than individuals.
-6. Explore important factors that lead juries to make better or worse decisions.
+:::note[学習目標]
+
+1. 個人による意思決定と比較して、集団による意思決定にプロセス利得をもたらしうる要因を説明する。
+2. 集団思考が効果的な集団意思決定をどのように損なうかを説明する。
+3. 情報共有の不足が、集団状況における意思決定の質を低下させる仕組みを概説する。
+4. ブレインストーミングが、集団での適切な意思決定にしばしば逆効果となりうる理由を説明する。
+5. 集団分極化によって、集団が個人より極端な意思決定をするようになる仕組みを説明する。
+6. 陪審がよりよい、またはより悪い意思決定をすることにつながる重要な要因を検討する。
 
 :::
 
-In the previous section, we explored some of the important ways that being in a group affects individual group members’ behavior, and, in turn, influences the group’s overall performance. As well as achieving high levels of performance, another important task of groups is to make decisions. Indeed, we often entrust groups, rather than individuals, with key decisions in our societies—for example, those made by juries and political parties. An important question to ask here is whether we are right to trust groups more than individuals to reach sound decisions. Are many heads really better than one?
+前節では、集団の中にいることが個々の集団メンバーの行動に影響し、それが集団全体のパフォーマンスに影響する重要な仕組みのいくつかを検討した。高いパフォーマンスを達成することに加えて、集団のもう一つの重要な課題は意思決定を行うことである。実際、私たちの社会では、陪審や政党による決定など、重要な意思決定を個人ではなく集団に委ねることが多い。ここで問うべき重要な問題は、適切な意思決定に到達するうえで、個人より集団を信頼することは正しいのか、ということである。本当に「三人寄れば文殊の知恵」なのだろうか。
 
-It turns out that this question can be a hard one to answer. For one thing, studying decision making is hard, because it is difficult to assess the quality of a decision on the basis of what was known at the time, independently of its outcome. This is particularly challenging as w*e naturally tend to look too much at the outcome when we evaluate decision making*, a phenomenon known as the outcome bias. Moreover, studying decision making in laboratory environments has generally involved providing group members with more information than they would typically have in the real world (Johnson & Johnson, 2012), and so the results may not always generalize here.
+この問いに答えるのは難しいことがわかる。第一に、意思決定を研究すること自体が難しい。なぜなら、意思決定の結果とは独立に、その時点でわかっていた情報だけに基づいて意思決定の質を評価することは困難だからである。とくに問題なのは、*私たちは意思決定を評価するとき、自然に結果を重視しすぎる傾向がある*ことであり、この現象は**結果バイアス（outcome bias）**と呼ばれる。さらに、実験室環境での意思決定研究では、一般に、現実世界で通常得られるよりも多くの情報が集団メンバーに与えられており（Johnson & Johnson, 2012）、そのため研究結果が常に現実場面に一般化できるとは限らない。
 
-Nevertheless, with these caveats in mind, it is possible to draw some tentative conclusions about when and why groups make better decisions than individuals, and also when and why they may end up making worse ones.
+それでも、こうした注意点を踏まえれば、集団がいつ、なぜ個人よりよい意思決定をするのか、また、いつ、なぜより悪い意思決定をしてしまうのかについて、いくつかの暫定的な結論を導くことができる。
 
-## Process Gains in Group versus Individual Decision Making
+## 集団対個人の意思決定におけるプロセス利得
 
-One important factor that helps groups to outperform individuals on decision-making tasks is the type of interdependence they have. In general, positively interdependent (cooperative) groups tend to make better decisions than both negatively interdependent (competitive) groups and individuals, particularly in complex tasks (Johnson & Johnson, 2012). These process gains come from a variety of factors. One is that when group members interact, they often generate new ideas and solutions that they would not have arrived at individually (Watson, 1931). Group members are also more likely than individuals to notice and correct mistakes that can harm sound decision making (Ziller, 1957). They additionally have better collective memory, meaning that many minds hold more relevant information than one, and superior transactive memory, which occurs when interactions between group members facilitate the recall of important material (Forsyth, 2010). Also, when individual group members share information that is unique to them, they increase the total amount of data that the group can then draw on when making sound decisions (Johnson & Johnson, 2012). Given these obvious advantages, are there ever times when groups might make less optimal decisions than individuals? If you have ever sat in a group where, with hindsight, a fairly foolhardy decision was reached, then you probably already have your own answer to that question. The more interesting question then becomes why are many heads sometimes worse than one? Let’s explore some of the most dramatic reasons.
+意思決定課題で集団が個人を上回るのを助ける重要な要因の一つは、集団がもつ相互依存の種類である。一般に、正の相互依存（協力的）集団は、負の相互依存（競争的）集団や個人よりも、とくに複雑な課題でよい意思決定をする傾向がある（Johnson & Johnson, 2012）。こうしたプロセス利得は、さまざまな要因から生じる。一つは、集団メンバーが相互作用すると、一人では思いつかなかった新しいアイデアや解決策を生み出すことが多いことである（Watson, 1931）。また、集団メンバーは個人よりも、適切な意思決定を損なう誤りに気づき、それを修正しやすい（Ziller, 1957）。さらに、集団はより優れた集合的記憶をもつ。つまり、一つの頭脳より多くの頭脳のほうが関連情報を多く保持している。また、メンバー間の相互作用によって重要な情報の想起が促進される**トランザクティブ・メモリー（transactive memory）**も優れている（Forsyth, 2010）。さらに、個々のメンバーが自分だけがもつ情報を共有すると、集団が適切な意思決定を行う際に利用できるデータの総量が増える（Johnson & Johnson, 2012）。こうした明らかな利点があるにもかかわらず、集団が個人より最適でない意思決定をすることはあるのだろうか。あとから考えるとかなり無謀だった意思決定に至った集団に参加した経験があるなら、その答えはすでにわかっているかもしれない。では、より興味深い問いは、なぜ「多くの頭脳」が一つの頭脳より悪くなることがあるのか、ということになる。とくに劇的な理由のいくつかを検討してみよう。
 
-## Process Losses Due to Group Conformity Pressures: Groupthink
+## 集団の同調圧力によるプロセス損失：集団思考
 
-Groups can make effective decisions only when they are able to make use of the advantages outlined above that come with group membership. However, these conditions are not always met in real groups. As we saw in the chapter opener, one example of a group process that can lead to very poor group decisions is groupthink. Groupthink occurs *when a group that is made up of members who may actually be very competent and thus quite capable of making excellent decisions nevertheless ends up making a poor one as a result of a flawed group process and strong conformity pressures* (Baron, 2005; Janis, 2007).
+集団が効果的な意思決定を行えるのは、集団への所属によって得られる、先ほど述べた利点を活用できる場合に限られる。しかし、現実の集団では、こうした条件が常に満たされるわけではない。章の冒頭で見たように、非常に悪い集団意思決定につながる集団プロセスの一例が**集団思考（groupthink）**である。集団思考とは、*実際には非常に有能で、優れた意思決定をする能力を十分にもっているメンバーからなる集団であっても、欠陥のある集団プロセスと強い同調圧力の結果として、悪い意思決定をしてしまうこと*である（Baron, 2005; Janis, 2007）。
 
-Groupthink is more likely to occur in groups in which the members are feeling strong social identity—for instance, when there is a powerful and directive leader who creates a positive group feeling, and in times of stress and crisis when the group needs to rise to the occasion and make an important decision. The problem is that groups suffering from groupthink become unwilling to seek out or discuss discrepant or unsettling information about the topic at hand, and the group members do not express contradictory opinions. Because the group members are afraid to express ideas that contradict those of the leader or to bring in outsiders who have other information, the group is prevented from making a fully informed decision. Figure 10.9, “Antecedents and Outcomes of Groupthink,” summarizes the basic causes and outcomes of groupthink.<a id="f10.9"></a>
+集団思考は、メンバーが強い社会的アイデンティティを感じている集団で生じやすい。たとえば、肯定的な集団感情をつくり出す強力で指示的なリーダーがいる場合や、集団が困難に立ち向かい重要な意思決定をしなければならないストレスや危機の時期などである。問題は、集団思考に陥った集団が、扱っている問題について食い違う情報や不安を引き起こす情報を探したり話し合ったりしたがらなくなり、メンバーが矛盾する意見を表明しなくなることである。メンバーがリーダーの考えに反する意見を表明したり、異なる情報をもつ外部者を招いたりすることを恐れるため、集団は十分な情報に基づく意思決定を行えなくなる。図10.9「集団思考の先行条件と結果」は、集団思考の基本的な原因と結果をまとめたものである。
 
-![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/06/4b301d56eae165efe32d8ff2e352f9bf.jpg)
+![image description linked in caption](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/06/4b301d56eae165efe32d8ff2e352f9bf.jpg)
 
-*Figure 10.9 Antecedents and Outcomes of Groupthink. [\[Image description\]](/translations/social-psychology/10-03-group-decision-making/)*
+_図10.9 集団思考の先行条件と結果。 [\[画像の説明\]](/translations/social-psychology/10-03-group-decision-making/)_
 
-Although at least some scholars are skeptical of the importance of groupthink in real group decisions (Kramer, 1998), many others have suggested that groupthink was involved in a number of well-known and important, but very poor, decisions made by government and business groups. Key historical decisions analyzed in terms of groupthink include the decision to invade Iraq made by President George Bush and his advisors, with the support of other national governments, including those from the United Kingdom, Spain, Italy, South Korea, Japan, Singapore, and Australia; the decision of President John F. Kennedy and his advisors to commit U.S. forces to help with an invasion of Cuba, with the goal of overthrowing Fidel Castro in 1962; and the policy of appeasement of Nazi Germany pursued by many European leaders in 1930s, in the lead-up to World War II. Groupthink has also been applied to some less well-known, but also important, domains of decision making, including pack journalism (Matusitz, & Breen, 2012). Intriguingly, groupthink has even been used to try to account for perceived anti-right-wing political biases of social psychologists (Redding, 2012).
+現実の集団意思決定における集団思考の重要性について懐疑的な研究者も少なくとも一部にはいるが（Kramer, 1998）、政府や企業集団が行った、よく知られた重要ではあるが非常に悪い意思決定の多くに、集団思考が関与していたと考える研究者も多い。集団思考の観点から分析されてきた主な歴史的意思決定には、George Bush大統領とその顧問たちが、United Kingdom、Spain、Italy、South Korea、Japan、Singapore、Australiaなど他国政府の支持を受けて行ったIraq侵攻の決定、John F. Kennedy大統領と顧問たちが1962年にFidel Castro打倒を目的とするCuba侵攻を支援するため米軍を投入する決定、そして第二次世界大戦前の1930年代に多くのEuropean指導者がNazi Germanyに対して進めた宥和政策などがある。集団思考は、パック・ジャーナリズム（Matusitz, & Breen, 2012）など、知名度は低いが重要な意思決定領域にも適用されてきた。興味深いことに、社会心理学者に認められるとされる反右翼的な政治的バイアスを説明するためにまで、集団思考が用いられている（Redding, 2012）。
 
-Careful analyses of the decision-making process in the historical cases outlined above have documented the role of conformity pressures. In fact, the group process often seems to be arranged to maximize the amount of conformity rather than to foster free and open discussion. In the meetings of the Bay of Pigs advisory committee, for instance, President Kennedy sometimes demanded that the group members give a voice vote regarding their individual opinions before the group actually discussed the pros and cons of a new idea. The result of these conformity pressures is a general unwillingness to express ideas that do not match the group norm.
+上記の歴史的事例における意思決定過程を詳細に分析すると、同調圧力の役割が記録されている。実際、集団プロセスは、自由で開かれた議論を促進するよりも、同調の程度を最大化するように構成されているように見えることが多い。たとえばBay of Pigsの諮問委員会の会議では、Kennedy大統領はときに、新しい案の長所と短所を集団が実際に議論する前に、メンバーそれぞれの意見を声による投票で表明するよう要求した。このような同調圧力の結果、集団規範に合わない考えを表明することへの一般的なためらいが生じる。
 
-The pressures for conformity also lead to the situation in which only a few of the group members are actually involved in conversation, whereas the others do not express any opinions. Because little or no dissent is expressed in the group, the group members come to believe that they are in complete agreement. In some cases, the leader may even select individuals (known as mindguards) *whose job it is to help quash dissent and to increase conformity to the leader’s opinions*.
+同調圧力はまた、実際の会話に参加するのが少数のメンバーだけで、他のメンバーは意見を表明しないという状況を生み出す。集団内で反対意見がほとんど、あるいはまったく表明されないため、メンバーは全員が完全に一致していると思うようになる。場合によっては、リーダーが**マインドガード（mindguards）**と呼ばれる人物を選ぶことさえある。その人の*役割は、反対意見を抑え、リーダーの意見への同調を高めるのを助けること*である。
 
-An outcome of the high levels of conformity found in these groups is that the group begins to see itself as extremely valuable and important, highly capable of making high-quality decisions, and invulnerable. In short, the group members develop extremely high levels of conformity and social identity. Although this social identity may have some positive outcomes in terms of a commitment to work toward group goals (and it certainly makes the group members feel good about themselves), it also tends to result in illusions of invulnerability, leading the group members to feel that they are superior and that they do not need to seek outside information. Such a situation is often conducive to poor decision making, which can result in tragic consequences.
+こうした集団でみられる高い同調の結果、集団は自分たちを非常に価値があり重要で、高品質の意思決定を行う能力が高く、傷つくことのない存在だとみなすようになる。要するに、メンバーは非常に高いレベルの同調と社会的アイデンティティを発達させる。この社会的アイデンティティは、集団目標に向かって努力することへのコミットメントという点では肯定的な結果をもたらすこともあり（そして確かにメンバー自身をよい気分にさせる）、同時に「自分たちは失敗しない」という幻想も生みやすい。そのため、メンバーは自分たちが優れており、外部情報を探す必要はないと感じるようになる。このような状況は悪い意思決定を促進することが多く、悲劇的な結果につながる場合がある。
 
-Interestingly, the composition of the group itself can affect the likelihood of groupthink occurring. More diverse groups, for instance, can help to ensure that a wider range of views are available to the group in making their decision, which can reduce the risk of groupthink. Thinking back to our case study, the more homogeneous the group are in terms of internal characteristics such as beliefs, and external characteristics such as gender, the more at risk of groupthink they may become (Kroon, Van Kreveld, & Rabbie, 1992). Perhaps, then, mixed gender corporate boards are more successful partly because they are better able to avoid the dangerous phenomenon of groupthink.
+興味深いことに、集団そのものの構成も、集団思考が生じる可能性に影響する。たとえば、より多様な集団では、意思決定に利用できる見解の幅が広くなりやすく、集団思考のリスクを下げることができる。この章の事例研究を振り返ると、信念のような内的特徴やジェンダーのような外的特徴に関して集団が同質的であるほど、集団思考に陥る危険性が高くなる可能性がある（Kroon, Van Kreveld, & Rabbie, 1992）。だとすれば、男女混合の企業取締役会がより成功しているのは、危険な集団思考という現象をよりうまく避けられることも一因かもしれない。
 
-### Cognitive Process Losses: Lack of Information Sharing
+### 認知的プロセス損失：情報共有の不足
 
-Although group discussion generally improves the quality of a group’s decisions, this will only be true if the group discusses the information that is most useful to the decision that needs to be made. One difficulty is that groups tend to discuss some types of information more than others. In addition to the pressures to focus on information that comes from leaders and that is consistent with group norms, discussion is influenced by the way the relevant information is originally shared among the group members. The problem is that *group members tend to discuss information that they all have access to while ignoring equally important information that is available to only a few of the members*, a tendency known as the shared information bias (Faulmüller, Kerschreiter, Mojzisch, & Schulz-Hardt, 2010; Reimer, Reimer, & Czienskowski (2010).
+集団討議は一般に集団の意思決定の質を高めるが、それが当てはまるのは、行うべき意思決定に最も役立つ情報について集団が話し合う場合だけである。問題の一つは、集団がある種類の情報を別の種類より多く話し合う傾向があることである。リーダーからの情報や集団規範と一致する情報に注目する圧力に加えて、討議は、関連情報がもともと集団メンバー間でどのように共有されていたかによって影響される。問題は、*集団メンバーは、少数のメンバーだけが利用できる同じくらい重要な情報を無視し、全員が利用できる情報について話し合う傾向がある*ことであり、この傾向は**共有情報バイアス（shared information bias）**と呼ばれる（Faulmüller, Kerschreiter, Mojzisch, & Schulz-Hardt, 2010; Reimer, Reimer, & Czienskowski, 2010）。
 
-#### Research Focus
+#### 研究フォーカス
 
-##### Poor Information Sharing in Groups
+##### 集団における不十分な情報共有
 
-In one demonstration of the shared information bias, Stasser and Titus (1985) used an experimental design based on the hidden profile task, as shown in Table 10.1. Students read descriptions of two candidates for a hypothetical student body presidential election and then met in groups to discuss and pick the best candidate. The information about the candidates was arranged so that one of the candidates (Candidate A) had more positive qualities overall in comparison with the other (Candidate B). Reflecting this superiority, in groups in which all the members were given all the information about both candidates, the members chose Candidate A 83% of the time after their discussion.
+共有情報バイアスを示した研究の一つで、StasserとTitus（1985）は、表10.1に示す**隠れたプロフィール課題（hidden profile task）**に基づく実験計画を用いた。学生は、架空の学生会長選挙に立候補した二人の候補者についての説明を読み、その後集団で集まり、話し合って最もよい候補を選んだ。候補者についての情報は、一方の候補者（候補者A）が、他方（候補者B）と比べて全体としてより多くの肯定的特性をもつように構成されていた。この優位性を反映して、両候補についてのすべての情報を全メンバーが与えられた集団では、討議後に83%の集団が候補者Aを選んだ。
 
-<table style="width: 100%;"><caption>Table 10.1 Hidden Profiles</caption> <thead><tr><th scope="col">Group member</th> <th scope="col">Information favoring Candidate A</th> <th scope="col">Information favoring Candidate B</th> </tr> </thead> <tbody><tr><td scope="row">X</td> <td>a1, a2</td> <td>b1, b2, b3</td> </tr> <tr><td scope="row">Y</td> <td>a1, a3</td> <td>b1, b2, b3</td> </tr> <tr><td scope="row">Z</td> <td>a1, a4</td> <td>b1, b2, b3</td> </tr> <tr><th colspan="3">This is an example of the type of “hidden profile” that was used by Stasser and Titus (1985) to study information sharing in group discussion. Stasser, G., &amp; Titus, W. (1985). Pooling of unshared information in group decision making: Biased information sampling during discussion.&nbsp;Journal of Personality and Social Psychology, 48(6), 1467–1478. (The researchers’ profiles were actually somewhat more complicated.) The three pieces of favorable information about Candidate B (b1, b2, and b3) were seen by all of the group members, but the favorable information about Candidate A (a1, a2, a3, and a4) was not given to everyone. Because the group members did not share the information about Candidate A, Candidate B was erroneously seen as a better choice.</th> </tr> </tbody> </table>
+<table style="width: 100%;"><caption>表10.1 隠れたプロフィール</caption> <thead><tr><th scope="col">集団メンバー</th> <th scope="col">候補者Aを支持する情報</th> <th scope="col">候補者Bを支持する情報</th> </tr> </thead> <tbody><tr><td scope="row">X</td> <td>a1, a2</td> <td>b1, b2, b3</td> </tr> <tr><td scope="row">Y</td> <td>a1, a3</td> <td>b1, b2, b3</td> </tr> <tr><td scope="row">Z</td> <td>a1, a4</td> <td>b1, b2, b3</td> </tr> <tr><th colspan="3">これは、Stasser and Titus（1985）が集団討議における情報共有を研究するために用いた「隠れたプロフィール」の種類の一例である。Stasser, G., &amp; Titus, W. (1985). Pooling of unshared information in group decision making: Biased information sampling during discussion.&nbsp;Journal of Personality and Social Psychology, 48(6), 1467–1478.（研究者が実際に用いたプロフィールは、もう少し複雑であった。）候補者Bについての3つの肯定的情報（b1, b2, b3）は全メンバーが見ていたが、候補者Aについての肯定的情報（a1, a2, a3, a4）は全員には与えられていなかった。集団メンバーが候補者Aについての情報を共有しなかったため、候補者Bが誤ってよりよい選択肢だとみなされた。</th> </tr> </tbody> </table>
 
-However, in some cases, the experimenters made the task more difficult by creating a “hidden profile,” in which each member of the group received only part of the information. In these cases, although all the information was potentially available to the group, it was necessary that it be properly shared to make the correct choice. Specifically, in this case, in which the information favoring Candidate B was shared, but the information favoring Candidate A was not, only 18% of the groups chose A, whereas the others chose the inferior candidate. This occurred because although the group members had access to all the positive information collectively, the information that was not originally shared among all the group members was never discussed. Furthermore, this bias occurred even in participants who were given explicit instructions to be sure to avoid expressing their initial preferences and to review all the available facts (Stasser, Taylor, & Hanna, 1989).
+しかし、一部の条件では、実験者は「隠れたプロフィール」を作ることで課題をさらに難しくした。この条件では、各集団メンバーは情報の一部だけを受け取った。集団全体としてはすべての情報を利用できる可能性があったものの、正しい選択をするには、それらを適切に共有する必要があった。具体的には、候補者Bを支持する情報は共有されていたが、候補者Aを支持する情報は共有されていなかったこの条件では、Aを選んだ集団はわずか18%で、残りは劣った候補者を選んだ。これは、集団全体としてはすべての肯定的情報にアクセスできたにもかかわらず、最初から全メンバーに共有されていなかった情報が討議されなかったために起きた。さらに、このバイアスは、最初の好みを表明しないよう注意し、利用可能なすべての事実を確認するよう明確に指示された参加者にさえ生じた（Stasser, Taylor, & Hanna, 1989）。
 
-Although the tendency to share information poorly seems to occur quite frequently, at least in experimentally created groups, it does not occur equally under all conditions. For one, groups have been found to better share information when the group members believe that there is a correct answer that can be found if there is sufficient discussion (Stasser & Stewart, 1992), and if they are forced to continue their discussion even after they believe that they have discussed all the relevant information (Larson, Foster-Fishman, & Keys, 1994). These findings suggest that an important job of the group leader is to continue group discussion until he or she is convinced that all the relevant information has been addressed.
+情報共有が不十分になる傾向は、少なくとも実験的に作られた集団ではかなり頻繁に生じるようだが、あらゆる条件で同じように生じるわけではない。第一に、十分に議論すれば見つけられる正解が存在すると集団メンバーが考えている場合（Stasser & Stewart, 1992）、また、関連情報をすべて話し合ったと思った後でも討議を続けるよう強制された場合（Larson, Foster-Fishman, & Keys, 1994）、集団は情報をよりよく共有することがわかっている。これらの知見は、集団リーダーの重要な仕事の一つが、関連するすべての情報が扱われたと確信できるまで討議を続けることだと示唆している。
 
-The structure of the group will also influence information sharing (Stasser & Taylor, 1991). Groups in which the members are more physically separated and thus have difficulty communicating with each other may find that they need to reorganize themselves to improve communication. And the status of the group members can also be important. Group members with lower status may have less confidence and thus be unlikely to express their opinions. Wittenbaum (1998) found that group members with higher status were more likely to share new information. However, those with higher status may sometimes dominate the discussion, even if the information that they have is not more valid or important (Hinsz, 1990). Groups are also likely to share unique information when the group members do not initially know the alternatives that need to be determined or the preferences of the other group members (Mojzisch & Schulz-Hardt, 2010; Reimer, Reimer, & Hinsz, 2010).
+集団の構造も情報共有に影響する（Stasser & Taylor, 1991）。メンバー同士が物理的に離れており、コミュニケーションが難しい集団では、コミュニケーションを改善するために構造を再編する必要があるかもしれない。また、メンバーの地位も重要になりうる。地位の低いメンバーは自信が低く、そのため意見を表明しにくい場合がある。Wittenbaum（1998）は、地位の高いメンバーほど新しい情報を共有する可能性が高いことを見いだした。しかし、地位の高い人は、その情報がより妥当または重要ではなくても討議を支配することがある（Hinsz, 1990）。また、集団メンバーが、決定すべき選択肢や他のメンバーの好みを最初から知らない場合にも、集団は固有情報を共有しやすい（Mojzisch & Schulz-Hardt, 2010; Reimer, Reimer, & Hinsz, 2010）。
 
-Findings showing that groups neither share nor discuss originally unshared information have very disconcerting implications for group decision making because they suggest that group discussion is likely to lead to very poor judgments. Not only is unshared information not brought to the table, but because the shared information is discussed repeatedly, it is likely to be seen as more valid and to have a greater influence on decisions as a result of its high cognitive accessibility. It is not uncommon that individuals within a working group come to the discussion with different types of information, and this unshared information needs to be presented. For instance, in a meeting of a design team for a new building, the architects, the engineers, and the customer representatives will have different and potentially incompatible information. Thus leaders of working groups must be aware of this problem and work hard to foster open climates that encourages information sharing and discussion.
+集団が、もともと共有されていなかった情報を共有も討議もしないことを示す知見は、集団意思決定にとって非常に憂慮すべき意味をもつ。なぜなら、集団討議が非常に悪い判断につながる可能性を示しているからである。共有されていない情報が議題に上らないだけでなく、共有情報は繰り返し話し合われるため、認知的アクセシビリティが高まり、より妥当な情報とみなされ、意思決定への影響も強くなりやすい。作業集団の個々人が、異なる種類の情報をもって討議に参加することは珍しくなく、この共有されていない情報は提示される必要がある。たとえば、新しい建物の設計チームの会議では、建築家、技術者、顧客代表は、それぞれ異なり、場合によっては両立しない情報をもっている。したがって、作業集団のリーダーはこの問題を認識し、情報共有と討議を促す開かれた雰囲気をつくるために努力しなければならない。
 
-Given its obvious pitfalls, an interesting question to ask is why the shared information bias seems to be so pervasive. Recalling the confirmation bias that we discussed in the chapter on social cognition, perhaps it reflects this tendency played out at the group level, where group members collaborate to provide confirmatory evidence for each other’s positions. Leading on from this, it could also reflect the tendency for people to wish to use groups to reinforce their own views. Perhaps sometimes groups become places where people seek to mutually validate each other’s shared perspectives, to the detriment of them searching out the alternatives. If these ideas are correct, given that we often choose to associate with similar others, then it may be important to seek out the views of group members that are likely to be most different from our own, in seeking to weaken the damaging effects of the shared information bias (Morrow & Deidan, 1992).
+明らかな落とし穴があるにもかかわらず、なぜ共有情報バイアスはこれほど広くみられるのだろうか。社会的認知の章で扱った確証バイアスを思い出すと、これはその傾向が集団レベルで現れたものかもしれない。すなわち、メンバー同士が協力して、それぞれの立場を確認する証拠を提供し合うのである。さらに、人々が自分の見解を強化するために集団を利用したいという傾向を反映している可能性もある。集団はときに、代替案を探すことを犠牲にして、共有された見方を相互に正当化し合う場所になるのかもしれない。もしこの考えが正しく、私たちが似た他者との交流を選ぶことが多いのだとすれば、共有情報バイアスの有害な影響を弱めるためには、自分自身の見方と最も異なる可能性が高い集団メンバーの意見を積極的に求めることが重要かもしれない（Morrow & Deidan, 1992）。
 
-### Cognitive Process Losses: Ineffective Brainstorming
+### 認知的プロセス損失：効果の低いブレインストーミング
 
-One technique that is frequently used to produce creative decisions in working groups is known as brainstorming. The technique was first developed by Osborn (1953) in an attempt to increase the effectiveness of group sessions at his advertising agency. Osborn had the idea that people might be able to effectively use their brains to “storm” a problem by sharing ideas with each other in groups. Osborn felt that creative solutions would be increased when the group members generated a lot of ideas and when judgments about the quality of those ideas were initially deferred and only later evaluated. Thus brainstorming was based on the following rules:
+作業集団で創造的な意思決定を生み出すためによく用いられる手法の一つが、**ブレインストーミング（brainstorming）**である。この手法は、Osborn（1953）が、自らの広告代理店における集団セッションの有効性を高めようとして初めて開発した。Osbornは、人々が集団でアイデアを共有することによって、頭脳を使って問題を「storm」できるのではないかと考えた。Osbornは、メンバーが多数のアイデアを生み出し、それらの質に対する判断を最初は保留し、後から評価することで、創造的な解決策が増えると考えた。したがって、ブレインストーミングは次の規則に基づいていた。
 
-- Each group member was to create as many ideas as possible, no matter how silly, unimportant, or unworkable they were thought to be.
-- As many ideas as possible were to be generated by the group.
-- No one was allowed to offer opinions about the quality of an idea (even one’s own).
-- The group members were encouraged and expected to modify and expand upon other’s ideas.
+- 各集団メンバーは、どれほどばかげている、重要でない、実行不可能だと思われるものでも、できる限り多くのアイデアをつくる。
+- 集団として、できる限り多くのアイデアを生み出す。
+- 誰も、アイデアの質について意見を述べてはならない（自分自身のアイデアについても同様である）。
+- 集団メンバーは、他者のアイデアを修正し、発展させることを奨励され、それが期待される。
 
-Researchers have devoted considerable effort to testing the effectiveness of brainstorming, and yet, despite the creativeness of the idea itself, there is very little evidence to suggest that it works (Diehl & Stroebe, 1987, 1991; Stroebe & Diehl, 1994). In fact, virtually all individual studies, as well as meta-analyses of those studies, find that regardless of the exact instructions given to a group, brainstorming groups do not generate as many ideas as one would expect, and the ideas that they do generate are usually of lesser quality than those generated by an equal number of individuals working alone who then share their results. Thus brainstorming represents still another example of a case in which, despite the expectation of a process gain by the group, a process loss is instead observed.
+研究者はブレインストーミングの有効性を検証するために多大な努力を払ってきたが、このアイデア自体の創造性にもかかわらず、実際に有効であることを示す証拠はほとんどない（Diehl & Stroebe, 1987, 1991; Stroebe & Diehl, 1994）。実際、ほぼすべての個別研究とそれらのメタ分析は、集団にどのような具体的指示を与えても、ブレインストーミング集団は期待されるほど多くのアイデアを生み出さず、生み出したアイデアも、一人で働いた同人数の個人が後から成果を共有した場合より質が低いのが通常であることを示している。したがって、ブレインストーミングは、集団によるプロセス利得が期待されるにもかかわらず、実際にはプロセス損失が観察されるもう一つの例である。
 
-A number of explanations have been proposed for the failure of brainstorming to be effective, and many of these have been found to be important. One obvious problem is social loafing by the group members, and at least some research suggests that this does cause part of the problem. For instance, Paulus and Dzindolet (1993) found that social loafing in brainstorming groups occurred in part because individuals perceived that the other group members were not working very hard, and they matched they own behavior to this perceived norm. To test the role of social loafing more directly, Diehl and Stroebe (1987) compared face-to-face brainstorming groups with equal numbers of individuals who worked alone; they found that face-to-face brainstorming groups generated fewer and less creative solutions than did an equal number of equivalent individuals working by themselves. However, for some of the face-to-face groups, the researchers set up a television camera to record the contributions of each of the participants in order to make individual contributions to the discussion identifiable. Being identifiable reduced social loafing and increased the productivity of the individuals in the face-to-face groups; but the face-to-face groups still did not perform as well as the individuals.
+ブレインストーミングが有効でない理由については、いくつかの説明が提案され、その多くが重要であることが示されている。明らかな問題の一つはメンバーによる社会的手抜きであり、少なくとも一部の研究は、これが問題の一因であることを示している。たとえば、PaulusとDzindolet（1993）は、ブレインストーミング集団での社会的手抜きが部分的に、他のメンバーがあまり懸命に働いていないと個人が知覚し、自分自身の行動をその知覚された規範に合わせるために生じることを見いだした。社会的手抜きの役割をより直接的に検証するため、DiehlとStroebe（1987）は、対面式のブレインストーミング集団と、一人で作業する同数の個人を比較した。その結果、対面式集団は、同数の個人がそれぞれ一人で作業した場合より、少なく、創造性の低い解決策しか生み出さなかった。しかし、一部の対面式集団では、研究者は各参加者の貢献を記録するテレビカメラを設置し、討議への個々の貢献を識別可能にした。識別可能であることは社会的手抜きを減らし、対面式集団の個人の生産性を高めたが、それでも対面式集団は個人ほど高いパフォーマンスを示さなかった。
 
-Even though individuals in brainstorming groups are told that no evaluation of the quality of the ideas is to be made, and thus that all ideas are good ones, individuals might nevertheless be unwilling to state some of their ideas in brainstorming groups because they are afraid that they will be negatively evaluated by the other group members. When individuals are told that other group members are more knowledgeable than they are, they reduce their own contributions (Collaros & Anderson, 1969), and when they are convinced that they themselves are experts, their contributions increase (Diehl & Stroebe, 1987).
+ブレインストーミング集団では、アイデアの質を評価してはならず、したがってすべてのアイデアがよいものだと告げられていても、他のメンバーから否定的に評価されることを恐れて、アイデアの一部を口にしたくないと感じる人がいるかもしれない。他のメンバーのほうが自分より知識があると告げられると、人々は自分の貢献を減らし（Collaros & Anderson, 1969）、逆に自分自身が専門家だと確信すると、貢献を増やす（Diehl & Stroebe, 1987）。
 
-Although social loafing and evaluation apprehension seem to cause some of the problem, the most important difficulty that reduces the effectiveness of brainstorming in face-to-face groups is that being with others in a group hinders opportunities for idea production and expression. In a group, *only one person can speak at a time, and this can cause people to forget their ideas because they are listening to others, or to miss what others are saying because they are thinking of their own ideas*, a problem known as production blocking. Considered another way, production blocking occurs because although individuals working alone can spend the entire available time generating ideas, participants in face-to-face groups must perform other tasks as well, and this reduces their creativity.
+社会的手抜きと評価懸念も問題の一部を引き起こすが、対面式集団でブレインストーミングの有効性を低下させる最も重要な問題は、集団内で他者と一緒にいることが、アイデアを生み出し表現する機会を妨げることである。集団では、_一度に話せるのは一人だけであり、そのため、人は他者の話を聞いている間に自分のアイデアを忘れたり、自分のアイデアを考えている間に他者の発言を聞き逃したりすることがある_。この問題は**生産ブロッキング（production blocking）**と呼ばれる。別の見方をすれば、一人で作業する個人は利用できる時間すべてをアイデア生成に使えるのに対し、対面集団の参加者は他の課題も行わなければならず、それによって創造性が低下するため、生産ブロッキングが生じる。
 
-Diehl and Stroebe (1987) demonstrated the importance of production blocking in another experiment that compared individuals with groups. In this experiment, rather than changing things in the real group, they created production blocking in the individual conditions through a turn-taking procedure, such that the individuals, who were working in individual cubicles, had to express their ideas verbally into a microphone, but they were only able to speak when none of the other individuals was speaking. Having to coordinate in this way decreased the performance of individuals such that they were no longer better than the face-to-face groups.
+DiehlとStroebe（1987）は、個人と集団を比較する別の実験で、生産ブロッキングの重要性を示した。この実験では、実際の集団側を変えるのではなく、個人条件に順番制の手続きを導入することで生産ブロッキングを作り出した。個別のブースで作業する人々は、自分のアイデアをマイクに向かって口頭で述べなければならなかったが、他の個人の誰も話していないときにしか発言できなかった。このような調整を必要としたことで個人のパフォーマンスは低下し、対面式集団を上回らなくなった。
 
-Follow-up research (Diehl & Stroebe, 1991) showed that the main factor responsible for productivity loss in face-to-face brainstorming groups is that the group members are not able to make good use of the time they are forced to spend waiting for others. While they are waiting, they tend to forget their ideas because they must concentrate on negotiating when it is going to be their turn to speak. In fact, even when the researchers gave the face-to-face groups extra time to perform the task (to make up for having to wait for others), they still did not reach the level of productivity of the individuals. Thus the necessity of monitoring the behavior of others and the delay that is involved in waiting to be able to express one’s ideas reduce the ability to think creatively (Gallupe, Cooper, Grise, & Bastianutti, 1994).
+その後の研究（Diehl & Stroebe, 1991）は、対面式ブレインストーミング集団の生産性低下の主因は、メンバーが他者を待つことを強制される時間をうまく利用できないことだと示した。待っている間、人々は自分がいつ話す番になるかを調整することに注意を向けなければならず、そのため自分のアイデアを忘れやすい。実際、研究者が対面式集団に、他者を待つ時間を補うための余分な時間を与えても、その生産性は個人の水準に達しなかった。このように、他者の行動を監視しなければならないことと、自分のアイデアを表明できるまで待つことによる遅延は、創造的に考える能力を低下させる（Gallupe, Cooper, Grise, & Bastianutti, 1994）。
 
-Although brainstorming is a classic example of a group process loss, there are ways to make it more effective. One variation on the brainstorming idea is known as the *nominal group technique* (Delbecq, Van de Ven, & Gustafson, 1975). The nominal group technique capitalizes on the use of individual sessions to generate initial ideas, followed by face-to-face group meetings to discuss and build on them. In this approach, participants first work alone to generate and write down their ideas before the group discussion starts, and the group then records the ideas that are generated. In addition, a round-robin procedure is used to make sure that each individual has a chance to communicate his or her ideas. Other similar approaches include the Delphi technique (Clayton, 1997; Hornsby, Smith, & Gupta, 1994) and Synectics (Stein, 1978).
+ブレインストーミングは集団のプロセス損失の典型例ではあるが、より効果的にする方法もある。ブレインストーミングの一つの変法は、**名目集団法（nominal group technique）**と呼ばれる（Delbecq, Van de Ven, & Gustafson, 1975）。名目集団法では、最初のアイデアを生み出す段階では個別セッションを用い、その後、対面式の集団会議でそれらを話し合い、発展させる。この方法では、集団討議を始める前に参加者がまず一人で作業し、アイデアを生み出して書き留め、その後、集団が生み出されたアイデアを記録する。また、各個人が自分のアイデアを伝える機会を確実にもてるよう、順番に発言する手続きが用いられる。類似する方法にはDelphi法（Clayton, 1997; Hornsby, Smith, & Gupta, 1994）やSynectics（Stein, 1978）がある。
 
-Contemporary advances in technology have created the ability for individuals to work together on creativity tasks via computer. These computer systems, generally known as *group support systems,* are used in many businesses and other organizations. One use involves brainstorming on creativity tasks. Each individual in the group works at his or her own computer on the problem. As he or she writes suggestions or ideas, they are passed to the other group members via the computer network, so that each individual can see the suggestions of all the group members, including their own.
+現代の技術の進歩により、人々はコンピューターを介して創造性課題に共同で取り組めるようになった。こうしたコンピューターシステムは一般に**集団支援システム（group support systems）**と呼ばれ、多くの企業やその他の組織で利用されている。その用途の一つが、創造性課題におけるブレインストーミングである。集団の各個人は自分のコンピューターで問題に取り組む。提案やアイデアを書くと、それらはコンピューターネットワークを通じて他のメンバーに送られるため、各人は自分自身のものを含め、全メンバーの提案を見ることができる。
 
-A number of research programs have found that electronic brainstorming is more effective than face-to-face brainstorming (Dennis & Valacich, 1993; Gallupe, Cooper, Grise, & Bastianutti, 1994; Siau, 1995), in large part because it reduces the production blocking that occurs in face-to-face groups. Groups that work together virtually rather than face-to-face have also been found to be more likely to share unique information (Mesmer-Magnus, DeChurch, Jimenez-Rodriguez, Wildman, & Schuffler, 2011). Each individual has the comments of all the other group members handy and can read them when it is convenient. The individual can alternate between reading the comments of others and writing his or her own comments and therefore is not required to wait to express his or her ideas. In addition, electronic brainstorming can be effective because it reduces evaluation apprehension, particularly when the participants’ contributions are anonymous (Connolly, Routhieaux, & Schneider, 1993; Valacich, Jessup, Dennis, & Nunamaker, 1992).
+複数の研究プログラムは、電子的ブレインストーミングが対面式ブレインストーミングより効果的であることを示している（Dennis & Valacich, 1993; Gallupe, Cooper, Grise, & Bastianutti, 1994; Siau, 1995）。その大きな理由は、対面式集団で生じる生産ブロッキングを減らすからである。また、対面ではなく仮想的に協働する集団は、固有情報を共有する可能性が高いことも示されている（Mesmer-Magnus, DeChurch, Jimenez-Rodriguez, Wildman, & Schuffler, 2011）。各個人は、他のすべてのメンバーのコメントを手元に置き、都合のよいときに読むことができる。他者のコメントを読むことと、自分のコメントを書くことを交互に行えるため、自分のアイデアを表明するために待つ必要がない。さらに、電子的ブレインストーミングは、参加者の貢献が匿名である場合にはとくに評価懸念を減らすため、効果的になりうる（Connolly, Routhieaux, & Schneider, 1993; Valacich, Jessup, Dennis, & Nunamaker, 1992）。
 
-In summary, the most important conclusion to be drawn from the literature on brainstorming is that the technique is less effective than expected because group members are required to do other things in addition to being creative. However, this does not necessarily mean that brainstorming is not useful overall, and modifications of the original brainstorming procedures have been found to be quite effective in producing creative thinking in groups. Techniques that make use of initial individual thought, which is later followed by group discussion, represent the best approaches to brainstorming and group creativity. When you are in a group that needs to make a decision, you can make use of this knowledge. Ask the group members to spend some time thinking about and writing down their own ideas before the group begins its discussion.
+要約すると、ブレインストーミング研究から得られる最も重要な結論は、集団メンバーが創造的であること以外のこともしなければならないため、この手法が期待ほど効果的ではないということである。ただし、これはブレインストーミング全体が役に立たないという意味ではなく、元の手続きを修正した方法の中には、集団で創造的思考を生み出すのにかなり効果的なものがある。最初に個人で考え、その後に集団討議を行う手法が、ブレインストーミングと集団創造性の最良のアプローチである。意思決定を必要とする集団に参加するときには、この知識を活用できる。集団討議を始める前に、各メンバーに自分のアイデアについて考え、書き留める時間を取ってもらうとよい。
 
-### Group Polarization
+### 集団分極化
 
-One common decision-making task of groups is to come to a consensus regarding a judgment, such as where to hold a party, whether a defendant is innocent or guilty, or how much money a corporation should invest in a new product. Whenever a majority of members in the group favors a given opinion, even if that majority is very slim, the group is likely to end up adopting that majority opinion. Of course, such a result would be expected, since, as a result of conformity pressures, the group’s final judgment should reflect the average of group members’ initial opinions.
+集団に共通する意思決定課題の一つは、パーティーをどこで開くか、被告人が有罪か無罪か、企業が新製品にいくら投資すべきか、といった判断について合意に達することである。集団内のメンバーの多数がある意見を支持している場合、その多数がごくわずかであっても、最終的に集団はその多数派意見を採用する可能性が高い。もちろん、同調圧力の結果として、集団の最終判断はメンバーの初期意見の平均を反映するはずなので、この結果自体は予想できる。
 
-Although groups generally do show pressures toward conformity, the tendency to side with the majority after group discussion turns out to be even stronger than this. It is commonly found that groups make even more extreme decisions, in the direction of the existing norm, than we would predict they would, given the initial opinions of the group members. Group polarization is said to occur *when,* *after discussion, the attitudes held by the individual group members become more extreme than they were before the group began discussing the topic* (Brauer, Judd, & Gliner, 2006; Myers, 1982). This may seem surprising, given the widespread belief that groups tend to push people toward consensus and the middle-ground in decision making. Actually, they may often lead to more extreme decisions being made than those that individuals would have taken on their own.
+しかし、集団に一般的に同調圧力があるとしても、集団討議後に多数派に同調する傾向は、それ以上に強いことがわかっている。集団は、メンバーの初期意見から予想されるよりも、既存の規範の方向へさらに極端な意思決定をすることがよくある。**集団分極化（group polarization）**とは、*討議の後、個々の集団メンバーがもつ態度が、その話題について集団が討議を始める前より極端になること*である（Brauer, Judd, & Gliner, 2006; Myers, 1982）。集団は人々を合意や中庸へ押しやるという広く共有された考えを踏まえると、これは意外に思えるかもしれない。実際には、集団はしばしば、個人が一人で行ったであろう意思決定より極端な意思決定へ導く場合がある。
 
-Group polarization was initially observed using problems in which the group members had to indicate how an individual should choose between a risky, but very positive, outcome and a certain, but less desirable, outcome (Stoner, 1968). Consider the following question:
+集団分極化は当初、集団メンバーが、危険ではあるが非常に肯定的な結果と、確実ではあるがあまり望ましくない結果のどちらを個人が選ぶべきかを判断する問題を使って観察された（Stoner, 1968）。次の問いを考えてみよう。
 
-Frederica has a secure job with a large bank. Her salary is adequate but unlikely to increase. However, Frederica has been offered a job with a relatively unknown startup company in which the likelihood of failure is high and in which the salary is dependent upon the success of the company. What is the minimum probability of the startup company’s success that you would find acceptable to make it worthwhile for Frederica to take the job? (choose one)
+Fredericaは大手銀行で安定した職に就いている。給与は十分だが、増える可能性は低い。しかしFredericaは、比較的無名のスタートアップ企業から仕事のオファーを受けた。その企業は失敗する可能性が高く、給与は会社の成功に依存する。Fredericaがその仕事を引き受けるだけの価値があるとあなたが考える、スタートアップ企業の成功確率の最低値はどれか。（一つ選びなさい）
 
-1 in 10, 3 in 10, 5 in 10, 7 in 10, 9 in 10
+10分の1、10分の3、10分の5、10分の7、10分の9
 
-Research has found group polarization on these types of decisions, such that the group recommendation is more risky (in this case, requiring a lower probability of success of the new company) than the average of the individual group members’ initial opinions. In these cases, the polarization can be explained partly in terms of diffusion of responsibility (Kogan & Wallach, 1967). Because the group as a whole is taking responsibility for the decision, the individual may be willing to take a more extreme stand, since he or she can share the blame with other group members if the risky decision does not work out.
+研究では、このような意思決定で集団分極化が見いだされており、集団の推奨は、個々のメンバーの初期意見の平均より危険なものになる（この場合、新会社が成功する確率がより低くてもよいとする）。こうした場合、分極化は部分的には責任の拡散によって説明できる（Kogan & Wallach, 1967）。意思決定の責任を集団全体が負うため、危険な意思決定がうまくいかなかった場合でも他のメンバーと責任を分け合えるので、個人はより極端な立場を取ることをいとわなくなる可能性がある。
 
-But group polarization is not limited to decisions that involve risk. For instance, in an experiment by Myers and Kaplan (1976), groups of students were asked to assess the guilt or innocence of defendants in traffic cases. The researchers also manipulated the strength of the evidence against the defendant, such that in some groups the evidence was strong and in other groups the evidence was weak. This resulted in two groups of juries—some in which the majority of the students initially favored conviction (on the basis of the strong evidence) and others in which a majority initially favored acquittal (on the basis of only weak evidence). The researchers asked the individuals to express their opinions about the guilt of the defendant both before and after the jury deliberated.
+しかし、集団分極化はリスクを伴う意思決定だけに限られない。たとえばMyersとKaplan（1976）の実験では、学生集団に、交通事件の被告人の有罪・無罪を評価させた。研究者は被告人に不利な証拠の強さも操作し、ある集団では証拠を強く、別の集団では弱くした。その結果、二種類の陪審集団ができた。強い証拠に基づいて、学生の多数が最初から有罪を支持する集団と、弱い証拠だけに基づいて、多数が最初から無罪を支持する集団である。研究者は、陪審が評議する前と後の両方で、被告人の有罪についての各人の意見を表明させた。
 
-As you can see in Figure 10.10, “Group Polarization,” the opinions that the individuals held about the guilt or innocence of the defendants were found to be more extreme after discussion than they were, on average, before the discussion began. That is, members of juries in which the majority of the individuals initially favored conviction became more likely to believe the defendant was guilty after the discussion, and members of juries in which the majority of the individuals initially favored acquittal became more likely to believe the defendant was innocent after the discussion. Similarly, Myers and Bishop (1970) found that groups of college students who had initially racist attitudes became more racist after group discussion, whereas groups of college students who had initially antiracist attitudes became less racist after group discussion. Similar findings have been found for groups discussing a very wide variety of topics and across many different cultures.
+図10.10「集団分極化」に示されるように、被告人の有罪・無罪について各人がもっていた意見は、平均すると討議前より討議後のほうが極端になった。すなわち、個人の多数が最初に有罪を支持していた陪審では、討議後に被告人が有罪だと考える可能性がさらに高まり、個人の多数が最初に無罪を支持していた陪審では、討議後に被告人が無罪だと考える可能性がさらに高まった。同様に、MyersとBishop（1970）は、当初から人種差別的な態度をもっていた大学生の集団は集団討議後にさらに人種差別的になり、当初から反人種差別的態度をもっていた集団は討議後にさらに人種差別的でなくなることを見いだした。非常に幅広い話題を話し合う集団や、多くの異なる文化でも類似した結果が得られている。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/d3785d0dc70f62d58ca0cad395dbd18d-1.jpg)
 
-*Figure 10.10 Group Polarization*
+_図10.10 集団分極化_
 
-The juries in this research were given either strong or weak evidence about the guilt of a defendant and then were either allowed or not allowed to discuss the evidence before making a final decision. Demonstrating group polarization, the juries that discussed the case made significantly more extreme decisions than did the juries that did not discuss the case. Data are from Myers and Kaplan (1976).
+この研究の陪審には、被告人の有罪について強い証拠または弱い証拠が与えられ、その後、最終決定を行う前に証拠について討議することを許された条件と許されなかった条件があった。集団分極化を示すように、事件について討議した陪審は、討議しなかった陪審より有意に極端な意思決定を行った。データはMyers and Kaplan（1976）による。
 
-Group polarization does not occur in all groups and in all settings but tends to happen most often when two conditions are present: First, the group members must have an initial leaning toward a given opinion or decision. If the group members generally support liberal policies, their opinions are likely to become even more liberal after discussion. But if the group is made up equally of both liberals and conservatives, group polarization would not be expected. Second, group polarization is strengthened by discussion of the topic. For instance, in the research by Myers and Kaplan (1976) just reported, in some experimental conditions, the group members expressed their opinions but did not discuss the issue, and these groups showed less polarization than groups that discussed the issue.
+集団分極化はすべての集団、すべての状況で生じるわけではないが、二つの条件が存在するときに最もよく生じる。第一に、メンバーがある意見や意思決定に対して最初から一定の傾きをもっていなければならない。メンバーがおおむねリベラルな政策を支持しているなら、討議後にはその意見はさらにリベラルになる可能性が高い。しかし、リベラルと保守が同数で構成された集団では、集団分極化は予想されない。第二に、集団分極化は、その話題について討議することで強まる。たとえば、先ほどのMyers and Kaplan（1976）の研究では、一部の実験条件でメンバーは意見を表明したものの、問題について討議しなかった。この集団は、問題を討議した集団より分極化が少なかった。
 
-Group polarization has also been observed in important real-world contexts, including financial decision making in corporate boardrooms (Cheng & Chiou, 2008; Zhu, 2010). It has also been argued that the recent polarization in political attitudes in many countries, for example in the United States between the “blue” Democratic states versus the “red” Republican states, is occurring in large part because each group spends time communicating with other like-minded group members, leading to more extreme opinions on each side. And some have argued that terrorist groups develop their extreme positions and engage in violent behaviors as a result of the group polarization that occurs in their everyday interactions (Drummond, 2002; McCauley, 1989). As the group members, all of whom initially have some radical beliefs, meet and discuss their concerns and desires, their opinions polarize, allowing them to become progressively more extreme. Because they are also away from any other influences that might moderate their opinions, they may eventually become mass killers.
+集団分極化は、企業取締役会における財務意思決定など、重要な現実世界の文脈でも観察されている（Cheng & Chiou, 2008; Zhu, 2010）。また、多くの国で近年みられる政治的態度の分極化、たとえばUnited Statesの「青」のDemocratic州と「赤」のRepublican州との間の分極化も、それぞれの集団が同じ考えをもつ他のメンバーと時間をかけてコミュニケーションするため、双方の意見がより極端になることが大きな原因だと論じられている。また、テロ集団が極端な立場を発達させ、暴力行動に従事するのは、日常的な相互作用で生じる集団分極化の結果だとする議論もある（Drummond, 2002; McCauley, 1989）。最初からある程度の急進的な信念をもつメンバーが集まり、懸念や欲求について話し合うにつれて意見が分極化し、次第により極端になっていく。また、意見を穏健化させる他の影響から隔離されているため、最終的には大量殺人者になる場合さえある。
 
-Group polarization is the result of both cognitive and affective factors. The general idea of the persuasive arguments approach to explaining group polarization is cognitive in orientation. This approach assumes that there is a set of potential arguments that support any given opinion and another set of potential arguments that refute that opinion. Furthermore, an individual’s current opinion about the topic is predicted to be based on the arguments that he or she is currently aware of. During group discussion, each member presents arguments supporting his or her individual opinions. And because the group members are initially leaning in one direction, it is expected that there will be many arguments generated that support the initial leaning of the group members. As a result, each member is exposed to new arguments supporting the initial leaning of the group, and this predominance of arguments leaning in one direction polarizes the opinions of the group members (Van Swol, 2009). Supporting the predictions of persuasive arguments theory, research has shown that the number of novel arguments mentioned in discussion is related to the amount of polarization (Vinokur & Burnstein, 1978) and that there is likely to be little group polarization without discussion (Clark, Crockett, & Archer, 1971). Notice here the parallels between the persuasive arguments approach to group polarization and the concept of informational conformity.
+集団分極化は、認知的要因と感情的要因の両方の結果である。集団分極化を説明する**説得的論拠アプローチ（persuasive arguments approach）**の基本的な考え方は認知的なものである。このアプローチでは、ある意見を支持する潜在的な論拠の集合と、その意見に反論する潜在的な論拠の集合があると仮定する。さらに、ある話題についての個人の現在の意見は、その人が現在認識している論拠に基づくと予測される。集団討議の間、各メンバーは自分の個人的意見を支持する論拠を提示する。そして、メンバーは最初から一方向に傾いているため、その集団の初期の傾きを支持する論拠が多数生み出されると予想される。その結果、各メンバーは集団の初期の傾きを支持する新しい論拠にさらされ、一方向へ偏った論拠の優勢によってメンバーの意見が分極化する（Van Swol, 2009）。説得的論拠理論の予測を支持して、研究では、討議で言及された新しい論拠の数が分極化の程度と関連すること（Vinokur & Burnstein, 1978）、また討議がなければ集団分極化はほとんど生じないこと（Clark, Crockett, & Archer, 1971）が示されている。ここで、集団分極化への説得的論拠アプローチと情報的同調の概念との類似性に注目してほしい。
 
-But group polarization is in part based on the affective responses of the individuals—and particularly the social identity they receive from being good group members (Hogg, Turner, & Davidson, 1990; Mackie, 1986; Mackie & Cooper, 1984). The idea here is that group members, in their desire to create positive social identity, attempt to differentiate their group from other implied or actual groups by adopting extreme beliefs. Thus the amount of group polarization observed is expected to be determined not only by the norms of the ingroup but also by a movement away from the norms of other relevant outgroups. In short, this explanation says that groups that have well-defined (extreme) beliefs are better able to produce social identity for their members than are groups that have more moderate (and potentially less clear) beliefs. Once again, notice the similarity of this account of polarization to the notion of normative conformity.
+しかし、集団分極化は部分的には個人の感情的反応、とくに「よい集団メンバー」であることから得られる社会的アイデンティティにも基づいている（Hogg, Turner, & Davidson, 1990; Mackie, 1986; Mackie & Cooper, 1984）。ここでの考えは、集団メンバーが肯定的な社会的アイデンティティを形成したいという欲求から、極端な信念を採用することで、自分たちの集団を暗黙または現実の他集団から区別しようとするというものである。したがって、観察される集団分極化の程度は、内集団の規範だけでなく、関連する他の外集団の規範から遠ざかる動きによっても決まると予想される。要するに、この説明によれば、明確に定義された（極端な）信念をもつ集団は、より穏健な（そして潜在的に不明確な）信念をもつ集団より、メンバーに社会的アイデンティティを提供しやすい。ここでも、この分極化の説明が規範的同調の考えと似ていることに注目してほしい。
 
-Group polarization effects are stronger when the group members have high social identity (Abrams, Wetherell, Cochrane, & Hogg, 1990; Hogg, Turner, & Davidson, 1990; Mackie, 1986). Diane Mackie (1986) had participants listen to three people discussing a topic, supposedly so that they could become familiar with the issue themselves to help them make their own decisions. However, the individuals that they listened to were said to be members of a group that they would be joining during the upcoming experimental session, members of a group that they were not expecting to join, or some individuals who were not a group at all. Mackie found that the perceived norms of the (future) ingroup were seen as more extreme than those of the other group or the individuals, and that the participants were more likely to agree with the arguments of the ingroup. This finding supports the idea that group norms are perceived as more extreme for groups that people identify with (in this case, because they were expecting to join it in the future). And another experiment by Mackie (1986) also supported the social identity prediction that the existence of a rival outgroup increases polarization as the group members attempt to differentiate themselves from the other group by adopting more extreme positions.
+集団分極化の効果は、メンバーが高い社会的アイデンティティをもつときに強い（Abrams, Wetherell, Cochrane, & Hogg, 1990; Hogg, Turner, & Davidson, 1990; Mackie, 1986）。Diane Mackie（1986）は、参加者に、ある話題について3人が話し合っているのを聞かせた。その目的は、参加者自身がその問題に詳しくなり、自分の意思決定に役立てることだと説明された。しかし、参加者が聞いた3人は、次の実験セッションで参加者が加入する予定の集団のメンバー、加入する予定のない集団のメンバー、またはそもそも集団ではない個人たちのいずれかだとされた。Mackieは、（将来の）内集団の知覚された規範は、他集団や個人のものより極端だとみなされ、参加者は内集団の論拠に同意する可能性も高かったことを見いだした。この知見は、人々が同一視する集団（この場合、将来加入すると予想していたため）の規範は、より極端に知覚されるという考えを支持している。また、Mackie（1986）の別の実験も、競合する外集団が存在すると、メンバーがより極端な立場を採用して他集団との差異化を図るため、分極化が高まるという社会的アイデンティティの予測を支持した。
 
-Taken together then, the research reveals that another potential problem with group decision making is that it can be polarized. These changes toward more extreme positions have a variety of causes and occur more under some conditions than others, but they must be kept in mind whenever groups come together to make important decisions.
+以上をまとめると、集団意思決定のもう一つの潜在的問題は、それが分極化する可能性があることだと研究は示している。より極端な立場へのこうした変化にはさまざまな原因があり、ある条件では他の条件より生じやすいが、集団が重要な意思決定を行うために集まるときには常に念頭に置く必要がある。
 
-#### Social Psychology in the Public Interest
+#### 公共の利益のための社会心理学
 
-##### Decision Making by a Jury
+##### 陪審による意思決定
 
-Although many countries rely on the decisions of judges in civil and criminal trials, the jury is the foundation of the legal system in many other nations. The notion of a trial by one’s peers is based on the assumption that average individuals can make informed and fair decisions when they work together in groups. But given all the problems facing groups, social psychologists and others frequently wonder whether juries are really the best way to make these important decisions and whether the particular composition of a jury influences the likely outcome of its deliberation (Lieberman, 2011).
+多くの国では民事・刑事裁判で裁判官の判断に依存しているが、他の多くの国では陪審が法制度の基礎となっている。同等の市民による裁判という考えは、普通の人々でも集団で協働すれば、十分な情報に基づく公正な意思決定を行えるという仮定に基づいている。しかし、集団が直面するさまざまな問題を考えると、社会心理学者らは、陪審が本当にこうした重要な意思決定を行う最善の方法なのか、また陪審の具体的な構成が評議の結果に影響するのかをしばしば疑問視している（Lieberman, 2011）。
 
-As small working groups, juries have the potential to produce either good or poor decisions, depending on many of the factors that we have discussed in this chapter (Bornstein & Greene, 2011; Hastie, 1993; Winter & Robicheaux, 2011). And again, the ability of the jury to make a good decision is based on both person characteristics and group process. In terms of person variables, there is at least some evidence that the jury member characteristics do matter. For one, individuals who have already served on juries are more likely to be seen as experts, are more likely to be chosen as jury foreperson, and give more input during the deliberation (Stasser, Kerr, & Bray, 1982). It has also been found that status matters—jury members with higher-status occupations and education, males rather than females, and those who talk first are more likely be chosen as the foreperson, and these individuals also contribute more to the jury discussion (Stasser et al., 1982). And as in other small groups, a minority of the group members generally dominate the jury discussion (Hastie, Penrod, & Pennington, 1983), And there is frequently a tendency toward social loafing in the group (Najdowski, 2010). As a result, relevant information or opinions are likely to remain unshared because some individuals never or rarely participate in the discussion.
+小規模な作業集団として、陪審は、この章で扱ってきた多くの要因によって、よい意思決定も悪い意思決定も生み出す可能性がある（Bornstein & Greene, 2011; Hastie, 1993; Winter & Robicheaux, 2011）。ここでも、陪審がよい意思決定をする能力は、人物特性と集団プロセスの両方に基づいている。人物変数については、陪審員の特性が実際に重要であることを示す証拠が少なくともいくらかある。第一に、以前に陪審員を務めたことのある人は、専門家とみなされやすく、陪審長に選ばれやすく、評議中にもより多く発言する（Stasser, Kerr, & Bray, 1982）。また、地位も重要であり、地位の高い職業や教育をもつ陪審員、女性より男性、最初に話す人ほど陪審長に選ばれやすく、これらの人は陪審討議にもより多く貢献することがわかっている（Stasser et al., 1982）。そして、他の小集団と同様、少数のメンバーが陪審討議を支配するのが一般的で（Hastie, Penrod, & Pennington, 1983）、集団内には社会的手抜きの傾向もしばしばみられる（Najdowski, 2010）。その結果、一部の人が討議にまったく、またはほとんど参加しないため、関連する情報や意見が共有されないままになる可能性がある。
 
-Perhaps the strongest evidence for the importance of member characteristics in the decision-making process concerns the selection of death-qualified juries in trials in which a potential sentence includes the death penalty. In order to be selected for such a jury, the potential members must indicate that they would, in principle, be willing to recommend the death penalty as a punishment. In some countries, potential jurors who indicate being opposed to the death penalty cannot serve on these juries. However, this selection process creates a potential bias because the individuals who say that they would not under any condition vote for the death penalty are also more likely to be rigid and punitive and thus more likely to find defendants guilty, a situation that increases the chances of a conviction for defendants (Ellsworth, 1993).
+意思決定過程におけるメンバー特性の重要性について、おそらく最も強い証拠は、刑罰に死刑が含まれうる裁判における**死刑適格陪審（death-qualified juries）**の選定に関するものである。このような陪審に選ばれるには、候補者は原則として、刑罰として死刑を勧告する可能性があることを表明しなければならない。一部の国では、死刑に反対すると表明した陪審員候補は、こうした陪審で務めることができない。しかし、この選定過程は潜在的なバイアスを生み出す。どのような条件でも死刑に投票しないと答える人を除くことで、残る陪審員はより硬直的で懲罰的であり、したがって被告人を有罪と判断しやすくなる可能性があり、そのため被告人が有罪判決を受ける確率が高まる（Ellsworth, 1993）。
 
-Although there are at least some member characteristics that have an influence upon jury decision making, group process, as in other working groups, plays a more important role in the outcome of jury decisions than do member characteristics. Like any group, juries develop their own individual norms, and these norms can have a profound impact on how they reach their decisions. Analysis of group process within juries shows that different juries take very different approaches to reaching a verdict. Some spend a lot of time in initial planning, whereas others immediately jump right into the deliberation. And some juries base their discussion around a review and reorganization of the evidence, waiting to take a vote until it has all been considered, whereas other juries first determine which decision is preferred in the group by taking a poll and then (if the first vote does not lead to a final verdict) organize their discussion around these opinions. These two approaches are used about equally often but may in some cases lead to different decisions (Hastie, 2008).
+陪審の意思決定に影響するメンバー特性はいくつかあるが、他の作業集団と同様、陪審の意思決定結果には、メンバー特性よりも集団プロセスのほうが重要な役割を果たす。どの集団とも同じく、陪審は独自の規範を発達させ、それらの規範はどのように意思決定に至るかに大きな影響を及ぼしうる。陪審内の集団プロセスを分析すると、評決に至る方法は陪審によって大きく異なることがわかる。最初の計画に多くの時間をかける陪審もあれば、すぐに評議に入る陪審もある。また、証拠を見直し再構成することを中心に討議し、すべてを検討し終えるまで投票を待つ陪審もあれば、最初に投票して集団内でどの判断が好まれているかを確認し、その最初の投票で最終評決に至らなかった場合、その意見を中心に討議を組み立てる陪審もある。これら二つのアプローチはほぼ同じ頻度で用いられるが、場合によっては異なる意思決定につながることがある（Hastie, 2008）。
 
-Perhaps most important, conformity pressures have a strong impact on jury decision making. As you can see in Figure 10.11, when there are a greater number of jury members who hold the majority position, it becomes more and more certain that their opinion will prevail during the discussion. This is not to say that minorities cannot ever be persuasive, but it is very difficult for them. The strong influence of the majority is probably due to both informational conformity (i.e., that there are more arguments supporting the favored position) and normative conformity (people are less likely to want to be seen as disagreeing with the majority opinion).
+おそらく最も重要なのは、同調圧力が陪審の意思決定に強い影響を与えることである。図10.11に示されているように、多数派の立場をとる陪審員の数が増えるほど、討議中にその意見が優勢になることがますます確実になる。少数派が決して説得力をもてないという意味ではないが、それは非常に難しい。多数派の強い影響は、おそらく情報的同調（支持されている立場を支える論拠が多くなる）と規範的同調（多数派意見に反対していると見られたくない）の両方によるものである。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/d20be2e94e5fa9043377fb83e37887e5.jpg)
 
-*Figure 10.11 Conformity in Juries*
+_図10.11 陪審における同調_
 
-This figure shows the decisions of six-member mock juries that made “majority rules” decisions. When the majority of the six initially favored voting guilty, the jury almost always voted guilty, and when the majority of the six initially favored voting innocent, the jury almost always voted innocence. The juries were frequently hung (could not make a decision) when the initial split was three to three. Data are from Stasser, Kerr, and Bray (1982).
+この図は、「多数決」で意思決定を行った6人制の模擬陪審の判断を示している。6人の多数が当初、有罪への投票を支持していた場合、陪審はほぼ常に有罪に投票し、多数が当初、無罪への投票を支持していた場合、陪審はほぼ常に無罪に投票した。最初の意見が3対3に分かれていたとき、陪審は評決不能（意思決定できない）になることが多かった。データはStasser, Kerr, and Bray（1982）による。
 
-Research has also found that juries that are evenly split (three to three or six to six) tend to show a leniency bias by voting toward acquittal more often than they vote toward guilt, all other factors being equal (MacCoun & Kerr, 1988). This is in part because juries are usually instructed to assume innocence unless there is sufficient evidence to confirm guilt—they must apply a burden of proof of guilt “beyond a reasonable doubt.” The leniency bias in juries does not always occur, although it is more likely to occur when the potential penalty is more severe (Devine et al., 2004; Kerr, 1978).
+研究ではまた、意見が均等に分かれた陪審（3対3または6対6）は、他の条件が同じなら、有罪より無罪に投票することが多いという**寛大さバイアス（leniency bias）**を示す傾向があることもわかっている（MacCoun & Kerr, 1988）。これは部分的には、陪審は通常、有罪を確認する十分な証拠がない限り無罪を前提とするよう指示され、「合理的疑いを超えて」有罪であることを立証する責任を適用しなければならないためである。陪審の寛大さバイアスは常に生じるわけではないが、想定される刑罰がより重い場合には生じやすい（Devine et al., 2004; Kerr, 1978）。
 
-Given what you now know about the potential difficulties that groups face in making good decisions, you might be worried that the verdicts rendered by juries may not be particularly effective, accurate, or fair. However, despite these concerns, the evidence suggests that juries may not do as badly as we would expect. The deliberation process seems to cancel out many individual juror biases, and the importance of the decision leads the jury members to carefully consider the evidence itself.
+集団がよい意思決定を行う際に直面する潜在的な困難についてここまで学んだことで、陪審の評決はあまり効果的でも、正確でも、公正でもないのではないかと心配になるかもしれない。しかし、こうした懸念にもかかわらず、証拠は、陪審が私たちの予想ほど悪いわけではないことを示している。評議の過程は個々の陪審員がもつ多くのバイアスを相殺するようであり、意思決定の重要性が、陪審員に証拠そのものを慎重に検討させる。
 
-:::tip[Key Takeaways]
+:::tip[要点]
 
-- Under certain situations, groups can show significant process gains in regards to decision making, compared with individuals. However, there are a number of social forces that can hinder effective group decision making, which can sometimes lead groups to show process losses.
-- Some group process losses are the result of groupthink—when a group, as result of a flawed group process and strong conformity pressures, makes a poor judgment.
-- Process losses may result from the tendency for groups to discuss information that all members have access to while ignoring equally important information that is available to only a few of the members.
-- Brainstorming is a technique designed to foster creativity in a group. Although brainstorming often leads to group process losses, alternative approaches, including the use of group support systems, may be more effective.
-- Group decisions can also be influenced by group polarization—when the attitudes held by the individual group members become more extreme than they were before the group began discussing the topic.
-- Understanding group processes can help us better understand the factors that lead juries to make better or worse decisions.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Consider a time when a group that you belonged to experienced a process gain, and another time showed a process loss in terms of decision making. Which of the factors discussed in this section do you think help to explain these two different outcomes?
-2. Describe a current social or political issue where you have seen groupthink in action. What features of groupthink outlined in this section were particularly evident? When in your own life have you been in a group situation where groupthink was evident? What decision was reached and what was the outcome for you?
-3. When have you been in a group that has not shared information effectively? Why do you think that this happened and what were the consequences?
-4. Outline two situations, one when you were in a group that used brainstorming and you feel that it was helpful to the group decision-making process, and another when you think it was a hindrance. Why do you think the brainstorming had these opposite effects on the groups in the two situations?
-5. What examples of group polarization have you seen in the media recently? How well do the ideas of normative and informational conformity explain why polarization occurred in these situations? What other factors might also have been at work?
-6. If you or someone you knew had a choice to be tried by either a judge or a jury, taking into account the research in this section, which would you choose, and why?
+- ある状況では、集団は個人と比較して、意思決定に関して大きなプロセス利得を示すことがある。しかし、効果的な集団意思決定を妨げる社会的な力も多く、それによって集団がプロセス損失を示すことがある。
+- 集団のプロセス損失の一部は、欠陥のある集団プロセスと強い同調圧力の結果として集団が悪い判断をする、集団思考によって生じる。
+- プロセス損失は、全メンバーが利用できる情報を集団が話し合う一方、少数のメンバーだけが利用できる同じくらい重要な情報を無視する傾向によって生じることがある。
+- ブレインストーミングは集団内の創造性を促進するための手法である。ブレインストーミングは集団のプロセス損失をもたらすことが多いが、集団支援システムの利用を含む代替的アプローチのほうが効果的な場合がある。
+- 集団の意思決定は集団分極化、すなわち個々の集団メンバーがもつ態度が、集団がその話題を討議し始める前より極端になることによっても影響される。
+- 集団プロセスを理解することで、陪審がよりよい、またはより悪い意思決定をすることにつながる要因をよりよく理解できる。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Abrams, D., Wetherell, M., Cochrane, S., & Hogg, M. (1990). Knowing what to think by knowing who you are: Self-categorization and the nature of norm formation, conformity, and group polarization. *British Journal of Social Psychology*, 29, 97–119.
+1. あなたが所属していた集団で、意思決定に関してプロセス利得を経験したときと、プロセス損失を示した別のときを考えなさい。この節で扱った要因のうち、これら二つの異なる結果を説明するのに役立つのはどれだと思うか。
+2. 集団思考が実際に働いているのを見た、現在の社会的または政治的問題を一つ説明しなさい。この節で述べた集団思考の特徴のうち、とくに明確だったものは何か。また、自分の人生で集団思考が明らかな集団状況にいたことはあるか。どのような意思決定に至り、それはあなたにどのような結果をもたらしたか。
+3. 情報を効果的に共有できなかった集団にいたのはいつか。なぜそうなったと思うか。また、その結果は何だったか。
+4. ブレインストーミングを用いた集団で、それが集団意思決定過程に役立ったと感じた状況と、逆に妨げになったと思う状況を一つずつ挙げなさい。二つの状況で、なぜブレインストーミングが反対の効果をもったと思うか。
+5. 最近メディアで見た集団分極化の例にはどのようなものがあるか。規範的同調と情報的同調という考えは、これらの状況で分極化が起きた理由をどの程度うまく説明するか。他にどのような要因が働いていた可能性があるか。
+6. あなたまたは知人が、裁判官か陪審のどちらかに裁かれることを選べるとしたら、この節の研究を踏まえて、どちらを選ぶか。また、その理由は何か。
 
-Baron, R. S. (2005). So right it’s wrong: Groupthink and the ubiquitous nature of polarized group decision making. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 37, pp. 219–253). San Diego, CA: Elsevier Academic Press.
+:::
 
-Bornstein, B. H., & Greene, E. (2011). Jury decision making: Implications for and from psychology. *Current Directions in Psychological Science, 20*(1), 63–67.
+#### 参考文献
 
-Brauer, M., Judd, C. M., & Gliner, M. D. (2006). The effects of repeated expressions on attitude polarization during group discussions. In J. M. Levine & R. L. Moreland (Eds.), *Small groups* (pp. 265–287). New York, NY: Psychology Press.
+Abrams, D., Wetherell, M., Cochrane, S., & Hogg, M. (1990). Knowing what to think by knowing who you are: Self-categorization and the nature of norm formation, conformity, and group polarization. _British Journal of Social Psychology_, 29, 97–119.
 
-Cheng, P.-Y., & Chiou, W.-B. (2008). Framing effects in group investment decision making: Role of group polarization. *Psychological Reports, 102*(1), 283–292.
+Baron, R. S. (2005). So right it’s wrong: Groupthink and the ubiquitous nature of polarized group decision making. In M. P. Zanna (Ed.), _Advances in experimental social psychology_ (Vol. 37, pp. 219–253). San Diego, CA: Elsevier Academic Press.
 
-Clark, R. D., Crockett, W. H., & Archer, R. L. (1971). Risk-as-value hypothesis: The relationship between perception of self, others, and the risky shift. *Journal of Personality and Social Psychology, 20*, 425–429.
+Bornstein, B. H., & Greene, E. (2011). Jury decision making: Implications for and from psychology. _Current Directions in Psychological Science, 20_(1), 63–67.
 
-Clayton, M. J. (1997). Delphi: A technique to harness expert opinion for critical decision-making tasks in education. *Educational Psychology, 17*(4), 373–386. doi: 10.1080/0144341970170401.
+Brauer, M., Judd, C. M., & Gliner, M. D. (2006). The effects of repeated expressions on attitude polarization during group discussions. In J. M. Levine & R. L. Moreland (Eds.), _Small groups_ (pp. 265–287). New York, NY: Psychology Press.
 
-Collaros, P. A., & Anderson, I. R. (1969). Effect of perceived expertness upon creativity of members of brainstorming groups. *Journal of Applied Psychology, 53*, 159–163.
+Cheng, P.-Y., & Chiou, W.-B. (2008). Framing effects in group investment decision making: Role of group polarization. _Psychological Reports, 102_(1), 283–292.
 
-Connolly, T., Routhieaux, R. L., & Schneider, S. K. (1993). On the effectiveness of group brainstorming: Test of one underlying cognitive mechanism. *Small Group Research, 24*(4), 490–503.
+Clark, R. D., Crockett, W. H., & Archer, R. L. (1971). Risk-as-value hypothesis: The relationship between perception of self, others, and the risky shift. _Journal of Personality and Social Psychology, 20_, 425–429.
 
-Delbecq, A. L., Van de Ven, A. H., & Gustafson, D. H. (1975). *Group techniques for program planning: A guide to nominal group and delphi processes*. Glenview, IL: Scott, Foresman.
+Clayton, M. J. (1997). Delphi: A technique to harness expert opinion for critical decision-making tasks in education. _Educational Psychology, 17_(4), 373–386. doi: 10.1080/0144341970170401.
 
-Dennis, A. R., & Valacich, J. S. (1993). Computer brainstorms: More heads are better than one. *Journal of Applied Psychology, 78*, 531–537.
+Collaros, P. A., & Anderson, I. R. (1969). Effect of perceived expertness upon creativity of members of brainstorming groups. _Journal of Applied Psychology, 53_, 159–163.
 
-Devine, D. J., Olafson, K. M., Jarvis, L. L., Bott, J. P., Clayton, L. D., & Wolfe, J. M. T. (2004). Explaining jury verdicts: Is leniency bias for real? *Journal of Applied Social Psychology, 34*(10), 2069–2098.
+Connolly, T., Routhieaux, R. L., & Schneider, S. K. (1993). On the effectiveness of group brainstorming: Test of one underlying cognitive mechanism. _Small Group Research, 24_(4), 490–503.
 
-Diehl, M., & Stroebe, W. (1987). Productivity loss in brainstorming groups: Toward the solution of a riddle. *Journal of Personality and Social Psychology, 53*(3), 497–509.
+Delbecq, A. L., Van de Ven, A. H., & Gustafson, D. H. (1975). _Group techniques for program planning: A guide to nominal group and delphi processes_. Glenview, IL: Scott, Foresman.
 
-Diehl, M., & Stroebe, W. (1991). Productivity loss in idea-generating groups: Tracking down the blocking effect. *Journal of Personality and Social Psychology, 61*(3), 392–403.
+Dennis, A. R., & Valacich, J. S. (1993). Computer brainstorms: More heads are better than one. _Journal of Applied Psychology, 78_, 531–537.
 
-Drummond, J. T. (2002). From the Northwest Imperative to global jihad: Social psychological aspects of the construction of the enemy, political violence, and terror. In C. E. Stout (Ed.), *The psychology of terrorism: A public understanding* (Vol. 1, pp. 49–95). Westport, CT: Praeger Publishers/Greenwood Publishing Group.
+Devine, D. J., Olafson, K. M., Jarvis, L. L., Bott, J. P., Clayton, L. D., & Wolfe, J. M. T. (2004). Explaining jury verdicts: Is leniency bias for real? _Journal of Applied Social Psychology, 34_(10), 2069–2098.
 
-Ellsworth, P. C. (1993). Some steps between attitudes and verdicts. In R. Hastie (Ed.), *Inside the juror: The psychology of juror decision making*. New York, NY: Cambridge University Press.
+Diehl, M., & Stroebe, W. (1987). Productivity loss in brainstorming groups: Toward the solution of a riddle. _Journal of Personality and Social Psychology, 53_(3), 497–509.
 
-Faulmüller, N., Kerschreiter, R., Mojzisch, A., & Schulz-Hardt, S. (2010). Beyond group-level explanations for the failure of groups to solve hidden profiles: The individual preference effect revisited. *Group Processes and Intergroup Relations, 13*(5), 653–671.
+Diehl, M., & Stroebe, W. (1991). Productivity loss in idea-generating groups: Tracking down the blocking effect. _Journal of Personality and Social Psychology, 61_(3), 392–403.
 
-Forsyth, D. (2010). *Group dynamics (5th ed.).* Belmont, CA: Wadsworth.
+Drummond, J. T. (2002). From the Northwest Imperative to global jihad: Social psychological aspects of the construction of the enemy, political violence, and terror. In C. E. Stout (Ed.), _The psychology of terrorism: A public understanding_ (Vol. 1, pp. 49–95). Westport, CT: Praeger Publishers/Greenwood Publishing Group.
 
-Gallupe, R. B., Cooper, W. H., Grise, M.-L., & Bastianutti, L. M. (1994). Blocking electronic brainstorms. *Journal of Applied Psychology, 79*(1), 77–86.
+Ellsworth, P. C. (1993). Some steps between attitudes and verdicts. In R. Hastie (Ed.), _Inside the juror: The psychology of juror decision making_. New York, NY: Cambridge University Press.
 
-Hastie, R. (1993). *Inside the juror: The psychology of juror decision making*. New York, NY: Cambridge University Press.
+Faulmüller, N., Kerschreiter, R., Mojzisch, A., & Schulz-Hardt, S. (2010). Beyond group-level explanations for the failure of groups to solve hidden profiles: The individual preference effect revisited. _Group Processes and Intergroup Relations, 13_(5), 653–671.
 
-Hastie, R. (2008). What’s the story? Explanations and narratives in civil jury decisions. In B. H. Bornstein, R. L. Wiener, R. Schopp, & S. L. Willborn (Eds.), *Civil juries and civil justice: Psychological and legal perspectives* (pp. 23–34). New York, NY: Springer Science + Business Media.
+Forsyth, D. (2010). _Group dynamics (5th ed.)._ Belmont, CA: Wadsworth.
 
-Hastie, R., Penrod, S. D., & Pennington, N. (1983). *Inside the jury*. Cambridge, MA: Harvard University Press.
+Gallupe, R. B., Cooper, W. H., Grise, M.-L., & Bastianutti, L. M. (1994). Blocking electronic brainstorms. _Journal of Applied Psychology, 79_(1), 77–86.
 
-Hinsz, V. B. (1990). Cognitive and consensus processes in group recognition memory performance. *Journal of Personality and Social Psychology, 59*(4), 705–718.
+Hastie, R. (1993). _Inside the juror: The psychology of juror decision making_. New York, NY: Cambridge University Press.
 
-Hogg, M. A., Turner, J. C., & Davidson, B. (1990). Polarized norms and social frames of reference: A test of the self-categorization theory of group polarization. *Basic and Applied Social Psychology, 11*(1), 77–100.
+Hastie, R. (2008). What’s the story? Explanations and narratives in civil jury decisions. In B. H. Bornstein, R. L. Wiener, R. Schopp, & S. L. Willborn (Eds.), _Civil juries and civil justice: Psychological and legal perspectives_ (pp. 23–34). New York, NY: Springer Science + Business Media.
 
-Hornsby, J. S., Smith, B. N., & Gupta, J. N. D. (1994). The impact of decision-making methodology on job evaluation outcomes: A look at three consensus approaches. *Group and Organization Management, 19*(1), 112–128.
+Hastie, R., Penrod, S. D., & Pennington, N. (1983). _Inside the jury_. Cambridge, MA: Harvard University Press.
 
-Janis, I. L. (2007). Groupthink. In R. P. Vecchio (Ed.), *Leadership: Understanding the dynamics of power and influence in organizations* (2nd ed., pp. 157–169). Notre Dame, IN: University of Notre Dame Press.
+Hinsz, V. B. (1990). Cognitive and consensus processes in group recognition memory performance. _Journal of Personality and Social Psychology, 59_(4), 705–718.
 
-Johnson, D.W., & Johnson, F.P. (2012). *Joining together – group theory and group skills (11th ed).* Boston: Allyn and Bacon.
+Hogg, M. A., Turner, J. C., & Davidson, B. (1990). Polarized norms and social frames of reference: A test of the self-categorization theory of group polarization. _Basic and Applied Social Psychology, 11_(1), 77–100.
 
-Kerr, N. L. (1978). Severity of prescribed penalty and mock jurors’ verdicts. *Journal of Personality and Social Psychology, 36*(12), 1431–1442.
+Hornsby, J. S., Smith, B. N., & Gupta, J. N. D. (1994). The impact of decision-making methodology on job evaluation outcomes: A look at three consensus approaches. _Group and Organization Management, 19_(1), 112–128.
 
-Kogan, N., & Wallach, M. A. (1967). Risky-shift phenomenon in small decision-making groups: A test of the information-exchange hypothesis. *Journal of Experimental Social Psychology, 3*, 75–84.
+Janis, I. L. (2007). Groupthink. In R. P. Vecchio (Ed.), _Leadership: Understanding the dynamics of power and influence in organizations_ (2nd ed., pp. 157–169). Notre Dame, IN: University of Notre Dame Press.
 
-Kramer, R. M. (1998). Revisiting the Bay of Pigs and Vietnam decisions 25 years later: How well has the groupthink hypothesis stood the test of time? *Organizational Behavior and Human Decision Processes, 73*(2–3), 236–271.
+Johnson, D.W., & Johnson, F.P. (2012). _Joining together – group theory and group skills (11th ed)._ Boston: Allyn and Bacon.
 
-Kroon, M. B., Van Kreveld, D., & Rabbie, J. M. (1992). Group versus individual decision making: Effects of accountability and gender on groupthink. *Small Group Research*, 23(4), 427-458.
+Kerr, N. L. (1978). Severity of prescribed penalty and mock jurors’ verdicts. _Journal of Personality and Social Psychology, 36_(12), 1431–1442.
 
-Larson, J. R. J., Foster-Fishman, P. G., & Keys, C. B. (1994). The discussion of shared and unshared information in decision-making groups. *Journal of Personality and Social Psychology, 67*, 446–461.
+Kogan, N., & Wallach, M. A. (1967). Risky-shift phenomenon in small decision-making groups: A test of the information-exchange hypothesis. _Journal of Experimental Social Psychology, 3_, 75–84.
 
-Lieberman, J. D. (2011). The utility of scientific jury selection: Still murky after 30 years. *Current Directions in Psychological Science, 20*(1), 48–52.
+Kramer, R. M. (1998). Revisiting the Bay of Pigs and Vietnam decisions 25 years later: How well has the groupthink hypothesis stood the test of time? _Organizational Behavior and Human Decision Processes, 73_(2–3), 236–271.
 
-MacCoun, R. J., & Kerr, N. L. (1988). Asymmetric influence in mock jury deliberation: Jurors’ bias for leniency. *Journal of Personality and Social Psychology, 54*(1), 21–33.
+Kroon, M. B., Van Kreveld, D., & Rabbie, J. M. (1992). Group versus individual decision making: Effects of accountability and gender on groupthink. _Small Group Research_, 23(4), 427-458.
 
-Mackie, D. M. (1986). Social identification effects in group polarization. *Journal of Personality and Social Psychology, 50*(4), 720–728.
+Larson, J. R. J., Foster-Fishman, P. G., & Keys, C. B. (1994). The discussion of shared and unshared information in decision-making groups. _Journal of Personality and Social Psychology, 67_, 446–461.
 
-Mackie, D. M., & Cooper, J. (1984). Attitude polarization: Effects of group membership. *Journal of Personality and Social Psychology, 46*, u575–585.
+Lieberman, J. D. (2011). The utility of scientific jury selection: Still murky after 30 years. _Current Directions in Psychological Science, 20_(1), 48–52.
 
-Matusitz, J., & Breen, G. (2012). An examination of pack journalism as a form of groupthink: A theoretical and qualitative analysis.*Journal Of Human Behavior In The Social Environment*, 22 (7), 896-915.
+MacCoun, R. J., & Kerr, N. L. (1988). Asymmetric influence in mock jury deliberation: Jurors’ bias for leniency. _Journal of Personality and Social Psychology, 54_(1), 21–33.
 
-McCauley, C. R. (1989). Terrorist individuals and terrorist groups: The normal psychology of extreme behavior. In J. Groebel & J. H. Goldstein (Eds.), *Terrorism: Psychological perspectives* (p. 45). Sevilla, Spain: Universidad de Sevilla.
+Mackie, D. M. (1986). Social identification effects in group polarization. _Journal of Personality and Social Psychology, 50_(4), 720–728.
 
-Mesmer-Magnus, J. R., DeChurch, L. A., Jimenez-Rodriguez, M., Wildman, J., & Shuffler, M. (2011). A meta-analytic investigation of virtuality and information sharing in teams. *Organizational Behavior and Human Decision Processes, 115*(2), 214–225.
+Mackie, D. M., & Cooper, J. (1984). Attitude polarization: Effects of group membership. _Journal of Personality and Social Psychology, 46_, u575–585.
 
-Mojzisch, A., & Schulz-Hardt, S. (2010). Knowing others’ preferences degrades the quality of group decisions. *Journal of Personality and Social Psychology, 98*(5), 794–808.
+Matusitz, J., & Breen, G. (2012). An examination of pack journalism as a form of groupthink: A theoretical and qualitative analysis._Journal Of Human Behavior In The Social Environment_, 22 (7), 896-915.
 
-Morrow, K. A., & Deidan, C. T. (1992). Bias in the counseling process: How to recognize and avoid it. *Journal of Counseling and Development, 70,* 571-577.
+McCauley, C. R. (1989). Terrorist individuals and terrorist groups: The normal psychology of extreme behavior. In J. Groebel & J. H. Goldstein (Eds.), _Terrorism: Psychological perspectives_ (p. 45). Sevilla, Spain: Universidad de Sevilla.
 
-Myers, D. G. (1982). Polarizing effects of social interaction. In H. Brandstatter, J. H. Davis, & G. Stocher-Kreichgauer (Eds.), *Contemporary problems in group decision-making* (pp. 125–161). New York, NY: Academic Press.
+Mesmer-Magnus, J. R., DeChurch, L. A., Jimenez-Rodriguez, M., Wildman, J., & Shuffler, M. (2011). A meta-analytic investigation of virtuality and information sharing in teams. _Organizational Behavior and Human Decision Processes, 115_(2), 214–225.
 
-Myers, D. G., & Bishop, G. D. (1970). Discussion effects on racial attitudes. *Science, 169*(3947), 778–779. doi: 10.1126/science.169.3947.778
+Mojzisch, A., & Schulz-Hardt, S. (2010). Knowing others’ preferences degrades the quality of group decisions. _Journal of Personality and Social Psychology, 98_(5), 794–808.
 
-Myers, D. G., & Kaplan, M. F. (1976). Group-induced polarization in simulated juries. *Personality and Social Psychology Bulletin, 2*(1), 63–66.
+Morrow, K. A., & Deidan, C. T. (1992). Bias in the counseling process: How to recognize and avoid it. _Journal of Counseling and Development, 70,_ 571-577.
 
-Najdowski, C. J. (2010). Jurors and social loafing: Factors that reduce participation during jury deliberations. *American Journal of Forensic Psychology, 28*(2), 39–64.
+Myers, D. G. (1982). Polarizing effects of social interaction. In H. Brandstatter, J. H. Davis, & G. Stocher-Kreichgauer (Eds.), _Contemporary problems in group decision-making_ (pp. 125–161). New York, NY: Academic Press.
 
-Osborn, A. F. (1953). *Applied imagination*. Oxford, England: Scribner’s.
+Myers, D. G., & Bishop, G. D. (1970). Discussion effects on racial attitudes. _Science, 169_(3947), 778–779. doi: 10.1126/science.169.3947.778
 
-Paulus, P. B., & Dzindolet, M. T. (1993). Social influence processes in group brainstorming. *Journal of Personality and Social Psychology, 64*(4), 575–586.
+Myers, D. G., & Kaplan, M. F. (1976). Group-induced polarization in simulated juries. _Personality and Social Psychology Bulletin, 2_(1), 63–66.
 
-Redding, R. E. (2012). Likes attract: The sociopolitical groupthink of (social) psychologists. *Perspectives On Psychological Science*, 7 (5), 512-515.
+Najdowski, C. J. (2010). Jurors and social loafing: Factors that reduce participation during jury deliberations. _American Journal of Forensic Psychology, 28_(2), 39–64.
 
-Reimer, T., Reimer, A., & Czienskowski, U. (2010). Decision-making groups attenuate the discussion bias in favor of shared information: A meta-analysis. *Communication Monographs, 77*(1), 121–142.
+Osborn, A. F. (1953). _Applied imagination_. Oxford, England: Scribner’s.
 
-Reimer, T., Reimer, A., & Hinsz, V. B. (2010). Naïve groups can solve the hidden-profile problem. *Human Communication Research, 36*(3), 443–467.
+Paulus, P. B., & Dzindolet, M. T. (1993). Social influence processes in group brainstorming. _Journal of Personality and Social Psychology, 64_(4), 575–586.
 
-Siau, K. L. (1995). Group creativity and technology. *Psychosomatics, 31*, 301–312.
+Redding, R. E. (2012). Likes attract: The sociopolitical groupthink of (social) psychologists. _Perspectives On Psychological Science_, 7 (5), 512-515.
 
-Stasser, G., Kerr, N. L., & Bray, R. M. (1982). The social psychology of jury deliberations: Structure, process and product. In N. L. Kerr & R. M. Bray (Eds.), *The psychology of the courtroom*(pp. 221–256). New York, NY: Academic Press.
+Reimer, T., Reimer, A., & Czienskowski, U. (2010). Decision-making groups attenuate the discussion bias in favor of shared information: A meta-analysis. _Communication Monographs, 77_(1), 121–142.
 
-Stasser, G., & Stewart, D. (1992). Discovery of hidden profiles by decision-making groups: Solving a problem versus making a judgment. *Journal of Personality & Social Psychology, 63*, 426–434.
+Reimer, T., Reimer, A., & Hinsz, V. B. (2010). Naïve groups can solve the hidden-profile problem. _Human Communication Research, 36_(3), 443–467.
+
+Siau, K. L. (1995). Group creativity and technology. _Psychosomatics, 31_, 301–312.
+
+Stasser, G., Kerr, N. L., & Bray, R. M. (1982). The social psychology of jury deliberations: Structure, process and product. In N. L. Kerr & R. M. Bray (Eds.), _The psychology of the courtroom_(pp. 221–256). New York, NY: Academic Press.
+
+Stasser, G., & Stewart, D. (1992). Discovery of hidden profiles by decision-making groups: Solving a problem versus making a judgment. _Journal of Personality & Social Psychology, 63_, 426–434.
 
 Stasser, G., & Taylor, L. A. (1991). Speaking turns in face-to-face discussions. *Journal of Personality and Social Psychology, 60,*675–684.
 
-Stasser, G., Taylor, L. A., & Hanna, C. (1989). Information sampling in structured and unstructured discussions of three- and six-person groups. *Journal of Personality and Social Psychology, 57*(1), 67–78.
+Stasser, G., Taylor, L. A., & Hanna, C. (1989). Information sampling in structured and unstructured discussions of three- and six-person groups. _Journal of Personality and Social Psychology, 57_(1), 67–78.
 
-Stasser, G., & Titus, W. (1985). Pooling of unshared information in group decision making: Biased information sampling during discussion. *Journal of Personality and Social Psychology, 48*(6), 1467–1478.
+Stasser, G., & Titus, W. (1985). Pooling of unshared information in group decision making: Biased information sampling during discussion. _Journal of Personality and Social Psychology, 48_(6), 1467–1478.
 
-Stein, M. I. (1978). Methods to stimulate creative thinking. *Psychiatric Annals, 8*(3), 65–75.
+Stein, M. I. (1978). Methods to stimulate creative thinking. _Psychiatric Annals, 8_(3), 65–75.
 
-Stoner, J. A. (1968). Risky and cautious shifts in group decisions: The influence of widely held values. *Journal of Experimental Social Psychology, 4*, 442–459.
+Stoner, J. A. (1968). Risky and cautious shifts in group decisions: The influence of widely held values. _Journal of Experimental Social Psychology, 4_, 442–459.
 
-Stroebe, W., & Diehl, M. (1994). Why groups are less effective than their members: On productivity losses in idea-generating groups. *European Review of Social Psychology, 5*, 271–303.
+Stroebe, W., & Diehl, M. (1994). Why groups are less effective than their members: On productivity losses in idea-generating groups. _European Review of Social Psychology, 5_, 271–303.
 
-Valacich, J. S., Jessup, L. M., Dennis, A. R., & Nunamaker, J. F. (1992). A conceptual framework of anonymity in group support systems. *Group Decision and Negotiation, 1*(3), 219–241.
+Valacich, J. S., Jessup, L. M., Dennis, A. R., & Nunamaker, J. F. (1992). A conceptual framework of anonymity in group support systems. _Group Decision and Negotiation, 1_(3), 219–241.
 
-Van Swol, L. M. (2009). Extreme members and group polarization. *Social Influence, 4*(3), 185–199.
+Van Swol, L. M. (2009). Extreme members and group polarization. _Social Influence, 4_(3), 185–199.
 
-Vinokur, A., & Burnstein, E. (1978). Novel argumentation and attitude change: The case of polarization following group discussion. *European Journal of Social Psychology, 8*(3), 335–348.
+Vinokur, A., & Burnstein, E. (1978). Novel argumentation and attitude change: The case of polarization following group discussion. _European Journal of Social Psychology, 8_(3), 335–348.
 
-Watson, G. (1931). Do groups think more effectively than individuals? In G. Murphy & L. Murphy (Eds.), *Experimental social psychology.* New York: Harper.
+Watson, G. (1931). Do groups think more effectively than individuals? In G. Murphy & L. Murphy (Eds.), _Experimental social psychology._ New York: Harper.
 
-Winter, R. J., & Robicheaux, T. (2011). Questions about the jury: What trial consultants should know about jury decision making. In R. L. Wiener & B. H. Bornstein (Eds.), *Handbook of trial consulting* (pp. 63–91). New York, NY: Springer Science + Business Media.
+Winter, R. J., & Robicheaux, T. (2011). Questions about the jury: What trial consultants should know about jury decision making. In R. L. Wiener & B. H. Bornstein (Eds.), _Handbook of trial consulting_ (pp. 63–91). New York, NY: Springer Science + Business Media.
 
-Wittenbaum, G. M. (1998). Information sampling in decision-making groups: The impact of members’ task-relevant status. *Small Group Research, 29*(1), 57–84.
+Wittenbaum, G. M. (1998). Information sampling in decision-making groups: The impact of members’ task-relevant status. _Small Group Research, 29_(1), 57–84.
 
-Zhu, H. (2010). *Group polarization on corporate boards: Theory and evidence on board decisions about acquisition premiums, executive compensation, and diversification.* (Doctoral dissertation). University of Michigan, Ann Arbor, Michigan.<br /> Ziller, R. (1957). Group size: A determinant of the quality and stability of group decision. *Sociometry, 20,* 165-173.
+Zhu, H. (2010). _Group polarization on corporate boards: Theory and evidence on board decisions about acquisition premiums, executive compensation, and diversification._ (Doctoral dissertation). University of Michigan, Ann Arbor, Michigan.<br /> Ziller, R. (1957). Group size: A determinant of the quality and stability of group decision. _Sociometry, 20,_ 165-173.
 
-#### Image Descriptions
+#### 画像の説明
 
-**<a id="id10.9"></a>Figure 10.9 Antecedents and Outcomes of Groupthink.**
+**図10.9 集団思考の先行条件と結果。**
 
-Antecedent conditions:
+先行条件：
 
-- Time pressures and stress
-- High cohesiveness and social identity
-- Isolation from other sources of information
-- Directive, authoritative leadership
+- 時間的圧力とストレス
+- 高い凝集性と社会的アイデンティティ
+- 他の情報源からの孤立
+- 指示的で権威的なリーダーシップ
 
-These conditions lead to symptoms of groupthink:
+これらの条件は、集団思考の症状につながる。
 
-- Illusions of invulnerability
-- Illusions of unanimity
-- In-group favoritism
-- Little search for new information
-- Belief in morality of the group
-- Pressure on dissenters to conform to group norms
+- 自分たちは失敗しないという幻想
+- 全員一致の幻想
+- 内集団ひいき
+- 新しい情報をほとんど探さない
+- 集団の道徳性への信念
+- 反対者に集団規範へ同調するよう圧力をかける
 
-Eventually it results in poor decision making.
+最終的には、悪い意思決定につながる。
 
-[\[Return to Figure 10.9\]](/translations/social-psychology/10-03-group-decision-making/)
+[\[図10.9に戻る\]](/translations/social-psychology/10-03-group-decision-making/)

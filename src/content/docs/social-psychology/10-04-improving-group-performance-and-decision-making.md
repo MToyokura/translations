@@ -1,193 +1,194 @@
 ---
-title: "10.4 Improving Group Performance and Decision Making"
+title: "10.4 集団のパフォーマンスと意思決定を改善する"
 sidebar:
   order: 69
 ---
-:::note[Learning Objectives]
 
-1. Review the ways that people can work to make group performance and decision making more effective.
-2. Explore the role of motivating people to perform better due to self-interest.
-3. Outline ways to improve communication and information sharing in groups.
-4. Review research on setting effective group goals.
-5. Outline the benefits of challenges of diversity in regards to group performance and decision making.
+:::note[学習目標]
 
-:::
-
-As we have seen, it makes sense to use groups to make decisions because people can create outcomes working together that any one individual could not hope to accomplish alone. In addition, once a group makes a decision, the group will normally find it easier to get other people to implement it because many people feel that decisions made by groups are fairer than those made by individuals. And yet, as we have also seen, there are also many problems associated with groups that make it difficult for them to live up to their full potential. In this section, let’s consider this issue more fully: What approaches can we use to make best use of the groups that we belong to, helping them to achieve as best as is possible? Training groups to perform more effectively is possible, if appropriate techniques are used (Salas et al., 2008).
-
-Perhaps the first thing we need to do is to remind our group members that groups are not as effective as they sometimes seem. Group members often think that their group is being more productive than it really is, and that their own groups are particularly productive. For instance, people who participate in brainstorming groups report that they have been more productive than those who work alone, even if the group has actually not done all that well (Paulus, Dzindolet, Poletes, & Camacho, 1993; Stroebe, Diehl, & Abakoumkin, 1992).
-
-This *tendency to overvalue the level of productivity of our ingroups* is known as the illusion of group effectivity. A related phenomena is the not invented here bias, which occurs *when* *group members overvalue their own group’s ideas and products over those of other groups* (Katz & Allen, 1982). There are many reasons why these biases occur. For one, the productivity of the group as a whole is highly accessible, and this productivity generally seems quite good, at least in comparison with the contributions of single individuals. The group members hear many ideas expressed by themselves and the other group members, and this gives the impression that the group is doing very well, even if objectively it is not. And on the affective side, group members receive a lot of positive social identity from their group memberships. These positive feelings naturally lead them to believe that the group is strong and performing well. Thus the illusion of group effectivity poses a severe problem for group performance, and we must work to make sure that group members are aware of it. Just because we are working in groups does not mean that we are making good decisions or performing a task particularly well—group members, and particularly the group leader, must always monitor group performance and attempt to motivate the group to work harder.
-
-## Motivating Groups to Perform Better by Appealing to Self-Interest
-
-In addition to helping group members understand the nature of group performance, we must be aware of their self-interested goals. Group members, like all other people, act at least in part for themselves. So anything we can do to reward them for their participation or to make them enjoy being in the group more will be helpful.
-
-Perhaps the most straightforward approach to getting people to work harder in groups is to provide rewards for performance. Corporations reward their employees with raises and bonuses if they perform well, and players on sports teams are paid according to their successes on the playing field. However, although incentives may increase the effort of the individual group members and thus enhance group performance, they also have some potential disadvantages for group process.
-
-One potential problem is that the group members will compare their own rewards with those of others. It might be hoped that individuals would use their coworkers as positive role models (upward social comparison), which would inspire them to work harder. For instance, when corporations set up “employee of the week” programs, which reward excellence on the part of individual group members, they are attempting to develop this type of positive comparison.
-
-On the other hand, if group members believe that others are being rewarded more than they are for what they perceive as the same work (downward social comparison), they may change their behavior to attempt to restore equity. Perhaps they will attempt to work harder in order to receive greater rewards for themselves. But they may instead decide to reduce their effort to match what they perceive as a low level of reward (Platow, O’Connell, Shave, & Hanning, 1995). It has been found, for instance, that workers who perceive that their pay is lower than it should be are more likely to be absent from work (Baron & Pfefer, 1994; Geurts, Buunk, & Schaufeli, 1994). Taken together then, incentives can have some positive effects on group performance, but they may also create their own difficulties.
-
-But incentives do not have to be so directly financial. As we saw in our earlier discussion of social loafing, people will also work harder in groups when they feel that they are contributing to the group and that their work is visible to and valued by the other group members (Karau & Williams, 1993; Kerr & Bruun, 1983). One study (Williams, Harkins, & Latané, 1981) found that when groups of individuals were asked to cheer as loudly as they could into a microphone placed in the center of the room, social loafing occurred. However, when each individual was given his or her own personal microphone and thus believed that his or her own input could be measured, social loafing was virtually eliminated. Thus when our contributions to the group are identifiable as our own, and particularly when we receive credit for those contributions, we feel that our performance counts, and we are less likely to loaf.
-
-It turns out that the size of the group matters in this regard. Although larger groups are more able than smaller ones to diversify into specialized roles and activities, and this is likely to make them efficient in some ways (Bond & Keys, 1993; Miller & Davidson-Podgorny, 1987), larger groups are also more likely to suffer from coordination problems and social loafing. The problem is that individuals in larger groups are less likely to feel that their effort is going to make a difference to the output of the group as a whole or that their contribution will be noticed and appreciated by the other group members (Kerr & Bruun, 1981).
-
-In the end, because of the difficulties that accompany large groups, the most effective working groups are of relatively small size—about four or five members. Research suggests that in addition to being more efficient, working in groups of about this size is also more enjoyable to the members, in comparison with being in larger groups (Mullen, Symons, Hu, & Salas, 1989). However, the optimal group size will be different for different types of tasks. Groups in which the members have high ability may benefit more from larger group size (Yetton & Bottger, 1983), and groups that have greater commitment or social identity may suffer less from motivational losses, even when they are large (Hardy & Latané, 1988).
-
-Groups will also be more effective when they develop appropriate social norms. If the group develops a strong group identity and the group members care about the ability of the group to do a good job (e.g., a cohesive sports or military team), the amount of social loafing is reduced (Harkins & Petty, 1982; Latané, Williams, & Harkins, 1979). On the other hand, some groups develop norms that prohibit members from working up to their full potential and thus encourage loafing (Mullen & Baumeister, 1987). It is also important for the group to fully define the roles that each group member should play in the group and help the individuals accomplish these roles.
-
-### Cognitive Approaches: Improving Communication and Information Sharing
-
-Even if we are successful in encouraging the group members to work hard toward the group goals, groups may fail anyway because they do not gather and share information openly. However, the likelihood of poor information search and information sharing, such as that which occurs in groupthink, can be reduced by creating situations that foster open and full discussion of the issues.
-
-One important method of creating adequate information sharing is to ensure that the group has plenty of time to make its decision and that it is not rushed in doing so. Of course, such a luxury is not always possible, but better decisions are likely to be made when there is sufficient time. Having plenty of time prevents the group from coming to premature consensus and making an unwise choice. Time to consider the issues fully also allows the group to gain new knowledge by seeking information and analysis from outside experts.
-
-One approach to increasing full discussion of the issues is to have the group break up into smaller subgroups for discussion. This technique increases the amount of discussion overall and allows more group members to air more ideas. In some decision-making groups, it is standard practice to set up several independent groups that consider the same questions, each carrying on its deliberations under a separate leader; the subgroups then meet together to make the final decision.
-
-Within the group itself, conversation can be encouraged through the use of a devil’s advocate—*an individual who is given the job of expressing conflicting opinions and forcing the group (in a noncombative way) to fully discuss all the alternatives*. Because the opinions of the devil’s advocate challenge the group consensus and thus may hinder quick group decision making and group identity, the individual who takes the job may not be particularly popular in the group. For this reason, the group leader should formally assign the person to the role and make it clear that this role is an essential part of group functioning. The job can profitably be given to one of the most qualified group members and may sometimes rotate from person to person. In other cases, it may be useful to invite an expert or another qualified individual who is not a regular member of the group to the decision-making meetings to give his or her input. This person should be encouraged to challenge the views of the core group.
-
-The group leader is extremely important in fostering norms of open discussion in decision-making groups. An effective leader makes sure that he or she does not state his or her opinions early but, rather, allows the other group members to express their ideas first and encourages the presentation of contrasting positions. This allows a fuller discussion of pros and cons and prevents simple agreement by conformity. Leaders also have the ability to solicit unshared information from the group members, and they must be sure to do so, for instance, by making it clear that each member has important and unique information to share and that it is important to do so. Leaders may particularly need to solicit and support opinions from low-status or socially anxious group members. Some decision-making groups even have a “second-chance meeting” before a final decision is made. In this final meeting, the goal is to explicitly consider alternatives and allow any lingering doubts to be expressed by group members.
-
-One difficulty with many working groups is that once they have developed a set of plans or strategies, these plans become established social norms, and it becomes very difficult for the group to later adopt new, alternative, and perhaps better, strategies. As a result, even when the group is having difficulty performing effectively, it may nevertheless stick with its original methods; developing or reformulating strategies is much less common. The development of specific strategies that allow groups to break out of their existing patterns may be useful in these cases. Hackman and Morris (1975) suggest that it can be helpful to have outside observers who are experts in group process provide feedback about relevant norms and encourage the groups to discuss them. In some cases, the consultation may involve restructuring the group by changing the status hierarchy, the social norms, or the group roles, for instance. These changes may help reduce conflict and increase effective communication and coordination.
-
-#### Setting Appropriate Goals
-
-One aspect of planning that has been found to be strongly related to positive group performance is the setting of goals that the group uses to guide its work (Latham & Locke, 1991; Weldon & Weingart, 1993). Groups that set specific, difficult, and yet attainable goals (e.g., “Improve sales by 10% over the next six months”) are much more effective than groups that are given goals that are not very clear (e.g., “Let’s sell as much as we can!”). In addition, groups that set clear goals produce better attendance. Goals have been found to be even more important in determining performance than are other incentives, including rewards such as praise and money.
-
-Setting goals appears to be effective because it increases member effort and expectations of success, because it improves cooperation and communication among the members, and because it produces better planning and more accurate monitoring of the group’s work. Specific goals may also result in increased commitment to the group (Locke & Latham, 1990; Weldon, Jehn, & Pradhan, 1991), and when the goals are successfully attained, there is a resulting feeling of accomplishment, group identity and pride, a commitment to the task, and a motivation to set even higher goals. Moreover, there is at least some evidence that it is useful to let the group choose its own goals rather than assigning goals to the group (Haslam, Wegge, & Postmes, 2009). Groups tend to select more challenging goals, and because they have set them themselves, they do not need to be convinced to accept them as appropriate. However, even assigned goals are effective as long as they are seen as legitimate and attainable (Latham, Winters, & Locke, 1994).
-
-One potential problem associated with setting goals is that the goals may turn out to be too difficult. If the goals that are set are too high to actually be reached, or if the group perceives that they are too high even if they are not, the group may become demoralized and reduce its effort (Hinsz, 1995). Groups that are characterized by a strong social identity and a sense of group efficacy—the belief that they can accomplish the tasks given to them—have been found to perform better (Little & Madigan, 1997; Silver & Bufanio, 1996, 1997). Fortunately, over time, groups frequently adjust their goals to be attainable.
-
-### Group Member Diversity: Costs and Benefits
-
-As we have seen, most groups tend to be made up of individuals who are similar to each other. This isn’t particularly surprising because groups frequently come together as a result of common interests, values, and beliefs. Groups also tend to recruit new members who are similar to the current members, in the sense that they have personalities, beliefs, and goals that match those of the existing members (Graves & Powell, 1995).
-
-There are some potential advantages for groups in which the members share personalities, beliefs, and values. Similarity among group members will likely help the group reach consensus on the best approaches to performing a task and may lead it to make decisions more quickly and effectively. Groups whose members are similar in terms of their personality characteristics work better and have less conflict, probably at least in part because the members are able to communicate well and to effectively coordinate their efforts (Bond & Shiu, 1997). In some cases, a group may even ostracize or expel members who are dissimilar, and this is particularly likely when it is important that the group make a decision or finish a task quickly and the dissimilarity prevents achieving these goals (Kruglanski & Webster, 1991).
-
-Although similarity among group members may be useful in some cases, groups that are characterized by diversity among members—for instance, in terms of personalities, experiences, and abilities—might have some potential advantages (Crisp & Turner, 2011; Jackson & Joshi, 2011; van Knippenberg & Schippers, 2007). For one, assuming that people are willing to express them, diverse interests, opinions, and goals among the group members may reduce tendencies toward conformity and groupthink. Diverse groups may also be able to take advantage of the wider range of resources, ideas, and viewpoints that diversity provides, perhaps by increasing discussion of the issues and therefore improving creative thinking. Bantel and Jackson (1989) appraised the diversity of top management teams in 199 banks and found that the greater the diversity of the team in terms of age, education, and length of time on the team, the greater the number of administrative innovations. Diversity has also been found to increase positive attitudes among the group members and may increase group performance and creativity (Gurin, Peng, Lopez, & Nagda, 1999; McLeod, Lobel, & Cox, 1996; Nemeth, Brown, & Rogers, 2001).
-
-Thinking about our chapter case study of gender diversity in corporate board performance and decision making, men and women can often bring different perspectives to the group, and this diversity may help group performance. In a meta-analysis of gender diversity, Wendy Wood (1987) found that there was some evidence that groups composed of both men and women tended to outperform same-sex groups (either all males or all females) at least in part because they brought different, complementary skills to the group. However, she also found that groups made up only of men performed well on tasks that involved task-oriented activities, whereas groups of women did better on tasks that involved social interaction. Thus, and again supporting the importance of the person-by-situation interaction, the congruency of members and tasks seems more important than either member characteristics or group characteristics alone.
-
-However, although gender and ethnic diversity may have at least some benefits for groups, there are also some potential costs to diversity. Tsui, Egan, and O’Reilly (1992) found that highly diverse groups had lower cohesion and lower social identity in comparison with groups that were more homogeneous. Furthermore, if there are differences in perceived status between the members of the different ethnic or gender groups, members of the group with lower perceived status may feel that they are being treated unfairly, particularly if they feel that they do not have equal opportunities for advancement, and this may produce intergroup conflict. Problems may also result if the number of individuals from one group is particularly small. When there are only a few (perhaps viewed by majority members as token) members of one group, these individuals may be seen and treated stereotypically by the members of the larger group (Kanter, 1977).
-
-Extreme levels of diversity can also be problematic for group process. One difficulty is that it may be harder for diverse groups to get past the formation stage and begin to work on the task, and once they get started, it may take more time for them to make a decision. More diverse groups may also show more turnover over time (Wagner, Pfeffer, & O’Reilly, 1984), and group diversity may produce increased conflict within the group (Kim, 1988).
-
-In sum, group diversity may produce either process losses or process gains, but it is difficult to predict which will occur in any given group. Nevertheless, depending on the type and extent of the diversities in a group, the nature of the task, and on the skills of the group leaders and group members to embrace diversity as a strength, it can often promote greater tolerance and result in a range of positive performance and decision making outcomes (Crisp & Turner, 2011; Nishii & Mayer, 2009).
-
-:::tip[Key Takeaways]
-
-- A variety of approaches may be taken to help groups avoid group process losses and to increase the likelihood of process gains.
-- It is important to help group members avoid the illusion of group effectivity and to monitor group performance.
-- Providing rewards for performance may increase the effort of the individual group members, but if the rewards are not perceived as equitable, they may also lead to upward social comparison and a reduction in effort by other members.
-- People will work harder in groups when they feel that they are contributing to the group and that their work is visible to and valued by the other group members. This is particularly likely in smaller groups.
-- Adequate information sharing is more likely when the group has plenty of time to make its decision and is not rushed in doing so. The group leader is extremely important in fostering norms of open discussion.
-- Groups that set specific, difficult, and yet attainable goals have been found to be more effective than groups that are given goals that are not very clear.
-- Group diversity may produce either process losses or process gains, but it is difficult to predict which will occur in any given group.
+1. 集団のパフォーマンスと意思決定をより効果的にするために、人々が取り組める方法を概観する。
+2. 自己利益に訴えることによって、人々をよりよく遂行するよう動機づけることの役割を検討する。
+3. 集団内のコミュニケーションと情報共有を改善する方法を概説する。
+4. 効果的な集団目標の設定に関する研究を概観する。
+5. 集団のパフォーマンスと意思決定に関して、多様性がもつ利益と課題を概説する。
 
 :::
 
-:::note[Exercises and Critical Thinking]
+これまで見てきたように、意思決定に集団を用いることには合理性がある。人々は協働することによって、一人では到底達成できない成果を生み出せるからである。さらに、いったん集団が意思決定を行うと、それを他の人々に実行してもらうことも通常は容易になる。多くの人が、個人による意思決定より集団による意思決定のほうが公正だと感じるからである。しかし同時に、集団が自らの潜在能力を十分に発揮することを難しくする、多くの問題も存在することを見てきた。この節では、この問題をさらに詳しく考えよう。私たちが所属する集団を最大限に活用し、可能な限りよい成果を達成するためには、どのようなアプローチを使えるだろうか。適切な技法を用いれば、集団をより効果的に機能するよう訓練することは可能である（Salas et al., 2008）。
 
-1. Analyze each of the following in terms of the principles discussed in this chapter.
-  1. In 1986, the scientists at NASA launched the space shuttle *Challenger* in weather that was too cold, which led to an explosion on liftoff and the death of the seven astronauts aboard. Although the scientists had debated whether or not to launch the shuttle, analyses of the decision-making process in this case found that rather than obtaining unbiased information from all the relevant individuals, many of those in the know were pressured to give a yes response for the launch. Furthermore, the decision to launch was made as the result of a yes vote from only four of the responsible decision-makers, while the opinions of the others were ignored. In January 2003, a very similar event occurred when the space shuttle *Columbia* burned and crashed on re-entry into Earth’s atmosphere. Analysis of the decision making leading to this decision suggests that the NASA team members again acted in isolation, again without fully considering the knowledge and opinions of all the team members, and again with disastrous consequences.
-  2. John, Sarah, Billy, and Warren were assigned to work on a group project for their psychology class. However, they never really made much progress on it. It seemed as if each of them was waiting for the other person to call a meeting. They finally met a couple of days before the paper was due, but nobody seemed to do much work on it. In the end, they didn’t get a very good grade. They realized that they might have done better if they had each worked alone on the project.
-2. Think of a time when you were working on a group project that did not seem to be going very well. Based on the research covered in this section, what techniques might you use to motivate the group to do better?
-3. Consider a time when you experienced a process gain in a group. To what extent do you think that the gain was real, versus an illusion of group effectivity and why?
-4. What advantages and challenges have you noticed when working in diverse groups? Based on the research outlined in this section, why do you think that some groups are better able to harness the benefits of diversity and to achieve higher performance?
+おそらく最初に必要なのは、集団はときに見かけほど効果的ではないことをメンバーに思い出させることである。集団メンバーは、自分たちの集団が実際より生産的であると考えがちであり、とくに自分の集団は生産的だと思いやすい。たとえば、ブレインストーミング集団に参加した人々は、集団が実際にはそれほどよい成果を上げていなくても、一人で作業した人より自分たちのほうが生産的だったと報告する（Paulus, Dzindolet, Poletes, & Camacho, 1993; Stroebe, Diehl, & Abakoumkin, 1992）。
+
+この*自分の内集団の生産性の水準を過大評価する傾向*は、**集団有効性の錯覚（illusion of group effectivity）**と呼ばれる。関連する現象に**not invented hereバイアス**があり、これは*集団メンバーが、他集団のアイデアや成果物より、自分たちの集団のアイデアや成果物を過大評価するとき*に生じる（Katz & Allen, 1982）。こうしたバイアスが生じる理由はいくつもある。第一に、集団全体の生産性は非常にアクセスしやすく、少なくとも単独の個人の貢献と比べれば、その生産性は一般にかなり高く見える。メンバーは、自分自身や他のメンバーから多くのアイデアが表明されるのを聞くため、客観的にはそうでなくても、集団が非常にうまく機能しているという印象をもつ。また感情面では、メンバーは集団への所属から多くの肯定的な社会的アイデンティティを得る。こうした肯定的感情は当然、集団は強く、うまく機能しているという信念につながる。したがって、集団有効性の錯覚は集団パフォーマンスにとって重大な問題であり、メンバーがそれを認識するよう努めなければならない。集団で働いているというだけで、よい意思決定をしている、あるいは課題をとくにうまく遂行していることにはならない。集団メンバー、とくにリーダーは、常に集団パフォーマンスを監視し、より懸命に働くよう集団を動機づけなければならない。
+
+## 自己利益に訴えて集団のパフォーマンスを高める
+
+集団メンバーが集団パフォーマンスの性質を理解できるようにすることに加えて、私たちは彼らの自己利益に基づく目標も意識しなければならない。集団メンバーも、他のすべての人と同様、少なくとも部分的には自分自身のために行動する。したがって、参加に対して報酬を与えたり、集団にいることをより楽しめるようにしたりすることは、どれも役立つ。
+
+集団で人々により懸命に働いてもらう最も直接的な方法は、おそらくパフォーマンスに対して報酬を与えることである。企業は、よい成果を上げた従業員に昇給やボーナスを与え、スポーツチームの選手は競技上の成功に応じて報酬を受け取る。しかし、インセンティブは個々のメンバーの努力を高め、その結果、集団パフォーマンスを向上させる可能性がある一方、集団プロセスにとって潜在的な欠点もいくつかある。
+
+潜在的な問題の一つは、メンバーが自分の報酬を他者の報酬と比較することである。個人が同僚を肯定的な役割モデルとして用い（上方への社会的比較）、それによってより懸命に働くよう触発されることが期待できるかもしれない。たとえば、企業が個々のメンバーの優れた働きを報いる「今週の従業員」制度を設けるとき、この種の肯定的比較を生み出そうとしている。
+
+一方、メンバーが、同じ仕事だと自分が知覚しているのに他者のほうが多く報われていると考える場合（下方への社会的比較）、衡平性を回復するために行動を変えるかもしれない。より大きな報酬を得るため、もっと懸命に働こうとする可能性もある。しかし逆に、低い報酬水準だと知覚したものに自分の努力を合わせるため、努力を減らすことを選ぶかもしれない（Platow, O’Connell, Shave, & Hanning, 1995）。たとえば、自分の給与が本来より低いと知覚している労働者は、仕事を欠勤する可能性が高いことがわかっている（Baron & Pfefer, 1994; Geurts, Buunk, & Schaufeli, 1994）。総合すると、インセンティブは集団パフォーマンスに肯定的な効果をもつ可能性があるが、同時にそれ自体の困難も生み出しうる。
+
+しかし、インセンティブは必ずしも直接的に金銭的である必要はない。社会的手抜きについて先に述べたように、人々は、自分が集団に貢献しており、その仕事が他のメンバーから見え、価値を認められていると感じるときにも、集団内でより懸命に働く（Karau & Williams, 1993; Kerr & Bruun, 1983）。ある研究（Williams, Harkins, & Latané, 1981）では、人々の集団に、部屋の中央に置かれたマイクに向かって可能な限り大きな声で歓声を上げるよう求めると、社会的手抜きが生じた。しかし、各人に個別のマイクを与え、自分自身の入力が測定されると信じさせると、社会的手抜きはほぼ完全になくなった。このように、集団への自分の貢献が自分自身のものとして識別可能であり、とくにその貢献について評価を受けるとき、自分のパフォーマンスが重要だと感じ、手抜きをしにくくなる。
+
+この点では集団の大きさも重要である。大集団は小集団より専門化された役割や活動に分化しやすく、それによってある面では効率が高くなる可能性があるが（Bond & Keys, 1993; Miller & Davidson-Podgorny, 1987）、同時に、大集団は調整問題や社会的手抜きを経験しやすい。問題は、大きな集団の個人ほど、自分の努力が集団全体の成果に違いをもたらす、あるいは自分の貢献が他のメンバーに気づかれ、評価されると感じにくいことである（Kerr & Bruun, 1981）。
+
+結局、大集団に伴う困難のため、最も効果的な作業集団は比較的小さく、4人または5人程度である。研究によれば、この程度の大きさの集団で働くことは、より大きな集団にいる場合より効率的であるだけでなく、メンバーにとって楽しい（Mullen, Symons, Hu, & Salas, 1989）。ただし、最適な集団規模は課題の種類によって異なる。能力の高いメンバーをもつ集団は、より大きな規模から利益を得る場合があり（Yetton & Bottger, 1983）、高いコミットメントや社会的アイデンティティをもつ集団は、大きな集団でも動機づけ損失を経験しにくい可能性がある（Hardy & Latané, 1988）。
+
+集団が適切な社会的規範を発達させるときにも、より効果的になる。集団が強い集団アイデンティティを発達させ、メンバーが集団の仕事をうまく遂行する能力を重視している場合（たとえば凝集性の高いスポーツチームや軍隊）、社会的手抜きは減少する（Harkins & Petty, 1982; Latané, Williams, & Harkins, 1979）。一方、メンバーが潜在能力を十分に発揮して働くことを禁じ、そのため手抜きを促すような規範を発達させる集団もある（Mullen & Baumeister, 1987）。また、各メンバーが集団内で果たすべき役割を十分に定義し、その役割を遂行できるよう個人を支援することも重要である。
+
+### 認知的アプローチ：コミュニケーションと情報共有を改善する
+
+メンバーに集団目標に向かって懸命に働くよう促すことに成功したとしても、情報を開かれた形で収集・共有しなければ、集団は失敗することがある。しかし、集団思考でみられるような、不十分な情報探索や情報共有の可能性は、問題について開かれた十分な討議を促す状況をつくることで低減できる。
+
+十分な情報共有を生み出す重要な方法の一つは、集団が意思決定を行うための十分な時間をもち、急がされないようにすることである。もちろん、そのような余裕を常にもてるわけではないが、十分な時間があるときには、よりよい意思決定が行われやすい。十分な時間があれば、集団が早すぎる合意に達して賢明でない選択をすることを防げる。また、問題を十分に検討する時間によって、外部の専門家から情報や分析を求め、新しい知識を得ることもできる。
+
+問題について十分な討議を増やす一つの方法は、集団をより小さな下位集団に分けて話し合わせることである。この技法は討議全体の量を増やし、より多くのメンバーがより多くのアイデアを表明できるようにする。一部の意思決定集団では、同じ問いを検討する複数の独立した集団を設け、それぞれが別のリーダーの下で検討を進めた後、下位集団が一緒に集まって最終意思決定を行うことが標準的な実践となっている。
+
+集団内部では、**悪魔の代弁者（devil’s advocate）**を用いることで会話を促すことができる。これは、*対立する意見を表明し、集団に（敵対的にならない形で）すべての代替案を十分に討議させる役割を与えられた人物*である。悪魔の代弁者の意見は集団の合意に挑戦し、迅速な意思決定や集団アイデンティティを妨げる可能性があるため、この役割を担う人は集団内であまり人気が出ないかもしれない。そのため、リーダーが正式にその役割を割り当て、これが集団機能に不可欠な部分であることを明確にするべきである。この役割は、集団で最も資格のあるメンバーの一人に与えると有益であり、ときには人から人へ交代させてもよい。別の場合には、普段のメンバーではない専門家や資格のある別の人物を意思決定会議に招き、意見を求めることが役立つ場合もある。この人には、中核集団の見解に異議を唱えるよう促すべきである。
+
+意思決定集団で開かれた討議の規範を促進するうえで、集団リーダーは非常に重要である。効果的なリーダーは、自分の意見を早い段階で述べるのではなく、他のメンバーに先に考えを表明させ、対立する立場の提示を奨励するようにする。これによって長所と短所をより十分に討議でき、単なる同調による合意を防げる。また、リーダーはメンバーから未共有情報を引き出すことができ、そのため、各メンバーには共有すべき重要で固有の情報があり、それを共有することが重要だと明確にするなどして、確実にそうしなければならない。とくに地位の低いメンバーや社会的不安の高いメンバーから意見を求め、それを支持する必要がある場合もある。一部の意思決定集団では、最終決定の前に「セカンドチャンス会議」を開くことさえある。この最終会議の目的は、代替案を明示的に検討し、メンバーに残っている疑念を表明させることである。
+
+多くの作業集団の難しさの一つは、いったん一連の計画や方略を発達させると、それらが確立した社会的規範となり、その後、新しく代替的で、おそらくよりよい方略を採用することが非常に難しくなることである。その結果、集団が効果的に遂行するのに苦労していても、元の方法に固執する場合がある。方略を新たに開発したり再構成したりすることは、はるかに少ない。こうした場合、既存のパターンから抜け出せる具体的な方略を開発することが役立つ可能性がある。HackmanとMorris（1975）は、集団プロセスの専門家である外部観察者に、関連する規範についてフィードバックを提供してもらい、集団にそれらを討議するよう促してもらうことが有用だと示唆している。場合によっては、地位の階層、社会的規範、集団役割などを変えることで、集団を再構成することも含まれる。こうした変化は対立を減らし、効果的なコミュニケーションと調整を高めるのに役立つ可能性がある。
+
+#### 適切な目標を設定する
+
+計画の一側面として、集団が作業を導くために用いる目標を設定することは、肯定的な集団パフォーマンスと強く関連することがわかっている（Latham & Locke, 1991; Weldon & Weingart, 1993）。具体的で、困難ではあるが達成可能な目標（たとえば「今後6か月で売上を10%増やす」）を設定する集団は、あまり明確でない目標（たとえば「できるだけたくさん売ろう！」）を与えられた集団より、はるかに効果的である。また、明確な目標を設定する集団は、出席状況もよい。目標は、称賛や金銭などの報酬を含む他のインセンティブよりも、パフォーマンスを決定するうえで重要であることさえ示されている。
+
+目標設定が効果的なのは、メンバーの努力と成功への期待を高め、メンバー間の協力とコミュニケーションを改善し、よりよい計画と、集団の仕事のより正確な監視を生み出すためだと考えられる。具体的な目標は集団へのコミットメントも高める可能性があり（Locke & Latham, 1990; Weldon, Jehn, & Pradhan, 1991）、目標がうまく達成されると、達成感、集団アイデンティティと誇り、課題へのコミットメント、さらに高い目標を設定する動機づけが生まれる。さらに、集団に目標を割り当てるよりも、集団自身に目標を選ばせることが有益だという証拠も少なくともいくらかある（Haslam, Wegge, & Postmes, 2009）。集団はより挑戦的な目標を選ぶ傾向があり、自分たち自身で設定したため、それが適切だと納得させる必要もない。ただし、割り当てられた目標でも、正当で達成可能だとみなされる限り効果的である（Latham, Winters, & Locke, 1994）。
+
+目標設定に関連する潜在的な問題の一つは、目標が難しすぎることがある点である。設定された目標が実際には達成できないほど高い場合、または実際にはそうでなくても集団が高すぎると知覚した場合、集団は意気消沈し、努力を減らす可能性がある（Hinsz, 1995）。強い社会的アイデンティティと**集団効力感（group efficacy）**、すなわち与えられた課題を達成できるという信念を特徴とする集団は、よりよいパフォーマンスを示すことがわかっている（Little & Madigan, 1997; Silver & Bufanio, 1996, 1997）。幸い、時間が経つにつれて、集団は達成可能になるよう目標を調整することが多い。
+
+### 集団メンバーの多様性：コストと利益
+
+これまで見てきたように、ほとんどの集団は互いに似た人々から構成される傾向がある。これはそれほど驚くことではない。集団は共通の関心、価値観、信念をもとに形成されることが多いからである。また、集団は、既存メンバーのパーソナリティ、信念、目標と一致するという意味で、現在のメンバーと似た新メンバーを採用する傾向もある（Graves & Powell, 1995）。
+
+メンバーがパーソナリティ、信念、価値観を共有する集団には、いくつかの潜在的な利点がある。メンバー間の類似性は、課題を遂行する最良のアプローチについて集団が合意に達するのを助け、より迅速かつ効果的に意思決定できるようにする可能性が高い。パーソナリティ特性の点でメンバーが似ている集団は、よりうまく機能し、対立も少ない。これは少なくとも部分的には、メンバーがうまくコミュニケーションし、努力を効果的に調整できるためだろう（Bond & Shiu, 1997）。場合によっては、集団が異質なメンバーを排斥したり追放したりすることさえあり、とくに集団が迅速に意思決定したり課題を終えたりする必要があり、異質性がその目標達成を妨げる場合に起こりやすい（Kruglanski & Webster, 1991）。
+
+集団メンバー間の類似性が役立つ場合もある一方、パーソナリティ、経験、能力などにおいてメンバー間に多様性がある集団にも、潜在的な利点があるかもしれない（Crisp & Turner, 2011; Jackson & Joshi, 2011; van Knippenberg & Schippers, 2007）。第一に、人々がそれを表明する意思をもつと仮定すれば、メンバー間の多様な関心、意見、目標は、同調や集団思考への傾向を減らす可能性がある。また、多様な集団は、多様性が提供するより幅広い資源、アイデア、視点を活用し、問題についての討議を増やすことで創造的思考を高められる可能性がある。BantelとJackson（1989）は、199の銀行の経営上層チームの多様性を評価し、年齢、教育、チーム在籍期間に関してチームが多様であるほど、管理上の革新の数が多いことを見いだした。多様性はメンバー間の肯定的態度を高め、集団パフォーマンスと創造性を高める可能性もある（Gurin, Peng, Lopez, & Nagda, 1999; McLeod, Lobel, & Cox, 1996; Nemeth, Brown, & Rogers, 2001）。
+
+企業取締役会のパフォーマンスと意思決定におけるジェンダー多様性についての章の事例研究を考えると、男性と女性はしばしば異なる視点を集団にもたらすことができ、この多様性は集団パフォーマンスを助ける可能性がある。Wendy Wood（1987）はジェンダー多様性のメタ分析で、男女の両方から構成される集団は、同性のみの集団（男性のみ、または女性のみ）より高いパフォーマンスを示す傾向があるという証拠をいくらか見いだした。その一因は、異なる相補的な技能を集団にもたらすことであった。しかし彼女はまた、男性のみの集団は課題志向的な活動を含む課題でよいパフォーマンスを示す一方、女性の集団は社会的相互作用を含む課題でよりよい成績を示すことも見いだした。したがって、ここでも人物‐状況相互作用の重要性が支持され、メンバー特性または集団特性のどちらか単独より、メンバーと課題の適合性のほうが重要であるようだ。
+
+ただし、ジェンダーや民族的多様性が集団に少なくともいくらかの利益をもたらす一方、多様性には潜在的なコストもある。Tsui, Egan, and O’Reilly（1992）は、非常に多様な集団は、より同質的な集団と比べて凝集性が低く、社会的アイデンティティも低いことを見いだした。さらに、異なる民族集団またはジェンダー集団のメンバー間で知覚された地位に差がある場合、地位が低いと知覚された集団のメンバーは、とくに昇進の機会が平等でないと感じると、不公正に扱われていると感じる可能性があり、それが集団間対立を生み出すことがある。また、一つの集団からの人数がとくに少ない場合にも問題が生じる可能性がある。ある集団のメンバーがわずかしかおらず（多数派メンバーからトークン的存在と見なされる可能性がある）、その人々はより大きな集団のメンバーからステレオタイプ的に見られ、扱われることがある（Kanter, 1977）。
+
+極端な多様性も集団プロセスにとって問題になりうる。一つの難しさは、多様な集団では形成段階を乗り越えて課題に取り組み始めることが難しい場合があり、いったん始めても、意思決定により多くの時間がかかる可能性があることである。より多様な集団では時間とともに離職・離脱も多くなる可能性があり（Wagner, Pfeffer, & O’Reilly, 1984）、集団の多様性は集団内の対立を増やす可能性もある（Kim, 1988）。
+
+要するに、集団の多様性はプロセス損失もプロセス利得も生み出しうるが、どちらが特定の集団で生じるかを予測することは難しい。それでも、集団内の多様性の種類と程度、課題の性質、そしてリーダーとメンバーが多様性を強みとして受け入れる技能に応じて、多様性はより大きな寛容さを促し、パフォーマンスと意思決定におけるさまざまな肯定的成果をもたらすことが多い（Crisp & Turner, 2011; Nishii & Mayer, 2009）。
+
+:::tip[要点]
+
+- 集団が集団プロセス損失を避け、プロセス利得の可能性を高めるためには、さまざまなアプローチを取ることができる。
+- 集団メンバーが集団有効性の錯覚を避けられるようにし、集団パフォーマンスを監視することが重要である。
+- パフォーマンスに報酬を与えることで個々のメンバーの努力が増える可能性があるが、報酬が衡平だと知覚されなければ、社会的比較を引き起こし、他のメンバーの努力を低下させる可能性もある。
+- 人々は、自分が集団に貢献しており、その仕事が他のメンバーから見え、価値を認められていると感じるとき、集団内でより懸命に働く。これはとくに小さな集団で生じやすい。
+- 十分な情報共有は、集団が意思決定に十分な時間をもち、急がされていないときに生じやすい。開かれた討議の規範を促すうえで、集団リーダーは非常に重要である。
+- 具体的で、困難ではあるが達成可能な目標を設定する集団は、あまり明確でない目標を与えられた集団より効果的であることがわかっている。
+- 集団の多様性はプロセス損失もプロセス利得も生み出しうるが、特定の集団でどちらが生じるかを予測することは難しい。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Bantel, K. A., & Jackson, S. E. (1989). Top management and innovations in banking: Does the composition of the top team make a difference? *Strategy Management Journal, 10*(S1), 107–124.
+1. 次のそれぞれを、この章で扱った原理の観点から分析しなさい。
+1. 1986年、NASAの科学者たちは、気温が低すぎる天候の中でスペースシャトル _Challenger_ を打ち上げ、その結果、離陸時に爆発が起こり、搭乗していた7人の宇宙飛行士が死亡した。科学者たちはシャトルを打ち上げるべきかどうかを議論していたが、この事例の意思決定過程を分析すると、関係するすべての人から偏りのない情報を得るのではなく、事情を知っていた多くの人が打ち上げに「賛成」と答えるよう圧力を受けていたことがわかった。さらに、打ち上げの決定は、責任ある意思決定者のうちわずか4人による賛成票の結果として行われ、他の人々の意見は無視された。2003年1月にも非常によく似た出来事が起こり、スペースシャトル _Columbia_ は地球大気圏への再突入時に炎上し墜落した。この意思決定に至る過程の分析は、NASAのチームメンバーが再び孤立して行動し、再び全メンバーの知識や意見を十分に検討せず、再び悲惨な結果を招いたことを示唆している。
+1. John、Sarah、Billy、Warrenは、心理学の授業の集団プロジェクトに取り組むよう割り当てられた。しかし、彼らは実際にはほとんど進捗を上げなかった。全員が、誰か別の人が会議を招集するのを待っているようだった。結局、レポートの締切の数日前に集まったが、誰もあまり作業をしないように見えた。最終的に、彼らはあまりよい成績を得られなかった。各自が一人でプロジェクトに取り組んでいれば、もっとよい成果になったかもしれないと気づいた。
+1. うまく進んでいないように思えた集団プロジェクトに取り組んだときを考えなさい。この節で扱った研究に基づくと、集団がよりよく取り組むよう動機づけるために、どのような技法を使えるだろうか。
+1. 集団でプロセス利得を経験したときを考えなさい。その利得はどの程度、本物だったと思うか。また、どの程度、集団有効性の錯覚だったと思うか。その理由は何か。
+1. 多様な集団で働くとき、どのような利点と課題に気づいたことがあるか。この節で概説した研究に基づくと、一部の集団が多様性の利益をよりうまく活用し、より高いパフォーマンスを達成できるのはなぜだと思うか。
 
-Baron, J., & Pfefer, J. (1994). The social psychology of organizations and inequality. *Social Psychology Quarterly, 57*(3), 190–209.
+:::
 
-Bond, M. A., & Keys, C. B. (1993). Empowerment, diversity, and collaboration: Promoting synergy on community boards. *American Journal of Community Psychology, 21*, 37–57.
+#### 参考文献
 
-Bond, M. H., & Shiu, W. Y.-F. (1997). The relationship between a group’s personality resources and the two dimensions of its group process. *Small Group Research, 28*(2), 194–217.
+Bantel, K. A., & Jackson, S. E. (1989). Top management and innovations in banking: Does the composition of the top team make a difference? _Strategy Management Journal, 10_(S1), 107–124.
 
-Crisp, R. J., & Turner, R. N. (2011). Cognitive adaptation to the experience of social and cultural diversity. *Psychological Bulletin, 137*(2), 242–266. doi: 10.1037/a002184.
+Baron, J., & Pfefer, J. (1994). The social psychology of organizations and inequality. _Social Psychology Quarterly, 57_(3), 190–209.
 
-Geurts, S. A., Buunk, B. P., & Schaufeli, W. B. (1994). Social comparisons and absenteeism: A structural modeling approach. *Journal of Applied Social Psychology, 24*(21), 1871–1890.
+Bond, M. A., & Keys, C. B. (1993). Empowerment, diversity, and collaboration: Promoting synergy on community boards. _American Journal of Community Psychology, 21_, 37–57.
 
-Graves, L. M., & Powell, G. M. (1995). The effect of sex similarity on recruiters’ evaluations of actual applicants: A test of the similarity-attraction paradigm. *Personnel Psychology, 48*, 85–98.
+Bond, M. H., & Shiu, W. Y.-F. (1997). The relationship between a group’s personality resources and the two dimensions of its group process. _Small Group Research, 28_(2), 194–217.
 
-Gurin, P., Peng, T., Lopez, G., & Nagda, B. A. (1999). Context, identity, and intergroup relations. In D. A. Prentice & D. T. Miller (Eds.), *Cultural divides: Understanding and overcoming group conflict* (pp. 133–170). New York, NY: Russell Sage Foundation.
+Crisp, R. J., & Turner, R. N. (2011). Cognitive adaptation to the experience of social and cultural diversity. _Psychological Bulletin, 137_(2), 242–266. doi: 10.1037/a002184.
 
-Hackman, J., & Morris, C. (1975). Group tasks, group interaction processes, and group performance effectiveness: A review and proposed integration. In L. Berkowitz (Ed.), *Advances in experimental social psychology* (Vol. 8, pp. 45–99). New York, NY: Academic Press.
+Geurts, S. A., Buunk, B. P., & Schaufeli, W. B. (1994). Social comparisons and absenteeism: A structural modeling approach. _Journal of Applied Social Psychology, 24_(21), 1871–1890.
 
-Hardy, C. J., & Latané, B. (1988). Social loafing in cheerleaders: Effects of team membership and competition. *Journal of Sport and Exercise Psychology, 10*(1), 109–114.
+Graves, L. M., & Powell, G. M. (1995). The effect of sex similarity on recruiters’ evaluations of actual applicants: A test of the similarity-attraction paradigm. _Personnel Psychology, 48_, 85–98.
 
-Harkins, S. G., & Petty, R. E. (1982). Effects of task difficulty and task uniqueness on social loafing. *Journal of Personality and Social Psychology, 43*(6), 1214–1229.
+Gurin, P., Peng, T., Lopez, G., & Nagda, B. A. (1999). Context, identity, and intergroup relations. In D. A. Prentice & D. T. Miller (Eds.), _Cultural divides: Understanding and overcoming group conflict_ (pp. 133–170). New York, NY: Russell Sage Foundation.
 
-Haslam, S. A., Wegge, J., & Postmes, T. (2009). Are we on a learning curve or a treadmill? The benefits of participative group goal setting become apparent as tasks become increasingly challenging over time. *European Journal of Social Psychology, 39*(3), 430–446.
+Hackman, J., & Morris, C. (1975). Group tasks, group interaction processes, and group performance effectiveness: A review and proposed integration. In L. Berkowitz (Ed.), _Advances in experimental social psychology_ (Vol. 8, pp. 45–99). New York, NY: Academic Press.
 
-Hinsz, V. B. (1995). Goal setting by groups performing an additive task: A comparison with individual goal setting. *Journal of Applied Social Psychology, 25*(11), 965–990.
+Hardy, C. J., & Latané, B. (1988). Social loafing in cheerleaders: Effects of team membership and competition. _Journal of Sport and Exercise Psychology, 10_(1), 109–114.
 
-Jackson, S. E., & Joshi, A. (2011). Work team diversity. In S. Zedeck (Ed.), *APA handbook of industrial and organizational psychology, Vol 1: Building and developing the organization.* (pp. 651–686). Washington, DC: American Psychological Association.
+Harkins, S. G., & Petty, R. E. (1982). Effects of task difficulty and task uniqueness on social loafing. _Journal of Personality and Social Psychology, 43_(6), 1214–1229.
 
-Kanter, R. M. (1977). Some effects of proportions on group life: Skewed sex ratios and responses to token women. *American Journal of Sociology, 82*, 965–990.
+Haslam, S. A., Wegge, J., & Postmes, T. (2009). Are we on a learning curve or a treadmill? The benefits of participative group goal setting become apparent as tasks become increasingly challenging over time. _European Journal of Social Psychology, 39_(3), 430–446.
 
-Karau, S. J., & Williams, K. D. (1993). Social loafing: A meta-analytic review and theoretical integration. *Journal of Personality and Social Psychology, 65*(4), 681–706.
+Hinsz, V. B. (1995). Goal setting by groups performing an additive task: A comparison with individual goal setting. _Journal of Applied Social Psychology, 25_(11), 965–990.
 
-Katz, R. and T.J. Allen (1982). Investigating the Not-Invented-Here (NIH) Syndrome: A look at the performance, tenure and communication patterns of 50 R&D project groups. *R&D Management, 12*, 7-19.
+Jackson, S. E., & Joshi, A. (2011). Work team diversity. In S. Zedeck (Ed.), _APA handbook of industrial and organizational psychology, Vol 1: Building and developing the organization._ (pp. 651–686). Washington, DC: American Psychological Association.
 
-Kerr, N. L., & Bruun, S. E. (1981). Ringelmann revisited: Alternative explanations for the social loafing effect. *Personality and Social Psychology Bulletin, 7*(2), 224–231.
+Kanter, R. M. (1977). Some effects of proportions on group life: Skewed sex ratios and responses to token women. _American Journal of Sociology, 82_, 965–990.
 
-Kerr, N. L., & Bruun, S. E. (1983). Dispensability of member effort and group motivation losses: Free-rider effects. *Journal of Personality and Social Psychology, 44*(1), 78–94.
+Karau, S. J., & Williams, K. D. (1993). Social loafing: A meta-analytic review and theoretical integration. _Journal of Personality and Social Psychology, 65_(4), 681–706.
 
-Kim, Y. Y. (1988). *Communication and cross cultural adaptation: A stereotype challenging theory.* Clevedon, England: Multilingual Matters.
+Katz, R. and T.J. Allen (1982). Investigating the Not-Invented-Here (NIH) Syndrome: A look at the performance, tenure and communication patterns of 50 R&D project groups. _R&D Management, 12_, 7-19.
 
-Kruglanski, A. W., & Webster, D. M. (1991). Group members’ reactions to opinion deviates and conformists at varying degrees of proximity to decision deadline and of environmental noise. *Journal of Personality and Social Psychology, 61*, 212–225.
+Kerr, N. L., & Bruun, S. E. (1981). Ringelmann revisited: Alternative explanations for the social loafing effect. _Personality and Social Psychology Bulletin, 7_(2), 224–231.
 
-Latané, B., Williams, K., & Harkins, S. (1979). Many hands make light the work: The causes and consequences of social loafing. *Journal of Personality and Social Psychology, 37*(6), 822–832.
+Kerr, N. L., & Bruun, S. E. (1983). Dispensability of member effort and group motivation losses: Free-rider effects. _Journal of Personality and Social Psychology, 44_(1), 78–94.
 
-Latham, G. P., & Locke, E. A. (1991). Self-regulation through goal setting. *Organizational Behavior and Human Decision Processes, 50*(2), 212–247.
+Kim, Y. Y. (1988). _Communication and cross cultural adaptation: A stereotype challenging theory._ Clevedon, England: Multilingual Matters.
 
-Latham, G. P., Winters, D. C., & Locke, E. A. (1994). Cognitive and motivational effects of participation: A mediator study. *Journal of Organizational Behavior, 15*(1), 49–63.
+Kruglanski, A. W., & Webster, D. M. (1991). Group members’ reactions to opinion deviates and conformists at varying degrees of proximity to decision deadline and of environmental noise. _Journal of Personality and Social Psychology, 61_, 212–225.
 
-Little, B. L., & Madigan, R. M. (1997). The relationship between collective efficacy and performance in manufacturing work teams. *Small Group Research, 28*(4), 517–534.
+Latané, B., Williams, K., & Harkins, S. (1979). Many hands make light the work: The causes and consequences of social loafing. _Journal of Personality and Social Psychology, 37_(6), 822–832.
 
-Locke, E., & Latham, G. (1990). *A theory of goal setting and task performance*. Englewood Cliffs, NJ: Prentice Hall.
+Latham, G. P., & Locke, E. A. (1991). Self-regulation through goal setting. _Organizational Behavior and Human Decision Processes, 50_(2), 212–247.
 
-McLeod, P. L., Lobel, S. A., & Cox, T. H. (1996). Ethnic diversity and creativity in small groups. *Small Group Research, 27*(2), 248–264.
+Latham, G. P., Winters, D. C., & Locke, E. A. (1994). Cognitive and motivational effects of participation: A mediator study. _Journal of Organizational Behavior, 15_(1), 49–63.
 
-Miller, N., & Davidson-Podgorny, G. (1987). *Theoretical models of intergroup relations and the use of cooperative teams as an intervention for desegregated settings in* Review of Personality and Social Psychology. Newbury Park, CA: Sage.
+Little, B. L., & Madigan, R. M. (1997). The relationship between collective efficacy and performance in manufacturing work teams. _Small Group Research, 28_(4), 517–534.
 
-Mullen, B., & Baumeister, R. F. (1987). Group effects on self-attention and performance: Social loafing, social facilitation, and social impairment. In C. Hendrick (Ed.), *Group processes and intergroup relations* (pp. 189–206). Thousand Oaks, CA: Sage.
+Locke, E., & Latham, G. (1990). _A theory of goal setting and task performance_. Englewood Cliffs, NJ: Prentice Hall.
 
-Mullen, B., Symons, C., Hu, L.-T., & Salas, E. (1989). Group size, leadership behavior, and subordinate satisfaction. *Journal of General Psychology, 116*(2), 155–170.
+McLeod, P. L., Lobel, S. A., & Cox, T. H. (1996). Ethnic diversity and creativity in small groups. _Small Group Research, 27_(2), 248–264.
 
-Nemeth, C., Brown, K., & Rogers, J. (2001). Devil’s advocate versus authentic dissent: Stimulating quantity and quality. *European Journal of Social Psychology, 31*(6), 707–720. doi: 10.1002/ejsp.58.
+Miller, N., & Davidson-Podgorny, G. (1987). _Theoretical models of intergroup relations and the use of cooperative teams as an intervention for desegregated settings in_ Review of Personality and Social Psychology. Newbury Park, CA: Sage.
 
-Nishii, L. H., & Mayer, D. M. (2009). Do inclusive leaders help to reduce turnover in diverse groups? The moderating role of leader–member exchange in the diversity to turnover relationship. *Journal of Applied Psychology, 94*(6), 1412–1426. doi: 10.1037/a0017190.
+Mullen, B., & Baumeister, R. F. (1987). Group effects on self-attention and performance: Social loafing, social facilitation, and social impairment. In C. Hendrick (Ed.), _Group processes and intergroup relations_ (pp. 189–206). Thousand Oaks, CA: Sage.
 
-Paulus, P. B., Dzindolet, M. T., Poletes, G., & Camacho, L. M. (1993). Perception of performance in group brainstorming: The illusion of group productivity. *Personality and Social Psychology Bulletin, 19*(1), 78–89.
+Mullen, B., Symons, C., Hu, L.-T., & Salas, E. (1989). Group size, leadership behavior, and subordinate satisfaction. _Journal of General Psychology, 116_(2), 155–170.
 
-Platow, M. J., O’Connell, A., Shave, R., & Hanning, P. (1995). Social evaluations of fair and unfair allocators in interpersonal and intergroup situations. *British Journal of Social Psychology, 34*(4), 363–381.
+Nemeth, C., Brown, K., & Rogers, J. (2001). Devil’s advocate versus authentic dissent: Stimulating quantity and quality. _European Journal of Social Psychology, 31_(6), 707–720. doi: 10.1002/ejsp.58.
 
-Salas, E., Diaz-Granados, D., Klein, C., Burke, C. S., Stagl, K. C., Goodwin, G. F., & Halpin, S. M. (2008). Does team training improve team performance? A meta-analysis. *Human Factors, 50*(6), 903–933.
+Nishii, L. H., & Mayer, D. M. (2009). Do inclusive leaders help to reduce turnover in diverse groups? The moderating role of leader–member exchange in the diversity to turnover relationship. _Journal of Applied Psychology, 94_(6), 1412–1426. doi: 10.1037/a0017190.
 
-Silver, W. S., & Bufanio, K. M. (1996). The impact of group efficacy and group goals on group task performance. *Small Group Research, 27*(3), 347–359.
+Paulus, P. B., Dzindolet, M. T., Poletes, G., & Camacho, L. M. (1993). Perception of performance in group brainstorming: The illusion of group productivity. _Personality and Social Psychology Bulletin, 19_(1), 78–89.
 
-Silver, W. S., & Bufanio, K. M. (1997). Reciprocal relationships, causal influences, and group efficacy: A reply to Kaplan. *Small Group Research, 28*(4), 559–562.
+Platow, M. J., O’Connell, A., Shave, R., & Hanning, P. (1995). Social evaluations of fair and unfair allocators in interpersonal and intergroup situations. _British Journal of Social Psychology, 34_(4), 363–381.
 
-Stroebe, W., Diehl, M., & Abakoumkin, G. (1992). The illusion of group effectivity. *Personality and Social Psychology Bulletin, 18*(5), 643–650.
+Salas, E., Diaz-Granados, D., Klein, C., Burke, C. S., Stagl, K. C., Goodwin, G. F., & Halpin, S. M. (2008). Does team training improve team performance? A meta-analysis. _Human Factors, 50_(6), 903–933.
 
-Tsui, A. S., Egan, T. D., & O’Reilly, C. A. (1992). Being different: Relational demography and organizational attachment. *Administrative Science Quarterly, 37*(4), 549–579.
+Silver, W. S., & Bufanio, K. M. (1996). The impact of group efficacy and group goals on group task performance. _Small Group Research, 27_(3), 347–359.
 
-van Knippenberg, D., & Schippers, M. C. (2007). Work group diversity. *Annual Review of Psychology, 58*(1), 515–541.
+Silver, W. S., & Bufanio, K. M. (1997). Reciprocal relationships, causal influences, and group efficacy: A reply to Kaplan. _Small Group Research, 28_(4), 559–562.
 
-Wagner, W., Pfeffer, J., & O’Reilly, C. I. (1984). Organizational demography and turnover in top management groups. *Administrative Science Quarterly, 29*, 74–92.
+Stroebe, W., Diehl, M., & Abakoumkin, G. (1992). The illusion of group effectivity. _Personality and Social Psychology Bulletin, 18_(5), 643–650.
 
-Weldon, E., & Weingart, L. R. (1993). Group goals and group performance. *British Journal of Social Psychology, 32*, 307–334.
+Tsui, A. S., Egan, T. D., & O’Reilly, C. A. (1992). Being different: Relational demography and organizational attachment. _Administrative Science Quarterly, 37_(4), 549–579.
 
-Weldon, E., Jehn, K. A., & Pradhan, P. (1991). Processes that mediate the relationship between a group goal and improved group performance. *Journal of Personality and Social Psychology, 61*(4), 555–569.
+van Knippenberg, D., & Schippers, M. C. (2007). Work group diversity. _Annual Review of Psychology, 58_(1), 515–541.
 
-Williams, K., Harkins, S. G., & Latané, B. (1981). Identifiability as a deterrant to social loafing: Two cheering experiments. *Journal of Personality and Social Psychology, 40*(2), 303–311.
+Wagner, W., Pfeffer, J., & O’Reilly, C. I. (1984). Organizational demography and turnover in top management groups. _Administrative Science Quarterly, 29_, 74–92.
 
-Wood, W. (1987). Meta-analytic review of sex differences in group performance. *Psychological Bulletin, 102*(1), 53–71. doi: 10.1037/0033–2909.102.1.53.
+Weldon, E., & Weingart, L. R. (1993). Group goals and group performance. _British Journal of Social Psychology, 32_, 307–334.
 
-Yetton, P., & Bottger, P. (1983). The relationships among group size, member ability, social decision schemes, and performance. *Organizational Behavior and Human Decision Processes, 32*(2), 145–159.
+Weldon, E., Jehn, K. A., & Pradhan, P. (1991). Processes that mediate the relationship between a group goal and improved group performance. _Journal of Personality and Social Psychology, 61_(4), 555–569.
+
+Williams, K., Harkins, S. G., & Latané, B. (1981). Identifiability as a deterrant to social loafing: Two cheering experiments. _Journal of Personality and Social Psychology, 40_(2), 303–311.
+
+Wood, W. (1987). Meta-analytic review of sex differences in group performance. _Psychological Bulletin, 102_(1), 53–71. doi: 10.1037/0033–2909.102.1.53.
+
+Yetton, P., & Bottger, P. (1983). The relationships among group size, member ability, social decision schemes, and performance. _Organizational Behavior and Human Decision Processes, 32_(2), 145–159.
