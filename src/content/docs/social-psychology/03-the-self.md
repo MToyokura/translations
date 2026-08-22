@@ -1,70 +1,71 @@
 ---
-title: "Chapter 3. The Self"
+title: "第3章 自己"
 sidebar:
   order: 21
 ---
-:::note[Chapter Learning Objectives]
 
-1. The Cognitive Self: The Self-Concept
+:::note[章の学習目標]
 
-- Define and describe the self-concept, its influence on information processing, and its diversity across social groups.
-- Describe the concepts of self-complexity and self-concept clarity, and explain how they influence social cognition and behavior.
-- Differentiate the various types of self-awareness and self-consciousness.
-- Describe self-awareness, self-discrepancy, and self-affirmation theories, and their interrelationships.
-- Explore how we sometimes overestimate the accuracy with which other people view us.
+1. 認知的自己：自己概念
 
-2. The Feeling Self: Self-Esteem
+- 自己概念を定義・説明し、それが情報処理に与える影響と、社会集団間に見られる多様性について説明する。
+- 自己複雑性と自己概念明確性の概念を説明し、それらが社会的認知と行動にどのような影響を与えるかを説明する。
+- さまざまな種類の自己意識と自意識を区別する。
+- 自己意識理論、自己不一致理論、自己肯定理論と、それらの相互関係を説明する。
+- 他者が自分をどの程度正確に見ているかについて、私たちがときに過大評価する仕組みを検討する。
 
-- Define self-esteem and explain how it is measured by social psychologists.
-- Explore findings indicating diversity in self-esteem in relation to culture, gender, and age.
-- Provide examples of ways that people attempt to increase and maintain their self-esteem.
-- Outline the benefits of having high self-esteem.
-- Review the limits of self-esteem, with a focus on the negative aspects of narcissism.
+2. 感情的自己：自尊心
 
-3. The Social Self: The Role of the Social Situation
+- 自尊心を定義し、社会心理学者がどのように測定するかを説明する。
+- 文化、ジェンダー、年齢に関連する自尊心の多様性を示す研究知見を検討する。
+- 人々が自尊心を高め、維持しようとする方法の例を挙げる。
+- 高い自尊心を持つことの利点を概説する。
+- ナルシシズムの否定的側面を中心に、自尊心の限界を検討する。
 
-- Describe the concept of the looking-glass self and how it affects our self-concept.
-- Explore the impact of the labeling bias, self-labeling, and internalized prejudice on people’s self-concepts, particularly in those from marginalized social groups.
-- Define social comparison, and summarize how people use it to define their self-concepts and self-esteem.
-- Give examples of the use of upward and downward social comparison and their influences on social cognition and affect.
-- Explain the concept of social identity and why it is important to human behavior.
-- Describe how self-evaluation maintenance theory helps to explain how we react when other people’s behaviors threaten our sense of self.
-- Describe the concept of self-presentation and the various strategies we use to portray ourselves to others.
-- Outline the concept of reputation management and how it relates to self-presentation.
-- Discuss the individual-difference variable of self-monitoring and how it relates to the ability and desire to self-present.
+3. 社会的自己：社会的状況の役割
+
+- 鏡映的自己の概念と、それが自己概念へ与える影響を説明する。
+- ラベリング・バイアス、自己ラベリング、内在化された偏見が人々の自己概念、とりわけ周縁化された社会集団に属する人々の自己概念へ与える影響を検討する。
+- 社会的比較を定義し、人々がそれを自己概念と自尊心の形成にどのように利用するかを要約する。
+- 上方比較と下方比較の利用例を挙げ、それらが社会的認知と感情に与える影響を説明する。
+- 社会的アイデンティティの概念と、それが人間の行動にとって重要である理由を説明する。
+- 他者の行動が自己感覚を脅かす場合の反応を、自己評価維持理論がどのように説明するかを述べる。
+- 自己呈示の概念と、他者に自分を示すために利用するさまざまな方略を説明する。
+- 評判管理の概念と、それが自己呈示とどのように関連するかを概説する。
+- 個人差変数であるセルフ・モニタリングと、それが自己呈示を行う能力および欲求とどのように関係するかを論じる。
 
 :::
 
-## Social Media – Living Our Social Lives Online
+## ソーシャルメディア ― オンラインで営む私たちの社会生活
 
-Recent statistics suggest that there are around 2.5 billion global Internet users as of 2014 – roughly 35 percent of the world’s population. Some sources suggest the true figure to be closer to 3 billion people, and this number will likely continue to grow, particularly with the increasing availability of mobile technology.
+近年の統計によれば、2014年時点で世界のインターネット利用者は約25億人、世界人口のおよそ35%に達している。一部の情報源では実際の数字は30億人に近いともされており、とりわけモバイル技術がますます利用可能になるにつれて、この数字は今後も増え続ける可能性が高い。
 
 ![Girl texting on cellphone](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/5531939787_7a0e22cee3_o.jpg)
 
-*Figure 3.1. Girl on Cellphone.*
+_図3.1 携帯電話を使う少女。_
 
-As well as having increased access to the Internet, people across all regions of the globe are spending greater amounts of their time online. Many recent studies in a large number of countries indicate that people are spending several hours every day online, on their PCs, laptops, and mobiles. Of that time online, often more than 20 percent is spent on social networking sites. Facebook, QZone, Google+, LinkedIn, Twitter, Tumblr, and Tencent Weibo all had more than 200 million registered users by 2014. Facebook alone now has more than 1 billion users. These social networking users are also drawn from increasingly diverse demographic groups.
+インターネットへのアクセスが増えているだけでなく、世界のあらゆる地域で、人々がオンラインで過ごす時間も増加している。多くの国で行われた近年の研究によれば、人々はPC、ノートパソコン、携帯端末を使って、毎日数時間をオンラインで過ごしている。そのオンライン時間の20%以上がソーシャル・ネットワーキング・サイトに費やされることも多い。2014年までに Facebook、QZone、Google+、LinkedIn、Twitter、Tumblr、Tencent Weibo はいずれも登録ユーザー数が2億人を超えていた。Facebook だけでも10億人を超えるユーザーを持っている。また、これらのソーシャル・ネットワーク利用者を構成する人口統計学的集団もますます多様になっている。
 
-Social psychologists have become very interested in why and how so many of us are conducting increasing amounts of our social interactions online, and on social networking sites in particular. Like any social context in the offline world, sites like Facebook and Twitter provide an environment where a huge range of human social cognition, affect, and behavior can be displayed, with everything from posting selfies and status updates about wild nights out to communicating our views about social issues.
+社会心理学者は、なぜ、そしてどのように、これほど多くの人々が社会的相互作用のますます大きな部分をオンライン、とりわけソーシャル・ネットワーキング・サイト上で行うようになっているのかに強い関心を持つようになった。オフライン世界のほかの社会的文脈と同様、Facebook や Twitter のようなサイトは、人間の幅広い社会的認知、感情、行動が表出される環境を提供する。そこでは、セルフィーや派手な夜遊びについての近況を投稿することから、社会問題についての自分の意見を伝えることまで、あらゆることが行われている。
 
-One area of social psychology that seems particularly relevant to these online activities is the study of the self—our thoughts and feelings about who we are and the social influences on them. In many ways, the online social behaviors outlined above both affect and are a result of people’s perceptions of and feelings about themselves, and their desire to project those selves out into the social worlds that they belong to. Often, these dynamics in our online lives mirror those that social psychologists have long been aware of as operating in our offline existences. We will thus explore the various aspects of the self in relation to both our offline and online social lives throughout this chapter.
+こうしたオンライン活動と特に関連が深い社会心理学の領域の一つが、自己、すなわち自分が何者であるかについての思考や感情、およびそれらに対する社会的影響の研究である。多くの点で、上述したオンライン上の社会的行動は、人々が自分自身をどのように知覚し、どう感じているか、そして自分が属する社会的世界へその自己をどのように投影したいかという欲求の結果であると同時に、それらへ影響するものでもある。オンライン生活におけるこうした力学は、社会心理学者が以前からオフライン生活で働いていると認識してきた力学を反映していることが多い。そのため本章では、オフラインとオンラインの両方の社会生活との関係から、自己のさまざまな側面を検討していく。
 
-Source: [Social, Digital, and Mobile Worldwide in 2014](https://www.socialmediatoday.com/content/social-digital-and-mobile-worldwide-2014).
+出典：[Social, Digital, and Mobile Worldwide in 2014](https://www.socialmediatoday.com/content/social-digital-and-mobile-worldwide-2014)。
 
-At the foundation of all human behavior is the self—*our sense of personal identity and of who we are as individuals*. Because an understanding of the self is so important, it has been studied for many years by psychologists (James, 1890; Mead, 1934) and is still one of the most important and most researched topics in social psychology (Dweck & Grant, 2008; Taylor & Sherman, 2008). Social psychologists conceptualize the self using the basic principles of social psychology—that is, the relationship between individual persons and the people around them (the person-situation interaction) and the ABCs of social psychology—the affective, behavioral, and cognitive components of the self.
+あらゆる人間行動の基礎には自己、すなわち*個人的アイデンティティと、個人として自分が何者であるかについての感覚*がある。自己を理解することは非常に重要であるため、心理学者によって長年研究されてきた (James, 1890; Mead, 1934)。そして現在でも、社会心理学において最も重要かつ最も盛んに研究されているテーマの一つである (Dweck & Grant, 2008; Taylor & Sherman, 2008)。社会心理学者は、社会心理学の基本原理、すなわち個人とその周囲の人々との関係（人‐状況相互作用）、そして社会心理学のABCである自己の感情的・行動的・認知的構成要素を用いて自己を概念化する。
 
-In this chapter, we will first consider the cognitive aspects of the self, including the self-concept (the thoughts that we hold about ourselves) and self-awareness (the extent to which we are currently fixing our attention on our own self-concept). Then we will move on to the role of affect, focusing on concepts including self-esteem (the positive or negative feelings that we have about ourselves) and the many ways that we try to gain positive self-esteem. Finally, we will consider the social aspects of the self, including how we present ourselves to others in order to portray a positive self-image, as well as the many ways that our thoughts and feelings about ourselves are determined by our relationships with others.
+本章ではまず、自己概念（自分自身について持っている思考）や自己意識（現在、自分自身の自己概念へどの程度注意を向けているか）を含む、自己の認知的側面を検討する。次に感情の役割へ移り、自尊心（自分自身について持つ肯定的または否定的な感情）や、肯定的な自尊心を得ようとするさまざまな方法に焦点を当てる。最後に、肯定的な自己像を示すために他者へどのように自己呈示を行うか、そして自分自身についての思考や感情が他者との関係からどのように決定されるかなど、自己の社会的側面を検討する。
 
-## References
+## 参考文献
 
-Dweck, C. S., & Grant, H. (2008). Self-theories, goals, and meaning. In J. Y. Shah, W. L. Gardner, J. Y. E. Shah, & W. L. E. Gardner (Eds.), *Handbook of motivation science* (pp. 405–416). New York, NY: Guilford Press.
+Dweck, C. S., & Grant, H. (2008). Self-theories, goals, and meaning. In J. Y. Shah, W. L. Gardner, J. Y. E. Shah, & W. L. E. Gardner (Eds.), _Handbook of motivation science_ (pp. 405–416). New York, NY: Guilford Press.
 
-James, W. (1890). *The principles of psychology*. New York, NY: Dover. Mead, G. H. (1934). *Mind, self, and society.* Chicago, IL: The University of Chicago Press.
+James, W. (1890). _The principles of psychology_. New York, NY: Dover. Mead, G. H. (1934). _Mind, self, and society._ Chicago, IL: The University of Chicago Press.
 
-Mead, G. H. (1934). *Mind, Self, and Society from the Standpoint of a Social Behaviorist*. University of Chicago Press: Chicago.
+Mead, G. H. (1934). _Mind, Self, and Society from the Standpoint of a Social Behaviorist_. University of Chicago Press: Chicago.
 
-Taylor, S. E., & Sherman, D. K. (2008). Self-enhancement and self-affirmation: The consequences of positive self-thoughts for motivation and health. In J. Y. Shah, W. L. Gardner, J. Y. E. Shah, & W. L. E. Gardner (Eds.), *Handbook of motivation science* (pp. 57–70). New York, NY: Guilford Press.
+Taylor, S. E., & Sherman, D. K. (2008). Self-enhancement and self-affirmation: The consequences of positive self-thoughts for motivation and health. In J. Y. Shah, W. L. Gardner, J. Y. E. Shah, & W. L. E. Gardner (Eds.), _Handbook of motivation science_ (pp. 57–70). New York, NY: Guilford Press.
 
-## Media Attributions
+## メディアの帰属表示
 
 - “[Tween Cell Phone Texting](https://www.flickr.com/photos/goodncrazy/5531939787/)” by [Carissa Rogers](https://www.flickr.com/photos/goodncrazy/) is licensed under a [CC BY 2.0 licence.](https://creativecommons.org/licenses/by/2.0/)

@@ -1,34 +1,35 @@
 ---
-title: "3.4 Thinking Like a Social Psychologist about the Self"
+title: "3.4 自己について社会心理学者のように考える"
 sidebar:
   order: 25
 ---
-Social psychologists think about the self in the same way that they think about any other social phenomenon—in terms of affect, behavior, and cognition, and in terms of the person-situation interaction. Our focus in this chapter has been on the cognitive, affective, and social aspects of the self and on the remarkable extent to which the self is created by the social situation in which we find ourselves.
 
-Take a moment and use this new knowledge about how social psychologists think about the self to consider your own self. Think carefully (and as fairly as you can) about how you think and feel about yourself. What constructs did you list when you tried the Twenty Statements Test in section 10, “[The Cognitive Self: The Self-Concept”](stangorsocial_1.0-ch04_s01#stangorsocial_1.0-ch04_s01)? Which of your physical characteristics were most accessible for you? And what about your social identities and your traits? Do you now have a better insight into the characteristics that are most important to you?
+社会心理学者は、ほかの社会現象について考えるのと同じように、感情、行動、認知、そして人‐状況相互作用という観点から自己を考える。本章では、自己の認知的・感情的・社会的側面と、私たちが置かれている社会的状況によって自己が驚くほど大きく作り上げられていることに焦点を当ててきた。
 
-Now consider the complexity and consistency of your self-concept. Do you think it would be better if it was more complex or consistent? Do you think you should seek out more dimensions to round it out? Or perhaps you feel that you already have a healthy and complex self-concept. In any case, you might want to keep this concept in mind as you think about yourself in the future.
+社会心理学者が自己をどのように考えるかについて得た新しい知識を使い、自分自身について考えてみよう。自分自身についてどのように考え、感じているかを、慎重に、そしてできるだけ公平に考えてみてほしい。「認知的自己：自己概念」で20答法を試したとき、どのような構成概念を挙げただろうか。身体的特徴のうち、どの特徴へのアクセス可能性が最も高かっただろうか。社会的アイデンティティや自分の特性についてはどうだっただろうか。今では、自分にとって最も重要な特徴について、以前より深く理解できているだろうか。
 
-Self-esteem is one of the most important aspects of the self. Do you feel that you have relatively high or low self-esteem? What about other people you know? Does their level of self-esteem influence how you relate to them? And how do the aspects of your own self help (or potentially harm) your relations with others?
+次に、自己概念の複雑性と一貫性について考えてみよう。もっと複雑または一貫していたほうがよいと思うだろうか。自己概念をより豊かなものにするため、さらに多くの次元を探したほうがよいだろうか。それとも、すでに健全で複雑な自己概念を持っていると思うだろうか。いずれにしても、今後自分自身について考える際には、この概念を頭に置いておくとよいかもしれない。
 
-And what about your relations with the social groups you belong to? Do you derive a lot of your self-esteem from your group memberships? Which groups provide you with social identities, and are there group memberships that may potentially not provide you with high social identity? When and how do you use self-presentation and reputation management in your daily life?
+自尊心は自己の最も重要な側面の一つである。自分の自尊心は比較的高いと思うだろうか、それとも低いと思うだろうか。知っている他者についてはどうだろうか。その人の自尊心水準は、その人との関わり方へ影響しているだろうか。そして、自分自身のさまざまな側面は、他者との関係をどのように助けている、あるいは潜在的に害しているだろうか。
 
-Finally, take a moment and consider your online behavior. How do you think it both reflects, and influences how you see yourself?
+自分が所属する社会集団との関係についてはどうだろうか。集団への所属から多くの自尊心を得ているだろうか。どの集団が社会的アイデンティティを与えているだろうか。また、高い社会的アイデンティティを必ずしも与えてくれない集団への所属もあるだろうか。日常生活の中で、いつ、どのように自己呈示と評判管理を利用しているだろうか。
 
-In sum, the self is the fundamental part of human psychology and will form the basis of all our analyses of social behavior. We have already seen this in previous topics, and will continue to see it going forward.
+最後に、自分のオンライン行動について考えてみよう。それは自分が自分自身をどう見ているかをどのように反映しており、また逆に、その自己認識へどのような影響を与えているだろうか。
 
-:::note[Interactive activity]
+要するに、自己は人間心理の基本的な部分であり、今後行うすべての社会行動の分析の基礎となる。すでにこれまでのテーマでもそのことを見てきたし、これからも繰り返し見ることになる。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3197#h5p-12](https://opentextbc.ca/socialpsychology/?p=3197#h5p-12)
+:::note[インタラクティブ・アクティビティ]
+
+この版のテキストでは、インタラクティブな H5P 要素が除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3197#h5p-12](https://opentextbc.ca/socialpsychology/?p=3197#h5p-12)
 
 :::
 
-**H5P: Test your Learning: Chapter 3 True or False Quiz**
+**H5P：学習内容を確認しよう：第3章 正誤クイズ**
 
-How well do you now understand the topic of the self? One way to find out is to take this brief true or false quiz. Good luck!
+自己というテーマについて、今ではどの程度理解できているだろうか。それを確認する一つの方法として、次の短い正誤クイズに挑戦してみよう。
 
-1. Priya’s self-complexity is high, so when she fails in one area, it is less likely to affect her overall self-esteem.
-2. Different aspects of our identities can become more salient in different social situations.
-3. Sierra often compares her performance on exams to other students who have done worse than she has, This is an example of upward social comparison.
-4. The self-presentational strategy where we try to make others like us is called self-promotion.
-5. Having higher rather than lower levels of self-esteem causes more positive outcomes.
+1. Priya は自己複雑性が高いため、一つの領域で失敗しても、自尊心全体への影響は小さい可能性が高い。
+2. アイデンティティの異なる側面は、異なる社会的状況でより顕著になる場合がある。
+3. Sierra は試験で自分より成績が悪かった学生と自分の成績を頻繁に比較している。これは上方比較の例である。
+4. 他者から自分を好きになってもらおうとする自己呈示方略は、自己宣伝と呼ばれる。
+5. 低い自尊心より高い自尊心を持つことが、より肯定的な結果を引き起こす。

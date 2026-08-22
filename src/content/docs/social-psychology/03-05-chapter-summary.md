@@ -1,56 +1,61 @@
 ---
-title: "3.5 Chapter Summary"
+title: "3.5 章のまとめ"
 sidebar:
   order: 26
 ---
-The many and varied thoughts that we have about ourselves are stored in the variety of self-schemas that make up the cognitive part of the self—the self-concept. The self-concept is the most complex of all our schemas because it includes all of the images, desires, beliefs, feelings, and hopes that we have for and about ourselves.
 
-The self-concept can be measured by simply asking people to list the things that come to mind when they think about themselves or by using other techniques such as asking people to remember information related to the self. Research has found that some people have more complex and consistent selves than others do, and that having a variety of self-schemas is useful because the various aspects of the self help to improve our responses to the events that we experience.
+自分自身について持つ多種多様な思考は、自己の認知的部分である自己概念を構成するさまざまな自己スキーマの中に保存されている。自己概念は、自分自身について、そして自分自身のために持っているあらゆるイメージ、欲求、信念、感情、希望を含むため、私たちが持つすべてのスキーマの中で最も複雑なものである。
 
-The self-concept can vary in its current accessibility. When the self-concept is highly accessible and therefore becomes the focus of our attention, the outcome is known as self-awareness or self-consciousness. Private self-consciousness occurs when we are introspective about our inner thoughts and feelings, whereas public self-consciousness occurs when we focus on our public image. It is important to be aware of variation in the accessibility of the aspects of the self-concept because the changes in our thoughts about the self have an important influence on our behavior. Increased self-awareness, for instance, can lead to increased perceptions of self-discrepancy, which occurs when we see our current self as not matching our ideal self.
+自己概念は、自分自身について考えたときに頭に浮かぶことを単純に列挙してもらうことで測定できるほか、自己に関連する情報を思い出してもらうなど、別の技法でも測定できる。研究では、自己がほかの人より複雑で一貫している人がいること、そして複数の自己スキーマを持つことが有用であることが示されている。自己のさまざまな側面が、経験する出来事への反応を改善するのに役立つからである。
 
-Self-esteem refers to the positive (high self-esteem) or negative (low self-esteem) evaluations that we make of ourselves. When we feel that we are viewed positively and held in esteem by others, we say that we have high social status. Having high social status creates positive self-esteem.
+自己概念のその時点でのアクセス可能性は変化する。自己概念へのアクセス可能性が非常に高まり、注意の焦点になると、その結果を自己意識または自意識と呼ぶ。私的自意識は内的な思考や感情について内省するときに生じ、公的自意識は公的な自己イメージへ注意を向けるときに生じる。自己概念のさまざまな側面へのアクセス可能性の違いを理解することは重要である。自己についての思考の変化が行動へ重要な影響を与えるからである。たとえば自己意識が高まると、自己不一致の知覚が強くなる場合がある。自己不一致とは、現在の自己が理想自己と一致していないと捉えるときに生じる。
 
-The desire to see ourselves positively leads us to seek out, process, and remember information in a way that allows us to see ourselves even more positively. However, although the desire to self-enhance is a powerful motive, it is not the same in all cultures, and increases in self-esteem do not necessarily make us better or more effective people. An effective life involves an appropriate balance between the feeling and the cognitive parts of the self: we must always consider not only the positivity of our self-views but also the accuracy of our self-characterizations and the strength of our relationships with others.
+自尊心とは、自分自身について行う肯定的な評価（高い自尊心）または否定的な評価（低い自尊心）を指す。他者から肯定的に見られ、尊重されていると感じる場合、高い社会的地位を持っていると言う。高い社会的地位は肯定的な自尊心を生み出す。
 
-Although we learn about ourselves in part by examining our own behaviors, the self-concept and self-esteem are also determined through our interactions with others. The looking-glass self reflects how others’ views of us feed into the way we see ourselves. Social comparison occurs when we learn about our abilities and skills, about the appropriateness and validity of our opinions, and about our relative social status by comparing our own attitudes, beliefs, and behaviors with those of others.
+自分自身を肯定的に見たいという欲求によって、自分をさらに肯定的に見られる方法で情報を探し、処理し、記憶するようになる。しかし、自己高揚への欲求は強力な動機ではあるものの、すべての文化で同じではなく、自尊心が高まったからといって、必ずしもより良い、より有能な人間になるわけではない。効果的な人生には、自己の感情的部分と認知的部分との適切なバランスが必要である。自己についての見方が肯定的かどうかだけでなく、自分についての記述が正確かどうか、そして他者との関係がどれほど強いかを常に考える必要がある。
 
-We use downward social comparison to create a positive image of ourselves through favorable comparisons with others who are worse off than we are. Through upward social comparison, we compare ourselves with others who are better off than we are. In some cases, we can bask in the reflected glory of others that we care about, but in other cases, upward comparison makes us feel inadequate. An important aspect of the self-concept that is derived from our social experiences is our social identity*,* which is turn is derived from our membership in social groups and our attachments to those groups.
+自分自身についての一部は自分の行動を調べることで学ぶが、自己概念と自尊心は他者との相互作用によっても決定される。鏡映的自己は、他者が自分をどう見るかが、自分自身をどう見るかへ取り込まれることを表している。社会的比較は、自分自身の態度、信念、行動を他者のものと比較することで、自分の能力や技能、意見の適切さや妥当性、相対的な社会的地位について学ぶときに生じる。
 
-The tendency to attempt to present a positive image to others and thereby attempt to increase our social status is known as self-presentation, and it is a basic and natural part of everyday life. In the longer term, our concern to present ourselves in particular ways can become a more ongoing reputation management project, and we may end up building different reputations with different audiences. Some people are high self-monitors, more able and willing to self-present than are other people, and will shift their behavior across situations and audiences more often than low self-monitors, who try to act more consistently with their internal values.
+下方比較では、自分より状況の悪い他者と自分を好ましく比較することで、肯定的な自己像を作る。上方比較では、自分より状況の良い他者と自分を比較する。場合によっては、自分が大切にしている他者の反映された栄光に浴することができるが、別の場合には上方比較によって自分が不十分だと感じる。社会的経験から生じる自己概念の重要な側面の一つが社会的アイデンティティであり、これは社会集団への所属と、その集団への愛着から生じる。
 
-:::note[Interactive activity]
+肯定的な自己像を他者へ示し、それによって社会的地位を高めようとする傾向を自己呈示といい、日常生活の基本的で自然な一部である。より長期的には、特定の方法で自分を示したいという関心が、継続的な評判管理プロジェクトとなり、異なる聴衆に対して異なる評判を築く場合がある。一部の人は高セルフ・モニターで、ほかの人より自己呈示を行う能力も意欲も高く、異なる状況や聴衆に応じて頻繁に行動を変える。一方、低セルフ・モニターは、自分自身の内的価値観とより一貫した行動を取ろうとする。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3199#h5p-13](https://opentextbc.ca/socialpsychology/?p=3199#h5p-13)
+:::note[インタラクティブ・アクティビティ]
+
+この版のテキストでは、インタラクティブな H5P 要素が除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3199#h5p-13](https://opentextbc.ca/socialpsychology/?p=3199#h5p-13)
 
 :::
 
-**H5P: Test your Learning: Chapter 3 Multiple-Choice Quiz**
+**H5P：学習内容を確認しよう：第3章 選択式クイズ**
 
-As you have reached the end of this chapter, consider taking this multiple-choice quiz to review what you have learned about some key concepts. As always, you can check the correct answers as you go, or wait for overall feedback at the end.
+本章の最後まで到達したので、重要な概念について学んだ内容を復習するため、次の選択式クイズに挑戦してみよう。これまでと同様、各問題ごとに正解を確認してもよいし、最後にまとめてフィードバックを確認してもよい。
 
-1. Javier has an interdependent self-concept, which means that he most likely \_\_\_\_\_.
-  1. focuses on the welfare of himself more than that of others
-  2. defines individuals as embedded in their ingroups
-  3. defines individuals as being fully autonomous
-  4. emphasizes outgroup loyalty
-2. Aima is a professional chef, and sees this as the central part of her self-concept. She rarely thinks of herself in other ways. Which concept is she showing here?
-  1. low self-complexity
-  2. high self-complexity
-  3. high self-concept clarity
-  4. low self-concept clarity
-3. Sharan is someone who is often willing and able to regulate her behavior in response to the demands of the social situation. Which concept does this tendency best fit with?
-  1. self-monitoring
-  2. self-esteem
-  3. self-ingratiation
-  4. self-efficacy
-4. Grace is having a conversation with her grandmother about her school, friends, and various activities and interests. Grace also says, “Grandma, I think that I’m a good person. I like making other people feel happy!” Grace’s feeling that she is worthy and good reflects her \_\_\_\_\_.
-  1. self-schema
-  2. self-concept
-  3. self-esteem
-  4. self-monitoring
-5. Damon has dreamed of playing for the Vancouver Whitecaps soccer team for many years. He gets close when he joins one of their youth teams, but he realizes that he is not quite as good as many of the players around him. Here, he is making a(n) \_\_\_\_\_ social comparison that will likely \_\_\_\_\_ his self-esteem.
-  1. upward; increase
-  2. downward; decrease
-  3. upward; decrease
-  4. downward; not affect
+1. Javier は相互依存的自己概念を持っている。これは、彼が最も可能性が高いのは次のどれであることを意味するか。
+   1. 他者の幸福より自分自身の幸福へ注目する。
+   2. 個人を内集団の中に組み込まれた存在として定義する。
+   3. 個人を完全に自律した存在として定義する。
+   4. 外集団への忠誠を重視する。
+
+2. Aima はプロのシェフであり、それを自己概念の中心的な部分だと考えている。自分をそれ以外の形で考えることはほとんどない。ここで示されている概念はどれか。
+   1. 低い自己複雑性
+   2. 高い自己複雑性
+   3. 高い自己概念明確性
+   4. 低い自己概念明確性
+
+3. Sharan は、社会的状況からの要求に応じて自分の行動を調整することへ頻繁に意欲を持ち、また実際にそれができる。この傾向に最もよく当てはまる概念はどれか。
+   1. セルフ・モニタリング
+   2. 自尊心
+   3. 自己取り入り
+   4. 自己効力感
+
+4. Grace は祖母と、学校、友人、さまざまな活動や興味について話している。また Grace は「おばあちゃん、私、自分は良い人だと思う。人を幸せな気持ちにするのが好きなの！」と言う。自分には価値があり、良い人間だという Grace の感情が反映しているのは何か。
+   1. 自己スキーマ
+   2. 自己概念
+   3. 自尊心
+   4. セルフ・モニタリング
+
+5. Damon は長年 Vancouver Whitecaps のサッカーチームでプレーすることを夢見てきた。ユースチームの一つへ入団して夢へ近づいたが、周囲の多くの選手ほど自分は上手ではないことに気づいた。ここで Damon が行っているのは＿＿＿＿社会比較であり、それによって自尊心はおそらく＿＿＿＿。
+   1. 上方；上昇する
+   2. 下方；低下する
+   3. 上方；低下する
+   4. 下方；変化しない
