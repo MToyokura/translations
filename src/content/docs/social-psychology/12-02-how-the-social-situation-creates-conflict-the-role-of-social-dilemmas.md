@@ -1,219 +1,220 @@
 ---
-title: "12.2 How the Social Situation Creates Conflict: The Role of Social Dilemmas"
+title: "12.2 社会的状況はどのように対立を生み出すか：社会的ジレンマの役割"
 sidebar:
   order: 80
 ---
-:::note[Learning Objectives]
 
-1. Explain the concepts of public goods and social dilemmas, and how these conflicts influence human interactions.
-2. Describe the principles of the prisoner’s dilemma game that make it an effective model for studying social dilemmas.
-3. Review the different laboratory games that have been used to study social dilemmas.
-4. Summarize the individual difference and cultural variables that relate to cooperation and competition.
+:::note[学習目標]
 
-:::
-
-If human beings are well equipped to cooperate with each other, and if morality, social fairness, and other human features favor cooperation, why are so many social relationships still competitive? If you guessed that the competition comes not so much from the people as it does from the nature of the social situation, then you would be correct. In short, competition is often caused by the social dilemma itself—the dilemma creates patterns whereby even when we want to be good, the situation nevertheless rewards us for being selfish. Ross and Ward (1995) found that participants played a game more competitively when it was described as a “Wall Street broker game” than when the same game was called a “community game.” And other studies have found that subliminal priming of money or business materials (e.g., boardroom tables and business suits) increases competition (Kay, Wheeler, Bargh, & Ross, 2004; Vohs, Meed, & Goode, 2006).
-
-Social dilemmas *occur when the members of a group, culture, or society are in potential conflict over the creation and use of shared public goods.* Public goods are *benefits that are shared by a community at large and that everyone in the group has access to, regardless of whether or not they have personally contributed to the creation of the goods* (Abele, Stasser, & Chartier, 2010). In many cases, the public good involves the responsible use of a resource that if used wisely by the group as a whole will remain intact but if overused will be destroyed. Examples include the cod off the coast of Newfoundland, water in local reservoirs, public beaches, and clean air. In other cases, the public good involves a service—such as public television or public radio—that is supported by the members of the community but that is used freely by everyone in the community.
-
-Let’s consider first a case in which *a social dilemma leads people to overuse an existing public good*—a type of social dilemma called a harvesting dilemma. One example, called the *commons dilemma*, was proposed by Garrett Hardin (1968). Hardin noted that in many towns in Europe, there was at one time a centrally located pasture, known as the commons, which was shared by the inhabitants of the village to graze their livestock. But the commons was not always used wisely. The problem was that each individual who owned livestock wanted to be able to use the commons to graze his or her own animals. However, when each group member took advantage of the commons by grazing many animals, the commons became overgrazed, the pasture died, and the commons was destroyed.
-
-Although Hardin focused on the particular example of the commons, he noted that the basic dilemma of individual needs and desires versus the benefit of the group as whole could also be found in many contemporary public goods issues, including the use of limited natural resources and public land. In large cities, most people may prefer the convenience of driving their own car to work each day rather than taking public transportation. Yet this behavior uses up public goods (roads that are not clogged with traffic, and air that is free of pollution). People are lured into the dilemma by short-term self-interest, seemingly without considering the potential long-term costs of the behavior, such as air pollution and the necessity of building even more highways.
-
-Social dilemmas such as the commons dilemma are arranged in a way that make it easy to be selfish because the personally beneficial choice (such as using water during a water shortage or driving to work alone in one’s own car) produces benefits for the individual, no matter what others do. Furthermore, social dilemmas tend to work on a type of “time delay.” Because the long-term negative outcome (the extinction of fish species or dramatic changes in the climate) is far away in the future, and yet the individual benefits are occurring right now, it is difficult to see how many costs there really are. The paradox, of course, is that if everyone takes the personally selfish choice in an attempt to maximize his or her own rewards, the long-term result is poorer outcomes for every individual in the group. Each individual prefers to make use of the public goods for himself or herself, whereas the best outcome for the group as a whole is to use the resources more slowly and wisely.
-
-Another type of social dilemma—the contributions dilemma—occurs *when the short-term costs of a behavior lead individuals to avoid performing it, and this may prevent the long-term benefits that would have occurred if the behaviors had been performed*. An example of a contributions dilemma occurs when individuals have to determine whether or not to donate to the local public radio or television station. If most people do not contribute, the TV station may have lower quality programming, or even go off the air entirely, thus producing a negative outcome for the group as a whole. However, if enough people already contribute, then it is not in anyone’s own best interest to do so, because the others will pay for the programming for them. Contributions dilemmas thus encourage people to free ride, relying on other group members to contribute for them.
-
-:::note[Interactive activity]
-
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3383#h5p-22](https://opentextbc.ca/socialpsychology/?p=3383#h5p-22)
+1. 公共財と社会的ジレンマの概念、およびこうした対立が人間の相互作用に与える影響を説明する。
+2. 囚人のジレンマ・ゲームを社会的ジレンマ研究の有効なモデルにしている原理を説明する。
+3. 社会的ジレンマの研究に用いられてきたさまざまな実験室ゲームを概観する。
+4. 協力と競争に関連する個人差変数と文化的変数を要約する。
 
 :::
 
-**H5P: TEST YOUR LEARNING: DRAG THE WORDS – COVID-19 SOCIAL DILEMMAS**
+人間に互いに協力する十分な能力があり、道徳、社会的公正、その他の人間的特徴が協力を促すのであれば、なぜこれほど多くの社会的関係が依然として競争的なのだろうか。競争は人そのものより社会的状況の性質から生まれるのではないか、と考えたなら正しい。つまり、競争はしばしば社会的ジレンマそのものによって引き起こされる。私たちはよい人でありたいと思っていても、その状況が利己的であることに報酬を与えるようなパターンをつくるのである。Ross and Ward (1995)は、同じゲームでも「コミュニティ・ゲーム」と呼ばれた場合より「ウォール街のブローカー・ゲーム」と説明された場合のほうが、参加者はより競争的にプレーすることを見いだした。また別の研究では、お金やビジネスに関連する物（たとえば役員会議用テーブルやビジネススーツ）を閾下プライミングすると、競争が増えることがわかっている（Kay, Wheeler, Bargh, & Ross, 2004; Vohs, Meed, & Goode, 2006）。
 
-The following scenarios relevant to the COVID-19 pandemic are examples of either a commons or contributions dilemma. Read through each situation below, and decide which dilemma applies. If you need to, look back at the key differences between these two types of social dilemma in this section of the chapter, and then drag your chosen option into each box.
+社会的ジレンマは、_集団、文化、社会のメンバーが、共有される公共財の創出と利用をめぐって潜在的な対立状態にあるときに生じる_。公共財とは、*コミュニティ全体で共有され、その財の創出に本人が貢献したかどうかにかかわらず、集団の全員が利用できる利益*である（Abele, Stasser, & Chartier, 2010）。多くの場合、公共財とは、集団全体が賢く利用すれば維持されるが、過剰に利用すれば破壊される資源を責任をもって使うことに関係する。Newfoundland沖のタラ、地域の貯水池の水、公共の海岸、きれいな空気などがその例である。別の場合には、公共財は公共テレビや公共ラジオのようなサービスであり、コミュニティのメンバーが支える一方、コミュニティの誰もが自由に利用できる。
 
-1. The stockpiling of items like hand sanitizers and face masks in the early months of the pandemic, to be sold on at large mark ups, and leaving many without access to these items.
-2. Some people who chose not to get a COVID-19 vaccination to avoid any potential side effects, hoping that enough others will get it, so that some form of herd immunity is achieved anyway.
-3. A management team who decide not to comply with a mask mandate in their workplace, knowing that most companies will comply, which will in turn reduce transmission rates.
-4. The bulk buying of items that were believed to be likely to become scarce, including rolls of bathroom tissue, which naturally then created the very scarcity people feared.
+まず、*社会的ジレンマによって既存の公共財が過剰利用される*場合を考えよう。この種類の社会的ジレンマは採取ジレンマと呼ばれる。その一例である*共有地のジレンマ*は、Garrett Hardin (1968)によって提案された。Hardinは、かつてヨーロッパの多くの町に、村の住民が家畜を放牧するため共同利用する、コモンズと呼ばれる中心部の牧草地があったことを指摘した。しかし、コモンズはいつも賢く利用されたわけではない。問題は、家畜を所有する各個人が、自分の動物を放牧するためコモンズを利用したいと考えたことである。しかし集団の各メンバーが多くの動物を放牧してコモンズを利用すると、過放牧が起こり、牧草地が枯れ、コモンズそのものが破壊された。
 
-## The Prisoner’s Dilemma
+Hardinはコモンズという特定の例に焦点を当てたが、個人の必要や欲求と集団全体の利益との間の基本的ジレンマは、限られた天然資源や公共用地の利用など、現代の多くの公共財問題にも見られると指摘した。大都市では、大多数の人が公共交通機関を利用するより、自分の車で毎日通勤する便利さを好むかもしれない。しかしこの行動は、公共財、すなわち渋滞していない道路や汚染されていない空気を消費する。人は、空気汚染や、さらに多くの高速道路を建設しなければならなくなることなど、その行動の潜在的長期コストを考えないまま、短期的な自己利益によってジレンマへ引き込まれる。
 
-One method of understanding how individuals and groups behave in social dilemmas is to create such situations in the laboratory and observe how people react to them. The best known of these laboratory simulations is called the prisoner’s dilemma game (Poundstone, 1992). The prisoner’s dilemma game is *a* *laboratory simulation that models a social dilemma in which the goals of the individual compete with the goals of another individual (or sometimes with a group of other individuals)*. Like all social dilemmas, the prisoner’s dilemma makes use of the assumptions of social learning approaches to behavior that assume that individuals will try to maximize their own outcomes in their interactions with others.
+共有地のジレンマのような社会的ジレンマは、利己的になることを容易にする形で構成されている。自分に利益をもたらす選択（水不足のときに水を使う、自分の車に一人で乗って通勤するなど）は、他者が何をするかにかかわらず、本人に利益をもたらすからである。さらに社会的ジレンマは、一種の「時間的遅延」を伴う傾向がある。長期的な否定的結果（魚種の絶滅や気候の劇的変化）は遠い将来にあり、個人の利益は今すぐ得られるため、実際にどれほど大きなコストがあるかを理解するのが難しい。もちろん逆説的なのは、全員が自分自身の報酬を最大化しようとして個人的に利己的な選択をすれば、長期的には集団内のすべての個人がより悪い結果を得ることである。各個人は公共財を自分のために利用したがる一方、集団全体にとって最もよい結果は、資源をよりゆっくり、賢く利用することである。
 
-In the prisoner’s dilemma, the participants are shown a *payoff matrix* in which numbers are used to express the potential outcomes for the each of the players in the game, given the decisions made by each player. The payoffs are chosen beforehand by the experimenter to create a situation that models some real-world outcome. Furthermore, in the prisoner’s dilemma, the payoffs are normally arranged as they would be in a typical social dilemma, such that each individual is better off acting in his or her immediate self-interest, and yet if all individuals act according to their self-interest, then everyone will be worse off.
+別の種類の社会的ジレンマである貢献ジレンマは、*ある行動の短期的コストのために個人がその行動を避け、その結果、その行動が行われれば得られたはずの長期的利益が失われる可能性がある場合*に生じる。貢献ジレンマの一例は、地域の公共ラジオ局や公共テレビ局へ寄付するかどうかを決める場合である。ほとんどの人が寄付しなければ、テレビ局の番組の質が低下したり、完全に放送停止になったりして、集団全体に否定的な結果が生じる可能性がある。しかし、すでに十分な人が寄付しているのであれば、本人が寄付することは自己利益にはならない。他の人々が自分のために番組の費用を負担してくれるからである。したがって、貢献ジレンマは、他の集団メンバーに自分の分まで貢献してもらおうとするフリーライドを促す。
 
-In its original form, the prisoner’s dilemma involves a situation in which two prisoners (we’ll call them Frank and Malik) have been accused of committing a crime. The police have determined that the two worked together on the crime, but they have only been able to gather enough evidence to convict each of them of a more minor offense. In an attempt to gain more evidence and thus to be able to convict the prisoners of the larger crime, each prisoner is interrogated individually, with the hope that he will confess to having been involved in the more major crime in return for a promise of a reduced sentence if he confesses first. Each prisoner can make either the cooperative choice (which is to not confess) or the competitive choice (which is to confess).
+:::note[インタラクティブ・アクティビティ]
 
-The incentives for either confessing or not confessing are expressed in a payoff matrix such as the one shown in Figure 12.5. The top of the matrix represents the two choices that Malik might make (either to confess that he did the crime or to not confess), and the side of the matrix represents the two choices that Frank might make (also to either confess or not confess). The payoffs that each prisoner receives, given the choices of each of the two prisoners, are shown in each of the four squares.
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3383#h5p-22](https://opentextbc.ca/socialpsychology/?p=3383#h5p-22)
+
+:::
+
+**H5P：学習を確認する：単語をドラッグ ― COVID-19の社会的ジレンマ**
+
+以下のCOVID-19パンデミックに関連するシナリオは、共有地のジレンマまたは貢献ジレンマのいずれかの例である。それぞれの状況を読み、どちらのジレンマが当てはまるか判断しなさい。必要なら、この章のこの節で説明した二つの社会的ジレンマの重要な違いをもう一度確認し、選んだ選択肢をそれぞれの欄へドラッグしなさい。
+
+1. パンデミック初期に、手指消毒剤やフェイスマスクなどを買い占め、高額な上乗せ価格で転売し、多くの人がそれらを入手できなくなった。
+2. COVID-19ワクチンの潜在的副作用を避けるため接種を受けず、十分な数の他者が接種して何らかの集団免疫が達成されることを期待した人々がいた。
+3. 職場のマスク着用義務に従わないことを決めた経営チームが、ほとんどの会社は従うため、それによって感染率は下がるだろうと考えている。
+4. トイレットペーパーなど、品薄になると考えられた商品を大量に買ったことで、まさに人々が恐れていた品不足そのものが発生した。
+
+## 囚人のジレンマ
+
+社会的ジレンマで個人や集団がどのように行動するかを理解する一つの方法は、その状況を実験室内につくり、人々がどのように反応するか観察することである。こうした実験室シミュレーションの中で最もよく知られているのが、囚人のジレンマ・ゲームである（Poundstone, 1992）。囚人のジレンマ・ゲームとは、*個人の目標が、別の個人（または場合によっては複数の個人からなる集団）の目標と競合する社会的ジレンマをモデル化する実験室シミュレーション*である。すべての社会的ジレンマと同様、囚人のジレンマは、人が他者との相互作用で自分自身の結果を最大化しようとすると仮定する、行動についての社会的学習アプローチの前提を利用する。
+
+囚人のジレンマでは、参加者に*利得行列*が示される。そこでは、各プレイヤーが行った決定に応じて、ゲームの各プレイヤーに生じうる結果が数字で表される。利得は、現実世界の何らかの結果をモデル化する状況をつくるため、実験者があらかじめ設定する。さらに囚人のジレンマでは、典型的な社会的ジレンマと同様に、各個人にとっては目先の自己利益に従って行動するほうが得になる一方、全員が自己利益に従って行動すると、全員がより悪い結果になるよう利得が設定される。
+
+元来の形の囚人のジレンマでは、二人の囚人（ここではFrankとMalikと呼ぶ）が犯罪を犯したとして告発されている状況を扱う。警察は二人が一緒に犯罪を行ったと判断しているが、二人をより軽い犯罪で有罪にするだけの証拠しか集められていない。より多くの証拠を得て、より重大な犯罪で囚人を有罪にするため、各囚人を別々に尋問する。そして、より重大な犯罪への関与を自白し、最初に自白した場合には刑を軽減すると約束することで、自白を得ようとする。各囚人は、協力的選択（自白しない）か競争的選択（自白する）のどちらかを行うことができる。
+
+自白するかしないかの誘因は、図12.5に示すような利得行列で表される。行列の上部はMalikが行いうる二つの選択（犯罪を自白する、または自白しない）を、側面はFrankが行いうる二つの選択（やはり自白する、または自白しない）を表す。二人の囚人それぞれの選択の組み合わせに応じて各囚人が受ける結果が、四つのマスに示される。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/865ed99968732d28c81b5858cca66fd4-1.jpg)
 
-*Figure 12.5 The Prisoner’s Dilemma*
+_図12.5 囚人のジレンマ_
 
-In the prisoner’s dilemma, two suspected criminals are interrogated separately. The payoff matrix indicates the outcomes for each prisoner, measured as the number of years each is sentenced to prison, as a result of each combination of cooperative (don’t confess) and competitive (confess) decisions. Outcomes for Malik are in the darker color, and outcomes for Frank are in lighter color.
+囚人のジレンマでは、犯罪を疑われる二人が別々に尋問される。利得行列は、協力的決定（自白しない）と競争的決定（自白する）の各組み合わせによって、それぞれの囚人が受ける刑期年数を示す。Malikの結果は濃い色、Frankの結果は薄い色で示されている。
 
-If both prisoners take the cooperative choice by not confessing (the situation represented in the upper left square of the matrix), there will be a trial, the limited available information will be used to convict each prisoner, and each will be sentenced to a relatively short prison term of three years. However, if either of the prisoners confesses, turning “state’s evidence” against the other prisoner, then there will be enough information to convict the other prisoner of the larger crime, and that prisoner will receive a sentence of 30 years, whereas the prisoner who confesses will get off free. These outcomes are represented in the lower left and upper right squares of the matrix. Finally, it is possible that both players confess at the same time. In this case, there is no need for a trial, and in return, the prosecutors offer a somewhat reduced sentence (of 10 years) to each of the prisoners.
+両方の囚人が自白しないという協力的選択をすれば（行列の左上のマス）、裁判が行われ、限られた証拠を使って各囚人が有罪となり、それぞれ比較的短い3年の刑を受ける。しかし一方の囚人が自白し、もう一方に不利な「検察側証拠」を提供すれば、重大な犯罪で相手を有罪にするだけの情報が得られ、その囚人は30年の刑を受ける一方、自白した囚人は釈放される。これが行列の左下と右上のマスである。最後に、両者が同時に自白する可能性もある。この場合、裁判の必要はなくなり、その見返りとして検察は二人の囚人それぞれにやや軽い10年の刑を提示する。
 
-### Characteristics of the Prisoner’s Dilemma
+### 囚人のジレンマの特徴
 
-The prisoner’s dilemma has two interesting characteristics that make it a useful model of a social dilemma. For one, the prisoner’s dilemma is arranged so that a positive outcome for one player does not necessarily mean a negative outcome for the other player (i.e., the prisoner’s dilemma is not a fixed-sum situation but an integrative one). If you consider again the matrix in Figure 12.5, you can see that if one player takes the cooperative choice (to not confess) and the other takes the competitive choice (to confess), then the prisoner who cooperates loses, whereas the other prisoner wins. However, if both prisoners make the cooperative choice, each remaining quiet, then neither gains more than the other, and both prisoners receive a relatively light sentence. In this sense, both players can win at the same time.
+囚人のジレンマには、社会的ジレンマの有用なモデルとなる二つの興味深い特徴がある。第一に、囚人のジレンマは、一方のプレイヤーに肯定的な結果が生じることが必ずしも他方に否定的な結果を意味しないよう構成されている（つまり固定総和の状況ではなく、統合的な状況である）。図12.5の行列をもう一度見ると、一方のプレイヤーが協力的選択（自白しない）をし、もう一方が競争的選択（自白する）をすれば、協力した囚人が負け、もう一人が勝つことがわかる。しかし、両者が協力的選択をして黙っていれば、どちらか一人がもう一人より多く得をするわけではなく、両方の囚人が比較的軽い刑を受ける。この意味で、両方のプレイヤーが同時に勝つことができる。
 
-Second, the prisoner’s dilemma matrix is arranged such that each individual player is motivated to take the competitive choice because this choice leads to a higher payoff regardless of what the other player does. Imagine for a moment that you are Malik, and you are trying to decide whether to cooperate (don’t confess) or to compete (confess). And imagine that you are not really sure what Frank is going to do. Remember that the goal of the individual is to maximize rewards. The values in the matrix make it clear that if you think that Frank is going to confess, you should confess yourself (to get 10 rather than 30 years in prison). And it is also clear that if you think Frank is not going to confess, you should still confess (to get no years rather than three years in prison). So the matrix is arranged so that the “best” alternative for each player, at least in the sense of pure self-interest, is to make the competitive choice, even though in the end both players would prefer the combination in which both players cooperate to the one in which they both compete.
+第二に、囚人のジレンマの行列は、相手が何をするかにかかわらず競争的選択のほうが高い利得になるため、各プレイヤーが競争的選択をする動機をもつよう設定されている。自分がMalikで、協力する（自白しない）か競争する（自白する）か決めようとしていると想像してみよう。そしてFrankが何をするかよくわからないとする。個人の目標は報酬を最大化することだという点を思い出そう。行列の値から、Frankが自白すると思うなら、自分も自白すべきだ（30年ではなく10年の刑になる）ことが明らかである。そしてFrankが自白しないと思う場合でも、やはり自白すべきである（3年ではなく刑期ゼロになる）。したがってこの行列は、純粋な自己利益という意味では、各プレイヤーにとって「最善」の選択肢が競争的選択になるよう構成されている。しかし最終的には、両プレイヤーとも、両者が競争する組み合わせより、両者が協力する組み合わせのほうを好む。
 
-Although initially specified in terms of the two prisoners, similar payoff matrices can be used to predict behavior in many different types of dilemmas involving two or more parties and including choices between helping and not helping, working and loafing, and paying and not paying debts (Weber & Messick, 2004). For instance, we can use the prisoner’s dilemma to help us understand a contributions dilemma, such as why two roommates might not want to contribute to the housework. Each of them would be better off if they relied on the other to clean the house. Yet if neither of them makes an effort to clean the house (the cooperative choice), the house becomes a mess and they will both be worse off.
+もともとは二人の囚人について設定されたものだが、同様の利得行列は、二者以上が関わる多くの異なるジレンマで行動を予測するために使える。そこには、助けるか助けないか、働くか手を抜くか、借金を払うか払わないか、といった選択が含まれる（Weber & Messick, 2004）。たとえば囚人のジレンマを使うと、二人のルームメイトがなぜ家事へ貢献したがらないかという貢献ジレンマを理解できる。どちらも、相手が家を掃除してくれることに頼れれば自分にとって得になる。しかし、どちらも家を掃除する努力をしなければ、家は散らかり、二人ともより悪い結果になる。
 
-### Variations on the Prisoner’s Dilemma
+### 囚人のジレンマのバリエーション
 
-In many cases, the prisoner’s dilemma game is played over a series of trials, in which players can modify their responses based on those given by their partners on previous trials. For example, the ongoing arms race between neighbors and rivals India and Pakistan can be seen as a social dilemma that occurs over time. Over a period of years, each country chooses whether to compete (by building nuclear weapons) or to cooperate (by not building nuclear weapons). And in each case, both countries feel that it is in their best interest to compete rather than cooperate.
+多くの場合、囚人のジレンマ・ゲームは一連の試行にわたって行われ、プレイヤーは以前の試行でパートナーが行った反応に基づいて自分の反応を変えることができる。たとえば、隣国かつライバルであるインドとパキスタンの継続的な軍拡競争は、時間を通して起こる社会的ジレンマと見ることができる。数年にわたり、それぞれの国は競争する（核兵器を建造する）か、協力する（核兵器を建造しない）かを選択する。そしてどちらの国も、協力するより競争するほうが自国の利益になると感じる。
 
-The prisoner’s dilemma can also be expanded to be played by more than two players. The behavior of individuals leaving a crowed parking lot, as an example, represents a type of prisoner’s dilemma in which it is to each person’s individual benefit to try to be the first to leave. However, if each person rushes to the exit without regard for others, a traffic jam is more likely to result, which slows down the process for everyone. If all individuals take the cooperative choice—waiting until their turn—everyone wins.
+囚人のジレンマは、二人を超えるプレイヤーで行うよう拡張することもできる。混雑した駐車場から出ようとする人々の行動は、一人ひとりにとっては最初に出ようとすることが利益になるタイプの囚人のジレンマである。しかし全員が他者を顧みず出口へ殺到すれば、渋滞が生じやすくなり、全員にとって出るのが遅くなる。全員が協力的選択、すなわち自分の順番を待つことを選べば、全員が利益を得る。
 
-## Resource Dilemma Games
+## 資源ジレンマ・ゲーム
 
-In addition to the prisoner’s dilemma, social dilemmas have been studied using games in which a group of individuals share a common pool of resources. In these *resource dilemma games*, the participants may extract or harvest resources from the pool, and it is to their individual advantage to do so. Furthermore, as the resources are used, the pool can replenish itself through a fixed schedule, which will allow the individuals to continue to harvest over long periods of time. Optimal use of the resource involves keeping the pool level up and harvesting only as much as will be replenished in the given time period. Overuse of the pool provides immediate gain for the individuals but has a long-term cost in the inability to make harvests at a later time.
+囚人のジレンマに加え、社会的ジレンマは、複数の個人が共通の資源プールを共有するゲームでも研究されてきた。この*資源ジレンマ・ゲーム*では、参加者はプールから資源を取り出したり採取したりでき、個人的にはそうすることが利益になる。さらに資源は、利用されながらも一定のスケジュールで補充されるため、個人は長期間にわたって採取を続けることができる。資源を最適に利用するには、プールの水準を維持し、その時間内に補充される量だけを採取する必要がある。プールを過剰利用すれば個人はすぐに利益を得られるが、後の時点で採取できなくなるという長期コストが生じる。
 
-In one version of a resource dilemma game (Edney, 1979), the participants sit around a bowl of metal nuts, and the goal is to get as many nuts as one can. The experimenter adds nuts to the bowl so that the number of nuts in the bowl doubles every 10 seconds. However, the individual players are also motivated to harvest nuts for themselves and are allowed to take out as many nuts as they like at any time. In Edney’s research, rather than cooperating and watching the pool grow, the participants almost immediately acted in their self-interest, grabbing the nuts from the bowl. In fact, Edney reported that 65% of the groups never got to the first 10-second replenishment!
+資源ジレンマ・ゲームの一つの版（Edney, 1979）では、参加者は金属製のナットが入ったボウルを囲んで座り、できるだけ多くのナットを得ることを目標とする。実験者は10秒ごとにボウルのナット数が2倍になるようナットを追加する。しかし個々のプレイヤーには、自分自身のためにナットを採取する動機もあり、いつでも好きなだけ取り出すことが許される。Edneyの研究では、参加者は協力してプールが増えるのを待つのではなく、ほぼ直ちに自己利益に従って行動し、ボウルからナットをつかみ取った。実際Edneyは、65%の集団が最初の10秒後の補充にすら到達しなかったと報告している。
 
-#### Research Focus
+#### 研究フォーカス
 
-##### The Trucking Game
+##### トラック運送ゲーム
 
-Another example of a laboratory simulation that has been used to study conflict is the trucking game. In the original research (Deutsch & Krauss, 1960), pairs of women played the trucking game. Each woman was given $4 to begin with and was asked to imagine herself as the owner of one of two trucking companies (Acme or Bolt) that carried merchandise over the roads shown in Figure 12.6. Each time either player’s truck reached the destination on the opposite side of the board, she earned 60 cents, minus operating costs (1 cent for each second taken by the trip). However, the game was also arranged to create the potential for conflict. Each participant wanted to travel on the main road in order to get to the destination faster, but this road was arranged to be so narrow that only one truck could pass at a time. Whenever the two trucks met each other on this narrow road, one of them was eventually forced to back up. Thus there are two choices to getting to the destination. The players had to either take the long, winding roads, thus eliminating their profits (each player would lose 10 cents on each trip if they were forced to take the long road) or figure out a way to share the use of the one-lane road.
+対立の研究に用いられた別の実験室シミュレーションが、トラック運送ゲームである。元の研究（Deutsch & Krauss, 1960）では、女性二人のペアがトラック運送ゲームを行った。それぞれの女性には開始時に4ドルが与えられ、図12.6に示す道路で商品を運ぶ二つのトラック会社（AcmeまたはBolt）のいずれかの所有者だと想像するよう求められた。いずれかのプレイヤーのトラックがボード反対側の目的地へ到達するたびに、60セントから運行費用（移動にかかった1秒につき1セント）を引いた額を得た。しかし、このゲームには対立が起こりうるような仕組みも設定されていた。各参加者は目的地へ早く着くため主要道路を使いたいが、その道路はトラック一台しか通れないほど狭かった。この狭い道路で二台のトラックが出会うと、最終的には一台が後退しなければならない。したがって目的地へ行くには二つの選択肢がある。長く曲がりくねった道路を利用して利益を失う（長い道路を使わざるをえない場合、各プレイヤーは1回につき10セント損をする）か、一車線道路を共有する方法を考え出すかである。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/7387643b89a23a098496e9c79093d996.jpg)
 
-*Figure 12.6 The Road Map from the Trucking Game. From Deutsch (1973).Deutsch, M. (1973). The resolution of conflict. New Haven, CT: Yale University Press.*
+_図12.6 トラック運送ゲームの道路地図。Deutsch (1973). Deutsch, M. (1973). The resolution of conflict. New Haven, CT: Yale University Press. より。_
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/a772693e530c8c1f0bf3aa549928d067.jpg)
 
-*Figure 12.7 Outcomes of a Trucking Game Study. Data are from Deutsch and Krauss (1960).*
+_図12.7 トラック運送ゲーム研究の結果。データはDeutsch and Krauss (1960)による。_
 
-Deutsch and Krauss made the game even more interesting by creating experimental conditions in which either or both of the truck company owners had a gate that controlled access to the road. In the *unilateral-threat condition*, only Acme had a gate. Thus if Bolt attempted to use the main road, Acme could close the gate, forcing Bolt to back up and enabling Acme to reopen the gate and proceed quickly to the destination. In the *bilateral-threat condition*, both sides had gates, whereas in the *no-threat condition*, there were no gates.
+Deutsch and Kraussは、トラック会社の所有者の一方または双方が道路へのアクセスを制御するゲートをもつ実験条件をつくり、ゲームをさらに興味深いものにした。*一方的脅威条件*ではAcmeだけがゲートをもっていた。そのためBoltが主要道路を利用しようとすれば、Acmeはゲートを閉めてBoltを後退させ、その後ゲートを開いて自分が素早く目的地へ進むことができた。*双方向脅威条件*では双方がゲートをもち、*脅威なし条件*ではゲートはなかった。
 
-As shown in Figure 12.7, participants without gates soon learned to share the one-lane road, and, on average, each made a profit. However, threat in the form of a gate produced conflict and led to fewer profits, although in many cases the participants learned to deal with these problems over time and improved their payoffs as the game went on (Lawler, Ford, & Blegen, 1988; Shomer, Davis, & Kelley, 1966). Participants lost the most money in the bilateral-threat condition in which both sides were given gates that they could control. In this situation, conflict immediately developed, and there were standoffs on the middle road that wasted time and prevented either truck from moving.
+図12.7に示すように、ゲートのない参加者はすぐに一車線道路を共有することを学び、平均すると双方とも利益を得た。しかし、ゲートという形の脅威は対立を生み、利益を減らした。ただし多くの場合、ゲームが続くにつれて参加者は問題への対処を学び、利得を改善した（Lawler, Ford, & Blegen, 1988; Shomer, Davis, & Kelley, 1966）。最も大きな損失が生じたのは、双方に自分で制御できるゲートが与えられた双方向脅威条件だった。この状況では直ちに対立が生じ、中央の道路でにらみ合いが起こり、時間が無駄になり、どちらのトラックも動けなくなった。
 
-Two results of this study are particularly surprising. First, in the unilateral threat condition, both players (including Acme, who had control of the gate) made less money than did those in the no-threat condition (although it is true that in this condition, Acme did lose less than Bolt). Thus being able to threaten the other was not successful for generating overall profits. Second, in the conditions in which both individuals had gates, both individuals actually did worse than they did when only one individual had a gate. Thus when an opponent is able to threaten you, it may be to your benefit to not return with a threat of your own—the ability to counteract the threats of your partner may not always help you but rather may produce even more conflict and losses for both parties.
+この研究の二つの結果は特に驚くべきものである。第一に、一方的脅威条件では、ゲートを管理できたAcmeも含め、両プレイヤーが脅威なし条件より少ないお金しか得られなかった（ただし、この条件でAcmeの損失はBoltより小さかった）。したがって、相手を脅せる能力は、全体として利益を生み出すことには成功しなかった。第二に、双方がゲートをもつ条件では、どちらの個人も、一方だけがゲートをもつ場合より実際に悪い結果になった。したがって、相手に脅されうるとき、自分も脅し返さないほうが利益になる場合がある。パートナーの脅威へ対抗できる能力は、必ずしも自分を助けず、むしろさらなる対立と双方の損失を生み出す可能性がある。
 
-## Who Cooperates and Who Competes?
+## 誰が協力し、誰が競争するのか
 
-Although we have to this point focused on how situational variables, such as the nature of the payoffs in the matrix, increase the likelihood that we will compete rather than cooperate, not everyone is influenced the same way by the situation—the personality characteristics of the individuals also matter. In general, people who are more self-oriented are more likely to compete, whereas people who are more other-oriented are more likely to cooperate (Balliet, Parks, & Joireman, 2009; Sagiv, Sverdlik, & Schwarz, 2011). For instance, Campbell, Bush, Brunell, and Shelton (2005) found that students who were highly narcissistic (i.e., very highly self-focused) competed more in a resource dilemma and took more of the shared resource for themselves than did the other people playing the game.
+ここまでは、行列における利得の性質などの状況変数が、協力ではなく競争する可能性をどのように高めるかに焦点を当ててきた。しかし、すべての人が状況から同じように影響を受けるわけではなく、個人のパーソナリティ特性も重要である。一般に、自己志向の強い人は競争しやすく、他者志向の強い人は協力しやすい（Balliet, Parks, & Joireman, 2009; Sagiv, Sverdlik, & Schwarz, 2011）。たとえばCampbell, Bush, Brunell, and Shelton (2005)は、ナルシシズムの強い（すなわち自己への焦点が非常に強い）学生は、資源ジレンマでより競争的になり、ゲームをしている他者より、共有資源を多く自分自身のために取ることを見いだした。
 
-#### Research Focus
+#### 研究フォーカス
 
-##### Self- and Other-Orientations in Social Dilemmas
+##### 社会的ジレンマにおける自己志向と他者志向
 
-Paul Van Lange and his colleagues (Van Lange, 1999; Van Lange & Kuhlman, 1994) have focused on the person determinants of cooperation by characterizing individuals as one of two types—those who are “pro-social,” meaning that they are high on other-concern and value cooperation, and those who are “pro-self” and thus tend to behave in a manner that enhances their own outcomes by trying to gain advantage over others by making competitive choices.
+Paul Van Langeと同僚たち（Van Lange, 1999; Van Lange & Kuhlman, 1994）は、個人を二つのタイプへ分類することで協力を決定する個人的要因に焦点を当ててきた。一つは「向社会的」で、他者への関心が強く協力を重視する人々である。もう一つは「自己志向的」で、競争的選択を行って他者より優位に立とうとすることで、自分自身の結果を高めるように行動する傾向のある人々である。
 
-Sonja Utz (2004) tested how people who were primarily self-concerned would respond differently than those who were primarily other-concerned when the self-concept was activated. In her research, male and female college students first completed a measure designed to assess whether they were more pro-social or more pro-self in orientation. On this measure, the participants had to make choices about whether to give points to themselves or to another person on a series of tasks. The students who tended to favor themselves were classified as pro-self, whereas those who tended to favor others were classified as pro-social.
+Sonja Utz (2004)は、自己概念が活性化されたとき、主として自己への関心が強い人が、主として他者への関心が強い人とはどのように異なる反応をするかを検証した。研究では、男女の大学生がまず、向社会的志向と自己志向的志向のどちらが強いかを評価する尺度へ回答した。この尺度では、一連の課題で、自分自身へポイントを与えるか別の人へ与えるかを選択しなければならなかった。自分自身を優先する傾向のある学生は自己志向的、他者を優先する傾向のある学生は向社会的に分類された。
 
-Then all the students read a story describing a trip to a nearby city. However, while reading the story, half of the students (the self-priming condition) were asked to circle all the pronouns occurring in the story. These pronouns were arranged to be self-relevant and thus to activate the self-concept—“I,” “we,” “my,” and so forth. The students in the control condition, however, were instructed to circle the prepositions, which were not self-relevant (e.g., “of” and “after”).
+その後、すべての学生が近くの都市への旅行を説明した物語を読んだ。ただし、物語を読みながら、半数の学生（自己プライミング条件）は、物語に現れるすべての代名詞を丸で囲むよう求められた。その代名詞は自己関連的で自己概念を活性化するよう、「I」「we」「my」などが配置されていた。一方、統制条件の学生には、自己関連的ではない前置詞（「of」「after」など）を丸で囲むよう指示した。
 
-Finally, the students participated in a series of games in which they had to make a choice between two alternative distributions of points between themselves and another person. As you can see Figure 12.8, the self-manipulation influenced the pro-self students (who were primarily self-oriented already) in a way that they became even less cooperative and more self-serving. However, the students who were initially pro-social became even more cooperative when the self-concept was activated.
+最後に学生は、自分と別の人とのポイント分配について二つの選択肢から選ぶ一連のゲームに参加した。図12.8に示すように、自己操作は、もともと主に自己志向的だった自己志向的学生に影響し、さらに非協力的で自己利益的になった。一方、最初から向社会的だった学生は、自己概念が活性化されると、さらに協力的になった。
 
 [![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/6fa4cd69840c039056b81e4f9e9a3a0b-1.jpg)](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/6fa4cd69840c039056b81e4f9e9a3a0b-1.jpg)
 
-*Figure 12.8. Priming Self-Concept. Priming the self-concept increased cooperation for those who were other-concerned but increased competition for those who were self-concerned. Data are from Utz (2004).*
+_図12.8 自己概念のプライミング。自己概念のプライミングは、他者への関心が強い人では協力を増やしたが、自己への関心が強い人では競争を増やした。データはUtz (2004)による。_
 
-Although it is possible that people are either self-concerned or other-concerned, another possibility is that people vary on both of these dimensions simultaneously, such that some people may be high on both self-concern *and* other-concern. The dual-concern model of cooperation and competition (Pruitt & Rubin, 1986) is based on this approach, and the four resulting personality types are outlined in Figure 12.9.
+人は自己への関心か他者への関心のどちらか一方だけが強い可能性もあるが、もう一つの可能性は、両方の次元で同時に異なり、自己への関心*と*他者への関心の両方が強い人もいることである。協力と競争の二重関心モデル（Pruitt & Rubin, 1986）はこの考え方に基づき、そこから生じる四つのパーソナリティ・タイプを図12.9に示す。
 
-The dual-concern model suggests that *individuals will relate to social dilemmas, or other forms of conflict, in different ways, depending on their underlying personal orientations or as influenced by the characteristics of the situation that orient them toward a given concern*. Individuals who are focused primarily on their own outcomes but who do not care about the goals of others are considered to be *contending* in orientation. These individuals are expected to try to take advantage of the other party, for instance, by withholding their contributions in social dilemmas. Those who are focused primarily on the others’ outcomes, however, will be *yielding* and likely to make cooperative choices. Individuals who are not concerned about the interests of either the self or others are *inactive* and unlikely to care about the situation or to participate in solving it at all.<a id="f12.9"></a>
+二重関心モデルによれば、_個人は、根底にある個人的志向、または特定の関心へ向けさせる状況の特徴に応じて、社会的ジレンマその他の形態の対立に異なる方法で関わる_。主として自分自身の結果に焦点を当て、他者の目標には関心をもたない人は、*競合型*の志向をもつと考えられる。こうした人は、たとえば社会的ジレンマで自分の貢献を控えることによって、相手を利用しようとすると予想される。一方、主として他者の結果に焦点を当てる人は*譲歩型*で、協力的選択をする可能性が高い。自己の利益にも他者の利益にも関心がない人は*不活動型*で、その状況を気にしたり、解決へ参加したりする可能性が低い。
 
-![image description linked in caption](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/6b8702cdd6d2ab1d541f5ba266edec7d.jpg)
+![キャプションに画像説明へのリンク](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/6b8702cdd6d2ab1d541f5ba266edec7d.jpg)
 
-*Figure 12.9 The Dual-Concern Model [\[Image description\]](/translations/social-psychology/12-02-how-the-social-situation-creates-conflict-the-role-of-social-dilemmas/)*
+_図12.9 二重関心モデル [\[画像説明\]](/translations/social-psychology/12-02-how-the-social-situation-creates-conflict-the-role-of-social-dilemmas/)_
 
-The interesting prediction of the dual-concern model is that being concerned with one’s own outcomes is not necessarily harmful to the possibility of cooperation. The individuals who are focused on maximizing their own outcomes *but who are also concerned with the needs of the others* (the *problem solvers*) are expected to be as likely to cooperate as are those who are yielding. In fact, the dual-concern model suggests that these individuals may be the best negotiators of all because they are likely to go beyond the trap posed by the dilemma itself, searching for ways to produce new and creative solutions through creative thinking and compromise.
+二重関心モデルの興味深い予測は、自分自身の結果を気にすることが、必ずしも協力の可能性に有害ではないという点である。自分自身の結果を最大化することに焦点を当てる*と同時に他者の必要にも関心をもつ*人（_問題解決型_）は、譲歩型の人と同じ程度に協力する可能性が高いと予想される。実際、二重関心モデルによれば、こうした人々は、創造的思考と妥協を通じて新しく創造的な解決策を探し、ジレンマそのものがつくる罠を越えようとするため、最も優れた交渉者となる可能性がある。
 
-### Gender and Cultural Differences in Cooperation and Competition
+### 協力と競争におけるジェンダー差と文化差
 
-You might be wondering whether men or women are more cooperative. Because women are on average more concerned about maintaining positive relationships with others, whereas men are on average more self-concerned, it might be expected that women might be more likely to cooperate than men. And some research has supported this idea. For instance, in terms of whether or not people accepted an initial offer that was made to them or demanded more, Babcock, Gelfand, Small, and Stayn (2006) found that about half of the men they sampled negotiated a salary when they took their first job offer, whereas only about one-eighth of the women reported doing so. Not surprisingly, women received substantially lower average annual starting salaries than did the men, a fact that is likely to contribute to the wage gap between men and women. And Small, Gelfand, Babcock, and Gettman (2007) found that, overall, women were less likely than men to try to bargain for personal gain in an experimental task. Small and colleagues concluded that women felt that asking for things for themselves was socially inappropriate, perhaps because they perceive that they have less social power than do men.
+男性と女性ではどちらがより協力的なのだろうか、と疑問に思うかもしれない。平均すると、女性は他者との肯定的関係を維持することへの関心が強く、男性は自己への関心が強いため、女性のほうが男性より協力する可能性が高いと予想できる。そして一部の研究はこの考えを支持している。たとえば、最初に提示された条件を受け入れるか、より多くを要求するかについて、Babcock, Gelfand, Small, and Stayn (2006)は、最初の仕事の提示を受けた際、調査した男性のおよそ半数が給与交渉を行った一方、女性では約8分の1だけがそうしたと報告した。当然ながら、女性の平均初任年俸は男性よりかなり低く、この事実は男女間の賃金格差に寄与している可能性が高い。またSmall, Gelfand, Babcock, and Gettman (2007)は、全体として、女性は男性より実験課題で個人的利益のための交渉を試みる可能性が低いと見いだした。Smallらは、女性は自分自身のために何かを求めることを社会的に不適切だと感じていると結論した。これは、女性が男性より自分の社会的権力が低いと知覚するためかもしれない。
 
-But although some studies have found that there are gender differences, an interactionist approach to the situation is even more informative. It turns out that women compete less than men in some situations, but they compete about as much as men do in other situations. For example, Bowles, Babcock, and McGinn (2005) showed that the roles that are activated at the negotiation table (i.e., whether one is negotiating for oneself or on behalf of others) are important triggers for gender differences. Women negotiated as well as men when they were negotiating for others, but they negotiated less strongly than men did for themselves. And Kray, Galinsky, and Thompson (2002) showed that gender differences in negotiation behavior are strongly affected by cognitive constructs that are accessible during negotiation. In general, gender differences in negotiation seem to occur in situations in which other-concern is highly accessible but are reduced or eliminated in situations in which other-concern is less accessible (Gelfand, Major, Raver, Nishii, & O’Brien, 2006). A recent meta-analysis of 272 research studies (Baillet, Li, Macfarlan, & van Vugt, 2011) found that overall, men and women cooperated equally. But men cooperated more with other men than women cooperated with other women. In mixed-sex interactions, women were more cooperative than men.
+しかし、一部の研究ではジェンダー差が見いだされているものの、状況との相互作用を考えるアプローチのほうがさらに有益である。女性はある状況では男性より競争しないが、別の状況では男性と同じ程度に競争することがわかっている。たとえばBowles, Babcock, and McGinn (2005)は、交渉の場で活性化される役割、すなわち自分自身のために交渉しているのか他者を代表して交渉しているのかが、ジェンダー差を引き起こす重要な要因であることを示した。女性は他者のために交渉するときには男性と同程度に交渉したが、自分自身のためには男性ほど強く交渉しなかった。またKray, Galinsky, and Thompson (2002)は、交渉中に認知的にアクセス可能な構成概念によって、交渉行動のジェンダー差が大きく影響されることを示した。一般に、交渉におけるジェンダー差は、他者への関心が非常にアクセスしやすい状況で生じるようだが、他者への関心がアクセスしにくい状況では小さくなるか、消失する（Gelfand, Major, Raver, Nishii, & O’Brien, 2006）。272件の研究を対象とした最近のメタ分析（Baillet, Li, Macfarlan, & van Vugt, 2011）では、全体として男性と女性は同じ程度に協力していた。しかし、男性同士は女性同士より強く協力し、男女混合の相互作用では女性のほうが男性より協力的だった。
 
-And there are also cultural differences in cooperation, in a direction that would be expected. For instance, Gelfand et al. (2002) found that Japanese students—who are more interdependent and thus generally more other-concerned—were more likely to cooperate and achieved higher outcomes in a negotiation task than did students from the United States (who are more individualistic and self-oriented; Chen, Mannix, & Okumura, 2003).
+また、予想される方向で協力には文化差もある。たとえばGelfand et al. (2002)は、より相互依存的で、したがって一般に他者への関心が強い日本人学生は、より個人主義的で自己志向的な米国の学生より協力しやすく、交渉課題でも高い成果を得ることを見いだした（Chen, Mannix, & Okumura, 2003）。
 
-:::tip[Key Takeaways]
+:::tip[要点]
 
-- The behavior of individuals in conflict situations is frequently studied using laboratory games such as the prisoner’s dilemma game. Other types of laboratory games include resource dilemma games and the trucking game.
-- Taken together, these games suggest that the most beneficial approach in social dilemmas is to maintain a balance between self-concern and other-concern.
-- Individual differences in cooperation and competition, such as those proposed by the dual-concern model, show that individuals will relate to social dilemmas depending on their underlying personal orientations.
-- Although women do compete less than men in some situations, they compete about as much as men do in other situations. There are cultural differences in cooperation.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Consider a time when you were in a type of social dilemma, perhaps with friends or family. How did your self-concern and other-concern lead you to resolve the dilemma?
-2. Review and critique the laboratory games that have been used to assess responses in social dilemmas. What are their strengths and the limitations?
+- 対立状況における個人の行動は、囚人のジレンマ・ゲームのような実験室ゲームを使って頻繁に研究される。他の種類の実験室ゲームには、資源ジレンマ・ゲームやトラック運送ゲームがある。
+- 総合すると、こうしたゲームは、社会的ジレンマで最も利益の大きいアプローチが、自己への関心と他者への関心のバランスを維持することだと示唆する。
+- 二重関心モデルが提案するような協力・競争の個人差は、個人が根底にある個人的志向に応じて社会的ジレンマに関わることを示す。
+- 女性は一部の状況では男性より競争しないが、別の状況では男性と同程度に競争する。協力には文化差もある。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Abele, S., Stasser, G., & Chartier, C. (2010). Conflict and coordination in the provision of public goods: A conceptual analysis of continuous and step-level games. *Personality and Social Psychology Review, 14*(4), 385–401. doi: 10.1177/1088868310368535
+1. 友人や家族との間などで、何らかの社会的ジレンマに直面したときのことを考えなさい。自己への関心と他者への関心は、そのジレンマの解決にどのように影響しただろうか。
+2. 社会的ジレンマへの反応を評価するために使われてきた実験室ゲームを検討し、批判しなさい。その長所と限界は何だろうか。
 
-Babcock, L., Gelfand, M., Small, D., & Stayn, H. (Eds.). (2006). *Gender differences in the propensity to initiate negotiations*. Mahwah, NJ: Lawrence Erlbaum.
+:::
 
-Balliet, C., Li, N. P., Macfarlan, S. J., & Van Vugt, M. (2011). Sex differences in cooperation: A meta-analytic review of social dilemmas. *Psychological Bulletin, 137*(6), 881-909.
+#### 参考文献
 
-Balliet, D., Parks, C., & Joireman, J. (2009). Social value orientation and cooperation in social dilemmas: A meta-analysis. *Group Processes and Intergroup Relations, 12*(4), 533–547.
+Abele, S., Stasser, G., & Chartier, C. (2010). Conflict and coordination in the provision of public goods: A conceptual analysis of continuous and step-level games. _Personality and Social Psychology Review, 14_(4), 385–401. doi: 10.1177/1088868310368535
 
-Bowles, H. R., Babcock, L., & McGinn, K. L. (2005). Constraints and triggers: Situational mechanics of gender in negotiation. *Journal of Personality and Social Psychology, 89*(6), 951–965.
+Babcock, L., Gelfand, M., Small, D., & Stayn, H. (Eds.). (2006). _Gender differences in the propensity to initiate negotiations_. Mahwah, NJ: Lawrence Erlbaum.
 
-Campbell, W. K., Bush, C. P., Brunell, A. B., & Shelton, J. (2005). Understanding the social costs of narcissism: The case of the tragedy of the commons. *Personality and Social Psychology Bulletin, 31*(10), 1358–1368.
+Balliet, C., Li, N. P., Macfarlan, S. J., & Van Vugt, M. (2011). Sex differences in cooperation: A meta-analytic review of social dilemmas. _Psychological Bulletin, 137_(6), 881-909.
 
-Chen, Y.-R., Mannix, E. A., & Okumura, T. (2003). The importance of who you meet: Effects of self- versus other-concerns among negotiators in the United States, the People’s Republic of China, and Japan. *Journal of Experimental Social Psychology, 39*(1), 1–15.
+Balliet, D., Parks, C., & Joireman, J. (2009). Social value orientation and cooperation in social dilemmas: A meta-analysis. _Group Processes and Intergroup Relations, 12_(4), 533–547.
 
-Deutsch, M., & Krauss, R. M. (1960). The effect of threat upon interpersonal bargaining. *Journal of Abnormal and Social Psychology, 61*, 181–189.
+Bowles, H. R., Babcock, L., & McGinn, K. L. (2005). Constraints and triggers: Situational mechanics of gender in negotiation. _Journal of Personality and Social Psychology, 89_(6), 951–965.
 
-Edney, J. J. (1979). The nuts game: A concise commons dilemma analog. *Environmental Psychology and Nonverbal Behavior, 3*(4), 252–254.
+Campbell, W. K., Bush, C. P., Brunell, A. B., & Shelton, J. (2005). Understanding the social costs of narcissism: The case of the tragedy of the commons. _Personality and Social Psychology Bulletin, 31_(10), 1358–1368.
 
-Gelfand, M. J., Higgins, M., Nishii, L. H., Raver, J. L., Dominguez, A., Murakami, F.,…Toyama, M. (2002). Culture and egocentric perceptions of fairness in conflict and negotiation. *Journal of Applied Psychology, 87*(5), 833–845.
+Chen, Y.-R., Mannix, E. A., & Okumura, T. (2003). The importance of who you meet: Effects of self- versus other-concerns among negotiators in the United States, the People’s Republic of China, and Japan. _Journal of Experimental Social Psychology, 39_(1), 1–15.
 
-Gelfand, M. J., Major, V. S., Raver, J. L., Nishii, L. H., & O’Brien, K. (2006). Negotiating relationally: The dynamics of the relational self in negotiations. *Academy of Management Review, 31*(2), 427–451.
+Deutsch, M., & Krauss, R. M. (1960). The effect of threat upon interpersonal bargaining. _Journal of Abnormal and Social Psychology, 61_, 181–189.
 
-Hardin, G. (1968). The tragedy of the commons. *Science, 162*(3859), 1243–1248.
+Edney, J. J. (1979). The nuts game: A concise commons dilemma analog. _Environmental Psychology and Nonverbal Behavior, 3_(4), 252–254.
 
-Kay, A. C., Wheeler, S. C., Bargh, J. A., & Ross, L. (2004). Material priming: The influence of mundane physical objects on situational construal and competitive behavioral choice. *Organizational Behavior and Human Decision Processes, 95*(1), 83–96. doi: 10.1016/j.obhdp.2004.06.003.
+Gelfand, M. J., Higgins, M., Nishii, L. H., Raver, J. L., Dominguez, A., Murakami, F.,…Toyama, M. (2002). Culture and egocentric perceptions of fairness in conflict and negotiation. _Journal of Applied Psychology, 87_(5), 833–845.
 
-Kray, L. J., Galinsky, A. D., & Thompson, L. (2002). Reversing the gender gap in negotiations: An exploration of stereotype regeneration. *Organizational Behavior and Human Decision Processes, 87*(2), 386–409.
+Gelfand, M. J., Major, V. S., Raver, J. L., Nishii, L. H., & O’Brien, K. (2006). Negotiating relationally: The dynamics of the relational self in negotiations. _Academy of Management Review, 31_(2), 427–451.
 
-Lawler, E. J., Ford, R. S., & Blegen, M. A. (1988). Coercive capability in conflict: A test of bilateral deterrence versus conflict spiral theory. *Social Psychology Quarterly, 51*(2), 93–107.
+Hardin, G. (1968). The tragedy of the commons. _Science, 162_(3859), 1243–1248.
 
-Poundstone, W. (1992). *Prisoner’s dilemma*. New York, NY: Doubleday.
+Kay, A. C., Wheeler, S. C., Bargh, J. A., & Ross, L. (2004). Material priming: The influence of mundane physical objects on situational construal and competitive behavioral choice. _Organizational Behavior and Human Decision Processes, 95_(1), 83–96. doi: 10.1016/j.obhdp.2004.06.003.
 
-Pruitt, D. G., & Rubin, J. Z. (1986). *Social conflict: Escalation, stalemate, and settlement*. New York, NY: McGraw-Hill.
+Kray, L. J., Galinsky, A. D., & Thompson, L. (2002). Reversing the gender gap in negotiations: An exploration of stereotype regeneration. _Organizational Behavior and Human Decision Processes, 87_(2), 386–409.
 
-Ross, L., & Ward, A. (1995). Psychological barriers to dispute resolution. *Advances in experimental social psychology, 27*, 255–304. Retrieved from http://search.ebscohost.com/login.aspx?direct=true&db=psyh&AN=2003-02325-006&site=ehost-live
+Lawler, E. J., Ford, R. S., & Blegen, M. A. (1988). Coercive capability in conflict: A test of bilateral deterrence versus conflict spiral theory. _Social Psychology Quarterly, 51_(2), 93–107.
 
-Sagiv, L., Sverdlik, N., & Schwarz, N. (2011). To compete or to cooperate? Values’ impact on perception and action in social dilemma games. *European Journal of Social Psychology, 41*(1), 64–77.
+Poundstone, W. (1992). _Prisoner’s dilemma_. New York, NY: Doubleday.
 
-Shomer, R. W., Davis, A. H., & Kelley, H. H. (1966). Threats and the development of coordination: Further studies of the Deutsch and Krauss trucking game. *Journal of Personality and Social Psychology, 4*, 119–126.
+Pruitt, D. G., & Rubin, J. Z. (1986). _Social conflict: Escalation, stalemate, and settlement_. New York, NY: McGraw-Hill.
 
-Small, D. A., Gelfand, M., Babcock, L., & Gettman, H. (2007). Who goes to the bargaining table? The influence of gender and framing on the initiation of negotiation. *Journal of Personality and Social Psychology, 93*(4), 600–613.
+Ross, L., & Ward, A. (1995). Psychological barriers to dispute resolution. _Advances in experimental social psychology, 27_, 255–304. Retrieved from http://search.ebscohost.com/login.aspx?direct=true&db=psyh&AN=2003-02325-006&site=ehost-live
 
-Utz, S. (2004). Self-activation is a two-edged sword: The effects of I primes on cooperation. *Journal of Experimental Social Psychology, 40*(6), 769–776.
+Sagiv, L., Sverdlik, N., & Schwarz, N. (2011). To compete or to cooperate? Values’ impact on perception and action in social dilemma games. _European Journal of Social Psychology, 41_(1), 64–77.
 
-Van Lange, P. A. M. (1999). The pursuit of joint outcomes and equality in outcomes: An integrative model of social value orientations. *Journal of Personality and Social Psychology, 77*, 337–349.
+Shomer, R. W., Davis, A. H., & Kelley, H. H. (1966). Threats and the development of coordination: Further studies of the Deutsch and Krauss trucking game. _Journal of Personality and Social Psychology, 4_, 119–126.
 
-Van Lange, P. A. M., & Kuhlman, D. M. (1994). Social value orientations and impressions of partner’s honesty and intelligence: A test of the might versus morality effect. *Journal of Personality and Social Psychology, 67*(1), 126–141.
+Small, D. A., Gelfand, M., Babcock, L., & Gettman, H. (2007). Who goes to the bargaining table? The influence of gender and framing on the initiation of negotiation. _Journal of Personality and Social Psychology, 93_(4), 600–613.
 
-Vohs, K. D., Mead, N. L., & Goode, M. R. (2006). The psychological consequences of money. *Science, 314*(5802), 1154–1156. doi: 10.1126/science.1132491
+Utz, S. (2004). Self-activation is a two-edged sword: The effects of I primes on cooperation. _Journal of Experimental Social Psychology, 40_(6), 769–776.
 
-Weber, J. M., & Messick, D. M. (2004). Conflicting interests in social life: Understanding social dilemma dynamics. In M. J. Gelfand & J. M. Brett (Eds.), *The handbook of negotiation and culture* (pp. 374–394). Palo Alto, CA: Stanford University Press.
+Van Lange, P. A. M. (1999). The pursuit of joint outcomes and equality in outcomes: An integrative model of social value orientations. _Journal of Personality and Social Psychology, 77_, 337–349.
 
-#### Image Descriptions
+Van Lange, P. A. M., & Kuhlman, D. M. (1994). Social value orientations and impressions of partner’s honesty and intelligence: A test of the might versus morality effect. _Journal of Personality and Social Psychology, 67_(1), 126–141.
 
-**<a id="id12.9"></a>Figure 12.9 The Dual-Concern Model**
+Vohs, K. D., Mead, N. L., & Goode, M. R. (2006). The psychological consequences of money. _Science, 314_(5802), 1154–1156. doi: 10.1126/science.1132491
 
-The dual-concern model of cooperation and competition and the resulting personality types:
+Weber, J. M., & Messick, D. M. (2004). Conflicting interests in social life: Understanding social dilemma dynamics. In M. J. Gelfand & J. M. Brett (Eds.), _The handbook of negotiation and culture_ (pp. 374–394). Palo Alto, CA: Stanford University Press.
 
-- high concern about own outcomes, high concern about other’s outcomes: problem solving
-- low concern about own outcomes, high concern about other’s outcomes: yielding
-- high concern about own outcomes, low concern about other’s outcomes: contending
-- low concern about own outcomes, low concern about other’s outcomes: inactivity
+#### 画像説明
 
-[\[Return to Figure 12.9\]](/translations/social-psychology/12-02-how-the-social-situation-creates-conflict-the-role-of-social-dilemmas/)
+**図12.9 二重関心モデル**
+
+協力と競争の二重関心モデル、およびそこから生じるパーソナリティ・タイプ：
+
+- 自分の結果への関心が高い、他者の結果への関心が高い：問題解決
+- 自分の結果への関心が低い、他者の結果への関心が高い：譲歩
+- 自分の結果への関心が高い、他者の結果への関心が低い：競合
+- 自分の結果への関心が低い、他者の結果への関心が低い：不活動
+
+[\[図12.9に戻る\]](/translations/social-psychology/12-02-how-the-social-situation-creates-conflict-the-role-of-social-dilemmas/)

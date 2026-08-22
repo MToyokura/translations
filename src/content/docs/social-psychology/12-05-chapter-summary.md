@@ -1,60 +1,61 @@
 ---
-title: "12.5 Chapter Summary"
+title: "12.5 章のまとめ"
 sidebar:
   order: 83
 ---
-This chapter has examined how goals of self-concern and other-concern relate to our tendencies to cooperate or compete with others and how these individual goals can help us understand the behavior of large groups of people, such as nations, societies, and cultures. Most generally, we can say that when individuals or groups interact, they can take either cooperative or competitive positions. Competition frequently leads to conflict, in which the parties involved engage in violence and hostility. Although competition is normal and will always be a part of human existence, cooperation is also built into the human repertoire.
 
-One type of situation in which the goals of the individual conflict with the goals of the group is known as a social dilemma. Social dilemmas have an important impact on a variety of important social problems because the dilemma creates a type of trap in which even though the individual or group may want to be cooperative, the situation leads to competitive behaviors. Although social dilemmas create the potential for conflict and even hostility, such outcomes are not inevitable. The solutions to social dilemmas are more favorable when the outcomes are integrative rather than fixed-sum.
+この章では、自己への関心と他者への関心という目標が、他者と協力または競争する傾向にどのように関係するか、そしてこうした個人の目標によって、国家、社会、文化のような大規模な人間集団の行動をどのように理解できるかを検討した。最も一般的には、個人または集団が相互作用するとき、協力的立場または競争的立場をとることができる。競争はしばしば対立へつながり、そこでは関係する当事者が暴力や敵意に関与する。競争は正常であり、これからも常に人間の存在の一部であり続けるが、協力も人間の行動レパートリーに組み込まれている。
 
-Conflict is sometimes realistic, in the sense that the goals of the interacting parties really are incompatible. However, although many situations do create real conflict, conflicts are often more perceived than realistic because they are based on misperceptions of the intentions of others or of the nature of the potential rewards.
+個人の目標と集団の目標が対立する状況の一種は、社会的ジレンマとして知られている。社会的ジレンマはさまざまな重要な社会問題に大きな影響を与える。個人や集団は協力したいと思っていても、状況が競争的行動へ導くという一種の罠をつくるからである。社会的ジレンマは対立や敵意さえ生み出す可能性があるが、そのような結果が避けられないわけではない。社会的ジレンマの解決は、結果が固定総和ではなく統合的である場合に、より好ましくなる。
 
-As humans, our desires to cooperate are guided in part by a set of social norms about morality—the set of social norms that describe the principles and ideals, as well as the duties and obligations, that we view as appropriate and that we use to judge the actions of others and to guide our own behavior. Two types of morality are social conventional morality and harm-based morality.
+相互作用する当事者の目標が本当に両立しないという意味で、対立が現実的な場合もある。しかし、多くの状況が現実の対立をつくる一方、他者の意図や潜在的報酬の性質についての誤知覚に基づくため、対立はしばしば現実的というより知覚上のものである。
 
-An essential part of morality involves determining what is “right” or “fair” in social interaction. We determine what is or is not fair by relying on another set of social norms, called social fairness norms, which are beliefs about how people should be treated fairly. One type of social fairness, known as distributive fairness, refers to our judgments about whether or not we are receiving a fair share of the available rewards. Procedural fairness refers to beliefs about the fairness (or unfairness) of the procedures used to distribute available rewards among group members.
+人間として、私たちの協力したいという欲求は、部分的に道徳についての一連の社会的規範によって導かれる。道徳とは、私たちが適切だとみなす原理や理想、義務と責務を記述し、他者の行動を判断し、自分自身の行動を導くために用いる社会的規範の集合である。道徳には、社会的慣習に基づく道徳と危害に基づく道徳という二つの種類がある。
 
-Individuals who have low status may nevertheless accept the existing status hierarchy, deciding that they deserve what little they have, a phenomenon known as false consciousness. Individuals with low status who do not accept the procedural fairness of the system may try to gain status, for instance, by leaving the low-status group to which they currently belong. Or they may use social creativity strategies that allow them to perceive their group as better than other groups, at least on some dimensions. Or they may resort to attempts at collective action to change the social status hierarchy by improving the status of their own group relative to others.
+道徳の不可欠な部分の一つは、社会的相互作用において何が「正しい」または「公正」かを決めることである。何が公正か不公正かを判断するため、私たちは社会的公正規範と呼ばれる別の社会的規範、すなわち人々がどのように公正に扱われるべきかについての信念を用いる。社会的公正の一つである分配的公正は、利用可能な報酬の公正な取り分を自分が受け取っているかどうかについての判断を指す。手続き的公正は、利用可能な報酬を集団メンバーへ分配するために用いられる手続きの公正さ（または不公正さ）についての信念を指す。
 
-The behavior of individuals in conflict situations has frequently been studied using laboratory games in which conflict is simulated. In the prisoner’s dilemma game, the rewards to be gained for making a cooperative or a competitive choice are displayed in a payoff matrix. The matrix is arranged so that competition is most beneficial for each individual, and yet if the players each choose the cooperative choice, each of them will gain. Other types of laboratory games include resource dilemma games and the trucking game.
+低地位の人は、自分がもっているものが少ないのはそれに値するからだと判断して、既存の地位階層を受け入れる場合がある。これは虚偽意識として知られている。制度の手続き的公正を受け入れない低地位の人は、たとえば現在所属している低地位集団から離れることによって地位を得ようとする場合がある。また、少なくともいくつかの次元で自分の集団を他集団よりよいものとして知覚できる社会的創造性方略を使うこともある。あるいは、自分の集団の地位を他集団に対して改善することで社会的地位階層を変えようと、集合行動を試みる場合もある。
 
-There are individual differences in cooperation and competition, such that those who are more self-oriented are more likely to compete, whereas those who are more other-oriented are more likely to cooperate. The dual-concern model suggests that individuals will relate to social dilemmas or other forms of conflict in different ways, depending on their underlying personal orientations. Although women do compete less than men in some situations, they compete about as much as men do in other situations. And there are also cultural differences in cooperation.
+対立状況における個人の行動は、対立をシミュレーションする実験室ゲームを用いて頻繁に研究されてきた。囚人のジレンマ・ゲームでは、協力的または競争的選択をすることで得られる報酬が利得行列に示される。行列は各個人にとって競争が最も利益になるよう設定される一方、プレイヤーがそれぞれ協力的選択をすれば、双方が利益を得られるようになっている。他の種類の実験室ゲームには、資源ジレンマ・ゲームとトラック運送ゲームがある。
 
-One factor that determines whether individuals cooperate or compete is the nature of the situation itself. If we can make the negative consequences of competition and the positive consequences of cooperation more salient, we will be likely to create more positive behaviors. Decisions about whether to cooperate or compete are also influenced by expectations about the likely behavior of others. Smaller groups are more cooperative than larger ones and also make better use of the resources that they have available to them. Communication has a number of benefits, each of which improves the likelihood of cooperation. In some cases, conflict can become so extreme that the groups feel that they need to work together to reach a compromise. Several methods are used in these cases, including negotiation, mediation, and arbitration.
+協力と競争には個人差があり、自己志向の強い人は競争しやすく、他者志向の強い人は協力しやすい。二重関心モデルによれば、個人は根底にある個人的志向に応じて、社会的ジレンマその他の形態の対立に異なる方法で関わる。女性は一部の状況では男性より競争しないものの、別の状況では男性と同程度に競争する。また、協力には文化差もある。
 
-Learning about the nature of cooperation and competition may help you think more creatively about how to respond to conflict in your everyday life, make you more aware of the benefits of cooperating, and lead you to actively try to promote cooperative behaviors in your community.
+個人が協力するか競争するかを決める一つの要因は、状況そのものの性質である。競争の否定的結果と協力の肯定的結果をより顕著にできれば、より肯定的な行動を生み出しやすくなる。協力するか競争するかの決定は、他者がどのように行動しそうかについての期待からも影響を受ける。小集団は大集団より協力的であり、利用できる資源もよりよく使う。コミュニケーションには複数の利点があり、そのいずれも協力の可能性を高める。場合によっては対立が非常に強くなり、集団が妥協へ達するため協力する必要を感じることがある。その際には、交渉、調停、仲裁などの方法が用いられる。
 
-:::note[Interactive activity]
+協力と競争の性質について学ぶことで、日常生活の対立にどう対応するかをより創造的に考え、協力することの利点をより意識し、自分のコミュニティで協力的行動を積極的に促そうとするようになるかもしれない。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3389#h5p-25](https://opentextbc.ca/socialpsychology/?p=3389#h5p-25)
+:::note[インタラクティブ・アクティビティ]
+
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3389#h5p-25](https://opentextbc.ca/socialpsychology/?p=3389#h5p-25)
 
 :::
 
-**H5P: Test your Learning: Chapter 12 Multiple-Choice Quiz**
+**H5P：学習を確認する：第12章 多肢選択クイズ**
 
-To check your understanding of some key material from our final chapter together, try this multiple-choice quiz. Good luck!
+一緒に学んだ最終章の重要な内容について理解を確認するため、この多肢選択クイズに挑戦しなさい。健闘を祈る！
 
-1. Ben and Gerald are playing at recess and they decide to create a new game, soccer-tennis. They work out the rules and invite some other children to help them set it up. These coordinated efforts are an example of \_\_\_\_\_.
-  1. cooperation
-  2. altruism
-  3. egoism
-  4. social facilitation
-2. You are playing the prisoner’s dilemma game as part of a psychological study you are taking part in. Which scenario would lead to the largest joint negative outcome for both you and your partner?
-  1. you cooperate and your partner defects
-  2. both you and your partner cooperate
-  3. you defect but your partner cooperates
-  4. both you and your partner defect
-3. An allotment garden has been used for many years for neighbors to grow vegetables together. All allotment users are allowed to take vegetables grown there when they are ripe. Unfortunately, one year they take too many too early in the season, and now there are none left. In this scenario, the allotment is an example of a \_\_\_\_\_\_\_\_\_.
-  1. free riding asset
-  2. common-pool resource
-  3. community thinning asset
-  4. competitive resource
-4. In the dual-concern model of cooperation and competition, which orientation reflects a combination of high concern about one’s own and other’s outcomes?
-  1. inactivity
-  2. yielding
-  3. contending
-  4. problem-solving
-5. Howie, Shelton, and Bernie are working on a group project at university. Bernie is not contributing anything to the project. If he gets a high grade regardless of this, which problem does that illustrate?
-  1. free-rider
-  2. social languishing
-  3. inefficiency
-  4. procedural justice
+1. BenとGeraldは休み時間に遊んでいて、サッカー・テニスという新しいゲームをつくることにした。二人はルールを決め、準備を手伝うよう他の子どもたちを誘った。この調整された努力は、\_\_\_\_\_の例である。
+1. 協力
+1. 利他主義
+1. 利己主義
+1. 社会的促進
+1. あなたは心理学研究の一環として囚人のジレンマ・ゲームをしている。あなたとパートナーの双方にとって、共同の否定的結果が最も大きくなるのはどのシナリオだろうか。
+1. あなたは協力し、パートナーは裏切る
+1. あなたもパートナーも協力する
+1. あなたは裏切るが、パートナーは協力する
+1. あなたもパートナーも裏切る
+1. ある市民農園では、近隣住民が何年も一緒に野菜を育ててきた。農園の利用者は全員、熟した野菜を自由に取ることができる。しかしある年、シーズンの早い時期に取りすぎたため、何も残らなくなった。このシナリオで、市民農園は\_\_\_\_\_\_\_\_\_の例である。
+1. フリーライド資産
+1. 共通プール資源
+1. コミュニティ希薄化資産
+1. 競争資源
+1. 協力と競争の二重関心モデルで、自分自身の結果と他者の結果の両方に高い関心をもつ組み合わせを表す志向はどれか。
+1. 不活動
+1. 譲歩
+1. 競合
+1. 問題解決
+1. Howie、Shelton、Bernieは大学のグループ課題に取り組んでいる。Bernieは課題に何も貢献していない。それでも高い成績を得た場合、これはどの問題を示すだろうか。
+1. フリーライダー
+1. 社会的停滞
+1. 非効率
+1. 手続き的公正

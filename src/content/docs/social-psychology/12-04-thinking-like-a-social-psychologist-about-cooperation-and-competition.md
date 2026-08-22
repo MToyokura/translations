@@ -1,26 +1,27 @@
 ---
-title: "12.4 Thinking Like a Social Psychologist about Cooperation and Competition"
+title: "12.4 協力と競争について社会心理学者のように考える"
 sidebar:
   order: 82
 ---
-Now that you are familiar with the factors that lead us to cooperate or compete, we hope you will use this information to be more aware of, and to guide, your own behaviors in situations of conflict. Are you now more aware of how easy it is to assume that others will compete rather than cooperate and of how events that seem to be fixed-sum may in fact be integrative? Can you see that at least some conflict is more perceived than realistic and that cooperation is frequently more advantageous to both the self and others than is competition? Does this knowledge make you think differently about how you will want to react to situations of potential conflict?
 
-You may want to keep in mind that solutions to conflict may frequently be integrative, allowing both you or your party and the other individuals involved in the conflict to come to a mutually beneficial solution. Taking a problem-solving approach in which you keep not only your needs but also the needs of others in mind will be helpful.
+協力または競争へ導く要因を理解した今、この情報を使って、対立状況における自分自身の行動をより意識し、導けるようになってほしい。他者は協力するより競争すると仮定することがどれほど容易か、そして固定総和に見える出来事が実際には統合的である場合があることに、以前より気づいただろうか。少なくとも一部の対立が現実的というより知覚上のものであり、競争より協力のほうが自己にも他者にも有利である場合が多いことがわかるだろうか。この知識によって、潜在的対立の状況へ自分がどう反応したいかについての考え方は変わっただろうか。
 
-You may find that you are now better able to use your social psychological knowledge to help reduce potentially dangerous situations of conflict. Social norms about morality and fairness lead us frequently to cooperate with others, but these principles may be undermined in conflict situations. Perhaps you will use your new knowledge to advocate for more cooperative positions regarding important social dilemmas, such as global warming and natural resource use. You can use the many approaches that help people cooperate to help you in this endeavor.
+対立の解決策はしばしば統合的であり、あなたまたはあなたの側と、対立に関わる他の人々の双方が、互いに利益を得られる解決策へ達することができる、という点を覚えておくとよいだろう。自分の必要だけでなく他者の必要も考慮する問題解決型のアプローチをとることが役に立つ。
 
-:::note[Interactive activity]
+社会心理学の知識を使って、潜在的に危険な対立状況を減らすことも、以前より上手にできるかもしれない。道徳と公正についての社会的規範は、私たちを他者との協力へ頻繁に導く。しかし対立状況では、こうした原理が損なわれる場合がある。この新しい知識を使い、地球温暖化や天然資源の利用のような重要な社会的ジレンマについて、より協力的な立場を支持することもできるだろう。そのために、人々の協力を助ける多くのアプローチを利用できる。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3387#h5p-24](https://opentextbc.ca/socialpsychology/?p=3387#h5p-24)
+:::note[インタラクティブ・アクティビティ]
+
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3387#h5p-24](https://opentextbc.ca/socialpsychology/?p=3387#h5p-24)
 
 :::
 
-**H5P: Test your Learning: Chapter 12 True or False Quiz**
+**H5P：学習を確認する：第12章 ○×クイズ**
 
-Try this true or false quiz to check your understanding of some key theories and concepts from this chapter. You can retake it as many times as you want. Good luck!
+この章の重要な理論と概念についての理解を確認するため、○×クイズに挑戦しなさい。何度でも受け直すことができる。健闘を祈る！
 
-1. Realistic group conflict theory states that intergroup conflict leads to competition over scarce resources.
-2. In social psychological research, the focus is always on intergroup, as opposed to interpersonal conflict.
-3. Procedural fairness refers to our judgments about whether or not a party is receiving a fair share of the available rewards.
-4. When individuals are considering whether or not to donate to a local public television station, this is an example of a contributions dilemma.
-5. In the dual-concern model of cooperation and competition, a yielding orientation is associated with a higher concern about other’s outcomes, and a lower concern about one’s own outcomes.
+1. 現実的集団間対立理論は、集団間対立によって希少資源をめぐる競争が生じると述べる。
+2. 社会心理学研究では、対人対立ではなく集団間対立だけに常に焦点を当てる。
+3. 手続き的公正とは、ある当事者が利用可能な報酬の公正な取り分を受け取っているかどうかについての判断を指す。
+4. 地域の公共テレビ局へ寄付するかどうかを個人が検討している場合、これは貢献ジレンマの例である。
+5. 協力と競争の二重関心モデルでは、譲歩型の志向は、他者の結果への関心が高く、自分自身の結果への関心が低いことと関連する。

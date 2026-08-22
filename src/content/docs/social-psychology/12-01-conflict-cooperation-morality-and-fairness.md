@@ -1,218 +1,219 @@
 ---
-title: "12.1 Conflict, Cooperation, Morality, and Fairness"
+title: "12.1 対立、協力、道徳、公正"
 sidebar:
   order: 79
 ---
-:::note[Learning Objectives]
 
-1. Review the situational variables that increase or decrease competition and conflict.
-2. Differentiate harm-based morality from social conventional morality, and explain how morality works to help people cooperate.
-3. Define distributive justice and procedural justice, and explain the influence of fairness norms on cooperation and competition.
+:::note[学習目標]
+
+1. 競争と対立を増加または減少させる状況変数を概観する。
+2. 危害に基づく道徳と社会的慣習に基づく道徳を区別し、人々の協力を助けるうえで道徳がどのように働くかを説明する。
+3. 分配的公正と手続き的公正を定義し、公正規範が協力と競争に与える影響を説明する。
 
 :::
 
-Whether we cooperate or compete is determined, as are most human behaviors, in part by the characteristics of the individuals who are involved in the relationship and in part by the social situation that surrounds them. Let’s begin by considering first the situational determinants of competition and conflict.
+私たちが協力するか競争するかは、多くの人間行動と同じように、部分的には関係に関わる個人の特徴によって、また部分的にはその人々を取り巻く社会的状況によって決まる。まず、競争と対立を決定する状況的要因から考えてみよう。
 
-## Competition and Conflict
+## 競争と対立
 
-Conflict between individuals, between groups, and even between individuals and the social groups they belong to is a common part of our social worlds. We compete with other students to get better grades, and nations fight wars to gain territory and advantage. Businesses engage in competitive practices, sometimes in a very assertive manner, to gain market share. The behaviors of the parties that are in conflict are not necessarily designed to harm the others but rather are the result of the goals of self-enhancement and self-preservation. We compete to gain rewards for ourselves and for those with whom we are connected, and doing so sometimes involves trying to prevent the other parties from being able to gain the limited rewards for themselves.
+個人同士、集団同士、さらには個人とその人が所属する社会集団との対立は、私たちの社会世界における一般的な一部である。私たちはよりよい成績を得るため他の学生と競争し、国家は領土や優位を得るため戦争をする。企業は市場シェアを獲得するため、ときに非常に積極的な形で競争的行動をとる。対立する当事者の行動は、必ずしも相手に害を与えることを目的としているわけではなく、自己高揚と自己保存という目標の結果である。私たちは自分自身や、自分とつながる人々のために報酬を得ようと競争し、その過程で、限られた報酬を他の当事者が得られないようにしようとすることがある。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/591eb4633371499618df8790b52a1c22-1.jpg)
 
-*Figure 12.2 Successful businessmen: Bill Gates and Mark Zuckerburg.*
+_図12.2 成功した実業家：Bill GatesとMark Zuckerberg。_
 
-Successful businessmen, as seen in Figure 12.2, help their corporations compete against others to gain market share.
+図12.2に示すような成功した実業家は、自分の企業が他社と競争し、市場シェアを獲得するのを助ける。
 
-Although competition does not necessarily create overt hostility, competition does sow the seeds for potential problems, and thus hostility may not be far off. One problem is that negative feelings tend to escalate when parties are in competition. In these cases, and particularly when the competition is intense, negative behavior on the part of one person or group may be responded to with even more hostile responses on the part of the competing person or group.
+競争が必ずしも明白な敵意を生み出すわけではないが、競争は潜在的問題の種をまくため、敵意が生まれるまでそれほど遠くない場合がある。一つの問題は、当事者同士が競争していると、否定的感情がエスカレートする傾向があることである。このような場合、とくに競争が激しい場合、一方の個人または集団による否定的行動に対して、競争相手の個人または集団がさらに敵対的な反応を返す可能性がある。
 
-In his summer camp studies, Muzafer Sherif and his colleagues (Sherif, Harvey, White, Hood, & Sherif, 1961) created intergroup competition between the boys in the Rattlers club and the boys in the Eagles club. When the Eagles began by stealing the flag from the Rattlers’ cabin, the Rattlers did not respond merely by stealing a flag in return but, rather, replied with even more hostile and negative behaviors. It was as if “getting even” was not enough—an even greater retaliation was called for. Similar escalation happened during the Cold War when the United States and the Soviet Union continued to increase their nuclear arsenals, engaging in more and more aggressive and provocative behaviors, each trying to outdo the other. The magnitude of negative behaviors between the parties has a tendency to increase over time. As the conflict continues, each group perceives the other group more negatively, and these perceptions make it more difficult for the escalating conflict to be reversed.
+Muzafer Sherifと同僚たちはサマーキャンプ研究で、RattlersとEaglesの男子集団の間に集団間競争をつくった（Sherif, Harvey, White, Hood, & Sherif, 1961）。EaglesがRattlersの小屋から旗を盗むと、Rattlersは単に旗を盗み返すだけではなく、さらに敵対的・否定的な行動で応じた。「同じだけやり返す」だけでは不十分で、もっと強い報復が必要であるかのようだった。同様のエスカレーションは冷戦期にも起きた。米国とソ連は互いを上回ろうとして核兵器を増やし続け、ますます攻撃的・挑発的な行動をとった。当事者間の否定的行動の規模は、時間とともに増加する傾向がある。対立が続くにつれて、各集団は相手集団をより否定的に知覚するようになり、その知覚によって、エスカレートした対立を元に戻すことがさらに難しくなる。
 
-This escalation in negative perceptions between groups that are in conflict occurs in part because conflict leads the groups to develop increasingly strong social identities. These increases in identity are accompanied by the development of even more hostile group norms, which are supported by the group members and their leaders and which sanction or encourage even more negative behaviors toward the outgroup. Conflict also leads to negative stereotypes of the outgroup, increases perceptions of the other groups as homogenous, and potentially even produces deindividuation and dehumanization of the outgroup (Staub, 2011). The conflict also reduces the amount of interaction among members of the competing groups, which makes it more difficult to change the negative perceptions. The unfortunate outcome of such events is that initially small conflicts may become increasingly hostile until they get out of control. World wars have begun with relatively small encroachments, and duels to the death have been fought over small insults.
+対立する集団間で否定的知覚がエスカレートする理由の一つは、対立によって集団がますます強い社会的アイデンティティを発達させることである。このアイデンティティの増加に伴い、さらに敵対的な集団規範が発達し、それが集団メンバーやリーダーによって支持され、外集団へのさらに否定的な行動を認めたり促したりする。対立は外集団についての否定的ステレオタイプも生み出し、他集団を同質的に見る知覚を高め、外集団の脱個人化や非人間化さえ生み出す可能性がある（Staub, 2011）。また、競合する集団のメンバー間の相互作用が減るため、否定的知覚を変えることがさらに難しくなる。残念な結果として、当初は小さな対立だったものが、制御できなくなるまで敵対的になることがある。世界戦争は比較的小さな侵害から始まったことがあり、小さな侮辱をめぐって死に至る決闘が行われたこともある。
 
-Conflict is sometimes realistic, in the sense that the goals of the interacting parties really are incompatible and fixed-sum. At a tennis match, for instance, only one player can win. And in a business world, there is a limited market share for a product. If one business does better by gaining more customers, then the other competing businesses may well do worse because there are fewer customers left for them. Realistic group conflict occurs *when groups are in competition for objectively scarce resources*, such as when two sports teams are vying for a championship or when the members of different ethnic groups are attempting to find employment in the same factory in a city (Brewer & Campbell, 1976; Jackson, 1993). Conflict results in these conditions because it is easy (and accurate) to blame the difficulties of one’s own group on the competition produced by the other group or groups.
+対立は、ときに現実的である。つまり、相互作用する当事者の目標が本当に両立せず、固定総和になっている場合である。たとえばテニスの試合では、勝てるのは一人だけである。またビジネスの世界では、ある商品の市場シェアは限られている。ある企業がより多くの顧客を獲得して業績を伸ばせば、残る顧客が減るため、競合企業は業績が悪化する可能性がある。現実的集団間対立は、*二つのスポーツチームが優勝を争う場合や、異なる民族集団のメンバーが同じ都市の同じ工場で雇用を求める場合など、集団同士が客観的に希少な資源をめぐって競争するとき*に生じる（Brewer & Campbell, 1976; Jackson, 1993）。この条件で対立が生じるのは、自分の集団の困難を、別の集団による競争のせいにすることが容易であり、しかも実際に正しいからである。
 
-Although many situations do create real conflict, some conflicts are more perceived than realistic because (although they may have a core of realistic conflict) they are based on misperceptions of the intentions of others or the nature of the potential rewards. In some cases, although the situation is perceived as conflicting, the benefits gained for one party do not necessarily mean a loss for the other party (the outcomes are actually integrative). For instance, when different supply businesses are working together on a project, each may prefer to supply more, rather than less, of the needed materials. However, the project may be so large that none of the businesses can alone meet the demands. In a case such as this, a compromise is perhaps possible such that the businesses may be able to work together, with each company supplying the products on which it makes a larger profit, therefore satisfying the needs of all the businesses. In this case, the parties may be better off working together than working on their own.
+多くの状況が現実の対立を生み出す一方、他者の意図や潜在的報酬の性質についての誤認に基づき、現実的というより知覚上の対立である場合もある（現実的対立の核を含む場合はある）。場合によっては、状況は対立的だと知覚されていても、一方の当事者が利益を得ることが必ずしも他方の損失を意味しない（実際には統合的結果である）。たとえば、異なる供給会社が一つのプロジェクトで共同作業しているとき、それぞれが必要な資材を少しでも多く供給したいと考えるかもしれない。しかし、そのプロジェクトが非常に大きく、一社だけでは需要を満たせない場合がある。このような事例では、各企業がより高い利益を上げられる製品を供給するようにすれば、企業同士が協力し、すべての企業のニーズを満たせる妥協が可能かもしれない。この場合、当事者は別々に行動するより協力したほうがよい結果を得られる。
 
-Although intergroup relationships that involve hostility or violence are obviously to be avoided, it must be remembered that competition or conflict is not always negative or problematic (Coser, 1956; Rispens & Jehn, 2011). The Darwinian idea of “survival of the fittest” proposes that evolutionary progress occurs precisely because of the continued conflict among individuals within species and between different species as competing social groups. Over time, this competition, rather than being entirely harmful, increases diversity and the ability to adapt to changing environments.
+敵意や暴力を伴う集団間関係は明らかに避けるべきだが、競争や対立が常に否定的または問題だとは限らないことも覚えておく必要がある（Coser, 1956; Rispens & Jehn, 2011）。Darwin的な「適者生存」という考え方では、進化上の発展は、同じ種の個体間や、競合する社会集団としての異なる種の間に続く対立によって生じると考える。時間とともに、この競争は完全に有害なものではなく、多様性や、変化する環境に適応する能力を高める。
 
-Competition between social groups may also provide social comparison information, which can lead both groups to set higher standards and motivate them to greater achievement. And conflict produces increased social identity within each of the competing groups. For instance, in the summer camp study, Sherif noted that the boys in the Rattlers and the Eagles developed greater liking for the other members of their own group as well as a greater group identity as the competition between the two groups increased. In situations in which one nation is facing the threat of war with another nation, the resulting identity can be useful in combating the threat, for instance, by mobilizing the citizens to work together effectively and to make sacrifices for the country.
+社会集団間の競争は社会的比較情報ももたらし、両集団がより高い基準を設定し、より大きな達成へ向けて動機づけられる可能性がある。また、対立は競合するそれぞれの集団内部の社会的アイデンティティを高める。たとえばサマーキャンプ研究でSherifは、RattlersとEaglesの男子が、二つの集団間の競争が強まるにつれて、自分の集団の他メンバーをより好きになり、集団アイデンティティも強くなったことに注目した。ある国家が別の国家から戦争の脅威を受けている状況では、その結果生じるアイデンティティは、国民を効果的に協力させたり、国家のための犠牲を受け入れさせたりすることで、脅威への対処に役立つ可能性がある。
 
-## Cooperation: Social Norms That Lead Us to Be Good to Others
+## 協力：他者によくするよう私たちを導く社会的規範
 
-Although competition is always a possibility, our concern for others leads most relationships among individuals and among groups to be more benign and favorable. Most people get along with others and generally work together in ways that promote liking, sharing, and cooperation. In these situations, the interacting parties perceive that the gains made by others also improve their own chances of gaining rewards and that their goals are compatible. The parties perceive the situation as integrative and desire to cooperate. The players on a football team, for instance, may cooperate with each other—the better any one of them does, the better the team as a whole does. And in cooperative situations, it may in some cases even be beneficial to accept some personal costs (such as passing the football to a teammate with a better shot at the goal, even though it means less glory for the self) in order to further the goals of the group.
+競争は常に起こりうるが、他者への関心によって、個人間・集団間のほとんどの関係はより穏やかで好意的なものになる。大多数の人は他者とうまく付き合い、一般に、好意、共有、協力を促す形で一緒に働く。このような状況では、相互作用する当事者は、他者が得る利益によって自分自身が報酬を得る可能性も高まり、自分たちの目標は両立すると知覚する。当事者は状況を統合的だと知覚し、協力したいと考える。たとえばフットボールチームの選手は互いに協力することができる。一人がよくプレーするほど、チーム全体の成績もよくなる。また協力的状況では、集団の目標を進めるため、場合によっては個人的コストを受け入れることさえ利益になる（たとえば、自分自身の栄誉は減っても、ゴールを決める可能性の高いチームメイトにボールをパスする）。
 
-Because cooperation is evolutionarily useful for human beings, social norms that help us cooperate have become part of human nature. These norms include principles of *morality* and *social fairness*.
+協力は人間にとって進化的に有用であるため、私たちの協力を助ける社会的規範は人間の本性の一部となっている。こうした規範には、*道徳*と*社会的公正*の原理が含まれる。
 
-## Morality
+## 道徳
 
-As we have seen in many places in this book, helping others is part of our human nature. And cooperation and helping are found in other animals as well as in humans. For instance, it has been observed that the highest-status chimpanzees in a group do not act selfishly all the time—rather, they typically share food with others and help those who seem to be in need (de Waal, 1996). As humans, our desires to cooperate are guided in part by a set of social norms about morality that forms a basic and important part of our culture. All cultures have morality beliefs—*the set of social norms that describe the principles and ideals, as well as the duties and obligations, that we view as appropriate and that we use to judge the actions of others and to guide our own behavior* (Darley & Shultz, 1990; Haidt & Kesebir, 2010).
+この本の多くの箇所で見てきたように、他者を助けることは人間の本性の一部である。そして協力と援助は人間だけでなく、他の動物にも見られる。たとえば、一つの集団で最も地位の高いチンパンジーも常に利己的に行動するわけではなく、通常、食べ物を他者と共有し、助けを必要としているように見える個体を助けることが観察されている（de Waal, 1996）。人間として、私たちの協力したいという欲求は、文化の基本的かつ重要な部分をなす道徳についての社会的規範によって部分的に導かれる。すべての文化には道徳的信念、すなわち*私たちが適切だとみなす原理や理想、義務と責務を記述し、他者の行動を判断し、自分自身の行動を導くために用いる社会的規範の集合*がある（Darley & Shultz, 1990; Haidt & Kesebir, 2010）。
 
-Researchers have identified two fundamental types of morality: social conventional morality and harm-based morality (Turiel, Killen, & Helwig, 1987). Social conventional morality refers to *norms that are seen as appropriate within a culture but that do not involve behaviors that relate to doing good or doing harm toward others*. There is a great deal of cultural variation in social conventional morality, and these norms relate to a wide variety of behaviors. Some cultures approve of polygamy and homosexuality, whereas others do not. In some cultures, it is appropriate for men and women to be held to different standards, whereas in other cultures, this is seen as wrong. Even things that seem completely normal to us in the West, such as dancing, eating beef, and allowing men to cook meals for women, are seen in some other cultures as immoral.
+研究者は、社会的慣習に基づく道徳と危害に基づく道徳という、二つの基本的な道徳を特定している（Turiel, Killen, & Helwig, 1987）。社会的慣習に基づく道徳とは、*ある文化の中では適切だとみなされるものの、他者によいことをする、または害を与えることに関係する行動を含まない規範*を指す。社会的慣習に基づく道徳には大きな文化差があり、非常に多様な行動と関係する。複婚や同性愛を認める文化もあれば、認めない文化もある。男性と女性に異なる基準を適用することが適切とされる文化もあれば、それを間違いと考える文化もある。踊ること、牛肉を食べること、男性が女性のために食事を作ることなど、西洋では完全に普通に見えることさえ、別の文化では不道徳と考えられる場合がある。
 
-If these conventions, as well as the fact that they are part of the moral code in these cultures, seem strange to you, rest assured that some of your own conventional beliefs probably seem just as strange to other cultures. Social conventions are in large part arbitrary and are determined by cultures themselves. Furthermore, social conventions change over time. Until 1947, Canadians of Asian descent did not have the right to vote in federal elections, and yet that convention has now changed for the better. And today many countries have legalized gay marriages, a policy that seemed like wishful thinking even a few years ago.
+こうした慣習や、それらがその文化の道徳規範の一部であるという事実を奇妙に感じるなら、あなた自身の慣習的信念のいくつかも、他の文化から見れば同じくらい奇妙に見える可能性が高い。社会的慣習は大部分恣意的であり、文化自身によって決定される。さらに、社会的慣習は時間とともに変化する。1947年まで、アジア系カナダ人には連邦選挙で投票する権利がなかったが、この慣習は現在ではよい方向に変化している。また現在、多くの国が同性婚を合法化しているが、数年前まで、そのような政策は願望にすぎないように思われていた。
 
-On the other hand, some of the most important and fundamental moral principles seem to be universally held by all people in all cultures and do not change over time. It has been found that starting at about age 10, children in most cultures come to a belief about harm-based morality—*that harming others, either physically or by violating their rights, is wrong* (Helwig & Turiel, 2002). These fundamental and universal principles of morality involve rights, freedom, equality, and cooperation, and virtually all cultures have a form of the golden rule, which prescribes how we should treat other people (as we would have them treat us).
+一方、最も重要で基本的な道徳原理のいくつかは、あらゆる文化のすべての人々が普遍的に共有しているようで、時間が経っても変化しない。ほとんどの文化の子どもは10歳頃から、危害に基づく道徳、すなわち*身体的に傷つけること、または権利を侵害することによって他者に害を与えるのは間違っている*という信念をもつようになることがわかっている（Helwig & Turiel, 2002）。こうした基本的で普遍的な道徳原理には、権利、自由、平等、協力が含まれる。そしてほぼすべての文化には、他者をどのように扱うべきかを定める黄金律、すなわち自分が扱われたいように他者を扱うという原理が何らかの形で存在する。
 
-Morals are held and agreed to by all members of the culture. In most cases, morals are upheld through rules, laws, and other types of sanctions for their transgression. We give rewards to people who express our preferred morality, for instance, in the form of prizes, honors, and awards, and we punish those who violate our moral standards.
+道徳は文化のすべてのメンバーによって共有され、合意されている。多くの場合、道徳は規則、法律、その他、違反に対する制裁によって維持される。私たちは、自分たちが望ましいと考える道徳を表明する人に賞、名誉、表彰などの報酬を与え、道徳的基準に違反する人を罰する。
 
-Morality has both a cognitive and an emotional component. Some judgments just feel wrong, even if we cannot put our finger on exactly why that is. For instance, you’d probably agree that it is morally wrong to kiss your sister or brother on the lips, although at a cognitive level, it’s difficult to say exactly why it’s wrong. Is it wrong to kill someone if doing so saves lives? Most people agree that they should flip the switch to kill the single individual in the following scenario:
+道徳には認知的要素と感情的要素の両方がある。何が理由なのか正確に説明できなくても、ただ「間違っている」と感じる判断もある。たとえば、兄弟姉妹の唇にキスすることは道徳的に間違っていると、おそらくあなたも同意するだろうが、認知的な水準では、それがなぜ間違っているのかを正確に説明するのは難しい。人を殺すことで他者の命を救える場合、殺すことは間違っているのだろうか。次の状況では、ほとんどの人が、一人を殺すためにスイッチを切り替えるべきだと考える。
 
-A runaway trolley is headed for five people who will all be killed. The only way to save them is to hit a switch that will turn the trolley onto a different track where it will kill one person instead of five.
+暴走したトロッコが5人の人々へ向かっており、そのままでは全員が死亡する。彼らを救う唯一の方法は、スイッチを押してトロッコを別の線路へ切り替えることであり、そこでは5人の代わりに1人が死亡する。
 
-And yet even when morality seems cognitive, our emotions come into play. Although most people agree that the decision to kill the one person is rational, they would have a hard time actually doing it—harm-based morality tells us we should not kill.
+しかし、道徳が認知的に見える場合でさえ、感情も関与する。一人を殺す決定が合理的だとほとんどの人が同意するとしても、実際にその行動をするのは難しいだろう。危害に基づく道徳が、「人を殺してはならない」と私たちに告げるからである。
 
-## Social Fairness
+## 社会的公正
 
-An essential part of morality involves determining what is “right” or “fair” in social interaction. We want things to be fair, we try to be fair ourselves, and we react negatively when we see things that are unfair. And we determine what is or is not fair by relying on another set of social norms, appropriately called social fairness norms, which are *beliefs about how people should be treated fairly* (Tyler & Lind, 2001; Tyler & Smith, 1998).
+道徳の不可欠な部分の一つは、社会的相互作用において何が「正しい」または「公正」なのかを判断することである。私たちは物事が公正であることを望み、自分自身も公正であろうとし、不公正なものを見ると否定的に反応する。そして何が公正か不公正かを判断するために、社会的公正規範、すなわち*人々がどのように公正に扱われるべきかについての信念*と呼ばれる別の社会的規範に頼る（Tyler & Lind, 2001; Tyler & Smith, 1998）。
 
-The preference for fairness has been proposed to be a basic human impulse (Tyler & Blader, 2000), and when we perceive unfairness, we also experience negative emotional responses in brain regions associated with reward and punishment (Tabibnia, Satpute, & Lieberman, 2008). The experience of unfairness is associated with negative emotions, including anger and contempt, whereas fairness is associated with positive emotions.
+公正を好むことは基本的な人間の衝動だと提案されている（Tyler & Blader, 2000）。不公正を知覚すると、報酬と罰に関連する脳領域でも否定的な感情反応を経験する（Tabibnia, Satpute, & Lieberman, 2008）。不公正の経験は怒りや軽蔑を含む否定的感情と結びつき、公正さは肯定的感情と結びつく。
 
-One type of social fairness, known as distributive fairness, refers to *our judgments about whether or not a party is receiving a fair share of the available rewards*. Distributive fairness is based on our perceptions of equity—the belief that we should each receive for our work a share proportionate to our contributions. If two people work equally hard on a project, they should get the same grade on it. But if one works harder than the other, then the more hardworking partner should get a better grade. Things seem fair and just when we see that these balances are occurring, but they seem unfair and unjust when they do not seem to be.
+社会的公正の一つである分配的公正とは、*ある当事者が利用可能な報酬の公正な取り分を受け取っているかどうかについての判断*を指す。分配的公正は衡平性についての知覚、すなわち、それぞれが自分の貢献に比例した取り分を仕事に対して受け取るべきだという信念に基づく。二人が一つのプロジェクトで同じだけ努力したのであれば、同じ成績を得るべきである。しかし一人がもう一人より懸命に働いたなら、より努力した人がよりよい成績を得るべきである。このようなバランスが保たれているとき、物事は公平で正当だと感じられるが、そうでない場合には不公平で不当だと感じられる。
 
-A second type of fairness doesn’t involve the outcomes of the work itself but rather our perceptions of the methods used to assign those outcomes. Procedural fairness refers to *beliefs about the fairness (or unfairness) of the procedures used to distribute available rewards among parties* (Schroeder, Steele, Woodell, & Bernbenek, 2003). Procedural fairness (Figure 12.3) is important because in some cases we may not know what the outcomes are, but we may nevertheless feel that things are fair because we believe that the process used to determine the outcomes is fair. For instance, we may not know how much tax other people are paying, but we feel that the system itself is fair, and thus most of us endorse the idea of paying taxes. We do so not only out of respect for the laws that require us to but also because the procedure seems right and proper, part of the social structure of our society.
+第二の種類の公正は、仕事の結果そのものではなく、その結果を割り当てるために使われた方法についての知覚に関係する。手続き的公正とは、*利用可能な報酬を当事者間で分配するために用いられる手続きの公正さ（または不公正さ）についての信念*を指す（Schroeder, Steele, Woodell, & Bernbenek, 2003）。手続き的公正（図12.3）が重要なのは、結果そのものがわからない場合でも、その結果を決定する過程が公正だと信じられれば、物事は公正だと感じられるためである。たとえば、他の人がどれだけ税金を払っているかは知らなくても、制度そのものが公正だと感じるため、大多数の人は税金を支払うという考えを支持する。税金を支払うのは、それを義務づける法律を尊重するからだけでなく、その手続きが正しく適切であり、社会構造の一部だと感じるからでもある。
 
-![a school teacher in classroom and a judge in court room](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/occupation.jpg)
+![教室の学校教師と法廷の裁判官](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/occupation.jpg)
 
-*Figure 12.3 Procedural Fairness. People are happier at work, at school, and in other aspects of their everyday lives when they feel that they and others are treated fairly.*
+_図12.3 手続き的公正。自分自身や他者が公正に扱われていると感じると、人々は職場、学校、その他の日常生活の場面でより幸福になる。_
 
-We believe in the importance of fairness in part because if we did not, then we would be forced to accept the fact that life is unpredictable and that negative things can occur to us at any time. Believing in fairness allows us to feel better because we can believe that we get what we deserve and deserve what we get. These beliefs allow us to maintain control over our worlds. To believe that those who work hard are not rewarded and that accidents happen to good people forces us to concede that we too are vulnerable.
+私たちが公正を重要だと信じる理由の一つは、そうでなければ、人生は予測不可能で、悪いことがいつ自分に起きてもおかしくないという事実を受け入れざるをえなくなるからである。公正を信じることで、私たちは、自分が受け取るものは自分にふさわしいものであり、自分にふさわしいものを受け取っていると考えられるため、よりよい気分でいられる。この信念によって、自分の世界を統制しているという感覚を維持できる。懸命に働く人が報われない、善良な人にも事故が起こると考えることは、自分自身も脆弱だと認めることを強いる。
 
-Because we believe so strongly in fairness, and yet the world is not always just, we may distort our perceptions of the world to allow us to see it as more fair than it really is. One way to create a “just world” is to reinterpret behaviors and outcomes so that the events seem to be fair. Indeed Melvin Lerner and his colleagues (Lerner, 1980) found one way that people do this is by blaming the victim: *interpreting the negative outcomes that occur to others internally so that it seems that they deserved them*. When we see that bad things have happened to other people, we tend to blame the people for them, even if they are not at fault. Thus we may believe that poor people deserve to be poor because they are lazy, that crime victims deserve to be victims because they were careless, and that people with AIDS deserve their illness. In fact, the more threatened we feel by an apparent unfairness, the greater is our need to protect ourselves from the dreadful implication that it could happen to us, and the more we disparage the victim.
+私たちは公正を非常に強く信じているにもかかわらず、世界は常に公正とは限らない。そのため、世界を実際より公正だと見ることができるよう、自分の知覚を歪める場合がある。「公正な世界」をつくる一つの方法は、行動や結果を再解釈し、出来事が公正に見えるようにすることである。実際Melvin Lernerと同僚たち（Lerner, 1980）は、人がそのために行う方法の一つが被害者非難、すなわち*他者に生じた否定的結果を内的に解釈し、その人がそれを受けるに値したかのように見ること*だと見いだした。他者に悪いことが起きたのを見ると、本人に責任がなくても、その人自身のせいにする傾向がある。そのため、貧しい人は怠惰だから貧しいのだ、犯罪被害者は不注意だったから被害に遭ったのだ、AIDSの人はその病気になるに値したのだ、と信じることがある。実際、目の前の不公正によって脅威を感じるほど、「同じことが自分にも起こりうる」という恐ろしい含意から自分を守る必要が強くなり、被害者をより強くけなす。
 
-## Reactions to Unfairness
+## 不公正への反応
 
-Although everyone believes that things should be fair, doing so is a lot easier for those of us for whom things have worked out well. If we have high status, we will generally be content with our analysis of the situation because it indicates that we deserve what we got. We are likely to think, “I must have a good education, a good job, and plenty of money because I worked hard for it and deserve it.” In these cases, the reality supports our desires for self-concern, and there is no psychological dilemma posed. On the other hand, people with low status must reconcile their low status with their perceptions of fairness.
+誰もが物事は公正であるべきだと信じているが、物事がうまくいってきた人にとっては、それを信じることはずっと容易である。高い地位にいるなら、状況についての自分の分析に一般に満足するだろう。なぜなら、その分析は、自分が得たものに値していることを示すからである。「よい教育、よい仕事、多くのお金をもっているのは、自分が懸命に努力し、それに値するからだ」と考えやすい。このような場合、現実が自己への関心という欲求を支持しており、心理的ジレンマは生じない。一方、低地位の人々は、自分の低い地位を公正についての知覚と折り合わせなければならない。
 
-Although they do not necessarily feel good about it, individuals who have low status may nevertheless accept the existing status hierarchy, deciding that they deserve what little they have. This is particularly likely if these low-status individuals accept the procedural fairness of the system. People who believe that the system is fair and that the members of higher-status groups are trustworthy and respectful frequently accept their position, even if it is one of low status (Tyler, Degoey, & Smith, 1996). In all societies, some individuals have lower status than others, and the members of low-status groups may perceive that these differences because they are an essential part of the society, are acceptable. *The acceptance of one’s own low status as part of the proper and normal functioning of society* is known as false consciousness (Jost & Banaji, 1994; Major, 1994). In fact, people who have lower social status and who thus should be most likely to reject the existing status hierarchy are often the most accepting of it (Jost, Pelham, Sheldon, & Sullivan, 2003).
+必ずしもそれをよいことだと感じてはいなくても、低地位の人は既存の地位階層を受け入れ、自分がわずかなものしかもっていないのはそれに値するからだと判断する場合がある。これは、低地位の人が制度の手続き的公正を受け入れている場合に特に起こりやすい。制度は公正であり、高地位集団のメンバーは信頼でき、敬意をもって接してくれると信じる人は、自分の地位が低くても、その位置を受け入れることが多い（Tyler, Degoey, & Smith, 1996）。あらゆる社会で一部の人は他者より低い地位にあり、低地位集団のメンバーは、こうした違いが社会の不可欠な一部であるため受け入れられると知覚する場合がある。*自分自身の低い地位を、社会が正しく正常に機能することの一部として受け入れること*は、虚偽意識として知られている（Jost & Banaji, 1994; Major, 1994）。実際、社会的地位が低く、そのため既存の地位階層を最も拒絶しそうな人々が、しばしば最もそれを受け入れている（Jost, Pelham, Sheldon, & Sullivan, 2003）。
 
-But what about people who have not succeeded, who have low social status, and yet who also do not accept the procedural fairness of the system? How do they respond to the situation that seems so unfair? One approach is to try to gain status, for instance, by leaving the low-status group to which they currently belong. Individuals who attempt to improve their social status by moving to a new, higher-status group must give up their social identity with the original group and then increasingly direct their communication and behavior toward the higher-status groups in the hope of being able to join them.
+では、成功しておらず社会的地位が低い一方で、制度の手続き的公正も受け入れていない人はどうだろうか。あまりに不公正に見える状況へ、どのように反応するのだろうか。一つの方法は、たとえば現在所属している低地位集団から離れることで地位を得ようとすることである。新しい高地位集団へ移動することで社会的地位を高めようとする人は、元の集団との社会的アイデンティティを放棄し、その後、新しい集団へ加われることを期待して、高地位集団へ向けたコミュニケーションと行動を増やさなければならない。
 
-Although it represents the most direct method of change, leaving one group for another is not always desirable for the individual or effective if it is attempted. For one, if individuals are already highly identified with the low-status group, they may not wish to leave it despite the fact that it is low status. Doing so would sacrifice an important social identity, and it may be difficult to generate a new one with the new group (Ellemers, Spears, & Doosje, 1997; Spears, Doosje, & Ellemers, 1997). In addition, an attempt to leave the group is a likely response to low status only if the person perceives that the change is possible. In some situations, group memberships are constrained by physical appearance (such as when the low status is a result of one’s race or ethnicity) or cultural norms (such as in a caste system in which change is not allowed by social custom). And there may also be individual constraints on the possibility of mobility—if the individual feels that he or she does not have the skills or ability to make the move, he or she may be unlikely to attempt doing so.
+これは最も直接的な変化の方法だが、ある集団から別の集団へ離れることが、本人にとって常に望ましいわけでも、試みれば効果的であるわけでもない。第一に、低地位集団への同一視がすでに強い場合、地位が低くても集団を離れたくないかもしれない。そうすれば重要な社会的アイデンティティを犠牲にすることになり、新集団で新しい社会的アイデンティティをつくるのも難しい可能性がある（Ellemers, Spears, & Doosje, 1997; Spears, Doosje, & Ellemers, 1997）。さらに、集団を離れようとするのは、変化が可能だと知覚できる場合に限られる。集団所属が身体的外見によって制約される状況（低い地位が人種や民族による場合など）や、文化的規範によって制約される状況（社会慣習によって移動が許されないカースト制度など）もある。また、移動の可能性には個人的制約もあり、自分には移動に必要な技能や能力がないと感じれば、それを試みる可能性は低い。
 
-When it does not seem possible to leave one’s low-status group, the individual may decide instead to use a social creativity strategy. Social creativity refers to *the use of strategies that allow members of low-status groups to perceive their group as better than other groups*, at least on some dimensions, which allows them to gain some positive social identity (Derks, van Laar, & Ellemers, 2007). In the United States, for example, Blacks, who are frequently the target of negative stereotypes, prejudices, and discrimination, may react to these negative outcomes by focusing on more positive aspects of their group membership. The idea is that their cultural background becomes a positive, rather than a negative, aspect of their personality—“Black is Beautiful!” is one example.
+低地位集団から離れることが不可能に見える場合、社会的創造性方略を使うことを選ぶ場合がある。社会的創造性とは、*低地位集団のメンバーが、少なくとも何らかの次元で自分の集団を他集団よりよいものとして知覚できるようにする方略の利用*を指し、それによってある程度の肯定的社会的アイデンティティを得ることができる（Derks, van Laar, & Ellemers, 2007）。たとえば米国では、否定的ステレオタイプ、偏見、差別の対象となることが多い黒人が、こうした否定的結果に対し、自分の集団所属のより肯定的な側面へ焦点を当てることで反応することがある。文化的背景をパーソナリティの否定的側面ではなく肯定的側面にするという発想である。「Black is Beautiful!」はその一例である。
 
-Social creativity frequently takes the form of finding alternative characteristics that help the group excel. For example, the students at a college that does not have a particularly good academic standing may look to the superior performance of their sports teams as a way of creating positive self-perceptions and social identity. Although the sports team performance may be a less important dimension than academic performance overall, it does provide at least some positive feelings. Alternatively, the members of the low-status group might regain identity by perceiving their group as very cohesive or homogenous, emphasizing group strength as a positive characteristic.
+社会的創造性は、集団が優れていると考えられる別の特徴を見つけるという形をとることが多い。たとえば、学業上の評価が特に高くない大学の学生が、肯定的な自己知覚と社会的アイデンティティをつくるため、スポーツチームの優れた成績に目を向けることがある。全体としてはスポーツチームの成績は学業成績ほど重要な次元ではないかもしれないが、それでも少なくとも肯定的な感情をもたらす。あるいは低地位集団のメンバーは、自分たちの集団が非常に凝集性が高い、または同質的だと知覚し、集団の強さを肯定的特徴として強調することでアイデンティティを回復する場合もある。
 
-When individual mobility is not possible, group members may consider mobilizing their group using collective action. Collective action refers to the *attempts on the part of one group to change the social status hierarchy by improving the status of their own group relative to others*. This might occur through peaceful methods, such as lobbying for new laws requiring more equal opportunity or for affirmative action programs, or it may involve resorts to violence, such as some of the recent uprisings in Middle Eastern countries (Ellemers & Barreto, 2009; Leonard, Moons, Mackie, & Smith, 2011; Levine, Taylor, & Best, 2011).
+個人の移動が不可能なとき、集団メンバーは集合行動によって自分たちの集団を動員することを考える場合がある。集合行動とは、*ある集団が他集団に対する自分たちの集団の地位を改善することで、社会的地位階層を変えようとする試み*を指す。これは、より平等な機会を要求する新法やアファーマティブ・アクション・プログラムを求めるロビー活動など、平和的な方法で生じることもあれば、中東諸国で起きた近年の反乱の一部のように、暴力へ訴える場合もある（Ellemers & Barreto, 2009; Leonard, Moons, Mackie, & Smith, 2011; Levine, Taylor, & Best, 2011）。
 
-Collective action is more likely to occur when there is a perception on the part of the group that their low status is undeserved and caused by the actions of the higher-status group, when communication among the people in the low-status group allows them to coordinate their efforts, and when there is strong leadership to help define an ideology, organize the group, and formulate a program for action. Taking part in collective action—for instance, by joining feminist, or civil rights, or the “occupy” movement in various countries—is a method of maintaining and increasing one’s group identity and attempting to change the current social structure.
+集団が、自分たちの低い地位は不当であり、高地位集団の行動によって生じたと知覚するとき、低地位集団の人々の間でコミュニケーションが可能で努力を調整できるとき、そしてイデオロギーを定義し、集団を組織し、行動計画を策定するための強いリーダーシップがあるとき、集合行動はより生じやすい。たとえばフェミニスト運動、公民権運動、さまざまな国の「Occupy」運動に加わるなど、集合行動へ参加することは、自分の集団アイデンティティを維持・強化し、現在の社会構造を変えようとする方法である。
 
-#### Social Psychology in the Public Interest
+#### 公共の利益のための社会心理学
 
-##### System Justification
+##### システム正当化
 
-We have argued throughout this book that people have a strong desire to feel good about themselves and the people they care about, and we have seen much evidence to support this idea. Most people believe that they and their own groups are important, valued, competent, and generally “better than average.” And most people endorse social policies that favor themselves and the groups to which they belong (Bobo, 1983; Sidanius & Pratto, 1999).
+この本全体を通じて、人々には自分自身と大切な人々についてよく感じたいという強い欲求があると論じてきた。そしてこの考えを支持する多くの証拠を見てきた。ほとんどの人は、自分自身と自分の集団は重要で、価値があり、有能で、一般に「平均以上」であると信じる。また、多くの人は自分自身や自分の所属集団に有利な社会政策を支持する（Bobo, 1983; Sidanius & Pratto, 1999）。
 
-If this is the case, then why do people who are of lower socioeconomic status so often support political policies that tax the poor more highly than they tax the rich and that support unequal income distributions that do not favor them? In short, why do people engage in system justification, even when the current state of affairs does not benefit them personally? Social psychologists have provided a number of potential explanations for this puzzling phenomenon.
+もしそうなら、なぜ社会経済的地位が低い人々が、貧しい人に富裕層より高い税を課す政治政策や、自分たちに有利ではない不平等な所得分配をこれほど頻繁に支持するのだろうか。つまり、なぜ現在の状態が自分自身に利益をもたらさない場合でさえ、人はシステム正当化を行うのだろうか。社会心理学者は、この不可解な現象について複数の説明を提示している。
 
-One factor is that our perceptions of fairness or unfairness are not based on our objective position within the society but rather are more based on our comparison of our own status relative to the other people around us. For instance, poor people may not perceive that they have lower status because they compare their current state of affairs not with rich people but with the people who they are most likely to see every day—other poor people.
+一つの要因は、公正・不公正についての知覚が、社会内の客観的な自分の位置に基づくのではなく、周囲の他者と比較した自分の相対的地位により強く基づくことである。たとえば貧しい人は、自分が低地位だとは知覚しない可能性がある。現在の状態を富裕層とではなく、毎日最も目にしやすい他の貧しい人々と比較するからである。
 
-This explanation is supported by the fact that factors that increase the likelihood that lower-status individuals will compare themselves with higher-status people tend to reduce system justification beliefs, decrease life satisfaction, and lead to collective action. For instance, the civil rights riots of the 1960s occurred after Blacks had made many gains in the United States. At this time, they may have tended to reject the existing status system because they began to compare themselves with higher-status Whites rather than with other low-status Blacks, and this upward comparison made their relatively lower status seem more illegitimate and unfair (Gurr, 1970).
+この説明は、低地位の人が高地位の人と比較する可能性を高める要因によって、システム正当化の信念が弱まり、生活満足度が低下し、集合行動につながる傾向があるという事実によって支持される。たとえば1960年代の公民権運動に伴う暴動は、米国の黒人が多くの前進を遂げた後に起きた。この時期、黒人は他の低地位の黒人ではなく、高地位の白人と自分たちを比較し始めたため、既存の地位制度を拒絶する傾向が強まった可能性がある。そしてこの上方比較によって、自分たちの相対的に低い地位がより正当性を欠き、不公正に見えた（Gurr, 1970）。
 
-A second explanation is based on the principles of procedural fairness. Our perceptions of fairness and our satisfaction with our own lives are determined in large part by the culture in which we live. In North America, the culture provides a strong belief in fairness. Most people believe in the procedural fairness of the system itself and thus are willing to believe that systems and authorities are correct and proper and that inequality among groups and individuals is legitimate and even necessary. Furthermore, because believing otherwise would be highly threatening to the self-concept, poor people may be even more likely to believe in the correctness of these inequalities than are those of higher status (Jost, 2011; van der Toorn, Tyler, & Jost, 2011).
+第二の説明は手続き的公正の原理に基づく。公正についての知覚や自分の人生への満足は、暮らしている文化によって大きく決まる。北米文化では、公正を信じる強い文化的信念が存在する。ほとんどの人は制度そのものの手続き的公正を信じるため、制度や権威は正しく適切であり、集団や個人の間の不平等は正当で、必要ですらあると信じることができる。さらに、それとは反対のことを信じることは自己概念に非常に大きな脅威となるため、貧しい人は高地位の人以上に、こうした不平等の正当性を信じる可能性さえある（Jost, 2011; van der Toorn, Tyler, & Jost, 2011）。
 
-To test this hypothesis, John Jost and his colleagues (Jost, Pelham, Sheldon, & Sullivan, 2003) asked over 2,500 U.S. citizens the following question:
+この仮説を検証するため、John Jostと同僚たち（Jost, Pelham, Sheldon, & Sullivan, 2003）は、2,500人を超える米国市民に次の質問をした。
 
-Some people earn a lot of money while others do not earn very much at all. In order to get people to work hard, do you think large differences in pay are:
+ある人は多くのお金を稼ぎ、別の人はほとんど稼ぎません。人々に懸命に働いてもらうため、賃金に大きな差があることは、
 
-- Absolutely necessary?
-- Probably necessary?
-- Probably not necessary?
-- Definitely not necessary?
+- 絶対に必要だと思いますか？
+- おそらく必要だと思いますか？
+- おそらく必要ではないと思いますか？
+- 絶対に必要ではないと思いますか？
 
-As predicted by the idea that to believe otherwise is to accept that the social situation is unfair, Jost and his colleagues found that poorer people were significantly more likely to think that large differences in pay were necessary and proper (responding “absolutely necessary” or “probably necessary”) than did wealthier people (Figure 12.4). You can see that social psychological principles—in this case, the idea of system justification—can be used to explain what otherwise would seem to be quite unexpected phenomena.
+そうでないと信じれば社会的状況が不公正であると受け入れなければならない、という考えから予想されるように、Jostと同僚たちは、裕福な人より貧しい人のほうが、大きな賃金差は必要で適切だ（「絶対に必要」または「おそらく必要」）と考える可能性が有意に高いことを見いだした（図12.4）。社会心理学の原理、この場合にはシステム正当化という考えを用いることで、そうでなければ非常に意外に見える現象を説明できることがわかる。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/d67b022f5b1e28272a5d29f61be9d6fb.jpg)
 
-*Figure 12.4 Poorer respondents reported finding the income differential between rich and poor more acceptable than did richer participants. Data are from Jost, Pelham, Sheldon, and Sullivan (2003).*
+_図12.4 貧しい回答者は、裕福な参加者より、富裕層と貧困層の所得差を受け入れられるものだと報告した。データはJost, Pelham, Sheldon, and Sullivan (2003)による。_
 
-:::tip[Key Takeaways]
+:::tip[要点]
 
-- The individual goals of self-concern and other-concern help explain tendencies to cooperate or compete with others.
-- Both competition and cooperation are common and useful reactions to social interaction dilemmas.
-- The solutions to social dilemmas are more favorable when the outcomes are integrative rather than fixed-sum.
-- Conflict is sometimes realistic, in the sense that the goals of the interacting parties really are incompatible. But in many cases, conflicts are more perceived than realistic.
-- Our reactions to conflict are influenced by harm-based morality beliefs and social fairness norms.
-- Individuals who have low status may nevertheless accept the existing status hierarchy, deciding that they deserve what little they have, a phenomenon known as false consciousness. Individuals with low status who to do not accept the procedural fairness of the system may use social creativity strategies or them may resort to collective action.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Do you think that you or people you know are victims of system justification? How would you know if you or they were?
-2. Discuss an example of a person who is a member of a social group and who you believe has used social creativity strategies in an attempt to improve his or her self-image. What were the strategies, and were they successful?
+- 自己への関心と他者への関心という個人の目標は、他者と協力または競争する傾向を説明する助けとなる。
+- 競争と協力はいずれも、社会的相互作用のジレンマに対する一般的かつ有用な反応である。
+- 社会的ジレンマの解決は、結果が固定総和ではなく統合的である場合に、より好ましいものになる。
+- 相互作用する当事者の目標が本当に両立しないという意味で、対立が現実的な場合もある。しかし多くの場合、対立は現実的というより知覚上のものである。
+- 対立への反応は、危害に基づく道徳的信念と社会的公正規範から影響を受ける。
+- 低地位の人は、もっているものが少ないのは自分にふさわしいからだと判断して、既存の地位階層を受け入れる場合がある。これは虚偽意識として知られる。制度の手続き的公正を受け入れない低地位の人は、社会的創造性方略を使うか、集合行動に訴える場合がある。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Bobo, L. (1983). Whites’ opposition to busing: Symbolic racism or realistic group conflict? *Journal of Personality and Social Psychology, 45*, 1196–1210.
+1. あなた自身や知っている人が、システム正当化の影響を受けていると思うだろうか。自分またはその人がそうだと、どのように判断できるだろうか。
+2. ある社会集団のメンバーで、自分の自己イメージを改善するため社会的創造性方略を使ったと思う人物の例を論じなさい。どのような方略を用い、それは成功しただろうか。
 
-Brewer, M. B., & Campbell, D. T. (1976). *Ethnocentrism and intergroup attitudes: East African evidence*. New York, NY: Sage.
+:::
 
-Coser, L. A. (1956). *The functions of social conflict*. Glencoe, IL: The Free Press.
+#### 参考文献
 
-Darley, J. M., & Shultz, T. R. (1990). Moral rules: Their content and acquisition. *Annual Review of Psychology, 41*(4), 525–556.
+Bobo, L. (1983). Whites’ opposition to busing: Symbolic racism or realistic group conflict? _Journal of Personality and Social Psychology, 45_, 1196–1210.
 
-de Waal, F. (1996). *Good natured: The evolution of right and wrong in humans and other animals*. Cambridge, MA: Harvard University Press.
+Brewer, M. B., & Campbell, D. T. (1976). _Ethnocentrism and intergroup attitudes: East African evidence_. New York, NY: Sage.
 
-Derks, B., van Laar, C., & Ellemers, N. (2007). Social creativity strikes back: Improving motivated performance of low status group members by valuing ingroup dimensions. *European Journal of Social Psychology, 37*(3), 490–493. doi: 10.1002/ejsp.375
+Coser, L. A. (1956). _The functions of social conflict_. Glencoe, IL: The Free Press.
 
-Ellemers, N., & Barreto, M. (2009). Collective action in modern times: How modern expressions of prejudice prevent collective action. *Journal of Social Issues, 65*(4), 749–768.
+Darley, J. M., & Shultz, T. R. (1990). Moral rules: Their content and acquisition. _Annual Review of Psychology, 41_(4), 525–556.
 
-Ellemers, N., Spears, R., & Doosje, B. (1997). Sticking together or falling apart: In-group identification as a psychological determinant of group commitment versus individual mobility. *Journal of Personality and Social Psychology, 72*, 617–626.
+de Waal, F. (1996). _Good natured: The evolution of right and wrong in humans and other animals_. Cambridge, MA: Harvard University Press.
 
-Gurr, T. (1970). *Why men rebel*. Princeton, NJ: Princeton University Press.
+Derks, B., van Laar, C., & Ellemers, N. (2007). Social creativity strikes back: Improving motivated performance of low status group members by valuing ingroup dimensions. _European Journal of Social Psychology, 37_(3), 490–493. doi: 10.1002/ejsp.375
 
-Haidt, J., & Kesebir, S. (2010). Morality. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 2, pp. 797–832). Hoboken, NJ: John Wiley & Sons.
+Ellemers, N., & Barreto, M. (2009). Collective action in modern times: How modern expressions of prejudice prevent collective action. _Journal of Social Issues, 65_(4), 749–768.
 
-Helwig, C. C., & Turiel, E. (Eds.). (2002). *Children’s social and moral reasoning*. Malden, MA: Blackwell Publishing.
+Ellemers, N., Spears, R., & Doosje, B. (1997). Sticking together or falling apart: In-group identification as a psychological determinant of group commitment versus individual mobility. _Journal of Personality and Social Psychology, 72_, 617–626.
 
-Jackson, J. W. (1993). Realistic group conflict theory: A review and evaluation of the theoretical and empirical literature. *The Psychological Record, 43*(3), 395–413.
+Gurr, T. (1970). _Why men rebel_. Princeton, NJ: Princeton University Press.
 
-Jost, J. T. (2011). System justification theory as compliment, complement, and corrective to theories of social identification and social dominance. In D. Dunning (Ed.), *Social motivation* (pp. 223–263). New York, NY: Psychology Press.
+Haidt, J., & Kesebir, S. (2010). Morality. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (5th ed., Vol. 2, pp. 797–832). Hoboken, NJ: John Wiley & Sons.
 
-Jost, J. T., & Banaji, M. R. (1994). The role of stereotyping in system-justification and the production of false consciousness. *British Journal of Social Psychology, 33*, 1–27; Major, B. (1994).
+Helwig, C. C., & Turiel, E. (Eds.). (2002). _Children’s social and moral reasoning_. Malden, MA: Blackwell Publishing.
 
-Jost, J. T., Pelham, B. W., Sheldon, O., & Sullivan, B. N. (2003). Social inequality and the reduction of ideological dissonance on behalf of the system: Evidence of enhanced system justification among the disadvantaged. *European Journal of Social Psychology, 33*(1), 13–36.
+Jackson, J. W. (1993). Realistic group conflict theory: A review and evaluation of the theoretical and empirical literature. _The Psychological Record, 43_(3), 395–413.
 
-Leonard, D. J., Moons, W. G., Mackie, D. M., & Smith, E. R. (2011). “We’re mad as hell and we’re not going to take it anymore”: Anger self-stereotyping and collective action. *Group Processes and Intergroup Relations, 14*(1), 99–111.
+Jost, J. T. (2011). System justification theory as compliment, complement, and corrective to theories of social identification and social dominance. In D. Dunning (Ed.), _Social motivation_ (pp. 223–263). New York, NY: Psychology Press.
 
-Lerner, M. J. (1980). *The belief in a just world: A fundamental delusion*. New York, NY: Plenum.
+Jost, J. T., & Banaji, M. R. (1994). The role of stereotyping in system-justification and the production of false consciousness. _British Journal of Social Psychology, 33_, 1–27; Major, B. (1994).
 
-Levine, M., Taylor, P. J., & Best, R. (2011). Third parties, violence, and conflict resolution: The role of group size and collective action in the microregulation of violence. *Psychological Science, 22*(3), 406–412.
+Jost, J. T., Pelham, B. W., Sheldon, O., & Sullivan, B. N. (2003). Social inequality and the reduction of ideological dissonance on behalf of the system: Evidence of enhanced system justification among the disadvantaged. _European Journal of Social Psychology, 33_(1), 13–36.
 
-Major, B. (1994). From social inequality to personal entitlement: The role of social comparisons, legitimacy appraisals, and group membership. *Advances in Experimental Social Psychology, 26*, 293–348.
+Leonard, D. J., Moons, W. G., Mackie, D. M., & Smith, E. R. (2011). “We’re mad as hell and we’re not going to take it anymore”: Anger self-stereotyping and collective action. _Group Processes and Intergroup Relations, 14_(1), 99–111.
 
-Rispens, S., & Jehn, K. A. (2011). Conflict in workgroups: Constructive, destructive, and asymmetric conflict. In D. De Cremer, R. van Dick, & J. K. Murnighan (Eds.), *Social psychology and organizations* (pp. 185–209). New York, NY: Routledge/Taylor & Francis Group.
+Lerner, M. J. (1980). _The belief in a just world: A fundamental delusion_. New York, NY: Plenum.
 
-Schroeder, D. A., Steele, J. E., Woodell, A. J., & Bernbenek, A. F. (2003). Justice in social dilemmas. *Personality and Social Psychology Review, 7*, 374–387.
+Levine, M., Taylor, P. J., & Best, R. (2011). Third parties, violence, and conflict resolution: The role of group size and collective action in the microregulation of violence. _Psychological Science, 22_(3), 406–412.
 
-Sherif, M., Harvey, O. J., White, B. J., Hood, W. R., & Sherif, C. (1961). *Intergroup conflict and cooperation: The robbers’ cave experiment*. Norman, OK: University of Oklahoma Press.
+Major, B. (1994). From social inequality to personal entitlement: The role of social comparisons, legitimacy appraisals, and group membership. _Advances in Experimental Social Psychology, 26_, 293–348.
 
-Sidanius, J., & Pratto, F. (1999). *Social dominance: An intergroup theory of social hierarchy and oppression*. New York, NY: Cambridge University Press.
+Rispens, S., & Jehn, K. A. (2011). Conflict in workgroups: Constructive, destructive, and asymmetric conflict. In D. De Cremer, R. van Dick, & J. K. Murnighan (Eds.), _Social psychology and organizations_ (pp. 185–209). New York, NY: Routledge/Taylor & Francis Group.
 
-Spears, R., Doosje, B., & Ellemers, N. (1997). Self-stereotyping in the face of threats to group status and distinctiveness: The role of group identification. *Personality and Social Psychology Bulletin, 23*, 538–553.
+Schroeder, D. A., Steele, J. E., Woodell, A. J., & Bernbenek, A. F. (2003). Justice in social dilemmas. _Personality and Social Psychology Review, 7_, 374–387.
 
-Staub, E. (2011). *Overcoming evil: Genocide, violent conflict and terrorism*. New York, NY: Oxford University Press.
+Sherif, M., Harvey, O. J., White, B. J., Hood, W. R., & Sherif, C. (1961). _Intergroup conflict and cooperation: The robbers’ cave experiment_. Norman, OK: University of Oklahoma Press.
 
-Tabibnia, G., Satpute, A. B., & Lieberman, M. D. (2008). The sunny side of fairness: Preference for fairness activates reward circuitry (and disregarding unfairness activates self-control circuitry). *Psychological Science, 19*(4), 339–347.
+Sidanius, J., & Pratto, F. (1999). _Social dominance: An intergroup theory of social hierarchy and oppression_. New York, NY: Cambridge University Press.
 
-Turiel, E., Killen, M., & Helwig, C. (1987). Morality: Its structure, functions and vagaries. In J. Kagan & S. Lamb (Eds.), *The emergence of morality in young children* (pp. 55–243). Chicago, IL: University of Chicago Press.
+Spears, R., Doosje, B., & Ellemers, N. (1997). Self-stereotyping in the face of threats to group status and distinctiveness: The role of group identification. _Personality and Social Psychology Bulletin, 23_, 538–553.
 
-Tyler, T. R., & Blader, S. (2000). *Cooperation in groups: Procedural justice, social identity, and behavioral engagement.* New York, NY: Psychology Press.
+Staub, E. (2011). _Overcoming evil: Genocide, violent conflict and terrorism_. New York, NY: Oxford University Press.
 
-Tyler, T. R., & Lind, E. A. (2001). Procedural justice. In J. Sanders & V. L. Hamilton (Eds.), *Handbook of justice research in law* (pp. 65–92). Dordrecht, Netherlands: Kluwer Academic Publishers.
+Tabibnia, G., Satpute, A. B., & Lieberman, M. D. (2008). The sunny side of fairness: Preference for fairness activates reward circuitry (and disregarding unfairness activates self-control circuitry). _Psychological Science, 19_(4), 339–347.
 
-Tyler, T. R., & Smith, H. J. (1998). Social justice and social movements. In D. T. Gilbert, S. T. Fiske, & G. Lindzey (Eds.), *The handbook of social psychology* (4th ed., Vols. 1 and 2, pp. 595–629). New York, NY: McGraw-Hill.
+Turiel, E., Killen, M., & Helwig, C. (1987). Morality: Its structure, functions and vagaries. In J. Kagan & S. Lamb (Eds.), _The emergence of morality in young children_ (pp. 55–243). Chicago, IL: University of Chicago Press.
 
-Tyler, T., Degoey, P., & Smith, H. (1996). Understanding why the justice of group procedures matters: A test of the psychological dynamics of the group-value model. *Journal of Personality and Social Psychology, 70*(5), 913–930.
+Tyler, T. R., & Blader, S. (2000). _Cooperation in groups: Procedural justice, social identity, and behavioral engagement._ New York, NY: Psychology Press.
 
-van der Toorn, J., Tyler, T. R., & Jost, J. T. (2011). More than fair: Outcome dependence, system justification, and the perceived legitimacy of authority figures. *Journal of Experimental Social Psychology, 47*(1), 127–138.
+Tyler, T. R., & Lind, E. A. (2001). Procedural justice. In J. Sanders & V. L. Hamilton (Eds.), _Handbook of justice research in law_ (pp. 65–92). Dordrecht, Netherlands: Kluwer Academic Publishers.
 
-#### Media Attributions
+Tyler, T. R., & Smith, H. J. (1998). Social justice and social movements. In D. T. Gilbert, S. T. Fiske, & G. Lindzey (Eds.), _The handbook of social psychology_ (4th ed., Vols. 1 and 2, pp. 595–629). New York, NY: McGraw-Hill.
 
-- “[Bill Gates at CES 2007 (350043329)](https://commons.wikimedia.org/wiki/File:Bill_Gates_at_CES_2007_%28350043329%29.jpg)” by [Lori Tingey](https://www.flickr.com/people/27096787@N00) is licensed under a [CC BY 2.0 licence.](https://creativecommons.org/licenses/by/2.0/deed.en)<br />
-- “[Mark Zuckerberg – South by Southwest 2008](https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_-_South_by_Southwest_2008.jpg)” by [Jason McELweenie](https://www.flickr.com/photos/99565773@N00) is licensed under a [CC BY 2.0 licence.](https://creativecommons.org/licenses/by/2.0/deed.en)
-- “[my son’s teacher is a supermodel](https://www.flickr.com/photos/wwworks/6233339252/)” by [woodleywonderworks](https://www.flickr.com/photos/wwworks/) is licensed under a [CC BY 2.0 licence.](https://creativecommons.org/licenses/by/2.0/)
-- “[Miles Ehrlich, judge](https://en.wikipedia.org/wiki/File:American_judge.jpg)” by [maveric2003](https://www.flickr.com/photos/maveric2003/) is licensed under a [CC BY 2.0 licence.](https://creativecommons.org/licenses/by/2.0/deed.en)
+Tyler, T., Degoey, P., & Smith, H. (1996). Understanding why the justice of group procedures matters: A test of the psychological dynamics of the group-value model. _Journal of Personality and Social Psychology, 70_(5), 913–930.
+
+van der Toorn, J., Tyler, T. R., & Jost, J. T. (2011). More than fair: Outcome dependence, system justification, and the perceived legitimacy of authority figures. _Journal of Experimental Social Psychology, 47_(1), 127–138.
+
+#### メディア帰属
+
+- “[Bill Gates at CES 2007 (350043329)](https://commons.wikimedia.org/wiki/File:Bill_Gates_at_CES_2007_%28350043329%29.jpg)” by [Lori Tingey](https://www.flickr.com/people/27096787@N00) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) の下で提供されています。<br />
+- “[Mark Zuckerberg – South by Southwest 2008](https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_-_South_by_Southwest_2008.jpg)” by [Jason McELweenie](https://www.flickr.com/photos/99565773@N00) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) の下で提供されています。
+- “[my son’s teacher is a supermodel](https://www.flickr.com/photos/wwworks/6233339252/)” by [woodleywonderworks](https://www.flickr.com/photos/wwworks/) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/) の下で提供されています。
+- “[Miles Ehrlich, judge](https://en.wikipedia.org/wiki/File:American_judge.jpg)” by [maveric2003](https://www.flickr.com/photos/maveric2003/) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) の下で提供されています。

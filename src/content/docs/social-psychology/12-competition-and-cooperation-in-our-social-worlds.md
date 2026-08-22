@@ -1,83 +1,89 @@
 ---
-title: "Chapter 12. Competition and Cooperation in Our Social Worlds"
+title: "第12章 私たちの社会世界における競争と協力"
 sidebar:
   order: 78
 ---
-:::note[Chapter Learning Objectives]
 
-1. Conflict, Cooperation, Morality, and Fairness
-  - Review the situational variables that increase or decrease competition and conflict.
-  - Differentiate harm-based morality from social conventional morality, and explain how morality works to help people cooperate.
-  - Define distributive justice and procedural justice, and explain the influence of fairness norms on cooperation and competition.
-2. How the Social Situation Creates Conflict: The Role of Social Dilemmas
-  - Explain the concepts of public goods and social dilemmas, and how these conflicts influence human interactions.
-  - Describe the principles of the prisoner’s dilemma game that make it an effective model for studying social dilemmas.
-  - Review the different laboratory games that have been used to study social dilemmas.
-  - Summarize the individual difference and cultural variables that relate to cooperation and competition.
-3. Strategies for Producing Cooperation
-  - Outline the variables that increase and decrease competition.
-  - Summarize the principles of negotiation, mediation, and arbitration.
+:::note[章の学習目標]
+
+1. 対立、協力、道徳、公正
+
+- 競争と対立を増加または減少させる状況変数を概観する。
+- 危害に基づく道徳と社会的慣習に基づく道徳を区別し、人々が協力するうえで道徳がどのように働くかを説明する。
+- 分配的公正と手続き的公正を定義し、公正規範が協力と競争に与える影響を説明する。
+
+2. 社会的状況はどのように対立を生み出すか：社会的ジレンマの役割
+
+- 公共財と社会的ジレンマの概念、およびこうした対立が人間の相互作用に与える影響を説明する。
+- 囚人のジレンマ・ゲームを、社会的ジレンマ研究の有効なモデルにしている原理を説明する。
+- 社会的ジレンマの研究に用いられてきたさまざまな実験室ゲームを概観する。
+- 協力と競争に関連する個人差変数と文化的変数を要約する。
+
+3. 協力を生み出すための方略
+
+- 競争を増加・減少させる変数を概説する。
+- 交渉、調停、仲裁の原理を要約する。
 
 :::
 
-## The Collapse of Atlantic Canada’s Cod Fishery
+## カナダ大西洋岸におけるタラ漁業の崩壊
 
-“Why are you abusing me, I didn’t take the fish out of the goddamned water.” These famous words were uttered by John Crosbie, the federal minister of fisheries and oceans in Canada on July 1, 1992, when he met with a group of fishers who were upset about the alarming decline in the cod population. A day later (under police protection), Crosbie announced that a moratorium would be imposed on fishing North Atlantic cod, an action that effectively put 40,000 people out of work overnight. More than 20 years later there is little sign of growth in the cod population and the moratorium is still in place.
+「どうして私を責めるんだ。あのいまいましい海から魚を取ったのは私じゃない。」この有名な言葉は、1992年7月1日、タラ個体数の憂慮すべき減少に怒った漁業者たちと面会したカナダ連邦漁業海洋相John Crosbieによって発せられた。その翌日、Crosbieは警察の警護下で、北大西洋産タラの漁業を一時停止すると発表した。この措置によって、事実上、一夜にして4万人が職を失った。20年以上経った後もタラ個体数が増加する兆候はほとんどなく、漁業停止措置はなお続いている。
 
-For generations of Atlantic fishers who had grown used to an ocean full of fish, this was an unfathomable outcome. Yet it was this very reputation of an ocean teeming with cod that had attracted giant fishing trawlers from distant countries to the waters off the coast of Newfoundland since the 1950s. As the fish stocks dwindled, the trawlers began to use sonar, satellite navigation, and new techniques to dredge the ocean floor to collect entire schools of cod. As you can see in Figure 12.1, the annual cod catch fell dramatically, from a high of 800,000 tons in 1968 to less than 200,000 tons a decade later.
+魚で満ちた海に何世代にもわたって慣れてきた大西洋岸の漁業者にとって、これは想像もできない結果だった。しかし、タラが豊富な海だというまさにその評判が、1950年代以降、遠方の国々から巨大なトロール漁船をNewfoundland沖の海域へ引き寄せていた。魚の資源量が減少すると、トロール船はソナー、衛星航法、海底をさらってタラの群れ全体を捕獲する新しい技術を使い始めた。図12.1に示すように、年間のタラ漁獲量は、1968年の80万トンというピークから、10年後には20万トン未満へ劇的に減少した。
 
-Even as awareness of the problem grew in the 1980s, Canadian politicians were too afraid of the short-term impact of job losses in the fishing industry to reduce the quota of cod that fishers were permitted to catch. Eventually, however, this short-term thinking lead to long-term catastrophe, as Atlantic Canada’s once-thriving fishing industry collapsed, a victim of overfishing and a case study in poor fisheries management.
+1980年代に問題への認識が高まっても、カナダの政治家たちは、漁業者に許されるタラ漁獲量を減らすことによる漁業雇用への短期的影響をあまりに恐れ、漁獲枠を削減できなかった。しかし最終的に、この短期的思考は長期的な大惨事を招いた。かつて繁栄していたカナダ大西洋岸の漁業は乱獲の犠牲となって崩壊し、漁業管理失敗の事例となった。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/08/Surexploitation_morue_surpêcheEn.jpg)
 
-*Figure 12.1 Collapse of Atlantic cod stocks off the East Coast of Newfoundland in 1992.*
+_図12.1 1992年にNewfoundland東海岸沖で生じた大西洋タラ資源の崩壊。_
 
-Sources: [Remembering the mighty cod fishery 20 years after moratorium](http://www.cbc.ca/news/canada/remembering-the-mighty-cod-fishery-20-years-after-moratorium-1.1214172)
+出典：[Remembering the mighty cod fishery 20 years after moratorium](http://www.cbc.ca/news/canada/remembering-the-mighty-cod-fishery-20-years-after-moratorium-1.1214172)
 
 [The collapse of the Canadian Newfoundland cod fishery](https://web.archive.org/web/20170429182531/http://www.greenpeace.org/international/en/campaigns/oceans/seafood/understanding-the-problem/overfishing-history/cod-fishery-canadian/)
 
-One of the most important themes of this book has been the extent to which the two human motives of self-concern and other-concern guide our everyday behavior. We have seen that although these two underlying goals are in many ways in direct opposition to each other, they nevertheless work together to create successful human outcomes. Particularly important is the fact that we cannot protect and enhance ourselves and those we care about without the help of the people around us. We cannot live alone—we must cooperate, work with, trust, and even provide help to other people in order to survive. The self-concern motive frequently leads us to desire to not do these things because they sometimes come at a cost to the self. And yet in the end, we must create an appropriate balance between self and other.
+この本の最も重要なテーマの一つは、自己への関心と他者への関心という人間の二つの動機が、私たちの日常行動をどの程度導いているかということであった。この二つの根底にある目標は、多くの点で互いに直接対立している一方、人間にとってよい結果を生み出すために協力して働くことも見てきた。とくに重要なのは、周囲の人々の助けなしには、自分自身や大切な人々を守り、高めることができないという事実である。私たちは一人では生きられない。生き残るには他者と協力し、ともに働き、信頼し、さらには援助さえしなければならない。自己への関心という動機は、こうしたことが自分自身にコストをもたらす場合があるため、しばしばそれをしたくないと感じさせる。それでも最終的には、自己と他者との間に適切なバランスをつくらなければならない。
 
-In this chapter, we revisit this basic topic one more time by considering the roles of self-concern and other-concern in social relationships between people and the social groups they belong to, and among social groups themselves. We will see, perhaps to a greater extent than ever before, how important our relationships with others are and how careful we must be to develop and use these connections. Most important, we will see again that helping others also helps us help ourselves.
+この章では、この基本的なテーマをもう一度取り上げ、人と人、その人々が所属する社会集団、そして社会集団同士の社会的関係において、自己への関心と他者への関心が果たす役割を考える。これまで以上に、他者との関係がどれほど重要であり、そうしたつながりを発達させ、利用する際にどれほど注意しなければならないかを見ることになる。最も重要なのは、他者を助けることが自分自身を助けることにもなると再び理解することである。
 
-Furthermore, in this chapter, we will investigate the broadest level of analysis that we have so far considered—focusing on the cultural and societal level of analysis. In so doing, we will consider how the goals of self-concern and other-concern apply even to large groups of individuals, such as nations, societies, and cultures, and influence how these large groups interact with each other.
+さらにこの章では、これまで扱ってきた中で最も広い分析レベル、すなわち文化・社会レベルの分析に焦点を当てる。そうすることで、自己への関心と他者への関心という目標が、国家、社会、文化といった大規模な人間集団にさえどのように当てはまり、そうした大集団同士の相互作用にどのような影響を与えるかを考える。
 
-Most generally, we can say that when individuals or groups interact they may take either cooperative or competitive positions (De Dreu, 2010; Komorita & Parks, 1994). When we cooperate, the parties involved act in ways that they perceive will benefit both themselves and others. Cooperation is *behavior that occurs when we trust the people or groups with whom we are interacting and are willing to communicate and share with the others,* expecting to profit ourselves through the increased benefits that can be provided through joint behavior. On the other hand, when we engage in competition we *attempt to gain as many of the limited rewards as possible for ourselves, and at the same time we may work to reduce the likelihood of success for the other parties*. Although competition is not always harmful, in some cases one or more of the parties may feel that their self-interest has not been adequately met and may attribute the cause of this outcome to another party (Miller, 2001). In these cases of perceived inequity or unfairness, competition may lead to conflict, in which *the parties involved engage in violence and hostility* (De Dreu, 2010).
+最も一般的には、個人や集団が相互作用するとき、協力的立場か競争的立場のいずれかをとる可能性がある（De Dreu, 2010; Komorita & Parks, 1994）。協力するとき、関係する当事者は、自分自身と他者の双方に利益をもたらすと知覚する形で行動する。協力とは、*相互作用している人または集団を信頼し、他者と進んでコミュニケーションし、共有し、共同行動によって得られる利益の増加を通じて自分自身も利益を得られると期待するときに生じる行動*である。一方、競争するときには、_限られた報酬を自分自身のためにできるだけ多く獲得しようとすると同時に、他の当事者が成功する可能性を低下させようとする場合がある_。競争そのものが常に有害なわけではない。しかし、場合によっては一方または複数の当事者が、自分の利益が十分に満たされなかったと感じ、その原因を別の当事者に帰属することがある（Miller, 2001）。このように不平等や不公正が知覚される場合、競争は対立、すなわち*関係する当事者が暴力や敵意に関与する状態*につながる可能性がある（De Dreu, 2010）。
 
-Although competition is normal and will always be a part of human existence, cooperation and sharing are too. Although they may generally look out for their own interests, individuals do realize that there are both costs and benefits to always making selfish choices (Kelley & Thibaut, 1978). Although we might prefer to use as much gasoline as we want, or to buy a new music album rather than contribute to the local food bank, at the same time we realize that doing so may have negative consequences for the group as a whole. People have simultaneous goals of cooperating and competing, and the individual must coordinate these goals in making a choice (De Dreu, 2010; Schelling, 1960/1980).
+競争は正常であり、これからも常に人間の存在の一部であり続けるが、協力と共有も同様である。人々は一般に自分自身の利益を守ろうとするが、常に利己的な選択をすることにはコストと利益の両方があることも理解している（Kelley & Thibaut, 1978）。好きなだけガソリンを使いたい、地元のフードバンクへ寄付する代わりに新しい音楽アルバムを買いたいと思うかもしれない。それと同時に、その行動が集団全体には否定的な結果をもたらす可能性があることも理解している。人は協力と競争という目標を同時にもっており、選択を行う際にはこの二つを調整しなければならない（De Dreu, 2010; Schelling, 1960/1980）。
 
-We will also see that human beings, as members of cultures and societies, internalize social norms that promote other-concern, in the form of morality and social fairness norms, and that these norms guide the conduct that allows groups to effectively function and survive (Haidt & Kesebir, 2010). As human beings, we want to do the right thing, and this includes accepting, cooperating, and working with others. And we will do so when we can. However, as in so many other cases, we will also see that the social situation frequently creates a powerful force that makes it difficult to cooperate and easy to compete.
+また、人間は文化や社会の一員として、道徳や社会的公正規範という形で他者への関心を促進する社会的規範を内面化し、それらの規範が、集団が効果的に機能し生存するための行動を導くことも見る（Haidt & Kesebir, 2010）。人間として、私たちは正しいことをしたい。そしてそこには、他者を受け入れ、協力し、ともに働くことも含まれる。可能であれば、私たちはそうする。しかし、多くの他の事例と同じように、社会的状況がしばしば、協力を難しくし、競争を容易にする強力な力を生み出すことも見る。
 
-A social dilemma is *a* *situation in which the goals of the individual conflict with the goals of the group* (Penner, Dovidio, Piliavin, & Schroeder, 2005; Suleiman, Budescu, Fischer, & Messick, 2004; Van Lange, De Cremer, Van Dijk, & Van Vugt, 2007). Social dilemmas impact a variety of important social problems because the dilemma creates a type of trap: even though an individual or group may want to be cooperative, the situation leads to competitive behavior. For instance, the fishers we considered in the chapter opener found themselves in a social dilemma—they wanted to continue to catch as many cod as they could, and yet if they all did so, the supply would continue to fall, making the situation worse for everyone.
+社会的ジレンマとは、*個人の目標と集団の目標が対立する状況*である（Penner, Dovidio, Piliavin, & Schroeder, 2005; Suleiman, Budescu, Fischer, & Messick, 2004; Van Lange, De Cremer, Van Dijk, & Van Vugt, 2007）。社会的ジレンマは多くの重要な社会問題に影響する。ジレンマが一種の罠を生み出すからである。個人や集団は協力したいと思っていても、状況が競争的行動へ導く。たとえば章の冒頭で取り上げた漁業者は、社会的ジレンマに直面していた。彼らはできる限り多くのタラを捕り続けたい。しかし全員がそうすれば、タラの資源量はさらに減り、全員にとって状況が悪化する。
 
-Although social dilemmas create the potential for conflict and even hostility, those outcomes are not inevitable. People usually think that situations of potential conflict are fixed-sum outcomes, meaning that *a gain for one side necessarily means a loss for the other side or sides* (Halevy, Chou, & Murnighan, 2011). But this is not always true. In some cases, the outcomes are instead integrative outcomes, meaning that *a solution can be found that benefits all the parties*. In the last section of this chapter, we will consider the ways that we can work to increase cooperation and to reduce competition, discussing some of the contributions that social psychologists have made to help solve some important social dilemmas (Oskamp, 2000a, 2000b).
+社会的ジレンマには対立や敵意さえ生み出す可能性があるが、そのような結果が避けられないわけではない。人々は、潜在的対立のある状況を固定総和の結果、すなわち*一方の利益が必ず他方または他の当事者の損失を意味する状態*だと考えることが多い（Halevy, Chou, & Murnighan, 2011）。しかし、常にそうとは限らない。場合によっては、結果は統合的結果、すなわち*すべての当事者に利益をもたらす解決策を見つけられる状態*である。この章の最後の節では、協力を増やし競争を減らすために何ができるかを検討し、いくつかの重要な社会的ジレンマの解決に社会心理学者がどのように貢献してきたかを取り上げる（Oskamp, 2000a, 2000b）。
 
-## References
+## 参考文献
 
-De Dreu, C. K. W. (2010). Social conflict: The emergence and consequences of struggle and negotiation. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 2, pp. 983–1023). Hoboken, NJ: John Wiley & Sons.
+De Dreu, C. K. W. (2010). Social conflict: The emergence and consequences of struggle and negotiation. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (5th ed., Vol. 2, pp. 983–1023). Hoboken, NJ: John Wiley & Sons.
 
-Haidt, J., & Kesebir, S. (2010). Morality. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 2, pp. 797–832). Hoboken, NJ: John Wiley & Sons.
+Haidt, J., & Kesebir, S. (2010). Morality. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (5th ed., Vol. 2, pp. 797–832). Hoboken, NJ: John Wiley & Sons.
 
-Halevy, N., Chou, E. Y., & Murnighan, J. K. (2011). Mind games: The mental representation of conflict. *Journal of Personality and Social Psychology*. Retrieved from http://search.ebscohost.com/login.aspx?direct=true&db=psyh&AN=2011-20586-001&site=ehost-live
+Halevy, N., Chou, E. Y., & Murnighan, J. K. (2011). Mind games: The mental representation of conflict. _Journal of Personality and Social Psychology_. Retrieved from http://search.ebscohost.com/login.aspx?direct=true&db=psyh&AN=2011-20586-001&site=ehost-live
 
-Kelley, H. H., & Thibaut, J. W. (1978). *Interpersonal relations: A theory of interdependence*. New York, NY: John Wiley & Sons.
+Kelley, H. H., & Thibaut, J. W. (1978). _Interpersonal relations: A theory of interdependence_. New York, NY: John Wiley & Sons.
 
-Komorita, S. S., & Parks, C. D. (1994). *Social dilemmas*. Dubuque, IA: Brown & Benchmark
+Komorita, S. S., & Parks, C. D. (1994). _Social dilemmas_. Dubuque, IA: Brown & Benchmark
 
-Miller, D. T. (2001). Disrespect and the experience of injustice. *Annual Review of Psychology, 52*, 527–553.
+Miller, D. T. (2001). Disrespect and the experience of injustice. _Annual Review of Psychology, 52_, 527–553.
 
-Oskamp, S. (2000a). Psychological contributions to achieving an ecologically sustainable future for humanity. *Journal of Social Issues, 56*(3), 373–390.
+Oskamp, S. (2000a). Psychological contributions to achieving an ecologically sustainable future for humanity. _Journal of Social Issues, 56_(3), 373–390.
 
-Oskamp, S. (2000b). A sustainable future for humanity? How can psychology help? *American Psychologist, 55*(5), 496–508.
+Oskamp, S. (2000b). A sustainable future for humanity? How can psychology help? _American Psychologist, 55_(5), 496–508.
 
-Penner, L. A., Dovidio, J. F., Piliavin, J. A., & Schroeder, D. A. (2005). Prosocial behavior: Multilevel perspectives. *Annual Review of Psychology, 56*, 365–392.
+Penner, L. A., Dovidio, J. F., Piliavin, J. A., & Schroeder, D. A. (2005). Prosocial behavior: Multilevel perspectives. _Annual Review of Psychology, 56_, 365–392.
 
-Schelling, T. (1960/1980). *The strategy of conflict*. Cambridge, MA: Harvard University Press.
+Schelling, T. (1960/1980). _The strategy of conflict_. Cambridge, MA: Harvard University Press.
 
-Suleiman, R., Budescu, D. V., Fischer, I., & Messick, D. M. (Eds.). (2004). *Contemporary psychological research on social dilemmas*. New York, NY: Cambridge University Press.
+Suleiman, R., Budescu, D. V., Fischer, I., & Messick, D. M. (Eds.). (2004). _Contemporary psychological research on social dilemmas_. New York, NY: Cambridge University Press.
 
-Van Lange, P. A. M., De Cremer, D., Van Dijk, E., & Van Vugt, M. (Eds.). (2007). *Self-interest and beyond: Basic principles of social interaction*. New York, NY: Guilford Press.
+Van Lange, P. A. M., De Cremer, D., Van Dijk, E., & Van Vugt, M. (Eds.). (2007). _Self-interest and beyond: Basic principles of social interaction_. New York, NY: Guilford Press.
 
-## Media Attributions
+## メディア帰属
 
-- “[Surexploitation morue surpêcheEn](https://commons.wikimedia.org/wiki/File:Surexploitation_morue_surp%C3%AAcheEn.jpg)” by [Lamiot](https://commons.wikimedia.org/wiki/User:Lamiot) is licensed under a [GNU Free Documentation License.](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License)
+- “[Surexploitation morue surpêcheEn](https://commons.wikimedia.org/wiki/File:Surexploitation_morue_surp%C3%AAcheEn.jpg)” by [Lamiot](https://commons.wikimedia.org/wiki/User:Lamiot) は [GNU Free Documentation License](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) の下で提供されています。
