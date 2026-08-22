@@ -1,364 +1,354 @@
 ---
-title: "7.2 Close Relationships: Liking and Loving over the Long Term"
+title: "7.2 親密な関係：長期的な好意と愛情"
 sidebar:
   order: 48
 ---
-:::note[Learning Objectives]
 
-1. Outline the factors that define close relationships.
-2. Distinguish between communal and exchange relationships.
-3. Explore Sternberg’s triangular model of love.
-4. Review research on romantic love and attention to others.
-5. Outline the role of attachment style in close relationships.
-6. Consider the impact of Internet behaviors on intimate relationships.
-7. Review some important factors that can help romantic relationships to be successful.
-8. Explore key factors that contribute to the ending of close relationships.
+:::note[学習目標]
+
+1. 親密な関係を定義する要因を概説する。
+2. 共同的関係と交換的関係を区別する。
+3. Sternberg の愛の三角形モデルを検討する。
+4. ロマンティックな愛と他者への注意に関する研究を概観する。
+5. 親密な関係における愛着スタイルの役割を概説する。
+6. インターネット上の行動が親密な関係へ与える影響を考察する。
+7. ロマンティックな関係を成功させるうえで役立つ重要な要因をいくつか概観する。
+8. 親密な関係の終結に寄与する主要な要因を検討する。
 
 :::
 
-To this point in the chapter, we have focused upon the attraction that occurs between people who are initially getting to know one another. But the basic principles of social psychology can also be applied to help us understand relationships that last longer. When good friendships develop, when people get married and plan to spend the rest of their lives together, and when families grow closer over time, the relationships take on new dimensions and must be understood in somewhat different ways. Yet the principles of social psychology can still be applied to help us understand what makes these relationships last.
+ここまで本章では、知り合い始めた人々の間に生じる魅力へ焦点を当ててきた。しかし社会心理学の基本原理は、より長く続く関係を理解するためにも適用できる。良い友情が育つとき、人々が結婚して残りの人生を共に過ごそうとするとき、家族が時間とともに近づいていくとき、関係には新しい側面が加わり、やや異なる仕方で理解する必要がある。それでも、何が関係を長続きさせるかを理解するうえで、社会心理学の原理は依然として役立つ。
 
-The factors that keep people liking and loving each other in long-term relationships are at least in part the same as the factors that lead to initial attraction. For instance, regardless of how long they have been together, people remain interested in the physical attractiveness of their partners, although it is relatively less important than for initial encounters. And similarity remains essential. Relationships are also more satisfactory and more likely to continue when the individuals develop and maintain similar interests and continue to share their important values and beliefs over time (Davis & Rusbult, 2001). Both actual and assumed similarity between partners tend to grow in long-term relationships and are related to satisfaction in opposite-sex marriages (Schul & Vinokur, 2000). Some aspects of similarity, including that in terms of positive and negative affectivity, have also been linked to relationship satisfaction in same-sex marriages (Todosijevic, Rothblum, & Solomon, 2005). However, some demographic factors like education and income similarity seem to relate less to satisfaction in same-sex partnerships than they do in opposite sex ones (Todosijevic, Rothblum, & Solomon, 2005).
+長期的関係で人々が互いを好み、愛し続ける要因は、少なくとも一部では初期の魅力を生み出す要因と同じである。どれほど長く一緒にいても、人はパートナーの身体的魅力へ関心を持ち続ける。ただし最初の出会いほど重要ではない。類似性も依然として不可欠である。二人が似た関心を発達・維持し、重要な価値観や信念を共有し続けるほど、関係は満足度が高く、継続しやすい (Davis & Rusbult, 2001)。パートナー間の実際の類似性と想定された類似性は、長期的関係の中で増える傾向があり、異性婚の満足度と関連する (Schul & Vinokur, 2000)。肯定的・否定的感情傾向の類似性など一部の側面は、同性婚の関係満足度とも関連している (Todosijevic, Rothblum, & Solomon, 2005)。ただし教育や所得の類似性など人口統計学的要因は、異性パートナーシップほど同性パートナーシップの満足度とは関連しないようである (Todosijevic, Rothblum, & Solomon, 2005)。
 
-Proximity also remains important—relationships that undergo the strain of the partners being apart from each other for very long are more at risk for breakup. For example, recall our chapter case study about Frank and Anita Milford’s 80-year marriage; the couple said that “We do everything together even after nearly 80 years.”
+近接性も重要であり、パートナーが非常に長い間離れて暮らす負担を経験する関係は、破局のリスクが高い。Frank と Anita Milford の80年の結婚の事例を思い出そう。二人は「80年近く経った今でも、私たちは何でも一緒にします」と述べていた。
 
-But what about passion? Does it still matter over time? Yes and no. People in long-term relationships who are most satisfied with their partners report that they still feel passion for their partners—they still want to be around them as much as possible, and they enjoy making love with them (Simpson, 1987; Sprecher, 2006). And they report that the more they love their partners, the more attractive they find them (Simpson, Gangestad, & Lerma, 1990). On the other hand, the high levels of passionate love that are experienced in initial encounters are not likely to be maintained throughout the course of a long-term relationship (Acker & Davis, 1992). Recall, though, that physical intimacy continues to be important. Frank and Anita from our case study, for example, said that they still put great importance on sharing a kiss and a cuddle every night before bed.
+では情熱はどうだろうか。時間が経っても重要なのだろうか。答えは「重要でもあり、そうでない面もある」である。長期的関係でパートナーへ最も満足している人は、今でも相手へ情熱を感じ、できるだけ一緒にいたいと思い、性行為を楽しんでいると報告する (Simpson, 1987; Sprecher, 2006)。そしてパートナーを愛しているほど、その人を魅力的だと感じる (Simpson, Gangestad, & Lerma, 1990)。一方、最初の出会いで経験する高水準の情熱的愛が、長期的関係の全期間を通じて維持される可能性は低い (Acker & Davis, 1992)。ただし身体的親密さは引き続き重要である。事例の Frank と Anita も、毎晩寝る前にキスをし、抱き合うことを今でも非常に重視していると話していた。
 
-Over time, cognition becomes relatively more important than emotion, and close relationships are more likely to be based on companionate love, defined as *love that is based on friendship, mutual attraction, common interests, mutual respect, and concern for each other’s welfare*. This does not mean that enduring love is less strong—rather, it may sometimes have a different underlying structure than initial love based more on passion.
+時間が経つにつれ、感情より認知が相対的に重要になり、親密な関係は、友愛的愛、すなわち*友情、相互の魅力、共通の関心、相互尊重、相手の福祉への配慮にもとづく愛*へより強く基づくようになる。これは長く続く愛が弱いという意味ではなく、情熱により強く基づく初期の愛とは、基礎構造が異なる場合があるということである。
 
-## Closeness and Intimacy
+## 親密さと親密性
 
-Although it is safe to say that many of the variables that influence initial attraction remain important in longer-term relationships, other variables also come into play over time. One important change is that as a relationship progresses, the partners come to know each other more fully and care about each other to a greater degree. In successful relationships, the partners feel increasingly close to each other over time, whereas in unsuccessful relationships, closeness does not increase and may even decrease. The closeness experienced in these relationships is marked in part by reciprocal self-disclosure—*the tendency to communicate frequently, without fear of reprisal, and in an accepting and empathetic manner.*
+初期の魅力を左右する変数の多くは長期的関係でも重要であり続けるが、時間とともに別の変数も作用する。重要な変化の一つは、関係が進むにつれ、パートナーが互いをより十分に知り、より深く気遣うようになることである。成功した関係では、時間とともに互いへの親密さが増すが、うまくいかない関係では親密さが増えず、むしろ低下することもある。こうした関係における親密さは、相互的自己開示、すなわち*報復を恐れず、受容的かつ共感的な仕方で、頻繁にコミュニケーションを取る傾向*によって部分的に特徴づけられる。
 
-When the partners in a relationship feel that they are close, and when they indicate that the relationship is based on caring, warmth, acceptance, and social support, we can say that the relationship is intimate (Sternberg, 1986). Partners in intimate relationships are likely to think of the couple as “we” rather than as two separate individuals. People who have a sense of closeness with their partner are better able to maintain positive feelings about the relationship while at the same time are able to express negative feelings and to have accurate (although sometimes less than positive) judgments of the other (Neff & Karney, 2002). People may also use their close partner’s positive characteristics to feel better about themselves (Lockwood, Dolderman, Sadler, & Gerchak, 2004).
+関係のパートナーが互いに近いと感じ、その関係が思いやり、温かさ、受容、社会的支援にもとづくと示すとき、その関係は親密であると言える (Sternberg, 1986)。親密な関係のパートナーは、二人を別々の個人としてではなく「私たち」と考えやすい。パートナーとの親密さを感じる人は、関係への肯定的感情を維持しながら、否定的感情も表現し、相手について正確な（場合によっては必ずしも肯定的でない）判断を行うことができる (Neff & Karney, 2002)。また、親しいパートナーの肯定的特性を利用して、自分自身についてより良い気分になることもある (Lockwood, Dolderman, Sadler, & Gerchak, 2004)。
 
-Arthur Aron and his colleagues (Aron, Aron, & Smollan, 1992) have assessed the role of closeness in relationships directly, using the simple measure shown in Figure 7.8, “Measuring Relationship Closeness.” You might try completing the measure yourself for some different people that you know—for instance, your family members, your friends, your spouse, or your girlfriend or boyfriend. The measure is simple to use and to interpret. If a person chooses a circle that represents the self and the other as more overlapping, this means that the relationship is close. But if they choose a circle that is less overlapping, then the relationship is less so.
+Arthur Aron と同僚 (Aron, Aron, & Smollan, 1992) は、図7.8「関係の親密さを測定する」に示す単純な尺度を使って、関係における親密さの役割を直接測定した。家族、友人、配偶者、恋人など、知っている複数の人について自分で試してみてもよい。この尺度は使い方も解釈も単純である。自己と他者を表す円がより重なる図を選べば、その関係はより親密である。重なりが少ない図を選べば、関係はそれほど親密ではない。
 
 ![a circle representing self and a circle representing other right next to each other, then overlaps to different extent](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/c2761c6bdd260ed9e3228da7c633d4a1-1-e1665608291489.jpg)
 
-*Figure 7.8 Measuring Relationship Closeness*
+_図7.8 関係の親密さを測定する_
 
-This measure is used to determine how close two partners feel to each other. The respondent simply circles which of the figures he or she feels characterizes the relationship. From Aron, Aron, and Smollan (1992).
+この尺度は、二人のパートナーが互いにどの程度近いと感じているかを測定するために使われる。回答者は、自分の関係を最もよく表すと感じる図へ丸を付けるだけでよい。Aron, Aron, and Smollan (1992) より。
 
-Although the closeness measure is simple, it has been found to be highly predictive of people’s satisfaction with their close relationships and of the tendency for couples to stay together. In fact, the perceived closeness between romantic partners can be a better predictor of how long a relationship will last than is the number of positive feelings that the partners indicate having for each other. In successful close relationships, cognitive representations of the self and the other tend to merge together into one, and it is this tie—based on acceptance, caring, and social support—that is so important (Aron, Aron, Tudor, & Nelson, 1991).
+この親密さ尺度は単純だが、人々の親密な関係への満足度と、カップルが一緒にい続ける傾向を非常によく予測する。実際、ロマンティック・パートナー間で知覚される親密さは、二人が互いへ持つ肯定的感情の数より、関係がどれほど続くかをよく予測することがある。成功した親密な関係では、自己と他者についての認知的表象が一つへ融合する傾向があり、受容、思いやり、社会的支援にもとづくこの結びつきが非常に重要なのである (Aron, Aron, Tudor, & Nelson, 1991)。
 
-Aron and his colleagues (Aron, Melinat, Aron, & Vallone, 1997) used an experimental design to test whether self-disclosure of intimate thoughts to others would increase closeness. In a laboratory, they paired college students with another student, one whom they did not know. Some of the students were asked to share some intimate thoughts with each other by asking and answering questions such as “When did you last cry in front of another person?” In comparison with control participants who only engaged in small talk with their partners (answering questions such as “What is your favorite holiday?”), the students who disclosed more intimate experiences reported feeling significantly closer to each other at the end of the conversation.
+Aron と同僚 (Aron, Melinat, Aron, & Vallone, 1997) は、親密な考えを自己開示することが親密さを高めるかを実験的に検証した。実験室で、面識のない大学生同士をペアにした。一部の学生は「最後に他人の前で泣いたのはいつですか」などの質問を互いに尋ね、答えることで親密な考えを共有した。「好きな祝日は何ですか」などの世間話だけをした統制群と比べ、より親密な経験を開示した学生は、会話終了時に互いへ有意に強い親密さを感じた。
 
-## Communal and Exchange Relationships
+## 共同的関係と交換的関係
 
-In intimate close relationships, the partners can become highly attuned to each other’s needs, such that the desires and goals of the other become as important as, or more important than, one’s own needs. When people are attentive to the needs of others—for instance, parents’ attentiveness to the needs of their children or the attentiveness of partners in a romantic relationship—and when they help the other person meet his or her needs without explicitly keeping track of what they are giving or expecting to get in return, we say that the partners have a communal relationship. Communal relationships are *close relationships in which partners suspend their need for equity and exchange, giving support to the partner in order to meet his or her needs, and without consideration of the costs to themselves.* Communal relationships are contrasted with exchange relationships, *relationships in which each of the partners keeps track of his or her contributions to the partnership.*
+親密な関係では、パートナーは互いの必要へ非常に敏感になり、相手の欲求や目標が自分自身の必要と同じくらい、あるいはそれ以上に重要になることがある。親が子どもの必要へ注意を払う場合や、ロマンティックなパートナーが互いへ注意を向ける場合のように、他者の必要へ注意を払い、自分が何を与え、何を返してもらうかを明示的に記録せず相手の必要を満たすよう助けるとき、その二人は共同的関係にあるという。共同的関係とは、*パートナーが衡平性や交換への必要をいったん保留し、自分へのコストを考慮せず、相手の必要を満たすため支援を与える親密な関係*である。これに対し交換的関係とは、*各パートナーが関係へ自分がどれだけ貢献したかを記録する関係*である。
 
-Research suggests that communal relationships can be beneficial, with findings showing that happier couples are less likely to “keep score” of their respective contributions (Buunk, Van Yperen, Taylor, & Collins, 1991). And when people are reminded of the external benefits that their partners provide them, they may experience decreased feelings of love for them (Seligman, Fazio, & Zanna, 1980).
+研究によれば、共同的関係には利益があり、幸福なカップルほど互いの貢献を「点数づけ」しない傾向がある (Buunk, Van Yperen, Taylor, & Collins, 1991)。また、パートナーから受け取る外的利益を意識させられると、相手への愛情が低下する場合がある (Seligman, Fazio, & Zanna, 1980)。
 
-Although partners in long-term relationships are frequently willing and ready to help each other meet their needs, and although they will in some cases forgo the need for exchange and reciprocity, this does not mean that they always or continually give to the relationship without expecting anything in return. Partners often do keep track of their contributions and received benefits. If one or both of the partners feel that they are unfairly contributing more than their fair share, and if this inequity continues over a period of time, the relationship will suffer. Partners who feel that they are contributing more will naturally become upset because they will feel that they are being taken advantage of. But the partners who feel that they are receiving more than they deserve might feel guilty about their lack of contribution to the partnership.
+長期的関係のパートナーは互いの必要を満たすため進んで助け、場合によっては交換や互恵性を求めないが、何の見返りも期待せず常に関係へ与え続けるという意味ではない。パートナーは、自分の貢献と得た利益を把握することも多い。一方または双方が、自分は公平な分担以上に貢献していると感じ、その不衡平が長く続けば、関係は損なわれる。より多く貢献していると感じる側は、利用されていると感じて当然不満を抱く。一方、自分が受け取る量の方が多いと感じる側も、関係へ十分貢献していないことへ罪悪感を持つかもしれない。
 
-Members of long-term relationships focus to a large extent on maintaining equity, and marriages are happiest when both members perceive that they contribute relatively equally (Van Yperen & Buunk, 1990). Interestingly, it is not just our perception of the equity of the ratio of rewards and costs we have in our relationships that is important. It also matters how we see this ratio in comparison to those that we perceive people of the same sex as us receiving in the relationships around us. Buunk and Van Yperen (1991), for example, found that people who saw themselves as getting a better deal than those around them were particularly satisfied with their relationships. From the perspective of social comparison theory, which we discussed in chapter 3 in relation to the self, this makes perfect sense. When we contrast our own situation with that of similar others and we perceive ourselves as better off, then this means we are making a downward social comparison, which will tend to make us feel better about ourselves and our lot in life. There are also some individual differences in the extent to which perceptions of equity are important. Buunk and Van Yperen, for example, found that the relationship between perceptions of equity and relationship satisfaction only held for people who were high in exchange orientation. In contrast, those low in exchange orientation did not show an association between equity and satisfaction, and, perhaps even more tellingly, were more satisfied with their relationships than those high in exchange orientation.
+長期的関係の人々は衡平性の維持へかなり注意を向け、双方が比較的等しく貢献していると知覚するとき、結婚は最も幸福である (Van Yperen & Buunk, 1990)。興味深いことに、重要なのは自分の関係内における報酬とコストの比率の衡平性だけではない。自分と同じ性別の人々が周囲の関係で得ていると知覚する比率との比較も重要である。Buunk and Van Yperen (1991) は、周囲の人より自分の方が良い取り引きを得ていると感じる人は、関係へ特に満足していると見いだした。第3章で自己との関係から扱った社会的比較理論から見れば、これは理にかなう。似た他者と自分の状況を比較し、自分の方が良いと感じれば、下方社会比較をしていることになり、自分自身や人生についてより良い感情を持ちやすい。衡平性の知覚をどれほど重要視するかには個人差もある。Buunk and Van Yperen は、衡平性の知覚と関係満足度の関連は交換志向が高い人にのみ見られると報告した。交換志向が低い人では衡平性と満足度に関連がなく、さらに示唆的なことに、交換志向が高い人より関係への満足度が高かった。
 
-People generally stay in relationships longer when they feel that they are being rewarded by them (Margolin & Wampold, 1981). In short, in relationships that last, the partners are aware of the needs of the other person and attempt to meet them equitably. But partners in the best relationships are also able to look beyond the rewards themselves and to think of the relationship in a communal way.
+人は一般に、関係から報われていると感じるとき、より長くその関係へ留まる (Margolin & Wampold, 1981)。要するに、長続きする関係では、パートナーは相手の必要を認識し、衡平な形でそれを満たそうとする。しかし最良の関係では、報酬そのものを超えて、関係を共同的なものとして考えることもできる。
 
-## Interdependence and Commitment
+## 相互依存とコミットメント
 
-Another factor that makes long-term relationships different from short-term ones is that they are more complex. When a couple begins to take care of a household together, has children, and perhaps has to care for elderly parents, the requirements of the relationship become correspondingly bigger. As a result of this complexity, the partners in close relationships increasingly turn to each other not only for social support but also for help in coordinating activities, remembering dates and appointments, and accomplishing tasks (Wegner, Erber, & Raymond, 1991). The members of a close relationship are highly interdependent, relying to a great degree on each other to meet their goals.
+長期的関係が短期的関係と異なる別の要因は、より複雑であることである。カップルが家を共同で管理し、子どもを持ち、場合によっては高齢の親を介護するようになると、関係へ求められることも増える。その複雑さのため、親密な関係のパートナーは、社会的支援だけでなく、活動の調整、日付や予定を覚えること、課題の遂行などでも互いへ頼るようになる (Wegner, Erber, & Raymond, 1991)。親密な関係のメンバーは高度に相互依存しており、目標を達成するため互いへ大きく依存する。
 
-It takes a long time for partners in a relationship to develop the ability to understand the other person’s needs and to form positive patterns of interdependence in which each person’s needs are adequately met. The social representation of a significant other is a rich, complex, and detailed one because we know and care so much about him or her and because we have spent so much time in his or her company (Andersen & Cole, 1990). Because a lot of energy has been invested in creating the relationship, particularly when the relationship includes children, breaking off the partnership becomes more and more costly with time. After spending a long time with one person, it may also become more and more difficult to imagine ourselves with anyone else.
+関係のパートナーが相手の必要を理解し、双方の必要が十分に満たされる肯定的な相互依存パターンを形成するまでには長い時間がかかる。重要な他者についての社会的表象は、豊かで複雑かつ詳細である。それは、私たちが相手をよく知り、気にかけ、多くの時間を一緒に過ごしているためである (Andersen & Cole, 1990)。関係を築くために多くのエネルギーを投資しているため、特に子どもがいる場合、時間が経つほどパートナーシップを解消するコストは高くなる。一人の人と長く過ごすほど、別の誰かと一緒にいる自分を想像することも難しくなる。
 
-In relationships in which a positive rapport between the partners is developed and maintained over a period of time, the partners are naturally happy with the relationship and they become committed to it. Commitment refers to *the feelings and actions that keep partners working together to maintain the relationship*. In comparison with those who are less committed, partners who are more committed to the relationship see their mates as more attractive than others, are less able to imagine themselves with another partner, express less interest in other potential mates, are less aggressive toward each other, and are less likely to break up (Simpson, 1987; Slotter et al., 2011).
+パートナー間に肯定的な関係が形成され、長期間維持されると、二人は自然に関係へ満足し、それへコミットする。コミットメントとは、*関係を維持するため、パートナー同士が協力し続けるようにする感情と行動*を指す。コミットメントが低い人と比べ、コミットメントの高い人は、ほかの人より自分のパートナーを魅力的だと見なし、別のパートナーと一緒にいる自分を想像しにくく、ほかの潜在的相手への関心をあまり示さず、互いへの攻撃性が低く、別れる可能性も低い (Simpson, 1987; Slotter et al., 2011)。
 
-Commitment may in some cases lead individuals to stay in relationships that they could leave, even though the costs of remaining in the relationship are very high. On the surface, this seems puzzling because people are expected to attempt to maximize their rewards in relationships and would be expected to leave them if they are not rewarding. But in addition to evaluating the outcomes that one gains from a given relationship, the individual also evaluates the potential costs of moving to another relationship or not having any relationship at all. We might stay in a romantic relationship, even if the benefits of that relationship are not high, because the costs of being in no relationship at all are perceived as even higher. We may also remain in relationships that have become dysfunctional in part because we recognize just how much time and effort we have invested in them over the years. *When we choose to stay in situations largely because we feel we have put too much effort in to be able to leave them behind*, this is known as the sunk costs bias (Eisenberg, Harvey, Moore, Gazelle, & Pandharipande, 2012). In short, when considering whether to stay or leave, we must consider both the costs and benefits of the current relationship and the costs and benefits of the alternatives to it (Rusbult, Olsen, Davis, & Hannon, 2001).
+コミットメントは、ときに、関係へ留まるコストが非常に高くても、離れられるはずの関係へ留まらせることがある。一見するとこれは不可解である。人は関係で得る報酬を最大化しようとし、報われないなら離れるはずだからである。しかし人は、現在の関係から得る結果だけでなく、別の関係へ移るコストや、まったく関係を持たないコストも評価する。現在の関係の利益が高くなくても、まったく関係がないことのコストの方が高いと知覚すれば、そのロマンティックな関係へ留まるかもしれない。また、長年どれほど時間と努力を投資してきたかを認識するため、機能不全になった関係へ留まり続けることもある。*すでに多くの努力を投じすぎたため、後に残して離れられないと感じることを主な理由として状況へ留まること*を、埋没費用バイアスという (Eisenberg, Harvey, Moore, Gazelle, & Pandharipande, 2012)。つまり、留まるか離れるかを考える際には、現在の関係のコストと利益だけでなく、その代替選択肢のコストと利益も考慮しなければならない (Rusbult, Olsen, Davis, & Hannon, 2001)。
 
-Although the good news about interdependence and commitment is clear—they help relationships last longer—they also have a potential downside. Breaking up, should it happen, is more difficult in relationships that are interdependent and committed. The closer and more committed a relationship has been, the more devastating a breakup will be.
+相互依存とコミットメントには、関係を長続きさせるという明らかな利点があるが、潜在的な欠点もある。もし別れることになった場合、相互依存とコミットメントが強い関係ほど別れるのが難しい。関係が親密でコミットされていたほど、破局は壊滅的なものになる。
 
-## What Is Love?
+## 愛とは何か？
 
-Although we have talked about it indirectly, we have not yet tried to define love itself—and yet it is obviously the case that love is an important part of many close relationships. Social psychologists have studied the function and characteristics of romantic love, finding that it has cognitive, affective, and behavioral components and that it occurs cross-culturally, although how it is experienced may vary.
+ここまで間接的には扱ってきたが、まだ愛そのものを定義していない。しかし愛が多くの親密な関係で重要なのは明らかである。社会心理学者はロマンティックな愛の機能と特徴を研究し、愛には認知的、感情的、行動的要素があり、経験のされ方には違いがあっても、文化を超えて生じることを見いだしている。
 
-Robert Sternberg and others (Arriaga & Agnew, 2001; Sternberg, 1986) have proposed a triangular model of love, *an approach that suggests that there are different types of love and that each is made up of different combinations of cognitive and affective variables, specified in terms of passion, intimacy, and commitment*. The model, shown in Figure 7.9, “Triangular Model of Love,” suggests that only *consummate love* has all three of the components (and is probably experienced only in the very best romantic relationships), whereas the other types of love are made up of only one or two of the three components. For instance, people who are good friends may have liking (intimacy) only or may have known each other so long that they also share commitment to each other (*companionate love*). Similarly, partners who are initially dating might simply be infatuated with each other (passion only) or may be experiencing *romantic love* (both passion and liking but not commitment).
+Robert Sternberg ら (Arriaga & Agnew, 2001; Sternberg, 1986) は愛の三角形モデル、すなわち*愛には異なる種類があり、それぞれが情熱、親密性、コミットメントという認知的・感情的変数の異なる組み合わせから成るとするアプローチ*を提案した。図7.9「愛の三角形モデル」に示すように、三つすべての要素を持つのは*完全な愛*だけであり、おそらく最良のロマンティックな関係でのみ経験される。他の愛は三要素のうち一つまたは二つから成る。たとえば親しい友人は、好意（親密性）だけを持つこともあれば、長く知り合っているため互いへのコミットメントも共有することがある（_友愛的愛_）。同様に、交際を始めたばかりのパートナーは、互いへ夢中になっているだけ（情熱のみ）のこともあれば、_ロマンティックな愛_（情熱と好意はあるがコミットメントはない）を経験していることもある。
 
 ![passion alone is infatuation, commitment alone is empty love, passion and commitment is fatuous love, the rest is described in preceding text.](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/dc7534281f2bc5583bc511b29ea9c2a0-1.jpg)
 
-*Figure 7.9 Triangular Model of Love*
+_図7.9 愛の三角形モデル_
 
-The triangular model of love, proposed by Robert Sternberg. Note that there are seven types of love, which are defined by the combinations of the underlying factors of intimacy, passion, and commitment. From Sternberg (1986).
+Robert Sternberg が提案した愛の三角形モデル。親密性、情熱、コミットメントという基礎要因の組み合わせによって、7種類の愛が定義される。Sternberg (1986) より。
 
-Research into Sternberg’s theory has revealed that the relative strength of the different components of love does tend to shift over time. Lemieux and Hale (2002) gathered data on the three components of the theory from couples who were either casually dating, engaged, or married. They found that while passion and intimacy were negatively related to relationship length, that commitment was positively correlated with duration. Reported intimacy and passion scores were highest for the engaged couples.
+Sternberg の理論に関する研究では、愛の各要素の相対的強さが時間とともに変化する傾向が示されている。Lemieux and Hale (2002) は、気軽に交際している、婚約している、結婚しているカップルから三要素のデータを集めた。その結果、情熱と親密性は関係期間と負に関連し、コミットメントは期間と正に相関した。報告された親密性と情熱の得点は婚約中のカップルで最も高かった。
 
-As well as these differences in what love tends to look like in close relationships over time, there are some interesting gender and cultural differences here. Contrary to some stereotypes, men, on average, tend to endorse beliefs indicating that true love lasts forever, and to report falling in love more quickly than women (Sprecher & Metts, 1989). In regards to cultural differences, on average, people from collectivistic backgrounds tend to put less emphasis on romantic love than people from more individualistic countries. Consequently, they may place more emphasis on the companionate aspects of love, and relatively less on those based on passion (Dion & Dion, 1993).
+時間経過に伴う愛の違いに加え、興味深いジェンダー差と文化差もある。一部のステレオタイプに反して、平均すると男性は女性より「真実の愛は永遠に続く」という信念へ賛同し、より早く恋へ落ちると報告する (Sprecher & Metts, 1989)。文化差では、平均して集団主義的背景の人は、個人主義的な国の人よりロマンティックな愛へ置く重みが小さい。その結果、愛の友愛的側面をより重視し、情熱にもとづく側面を相対的にあまり重視しない可能性がある (Dion & Dion, 1993)。
 
-#### Research Focus
+#### 研究フォーカス
 
-Romantic Love Reduces Our Attention to Attractive Others
+##### ロマンティックな愛は魅力的な他者への注意を低下させる
 
-Evolutionary psychologists have proposed that we experience romantic love to help increase our evolutionary fitness (Taylor & Gonzaga, 2006). According to this idea, love helps couples work together to improve the relationship by coordinating and planning activities and by increasing commitment to the partnership. If love acts as a “commitment device,” it may do so in part by helping people avoid being attracted to other people who may pose a threat to the stability of the relationship (Gonzaga, Haselton, Smurda, Davies, & Poore, 2008; Sabini & Silver, 2005).
+進化心理学者は、ロマンティックな愛を経験するのは進化的適応度を高めるためだと提案している (Taylor & Gonzaga, 2006)。この考えでは、愛は活動を調整・計画し、パートナーシップへのコミットメントを高めることで、カップルが協力して関係を改善する助けとなる。愛が「コミットメント装置」として働くなら、関係の安定を脅かしうるほかの人へ惹かれることを避ける助けにもなる可能性がある (Gonzaga, Haselton, Smurda, Davies, & Poore, 2008; Sabini & Silver, 2005)。
 
-Jon Maner and his colleagues (Maner, Rouby, & Gonzaga, 2008) tested this idea by selecting a sample of participants who were currently in a committed relationship and manipulating the extent to which the participants were currently experiencing romantic love for their partners. They predicted that the romantic love manipulation would decrease attention to faces of attractive opposite-sex people.
+Jon Maner と同僚 (Maner, Rouby, & Gonzaga, 2008) は、現在コミットされた関係にいる参加者を選び、現在パートナーへ経験しているロマンティックな愛の程度を操作してこの考えを検証した。ロマンティックな愛を活性化すると、魅力的な異性の顔への注意が低下すると予測した。
 
-One half of the participants (the *romantic love condition*) were assigned to write a brief essay about a time in which they experienced strong feelings of love for their current partner. Participants assigned to the *control condition* wrote a brief essay about a time in which they felt extremely happy. After completing the essay, participants completed a procedure in which they were shown a series of attractive and unattractive male and female faces. The procedure assessed how quickly the participants could shift their attention away from the photo they were looking at to a different photo. The dependent variable was the reaction time (in milliseconds) with which participants could shift their attention. Figure 7.10 shows the key findings from this study.<a id="f7.10"></a>
+参加者の半数（_ロマンティックな愛条件_）は、現在のパートナーへ強い愛情を感じたときについて短い文章を書くよう割り当てられた。*統制条件*では、非常に幸福だったときについて書いた。その後、魅力的・魅力的でない男女の顔を次々に見せ、見ている写真から別の写真へどれほど速く注意を移せるかを測定した。従属変数は、注意を移すまでの反応時間（ミリ秒）だった。主要な結果を図7.10に示す。
 
 ![image description linked in caption](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/645df0e76ed66cfeec324b6ce4df8098.jpg)
 
-*Figure 7.10 Romantic Love and Attention to Faces [\[Image description\]](/translations/social-psychology/07-02-close-relationships-liking-and-loving-over-the-long-term/)*
+_図7.10 ロマンティックな愛と顔への注意 [\[画像の説明\]](/translations/social-psychology/07-02-close-relationships-liking-and-loving-over-the-long-term/)_
 
-Activating thoughts and feelings of romantic love reduced attention to faces of attractive alternatives. Attention to other social targets remained unaffected. Data are from Maner et al. (2008).As you can see in Figure 7.10, the participants who had been asked to think about their thoughts and feelings of love for their partner were faster at moving their attention from the attractive opposite-sex photos than were participants in any of the other conditions. When experiencing feelings of romantic love, participants’ attention seemed repelled, rather than captured, by highly attractive members of the opposite sex. These findings suggest that romantic love may inhibit the perceptual processing of physical attractiveness cues—the very same cues that often pose a high degree of threat to the relationship.
+ロマンティックな愛についての思考と感情を活性化すると、魅力的な代替相手の顔への注意が低下した。他の社会的対象への注意には影響しなかった。データは Maner et al. (2008) による。
 
-### Individual Differences in Loving: Attachment Styles
+図7.10から分かるように、パートナーへの愛について考えるよう求められた参加者は、ほかの条件の参加者より、魅力的な異性の写真から注意を移すのが速かった。ロマンティックな愛情を経験しているとき、参加者の注意は非常に魅力的な異性に捕らえられるのではなく、むしろ遠ざけられているようだった。この知見は、ロマンティックな愛が身体的魅力の手がかり、すなわち関係へ高い脅威を与えることの多い手がかりの知覚処理を抑制する可能性を示している。
 
-One of the important determinants of the quality of close relationships is the way that the partners relate to each other. These approaches can be described in terms of attachment style—*individual differences in how people relate to others in close relationships*. We display our attachment styles when we interact with our parents, our friends, and our romantic partners (Eastwick & Finkel, 2008).
+### 愛し方の個人差：愛着スタイル
 
-Attachment styles are learned in childhood, as children develop either a healthy or an unhealthy attachment style with their parents (Ainsworth, Blehar, Waters, & Wall, 1978; Cassidy & Shaver, 1999). Most children develop a healthy or secure attachment style, where they *perceive their parents as safe, available, and responsive caregivers and are able to relate easily to them*. For these children, the parents successfully create appropriate feelings of affiliation and provide a secure base from which the child feels free to explore and then to return to. However, for children with unhealthy attachment styles, the family does not provide these needs. Some children develop an insecure attachment pattern known as the anxious/ambivalent attachment style, where they *become overly dependent on the parents and continually seek more affection from them than they can give*. These children are anxious about whether the parents will reciprocate closeness. Still other children become *unable to relate to the parents at all, becoming distant, fearful, and cold* (the avoidant attachment style).
+親密な関係の質を決める重要な要因の一つは、パートナーが互いにどのように関わるかである。こうした関わり方は愛着スタイル、すなわち*親密な関係で人が他者と関わる仕方の個人差*として説明できる。私たちは親、友人、ロマンティック・パートナーとの相互作用で愛着スタイルを示す (Eastwick & Finkel, 2008)。
 
-These three attachment styles that we develop in childhood remain to a large extent stable into adulthood (Caspi, 2000; Collins, Cooper, Albino, & Allard, 2002; Rholes, Simpson, Tran, Martin, & Friedman, 2007). Fraley (2002) conducted a meta-analysis of 27 studies that had looked at the relationship between attachment behavior in infants and in adults over 17 years of age and found a significant correlation between the two measures. A fourth infant attachment style has been identified more recently, the disorganized attachment style, which is *a blend of the other two insecure styles.* This style also shows some links to adulthood patterns, in this case an avoidant-fearful attachment style.
+愛着スタイルは幼少期に学習され、子どもは親との間に健全または不健全な愛着スタイルを発達させる (Ainsworth, Blehar, Waters, & Wall, 1978; Cassidy & Shaver, 1999)。多くの子どもは健全な安定型愛着スタイルを発達させ、_親を安全で、利用可能で、応答的な養育者として知覚し、容易に関係することができる_。こうした子どもにとって、親は適切な所属感をうまく作り、子どもが安心して探索し、戻ってこられる安全基地を提供する。しかし不健全な愛着スタイルを持つ子どもには、家族がこうした必要を満たさない。ある子どもは不安／両価型愛着スタイルという不安定な愛着パターンを発達させ、_親へ過度に依存し、親が与えられる以上の愛情を絶えず求める_。親が親密さを返してくれるか不安なのである。別の子どもは、_親とまったく関係できず、距離を取り、恐れ、冷たくなる_（回避型愛着スタイル）。
 
-The consistency of attachment styles over the life span means that children who develop secure attachments with their parents as infants are better able to create stable, healthy interpersonal relationships with other individuals, including romantic partners, as adults (Hazan & Diamond, 2000). They stay in relationships longer and are less likely to feel jealousy about their partners. But the relationships of anxious and avoidant partners can be more problematic. Insecurely attached men and women tend to be less warm with their partners, are more likely to get angry at them, and have more difficulty expressing their feelings (Collins & Feeney, 2000). They also tend to worry about their partner’s love and commitment for them, and they interpret their partner’s behaviors more negatively (Collins & Feeney, 2004; Pierce & Lydon, 2001). Anxious partners also see more conflict in their relationships and experience the conflicts more negatively (Campbell, Simpson, Boldry, & Kashy, 2005).
+幼少期に形成されるこの三つの愛着スタイルは、かなりの程度まで成人後も安定している (Caspi, 2000; Collins, Cooper, Albino, & Allard, 2002; Rholes, Simpson, Tran, Martin, & Friedman, 2007)。Fraley (2002) は乳児期と17歳以降の成人期の愛着行動の関連を扱った27研究をメタ分析し、二つの測定間に有意な相関を見いだした。より最近には第四の乳児愛着スタイルである無秩序型愛着スタイルも特定されており、これは*二つの不安定型を混合したもの*である。このスタイルも成人期のパターン、具体的には回避・恐怖型愛着スタイルと一定の関連を示す。
 
-In addition, people with avoidant and fearful attachment styles can often have trouble even creating close relationships in the first place (Gabriel, Carvallo, Dean, Tippin, & Renaud, 2005). They have difficulty expressing emotions, and experience more negative affect in their interactions (Tidwell, Reis, & Shaver, 1996). They also have trouble understanding the emotions of others (Fraley, Garner, & Shaver, 2000) and show a relative lack of interest in learning about their romantic partner’s thoughts and feelings (Rholes, Simpson, Tran, Martin, & Friedman, 2007).
+生涯を通じた愛着スタイルの一貫性は、乳児期に親との安定した愛着を形成した子どもほど、成人後、ロマンティック・パートナーを含む他者との安定し健全な対人関係を築きやすいことを意味する (Hazan & Diamond, 2000)。安定型の人は関係へ長く留まり、パートナーへの嫉妬も少ない。一方、不安型や回避型の人の関係はより問題を抱えやすい。不安定型愛着の男女はパートナーへあまり温かくなく、怒りやすく、感情表現にも困難を持つ (Collins & Feeney, 2000)。また、パートナーからの愛とコミットメントについて心配しやすく、相手の行動をより否定的に解釈する (Collins & Feeney, 2004; Pierce & Lydon, 2001)。不安型のパートナーは関係でより多くの対立を知覚し、その対立をより否定的に経験する (Campbell, Simpson, Boldry, & Kashy, 2005)。
 
-One way to think about attachment styles, shown in Table 7.1, “Attachment as Self-Concern and Other-Concern,” is in terms of the extent to which the individual is able to successfully meet the important goals of self-concern and other-concern in his or her close relationships. People with a secure attachment style have positive feelings about themselves and also about others. People with avoidant attachment styles feel good about themselves (the goal of self-concern is being met), but they do not have particularly good relations with others. People with anxious/ambivalent attachment styles are primarily other-concerned. They want to be liked, but they do not have a very positive opinion of themselves; this lack of self-esteem hurts their ability to form good relationships. The fourth cell in the table, lower right, represents the avoidant-fearful style, which describes people who are not meeting goals of either self-concern or other-concern.
+さらに回避型や恐怖型の愛着スタイルを持つ人は、そもそも親密な関係を形成すること自体に困難を持つ場合がある (Gabriel, Carvallo, Dean, Tippin, & Renaud, 2005)。感情表現が難しく、相互作用でより多くの否定的感情を経験する (Tidwell, Reis, & Shaver, 1996)。他者の感情を理解することにも困難があり (Fraley, Garner, & Shaver, 2000)、ロマンティック・パートナーの思考や感情について知ろうとする関心も相対的に低い (Rholes, Simpson, Tran, Martin, & Friedman, 2007)。
 
-This way of thinking about attachment shows, again, the importance of both self-concern and other-concern in successful social interaction. People who cannot connect have difficulties being effective partners. But people who do not feel good about themselves also have challenges in relationships—self-concern goals must be met before we can successfully meet the goals of other-concern.
+表7.1「自己への関心と他者への関心としての愛着」に示すように、愛着スタイルは、親密な関係で自己への関心と他者への関心という重要な目標をどの程度うまく満たせているかという観点から考えられる。安定型愛着の人は、自分についても他者についても肯定的感情を持つ。回避型愛着の人は自分については良い感情を持つ（自己への関心の目標は満たされている）が、他者との関係はあまり良くない。不安／両価型愛着の人は主として他者へ関心を向ける。好かれたいと思うが、自分についてあまり肯定的な見方を持たず、この低い自尊心が良好な関係形成を妨げる。表の右下の第四セルは回避・恐怖型で、自己への関心と他者への関心のどちらの目標も満たしていない人を表す。
 
-<table style="width: 100%;"><caption>Table 7.1 Attachment as Self-Concern and Other-Concern</caption> <thead><tr><td colspan="2" rowspan="2"></td> <th colspan="2" scope="col">Other-concern</th> </tr> <tr><th scope="col">Goals are met</th> <th scope="col">Goals are not met</th> </tr> </thead> <tbody><tr><th rowspan="2" scope="row">Self-Concern</th> <th scope="row">Goals are met</th> <td>Secure attachment (Healthy feelings about the self and about important others)</td> <td>Avoidant attachment (Healthy feelings about the self but fears about connecting with others)</td> </tr> <tr><th scope="row">Goals are not met</th> <td>Anxious/ambivalent attachment (Desires to reach out to others but also anxious about the self)</td> <td>Fearful attachment (Relationships with others are poor but so is the self-concept)</td> </tr> </tbody> </table>
+愛着をこのように考えると、成功した社会的相互作用には自己への関心と他者への関心の両方が重要であることが改めて分かる。他者と結びつけない人は有効なパートナーになるのが難しい。しかし自分について良い感情を持てない人も関係で困難を抱える。他者への関心の目標をうまく満たすには、自己への関心の目標も満たされる必要がある。
 
-Because attachment styles have such an important influence on relationships, you should think carefully about your potential partner’s interactions with the other people in his or her life. The quality of the relationships that people have with their parents and close friends will predict the quality of their romantic relationships. But although they are very important, attachment styles do not predict everything. People have many experiences as adults, and these interactions can influence, both positively and negatively, their ability to develop close relationships (Baldwin & Fehr, 1995; Scharfe & Bartholomew, 1994). There is also some diversity in the distribution of attachment styles across different groups. For example, in a multicultural sample including people from over 50 different countries of origin, Agishtein and Brumbaugh (2013) found that attachment style varied as a function of ethnicity, religion, individualism-collectivism, and acculturation. For instance, anxious attachment was found to be significantly higher in those whose countries of origin were in East Asia, the Middle East, and Eastern Europe, compared with those from nations in South America, the Caribbean, North America, Western Europe, and South Asia. These types of findings clearly remind us of the need to consider cultural diversity when we are reviewing the research on attachment. They also raise the interesting possibility that some types of attachment may be more normative and adaptive in some cultures than others.
+<table style="width: 100%;"><caption>表7.1 自己への関心と他者への関心としての愛着</caption> <thead><tr><td colspan="2" rowspan="2"></td> <th colspan="2" scope="col">他者への関心</th> </tr> <tr><th scope="col">目標が満たされている</th> <th scope="col">目標が満たされていない</th> </tr> </thead> <tbody><tr><th rowspan="2" scope="row">自己への関心</th> <th scope="row">目標が満たされている</th> <td>安定型愛着（自己および重要な他者について健全な感情を持つ）</td> <td>回避型愛着（自己については健全な感情を持つが、他者とのつながりを恐れる）</td> </tr> <tr><th scope="row">目標が満たされていない</th> <td>不安／両価型愛着（他者へ近づきたいが、自分自身についても不安を抱く）</td> <td>恐怖型愛着（他者との関係も自己概念も良くない）</td> </tr> </tbody> </table>
 
-As well as showing some cross-cultural diversity, attachment styles within individuals may be more diverse over time and across situations than previously thought. Some evidence suggests that overall attachment style in adults may not always predict their attachment style in specific relationships. For instance, people’s attachment styles in particular relationships, for example those with their mothers, brothers, and partners, although often correlated, can also be somewhat distinct (Pierce & Lydon, 2001; Ross & Spinner, 2001). As well as showing this variability across relationships, attachment styles can also shift over time and with changing relationship experiences. For example, there are some age-related trends in attachment, with younger adults higher in anxious attachment than middle-aged and older adults, and middle-aged adults higher in avoidant attachment than the other two groups (Chopik, Edelstein, & Fralay, 2013). In regards to changing experiences, people with an anxious style who find a very trusting and nurturing romantic relationship may, over time, come to feel better about themselves and their own needs, and shift toward a more secure style (Davila & Cobb, 2003). These findings have many potential psychotherapeutic settings. For example, couples who are attending therapy to address relationship issues can benefit from this process in part by developing more secure attachments to each other (Solomon, 2009). Therapists can also try to help their clients to develop a more secure attachment style, by creating a trusting and supportive relationship with them (Obegi, 2008).
+愛着スタイルは関係へ非常に重要な影響を与えるため、潜在的パートナーがその人の人生にいるほかの人々とどのように相互作用しているかを慎重に考えるべきである。親や親しい友人との関係の質は、その人のロマンティックな関係の質を予測する。しかし愛着スタイルが重要でも、すべてを予測するわけではない。人は成人後も多くの経験をし、その相互作用は親密な関係を形成する能力へ肯定的にも否定的にも影響する (Baldwin & Fehr, 1995; Scharfe & Bartholomew, 1994)。異なる集団で愛着スタイルの分布にも多様性がある。50を超える出身国の人を含む多文化サンプルで Agishtein and Brumbaugh (2013) は、愛着スタイルが民族、宗教、個人主義‐集団主義、文化変容によって異なることを見いだした。たとえば東アジア、中東、東欧出身者は、南米、カリブ、北米、西欧、南アジア出身者より不安型愛着が有意に高かった。この種の知見は、愛着研究を検討するとき文化的多様性を考慮する必要を明確に示す。また、ある種類の愛着が、文化によっては他文化より規範的・適応的である可能性も示している。
 
-#### Social Psychology in the Public Interest
+文化間の多様性だけでなく、個人内の愛着スタイルも、以前考えられていた以上に、時間や状況で多様かもしれない。成人の全般的な愛着スタイルが、特定の関係における愛着スタイルを常に予測するわけではないという証拠がある。たとえば母親、兄弟、パートナーなど特定の相手への愛着スタイルは、相関していることが多い一方、ある程度別個でもありうる (Pierce & Lydon, 2001; Ross & Spinner, 2001)。関係ごとの差に加え、愛着スタイルは時間の経過や関係経験の変化によっても変わる。年齢傾向として、若年成人は中年・高齢成人より不安型愛着が高く、中年成人はほかの二群より回避型愛着が高い (Chopik, Edelstein, & Fralay, 2013)。また、不安型の人が非常に信頼でき、養育的なロマンティックな関係を見つければ、時間とともに自己や自分の必要について良い感情を持つようになり、より安定型へ移行する可能性がある (Davila & Cobb, 2003)。これらの知見は心理療法にも応用可能である。関係問題を扱うカップル療法では、互いにより安定した愛着を形成することが利益となりうる (Solomon, 2009)。治療者も、信頼でき支援的な関係を作ることで、クライエントがより安定した愛着スタイルを発達させるのを助けられる (Obegi, 2008)。
 
-##### Internet Relationships
+#### 公共の利益における社会心理学
 
-As we saw in the chapter on Self, many of us are spending more time than ever connecting with others electronically. Online close relationships are also becoming more popular. But you might wonder whether meeting and interacting with others online can create the same sense of closeness and caring that we experience through face-to-face encounters. And you might wonder whether people who spend more time on Facebook, Twitter, and the Internet might end up finding less time to engage in activities with the friends and loved ones who are physically close by (Kraut et al., 1998).
+##### インターネット上の関係
 
-Despite these potential concerns, research shows that using the Internet can relate to positive outcomes in our close relationships (Bargh, 2002; Bargh & McKenna, 2004). In one study, Kraut et al. (2002) found that people who reported using the Internet more frequently also reported spending more time with their family and friends and indicated having better psychological health.
+「自己」の章で見たように、私たちの多くは以前より長い時間を電子的に他者とつながるために使っている。オンラインの親密な関係も一般的になっている。しかし、オンラインで人と出会い相互作用することで、対面の出会いと同じ親密さや思いやりが生じるのだろうか。また Facebook、Twitter、インターネットへ多くの時間を使う人は、物理的に近くにいる友人や大切な人と活動する時間が減るのではないかとも考えられる (Kraut et al., 1998)。
 
-The Internet also seems to be useful for helping people develop new relationships, and the quality of those relationships can be as good as or better than those formed face-to-face (Parks & Floyd, 1996). McKenna, Green, and Gleason (2002) found that many people who participated in news and user groups online reported having formed a close relationship with someone they had originally met on the Internet. Over half of the participants said that they had developed a real-life relationship with people they had first met online, and almost a quarter reported that they had married, had become engaged to, or were living with someone they initially met on the Internet.
+こうした懸念はあるが、研究ではインターネット利用が親密な関係の肯定的結果と関連しうることが示されている (Bargh, 2002; Bargh & McKenna, 2004)。Kraut et al. (2002) は、インターネットをより頻繁に利用すると報告した人ほど、家族や友人と過ごす時間も長く、心理的健康も良いと報告することを見いだした。
 
-McKenna, Green, and Gleason (2002) studied how relationships developed online using laboratory studies. In their research, a previously unacquainted male and female college student met each other for the first time either in what they thought was an Internet chat room or face-to-face. Those who met first on the Internet reported liking each other more than those who met first face-to-face—even when it was the same partner that they had met both times. People also report being better able to express their own emotions and experiences to their partners online than in face-to-face meetings (Bargh, McKenna, & Fitzsimons, 2002).
+インターネットは新しい関係を形成する助けにもなり、その質は対面で形成された関係と同程度か、それ以上の場合もある (Parks & Floyd, 1996)。McKenna, Green, and Gleason (2002) は、オンラインのニュースグループやユーザー・グループへ参加した多くの人が、もともとインターネットで出会った人と親密な関係を形成したと報告することを見いだした。参加者の半数以上は、オンラインで最初に出会った人と現実生活での関係を築いており、ほぼ4分の1は、最初にインターネットで出会った人と結婚、婚約、同居していた。
 
-There are probably a number of reasons why Internet relationships can be so successful. For one, relationships grow to the extent that the partners self-disclose by sharing personal information with each other, and the relative anonymity of Internet interactions may allow people to self-disclose more readily. Another characteristic of Internet relationships is the relative lack of physical cues to a person’s attractiveness. When physical attractiveness is taken out of the picture, people may be more likely to form relationships on the basis of other more important characteristics, such as similarity in values and beliefs. Another advantage of the Internet is that it allows people to stay in touch with friends and family who are not nearby and to maintain better long-distance relationships (Wellman, Quan Haase, Witte, & Hampton, 2001). The Internet also may be helpful in finding others with shared interests and values. Finally, the major purpose of many Internet activities is to make new friends. In contrast, most face-to-face interactions are less conducive to starting new conversations and friendships.
+McKenna, Green, and Gleason (2002) は、オンラインで関係がどのように発達するかも実験室で研究した。面識のない男女大学生が、インターネットのチャットルームだと思う環境か、対面で初めて出会った。最初にインターネットで会った人は、最初に対面で会った人より互いを強く好み、これは両方の場面で同じ相手に会った場合でもそうだった。人々は対面よりオンラインで、自分の感情や経験をパートナーへ表現しやすいとも報告する (Bargh, McKenna, & Fitzsimons, 2002)。
 
-Online interactions can also help to strengthen offline relationships. A recent study by Fox, Warber, & Makstaller (2013) explored the effects of publically posting one’s relationship status to Facebook, or going “Facebook official” (FBO) on romantic relationships between college students. They found that offline discussions between partners often preceded going FBO, and, that once couples had gone FBO, they reported more perceived relationship commitment and stability.
+インターネット上の関係が成功しうる理由はいくつか考えられる。第一に、関係はパートナー同士が個人的情報を共有して自己開示するほど発展し、インターネット相互作用の相対的匿名性は自己開示を容易にする可能性がある。第二に、インターネット上の関係では身体的魅力の手がかりが比較的少ない。身体的魅力が前面から外れると、価値観や信念の類似性のような、より重要な特性にもとづいて関係を形成しやすくなる可能性がある。またインターネットは、近くにいない友人や家族と連絡を保ち、遠距離関係をより良く維持するのにも役立つ (Wellman, Quan Haase, Witte, & Hampton, 2001)。共通の関心や価値観を持つ人を探すのにも役立つ。さらに、多くのインターネット活動そのものが新しい友人を作ることを主要目的としている。対して多くの対面相互作用は、新しい会話や友情を始めることにそれほど適していない。
 
-Overall, then, the evidence suggests that rather than being an isolating activity, interacting with others over the Internet helps us maintain close ties with our family and friends and in many cases helps us form intimate and rewarding relationships.
+オンライン相互作用はオフラインの関係を強めることもできる。Fox, Warber, & Makstaller (2013) は、Facebook で交際状況を公表すること、すなわち “Facebook official” (FBO) になることが大学生のロマンティックな関係へ与える影響を調べた。FBO になる前にはパートナー間でオフラインの話し合いが行われることが多く、一度 FBO になると、関係へのコミットメントと安定性をより強く知覚すると報告した。
 
-### Making Relationships Last
+総じて、インターネットで他者と相互作用することは、孤立をもたらす活動というより、家族や友人との親密なつながりを維持し、多くの場合、親密で報酬のある新しい関係を形成する助けになることが証拠から示されている。
 
-Now that you have a better idea of the variables that lead to interpersonal attraction and that are important in close relationships, you should be getting a pretty good idea of the things that partners need to do to help them stay together. It is true that many marriages end in divorce, and this number is higher in individualistic cultures, where the focus is on the individual, than it is in collectivistic cultures, where the focus is on maintaining group togetherness. But even in many Western countries, for instance, the United States, the number of divorces is falling, at least for the most educated segments of society (Kreider & Fields, 2001). Successful relationships take work, but the work is worth it. People who are happily married are also happier overall and have better psychological and physical health. And at least for men, marriage leads to a longer life (Kiecolt-Glaser & Newton, 2001).
+### 関係を長続きさせる
 
-In part the ideas that Britain’s long-married couple Frank and Anita Milford have about what made their relationship so successful are probably correct. Let’s look at some of the things that they seem to have done and compare them with what we might expect on the basis of social psychological research.
+対人魅力を生み、親密な関係で重要となる変数を理解した今、パートナーが一緒にい続けるため何をすべきかについてかなり良い考えが得られるだろう。多くの結婚が離婚で終わるのは事実であり、その割合は、集団の結束維持を重視する集団主義文化より、個人へ焦点を当てる個人主義文化で高い。しかし多くの西洋諸国、たとえば米国でも、少なくとも教育水準の高い層では離婚数が減っている (Kreider & Fields, 2001)。成功した関係には努力が必要だが、その努力には価値がある。幸福な結婚をしている人は全般的にもより幸福で、心理的・身体的健康も良い。少なくとも男性では、結婚は長寿につながる (Kiecolt-Glaser & Newton, 2001)。
 
-- Be prepared for squabbles. Every relationship has conflict. This is not unexpected or always bad. Working through minor conflicts can help you and your partner improve your social skills and make the relationship stronger (Pickett & Gardner, 2005).
-- Don’t be negative. Negative cognitions and emotions have an extremely harmful influence on relationships (Gottman, 1994). Don’t let a spiral of negative thinking and negative behaviors get started. Do whatever you can to think positively.
-- Be fair in how you evaluate behaviors. Many people in close relationships, as do most people in their everyday lives, tend to inflate their own self-worth. They rate their own positive behaviors as better than their partner’s, and rate their partner’s negative behaviors as worse than their own. Try to give your partner the benefit of the doubt—remember that you are not perfect either.
-- Do things that please your partner. The principles of social exchange make it clear that being nice to others leads them to be nice in return.
-- Have fun. Relationships in which the partners have positive moods and in which the partners are not bored tend to last longer (Tsapelas, Aron, & Orbuch, 2009).
+英国の長寿結婚夫婦 Frank と Anita Milford が、関係成功の理由として挙げた考えの一部は、おそらく正しい。二人がしたように見えることを、社会心理学研究から予測されることと比べてみよう。
 
-Partners who are able to remain similar in their values and other beliefs are going to be more successful. This seems to have been the case for Frank and Anita—they continued to share activities and interests. Partners must also display positive affect toward each other. Happy couples are in positive moods when they are around each other—they laugh together, and they express approval rather than criticism of each other’s behaviors. Partners are happier when they view the other person in a positive or even “idealized” sense rather than in a more realistic and perhaps more negative one (Murray, Holmes, & Griffin, 1996). Anita and Frank talked in their interview about how their time together was characterized by positive feelings and romance, and perhaps that helped them stay together.
+- **口げんかに備える。** どんな関係にも対立はある。これは予想外でも、常に悪いことでもない。小さな対立へ取り組むことは、自分とパートナーの社会的技能を改善し、関係を強くする助けになりうる (Pickett & Gardner, 2005)。
+- **否定的にならない。** 否定的な認知と感情は関係へ極めて有害な影響を与える (Gottman, 1994)。否定的思考と否定的行動の悪循環を始めないようにする。できる限り肯定的に考える。
+- **行動を評価するとき公平である。** 多くの人は、日常生活と同じように親密な関係でも自分の価値を過大評価する。自分の肯定的行動をパートナーのものより良いと評価し、パートナーの否定的行動を自分のものより悪く評価する傾向がある。パートナーへ疑わしきは有利に扱おう――自分も完全ではないことを忘れない。
+- **パートナーを喜ばせることをする。** 社会的交換の原理から、他者へ親切にすると、相手も親切を返しやすいことが分かる。
+- **楽しむ。** パートナー同士が肯定的気分を持ち、退屈していない関係は長続きしやすい (Tsapelas, Aron, & Orbuch, 2009)。
 
-Next, the partners must share, in the sense that they are willing to express their thoughts about each other. Successful relationships involve individuals self-disclosing their own needs and desires, which allows their partners to become aware of their needs and attempt to meet them if possible. If the partners are not able to express their concerns, then the relationship cannot become more intimate. Successful relationships have successful communication patterns.
+価値観やほかの信念を似たまま維持できるパートナーは、より成功しやすい。Frank と Anita も活動や関心を共有し続けており、これに当てはまる。パートナーは互いへ肯定的感情も示さなければならない。幸福なカップルは一緒にいるとき肯定的気分で、共に笑い、相手の行動を批判するより承認を表す。相手を現実的で、場合によってはより否定的に見るより、肯定的、さらには「理想化された」形で見るとき、パートナーはより幸福である (Murray, Holmes, & Griffin, 1996)。Anita と Frank はインタビューで、一緒に過ごす時間が肯定的感情とロマンスに満ちていたと話しており、それが二人を一緒に保つ助けになったのかもしれない。
 
-Finally, but not least important, are sexual behaviors. Compatibility of sexual preferences and attitudes are an important predictor of relationship success. For instance, it is very important that partners are on the same page about how they feel about pursuing sex outside of the relationship, as infidelity in relationships is linked to increased risk of divorce (Wiederman, 1997).
+次に、パートナーは互いについての考えを表現するという意味で、共有しなければならない。成功した関係では、個人が自分の必要や欲求を自己開示し、それによってパートナーが必要を知り、可能なら満たそうとできる。パートナーが懸念を表現できなければ、関係はより親密になれない。成功した関係には、成功したコミュニケーション・パターンがある。
 
-Even if a partner does not actually have sex with someone else, his or her partner may still be jealous, and jealously can harm relationships. Jealousy is a powerful emotion that has been evolutionarily selected to help maintain close relationships. Both men and women experience jealousy, although they experience it to different extents and in different ways. Men are more jealous than women overall. And men are more concerned than women about sexual infidelities of their partners, whereas women are relatively more concerned about emotional infidelities of their partners (Buss, Larsen, Westen, & Semmelroth, 1992). Men’s concern with sexual cheating is probably due in part to evolutionary factors related to kin selection: men need to be particularly sure that their partners are sexually faithful to them to ensure that the time they spend raising children is spent on raising their own children, not those of others. And women’s concern with emotional fidelity fits with a focus on maintaining the relationship intact. Flirting suggests that the man is not really committed to the relationship and may leave it.
+最後に、しかし決して重要性が低いわけではないのが性行動である。性的選好と態度の適合性は、関係の成功を予測する重要な要因である。たとえば、関係外の性行為を追求することについて、パートナーが同じ考えを持っていることは非常に重要である。関係での不貞は離婚リスクの上昇と関連する (Wiederman, 1997)。
 
-### When Relationships End
+パートナーが実際にはほかの人と性行為をしていなくても、その相手は嫉妬することがあり、嫉妬は関係を傷つけうる。嫉妬は、親密な関係を維持する助けとなるよう進化的に選択されてきた強力な感情である。男女とも嫉妬を経験するが、その程度と現れ方は異なる。全般的には男性の方が女性より嫉妬が強い。また男性は女性よりパートナーの性的な不貞を気にし、女性は相対的にパートナーの情緒的な不貞を気にする (Buss, Larsen, Westen, & Semmelroth, 1992)。男性が性的な浮気へ強く関心を持つ理由の一部は、血縁選択に関連する進化的要因によると考えられる。男性は、自分が子育てへ費やす時間が他人の子ではなく自分の子に向けられることを確実にするため、パートナーが性的に忠実である必要が特に高い。女性が情緒的忠実さへ関心を持つことは、関係を壊さず維持することへの焦点と合う。浮気を思わせる行動は、男性が関係へ真にコミットしておらず、離れる可能性を示す。
 
-Inevitably, some relationships do break up, and these separations may cause substantial pain. When the partners have been together for a long time, particularly in a relationship characterized by interdependence and commitment, the pain is even greater (Simpson, 1987). The pain of a breakup is in part due to the loneliness that results from it. People who lose someone they care about also lose a substantial amount of social support, and it takes time to recover and develop new social connections. Lonely people sleep more poorly, take longer to recover from stress, and show poorer health overall (Cacioppo et al., 2002).
+### 関係が終わるとき
 
-The pain of a loss may be magnified when people feel that they have been rejected by the other. The experience of rejection makes people sad, angry, more likely to break social norms, and more focused on self-concern. The ability to effectively self-regulate is lowered, and people are more likely to act on their impulses (Baumeister, DeWall, Ciarocco, & Twenge, 2005). But people who have been rejected are also more motivated by other-concern; they are particularly likely to try to make new friends to help make up for the rejection (Gardner, Pickett, & Brewer, 2000). Although people who have been rejected are particularly hurt, people who have rejected others may feel guilty about it.
+必然的に一部の関係は終わり、その別離は大きな苦痛をもたらすことがある。パートナーが長く一緒にいて、とりわけ相互依存とコミットメントを特徴とする関係だった場合、苦痛はさらに大きい (Simpson, 1987)。破局の痛みは、それによって生じる孤独にも一部由来する。大切な人を失うと、多くの社会的支援も失い、回復して新しい社会的つながりを築くには時間がかかる。孤独な人は睡眠の質が悪く、ストレスからの回復にも時間がかかり、全般的健康も悪い (Cacioppo et al., 2002)。
 
-Breaking up is painful, but people do recover from it, and they usually move on to find new relationships. Margaret Stroebe and her colleagues (Stroebe, Hansson, Schut, & Stroebe, 2008) found that people adjusted to the loss of a partner, even one with whom they had been with for a long time, although many did have increased psychological difficulties, at least in the short term.
+喪失の痛みは、相手から拒絶されたと感じるとさらに増幅される。拒絶の経験は人を悲しく、怒りやすくし、社会規範を破りやすくし、自己への関心を高める。効果的に自己制御する能力が低下し、衝動に従いやすくなる (Baumeister, DeWall, Ciarocco, & Twenge, 2005)。しかし拒絶された人は他者への関心によっても動機づけられる。拒絶を埋め合わせるため新しい友人を作ろうとする可能性が特に高い (Gardner, Pickett, & Brewer, 2000)。拒絶された側は特に傷つくが、拒絶した側も罪悪感を持つことがある。
 
-:::tip[Key Takeaways]
+別れることは苦痛だが、人はそこから回復し、通常は新しい関係を見つけて前へ進む。Margaret Stroebe と同僚 (Stroebe, Hansson, Schut, & Stroebe, 2008) は、長年一緒にいたパートナーを失った場合でも、人はその喪失へ適応することを見いだした。ただし少なくとも短期的には、多くの人が心理的困難の増加を経験する。
 
-- The factors that keep people liking each other in long-term relationships are at least in part the same as the factors that lead to initial attraction.
-- Over time, cognition becomes relatively more important than passion, and close relationships are more likely to be based on companionate love than on passionate love.
-- In successful relationships, the partners begin to feel close to each other and become attuned to each other’s needs.
-- Partners in close relationships become interdependent and develop a commitment to the relationship.
-- Attachment styles, formed in infancy, to some extent predict how people relate to others in close relationships as adults.
+:::tip[重要なポイント]
 
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Imagine that you are in a romantic relationship with someone you really care about and that you would really like the relationship to last. List three strategies based on the research described in this section that you might use to help keep the relationship happy and harmonious.
-2. Analyze a well-known Hollywood romance that has lasted (or that has not lasted). Which of the variables that we have considered in this chapter seem to help explain the outcome of the relationship?
-3. What do you think your main attachment style was as a child toward your caregivers? How similar or different do you think your attachment style is now? What impacts does your current main attachment style have on your relationships?
-4. Identify two different people with whom you think that you have a different attachment style. What reasons can you identify for this difference, and how does it affect the quality of each relationship?
-5. Based on your experiences of your own close relationships, or those of people around you, which do you think are the three most important factors covered in this section that promote relationship satisfaction and why?
+- 長期的関係で人々が互いを好み続ける要因は、少なくとも一部では初期の魅力を生み出す要因と同じである。
+- 時間が経つと、情熱より認知が相対的に重要になり、親密な関係は情熱的愛より友愛的愛にもとづくようになる。
+- 成功した関係では、パートナーは互いに親密さを感じ始め、互いの必要へ敏感になる。
+- 親密な関係のパートナーは相互依存し、関係へのコミットメントを発達させる。
+- 乳児期に形成される愛着スタイルは、成人後の親密な関係で人が他者とどう関わるかをある程度予測する。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Acker, M., & Davis, M. H. (1992). Intimacy, passion and commitment in adult romantic relationships: A test of the triangular theory of love. *Journal of Social and Personal Relationships, 9*(1), 21–50.
+1. とても大切に思う人とロマンティックな関係にあり、その関係をぜひ長続きさせたいと想像しよう。この節で説明した研究にもとづき、関係を幸福で調和的に保つため使えそうな方略を三つ挙げよう。
+2. 長続きした（または長続きしなかった）有名な Hollywood の恋愛関係を分析しよう。本章で扱ったどの変数が、その結果の説明に役立つだろうか。
+3. 子どもの頃、養育者に対する主な愛着スタイルは何だったと思うか。現在の愛着スタイルはどの程度似ている、または異なると思うか。現在の主な愛着スタイルは関係へどのような影響を与えているか。
+4. あなたが異なる愛着スタイルを持っていると思う二人の相手を特定しよう。その違いの理由として何が考えられ、それぞれの関係の質へどう影響しているか。
+5. 自分自身、または周囲の人の親密な関係の経験にもとづき、この節で扱った要因のうち関係満足度を高める最も重要な三つは何だと思うか。その理由も述べよう。
 
-Agishtein, P., & Brumbaugh, C. (2013). Cultural variation in adult attachment: The impact of ethnicity, collectivism, and country of origin. *Journal Of Social, Evolutionary, And Cultural Psychology*, *7*(4), 384-405. doi:10.1037/h0099181
+:::
 
-Ainsworth, M. S., Blehar, M. C., Waters, E., & Wall, S. (1978). *Patterns of attachment: A psychological study of the strange situation.* Oxford, England: Lawrence Erlbaum.
+#### 参考文献
 
-Andersen, S. M., & Cole, S. W. (1990). “Do I know you?” The role of significant others in general social perception. *Journal of Personality and Social Psychology, 59*(3), 384–399.
+Acker, M., & Davis, M. H. (1992). Intimacy, passion and commitment in adult romantic relationships: A test of the triangular theory of love. _Journal of Social and Personal Relationships, 9_(1), 21–50.
 
-Aron, A., Aron, E. N., & Smollan, D. (1992). Inclusion of other in the self scale and the structure of interpersonal closeness. *Journal of Personality and Social Psychology, 63*(4), 596–612.
+Agishtein, P., & Brumbaugh, C. (2013). Cultural variation in adult attachment: The impact of ethnicity, collectivism, and country of origin. _Journal Of Social, Evolutionary, And Cultural Psychology_, _7_(4), 384-405. doi:10.1037/h0099181
 
-Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991). Close relationships as including other in the self. *Journal of Personality and Social Psychology, 60*(2), 241–253.
+Ainsworth, M. S., Blehar, M. C., Waters, E., & Wall, S. (1978). _Patterns of attachment: A psychological study of the strange situation._ Oxford, England: Lawrence Erlbaum.
 
-Aron, A., Melinat, E., Aron, E. N., & Vallone, R. D. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. *Personality and Social Psychology Bulletin, 23*(4), 363–377.
+Andersen, S. M., & Cole, S. W. (1990). “Do I know you?” The role of significant others in general social perception. _Journal of Personality and Social Psychology, 59_(3), 384–399.
 
-Arriaga, X. B., & Agnew, C. R. (2001). Being committed: Affective, cognitive, and conative components of relationship commitment. *Personality and Social Psychology Bulletin, 27*(9), 1190–1203.
+Aron, A., Aron, E. N., & Smollan, D. (1992). Inclusion of other in the self scale and the structure of interpersonal closeness. _Journal of Personality and Social Psychology, 63_(4), 596–612.
 
-Baldwin, M. W., & Fehr, B. (1995). On the instability of attachment style ratings. *Personal Relationships, 2*(3), 247–261.
+Aron, A., Aron, E. N., Tudor, M., & Nelson, G. (1991). Close relationships as including other in the self. _Journal of Personality and Social Psychology, 60_(2), 241–253.
 
-Bargh, J. A. (2002). Beyond simple truths: The human-Internet interaction. *Journal of Social Issues, 58*(1), 1–8.
+Aron, A., Melinat, E., Aron, E. N., & Vallone, R. D. (1997). The experimental generation of interpersonal closeness: A procedure and some preliminary findings. _Personality and Social Psychology Bulletin, 23_(4), 363–377.
 
-Bargh, J. A., & McKenna, K. Y. A. (2004). The Internet and social life. *Annual Review of Psychology, 55*, 573–590.
+Arriaga, X. B., & Agnew, C. R. (2001). Being committed: Affective, cognitive, and conative components of relationship commitment. _Personality and Social Psychology Bulletin, 27_(9), 1190–1203.
 
-Bargh, J. A., McKenna, K. Y. A., & Fitzsimons, G. M. (2002). Can you see the real me? Activation and expression of the “true self” on the Internet. *Journal of Social Issues, 58*(1), 33–48.
+Baldwin, M. W., & Fehr, B. (1995). On the instability of attachment style ratings. _Personal Relationships, 2_(3), 247–261.
 
-Baumeister, R. F., DeWall, C. N., Ciarocco, N. J., & Twenge, J. M. (2005). Social exclusion impairs self-regulation. *Journal of Personality and Social Psychology, 88*(4), 589–604.
+Bargh, J. A. (2002). Beyond simple truths: The human-Internet interaction. _Journal of Social Issues, 58_(1), 1–8.
 
-Buss, D. M., Larsen, R. J., Westen, D., & Semmelroth, J. (1992). Sex differences in jealousy: Evolution, physiology, and psychology. *Psychological Science, 3*(4), 251–255.
+Bargh, J. A., & McKenna, K. Y. A. (2004). The Internet and social life. _Annual Review of Psychology, 55_, 573–590.
 
-Buunk, B. P., & Van Yperen, N. W. (1991). Referential comparisons, relational comparisons, and exchange orientation: Their relation to marital satisfaction. *Personality And Social Psychology Bulletin*,*17*(6), 709-717. doi:10.1177/0146167291176015
+Bargh, J. A., McKenna, K. Y. A., & Fitzsimons, G. M. (2002). Can you see the real me? Activation and expression of the “true self” on the Internet. _Journal of Social Issues, 58_(1), 33–48.
 
-Buunk, B. P., Van Yperen, N. W., Taylor, S. E., & Collins, R. L. (1991). Social comparison and the drive upward revisited: Affiliation as a response to marital stress. *European Journal of Social Psychology, 21*(6), 529–546.
+Baumeister, R. F., DeWall, C. N., Ciarocco, N. J., & Twenge, J. M. (2005). Social exclusion impairs self-regulation. _Journal of Personality and Social Psychology, 88_(4), 589–604.
 
-Cacioppo, J. T., Hawkley, L. C., Crawford, E., Ernst, J. M., Burleson, M. H., Kowalewski, R. B.,…Berntson, G. G. (2002). Loneliness and health: Potential mechanisms. *Psychosomatic Medicine, 64*(3), 407–417.
+Buss, D. M., Larsen, R. J., Westen, D., & Semmelroth, J. (1992). Sex differences in jealousy: Evolution, physiology, and psychology. _Psychological Science, 3_(4), 251–255.
 
-Campbell, L., Simpson, J. A., Boldry, J., & Kashy, D. A. (2005). Perceptions of conflict and support in romantic relationships: The role of attachment anxiety. *Journal of Personality and Social Psychology, 88*(3), 510–531.
+Buunk, B. P., & Van Yperen, N. W. (1991). Referential comparisons, relational comparisons, and exchange orientation: Their relation to marital satisfaction. _Personality And Social Psychology Bulletin_,_17_(6), 709-717. doi:10.1177/0146167291176015
 
-Caspi, A. (2000). The child is father of the man: Personality continuities from childhood to adulthood. *Journal of Personality and Social Psychology, 78*(1), 158–172.
+Buunk, B. P., Van Yperen, N. W., Taylor, S. E., & Collins, R. L. (1991). Social comparison and the drive upward revisited: Affiliation as a response to marital stress. _European Journal of Social Psychology, 21_(6), 529–546.
 
-Cassidy, J. E., & Shaver, P. R. E. (1999). *Handbook of attachment: Theory, research, and clinical applications.* New York, NY: Guilford Press.
+Cacioppo, J. T., Hawkley, L. C., Crawford, E., Ernst, J. M., Burleson, M. H., Kowalewski, R. B.,…Berntson, G. G. (2002). Loneliness and health: Potential mechanisms. _Psychosomatic Medicine, 64_(3), 407–417.
 
-Chopik, W. J., Edelstein, R. S., & Fraley, R. (2013). From the cradle to the grave: Age differences in attachment from early adulthood to old age. *Journal Of Personality*, *81*(2), 171-183. doi:10.1111/j.1467-6494.2012.00793.x
+Campbell, L., Simpson, J. A., Boldry, J., & Kashy, D. A. (2005). Perceptions of conflict and support in romantic relationships: The role of attachment anxiety. _Journal of Personality and Social Psychology, 88_(3), 510–531.
 
-Collins, N. L., & Feeney, B. C. (2000). A safe haven: An attachment theory perspective on support seeking and caregiving in intimate relationships. *Journal of Personality and Social Psychology, 78*(6), 1053–1073.
+Caspi, A. (2000). The child is father of the man: Personality continuities from childhood to adulthood. _Journal of Personality and Social Psychology, 78_(1), 158–172.
 
-Collins, N. L., & Feeney, B. C. (2004). Working models of attachment shape perceptions of social support: Evidence from experimental and observational studies. *Journal of Personality and Social Psychology, 87*(3), 363–383.
+Cassidy, J. E., & Shaver, P. R. E. (1999). _Handbook of attachment: Theory, research, and clinical applications._ New York, NY: Guilford Press.
 
-Collins, N. L., Cooper, M. L., Albino, A., & Allard, L. (2002). Psychosocial vulnerability from adolescence to adulthood: A prospective study of attachment style differences in relationship functioning and partner choice. *Journal of Personality, 70*, 965–1008.
+Chopik, W. J., Edelstein, R. S., & Fraley, R. (2013). From the cradle to the grave: Age differences in attachment from early adulthood to old age. _Journal Of Personality_, _81_(2), 171-183. doi:10.1111/j.1467-6494.2012.00793.x
 
-Davila, J., & Cobb, R. J. (2003). Predicting change in self-reported and interviewer-assessed adult attachment: Tests of the individual difference and life stress models of attachment change. *Personality And Social Psychology Bulletin*, *29*(7), 859-870. doi:10.1177/0146167203029007005
+Collins, N. L., & Feeney, B. C. (2000). A safe haven: An attachment theory perspective on support seeking and caregiving in intimate relationships. _Journal of Personality and Social Psychology, 78_(6), 1053–1073.
 
-Davis, J. L., & Rusbult, C. E. (2001). Attitude alignment in close relationships. *Journal of Personality and Social Psychology, 81*(1), 65–84.
+Collins, N. L., & Feeney, B. C. (2004). Working models of attachment shape perceptions of social support: Evidence from experimental and observational studies. _Journal of Personality and Social Psychology, 87_(3), 363–383.
 
-Dion, K. L., & Dion, K. K. (1993). Gender and ethnocultural comparisons in styles of love. *Psychology Of Women Quarterly*, *17*(4), 463-473. doi:10.1111/j.1471-6402.1993.tb00656.x
+Collins, N. L., Cooper, M. L., Albino, A., & Allard, L. (2002). Psychosocial vulnerability from adolescence to adulthood: A prospective study of attachment style differences in relationship functioning and partner choice. _Journal of Personality, 70_, 965–1008.
 
-Eastwick, P. W., & Finkel, E. J. (2008). The attachment system in fledgling relationships: An activating role for attachment anxiety. *Journal of Personality and Social Psychology, 95*(3), 628–647.
+Davila, J., & Cobb, R. J. (2003). Predicting change in self-reported and interviewer-assessed adult attachment: Tests of the individual difference and life stress models of attachment change. _Personality And Social Psychology Bulletin_, _29_(7), 859-870. doi:10.1177/0146167203029007005
 
-Eisenberg, J., Harvey, H. B., Moore, D. A., Gazelle, C. S., & Pandharipande, P. (2012). Falling prey to the sunk cost bias: a potential harm of patient radiation dose histories. *Radiology, 263(3),* 626-628.
+Davis, J. L., & Rusbult, C. E. (2001). Attitude alignment in close relationships. _Journal of Personality and Social Psychology, 81_(1), 65–84.
 
-Fox, J., Warber, K. M., & Makstaller, D. C. (2013). The role of Facebook in romantic relationship development: An exploration of Knapp’s relational stage model. *Journal Of Social And Personal Relationships*, *30*(6), 771-794. doi:10.1177/0265407512468370
+Dion, K. L., & Dion, K. K. (1993). Gender and ethnocultural comparisons in styles of love. _Psychology Of Women Quarterly_, _17_(4), 463-473. doi:10.1111/j.1471-6402.1993.tb00656.x
 
-Fraley, R. C. (2002). Attachment stability from infancy to adulthood: Meta-analysis and dynamic modeling of developmental mechanisms. *Personality and Social Psychology Review, 6*(2), 123–151.
+Eastwick, P. W., & Finkel, E. J. (2008). The attachment system in fledgling relationships: An activating role for attachment anxiety. _Journal of Personality and Social Psychology, 95_(3), 628–647.
 
-Fraley, R. C., Garner, J. P., & Shaver, P. R. (2000). Adult attachment and the defensive regulation of attention and memory: Examining the role of preemptive and postemptive defensive processes. *Journal of Personality and Social Psychology, 79*(5), 816–826.
+Eisenberg, J., Harvey, H. B., Moore, D. A., Gazelle, C. S., & Pandharipande, P. (2012). Falling prey to the sunk cost bias: a potential harm of patient radiation dose histories. _Radiology, 263(3),_ 626-628.
 
-Gabriel, S., Carvallo, M., Dean, K. K., Tippin, B., & Renaud, J. (2005). How I see me depends on how I see we: The role of attachment style in social comparison. *Personality and Social Psychology Bulletin, 31*(11), 1561–1572.
+Fox, J., Warber, K. M., & Makstaller, D. C. (2013). The role of Facebook in romantic relationship development: An exploration of Knapp’s relational stage model. _Journal Of Social And Personal Relationships_, _30_(6), 771-794. doi:10.1177/0265407512468370
 
-Gardner, W. L., Pickett, C. L., & Brewer, M. B. (2000). Social exclusion and selective memory: How the need to belong influences memory for social events. *Personality and Social Psychology Bulletin, 26*(4), 486–496.
+Fraley, R. C. (2002). Attachment stability from infancy to adulthood: Meta-analysis and dynamic modeling of developmental mechanisms. _Personality and Social Psychology Review, 6_(2), 123–151.
 
-Gonzaga, G. C., Haselton, M. G., Smurda, J., Davies, M. S., & Poore, J. C. (2008). Love, desire, and the suppression of thoughts of romantic alternatives. *Evolution and Human Behavior, 29*(2), 119–126.
+Fraley, R. C., Garner, J. P., & Shaver, P. R. (2000). Adult attachment and the defensive regulation of attention and memory: Examining the role of preemptive and postemptive defensive processes. _Journal of Personality and Social Psychology, 79_(5), 816–826.
 
-Gottman, J. M. (1994). *What predicts divorce?* Hillsdale, NJ: Lawrence Erlbaum.
+Gabriel, S., Carvallo, M., Dean, K. K., Tippin, B., & Renaud, J. (2005). How I see me depends on how I see we: The role of attachment style in social comparison. _Personality and Social Psychology Bulletin, 31_(11), 1561–1572.
 
-Hazan, C., & Diamond, L. M. (2000). The place of attachment in human mating. *Review of General Psychology, 4*(2), 186–204.
+Gardner, W. L., Pickett, C. L., & Brewer, M. B. (2000). Social exclusion and selective memory: How the need to belong influences memory for social events. _Personality and Social Psychology Bulletin, 26_(4), 486–496.
 
-Kiecolt-Glaser, J. K., & Newton, T. L. (2001). Marriage and health: His and hers. *Psychological Bulletin*, *127*(4), 472-503. doi:10.1037/0033-2909.127.4.472
+Gonzaga, G. C., Haselton, M. G., Smurda, J., Davies, M. S., & Poore, J. C. (2008). Love, desire, and the suppression of thoughts of romantic alternatives. _Evolution and Human Behavior, 29_(2), 119–126.
 
-Kraut, R., Kiesler, S., Boneva, B., Cummings, J., Helgeson, V., & Crawford, A. (2002). Internet paradox revisited. *Journal of Social Issues, 58*(1), 49–74.
+Gottman, J. M. (1994). _What predicts divorce?_ Hillsdale, NJ: Lawrence Erlbaum.
 
-Kraut, R., Patterson, M., Lundmark, V., Kiesler, S., Mukophadhyay, T., & Scherlis, W. (1998). Internet paradox: A social technology that reduces social involvement and psychological well-being? *American Psychologist, 53*(9), 1017–1031.
+Hazan, C., & Diamond, L. M. (2000). The place of attachment in human mating. _Review of General Psychology, 4_(2), 186–204.
 
-Kreider, R.M., & Fields, J. M. (2001). Number, timing, and duration of marriages and divorces. *Current Population Reports*, *70-80, (*Washington, DC: U.S. Census Bureau, 2005).
+Kiecolt-Glaser, J. K., & Newton, T. L. (2001). Marriage and health: His and hers. _Psychological Bulletin_, _127_(4), 472-503. doi:10.1037/0033-2909.127.4.472
 
-Lemieux, R., & Hale, J. L. (2002). Cross-sectional analysis of intimacy, passion, and commitment: Testing the assumptions of the triangular theory of love. *Psychological Reports*, *90*(3,Pt1), 1009-1014. doi:10.2466/PR0.90.3.1009-1014
+Kraut, R., Kiesler, S., Boneva, B., Cummings, J., Helgeson, V., & Crawford, A. (2002). Internet paradox revisited. _Journal of Social Issues, 58_(1), 49–74.
 
-Lockwood, P., Dolderman, D., Sadler, P., & Gerchak, E. (2004). Feeling better about doing worse: Social comparisons within romantic relationships. *Journal of Personality and Social Psychology, 87*(1), 80–95.
+Kraut, R., Patterson, M., Lundmark, V., Kiesler, S., Mukophadhyay, T., & Scherlis, W. (1998). Internet paradox: A social technology that reduces social involvement and psychological well-being? _American Psychologist, 53_(9), 1017–1031.
 
-Maner, J. K., Miller, S. L., Rouby, D. A., & Gailliot, M. T. (2009). Intrasexual vigilance: The implicit cognition of romantic rivalry. *Journal of Personality and Social Psychology, 97*(1), 74–87.
+Kreider, R.M., & Fields, J. M. (2001). Number, timing, and duration of marriages and divorces. _Current Population Reports_, *70-80, (*Washington, DC: U.S. Census Bureau, 2005).
 
-Maner, J. K., Rouby, D. A., & Gonzaga, G. C. (2008). Automatic inattention to attractive alternatives: The evolved psychology of relationship maintenance. *Evolution and Human Behavior, 29*(5), 343–349.
+Lemieux, R., & Hale, J. L. (2002). Cross-sectional analysis of intimacy, passion, and commitment: Testing the assumptions of the triangular theory of love. _Psychological Reports_, _90_(3,Pt1), 1009-1014. doi:10.2466/PR0.90.3.1009-1014
 
-Margolin, G., & Wampold, B. E. (1981). Sequential analysis of conflict and accord in distressed and nondistressed marital partners. *Journal of Consulting and Clinical Psychology, 49*(4), 554–567.
+Lockwood, P., Dolderman, D., Sadler, P., & Gerchak, E. (2004). Feeling better about doing worse: Social comparisons within romantic relationships. _Journal of Personality and Social Psychology, 87_(1), 80–95.
 
-McKenna, K. Y. A., Green, A. S., Gleason, M. J. (2002). Relationship formation on the Internet: What’s the big attraction? *Journal of Social Issues, 58*(1), 9–31.
+Maner, J. K., Miller, S. L., Rouby, D. A., & Gailliot, M. T. (2009). Intrasexual vigilance: The implicit cognition of romantic rivalry. _Journal of Personality and Social Psychology, 97_(1), 74–87.
 
-Murray, S. L., Holmes, J. G., & Griffin, D. W. (1996). The benefits of positive illusions: Idealization and the construction of satisfaction in close relationships. *Journal of Personality and Social Psychology, 70*(1), 79–98.
+Maner, J. K., Rouby, D. A., & Gonzaga, G. C. (2008). Automatic inattention to attractive alternatives: The evolved psychology of relationship maintenance. _Evolution and Human Behavior, 29_(5), 343–349.
 
-Neff, L. A., & Karney, B. R. (2002). Self-evaluation motives in close relationships: A model of global enhancement and specific verification. In P. Noller & J. A. Feeney (Eds.), *Understanding marriage: Developments in the study of couple interaction* (pp. 32–58). New York, NY: Cambridge University Press.
+Margolin, G., & Wampold, B. E. (1981). Sequential analysis of conflict and accord in distressed and nondistressed marital partners. _Journal of Consulting and Clinical Psychology, 49_(4), 554–567.
 
-Obegi, J. H. (2008). The development of the client-therapist bond through the lens of attachment theory. *Psychotherapy: Theory, Research, Practice, Training*, *45*(4), 431-446. doi:10.1037/a0014330
+McKenna, K. Y. A., Green, A. S., Gleason, M. J. (2002). Relationship formation on the Internet: What’s the big attraction? _Journal of Social Issues, 58_(1), 9–31.
 
-Parks, M. R., & Floyd, K. (1996). Making friends in cyberspace. *Journal of Communication, 46*(1), 80–97.
+Murray, S. L., Holmes, J. G., & Griffin, D. W. (1996). The benefits of positive illusions: Idealization and the construction of satisfaction in close relationships. _Journal of Personality and Social Psychology, 70_(1), 79–98.
 
-Pickett, C. L., & Gardner, W. L. (2005). The social monitoring system: Enhanced sensitivity to social cues as an adaptive response to social exclusion. In K. D. Williams, J. P. Forgas, & W. von Hippel (Eds.), *The social outcast: Ostracism, social exclusion, rejection, and bullying* (pp. 213–226). New York, NY: Psychology Press.
+Neff, L. A., & Karney, B. R. (2002). Self-evaluation motives in close relationships: A model of global enhancement and specific verification. In P. Noller & J. A. Feeney (Eds.), _Understanding marriage: Developments in the study of couple interaction_ (pp. 32–58). New York, NY: Cambridge University Press.
 
-Pierce, T., & Lydon, J. E. (2001). Global and specific relational models in the experience of social interactions. *Journal of Personality and Social Psychology, 80*(4), 613–631.
+Obegi, J. H. (2008). The development of the client-therapist bond through the lens of attachment theory. _Psychotherapy: Theory, Research, Practice, Training_, _45_(4), 431-446. doi:10.1037/a0014330
 
-Rholes, W. S., Simpson, J. A., Tran, S., Martin, A. M., III, & Friedman, M. (2007). Attachment and information seeking in romantic relationships. *Personality and Social Psychology Bulletin, 33*(3), 422–438.
+Parks, M. R., & Floyd, K. (1996). Making friends in cyberspace. _Journal of Communication, 46_(1), 80–97.
 
-Ross, L. R., & Spinner, B. (2001). General and specific attachment representations in adulthood: Is there a relationship?. *Journal Of Social And Personal Relationships*, *18*(6), 747-766. doi:10.1177/0265407501186001
+Pickett, C. L., & Gardner, W. L. (2005). The social monitoring system: Enhanced sensitivity to social cues as an adaptive response to social exclusion. In K. D. Williams, J. P. Forgas, & W. von Hippel (Eds.), _The social outcast: Ostracism, social exclusion, rejection, and bullying_ (pp. 213–226). New York, NY: Psychology Press.
 
-Rusbult, C. E., Olsen, N., Davis, J. L., & Hannon, P. A. (2001). Commitment and relationship maintenance mechanisms. In J. Harvey & A. Wenzel (Eds.), *Close romantic relationships: Maintenance and enhancement* (pp. 87–113). Mahwah, NJ: Lawrence Erlbaum.
+Pierce, T., & Lydon, J. E. (2001). Global and specific relational models in the experience of social interactions. _Journal of Personality and Social Psychology, 80_(4), 613–631.
 
-Sabini, J., & Silver, M. (2005). Gender and jealousy: Stories of infidelity. *Cognition and Emotion, 19*(5), 713–727.
+Rholes, W. S., Simpson, J. A., Tran, S., Martin, A. M., III, & Friedman, M. (2007). Attachment and information seeking in romantic relationships. _Personality and Social Psychology Bulletin, 33_(3), 422–438.
 
-Scharfe, E., & Bartholomew, K. (1994). Reliability and stability of adult attachment patterns. *Personal Relationships, 1*(1), 23–43.
+Ross, L. R., & Spinner, B. (2001). General and specific attachment representations in adulthood: Is there a relationship?. _Journal Of Social And Personal Relationships_, _18_(6), 747-766. doi:10.1177/0265407501186001
 
-Schul, Y., & Vinokur, A. D. (2000). Projection in person perception among spouses as a function of the similarity in their shared experiences. *Personality And Social Psychology Bulletin*, *26*(8), 987-1001. doi:10.1177/01461672002610008
+Rusbult, C. E., Olsen, N., Davis, J. L., & Hannon, P. A. (2001). Commitment and relationship maintenance mechanisms. In J. Harvey & A. Wenzel (Eds.), _Close romantic relationships: Maintenance and enhancement_ (pp. 87–113). Mahwah, NJ: Lawrence Erlbaum.
 
-Seligman, C., Fazio, R. H., & Zanna, M. P. (1980). Effects of salience of extrinsic rewards on liking and loving. *Journal of Personality and Social Psychology, 38*(3), 453–460.
+Sabini, J., & Silver, M. (2005). Gender and jealousy: Stories of infidelity. _Cognition and Emotion, 19_(5), 713–727.
 
-Simpson, J. A. (1987). The dissolution of romantic relationships: Factors involved in relationship stability and emotional distress. *Journal of Personality and Social Psychology, 53*(4), 683–692.
+Scharfe, E., & Bartholomew, K. (1994). Reliability and stability of adult attachment patterns. _Personal Relationships, 1_(1), 23–43.
 
-Simpson, J. A., Gangestad, S. W., & Lerma, M. (1990). Perception of physical attractiveness: Mechanisms involved in the maintenance of romantic relationships. *Journal of Personality and Social Psychology, 59*(6), 1192–1201.
+Schul, Y., & Vinokur, A. D. (2000). Projection in person perception among spouses as a function of the similarity in their shared experiences. _Personality And Social Psychology Bulletin_, _26_(8), 987-1001. doi:10.1177/01461672002610008
 
-Slotter, B., Finkel, E. J., DeWall, C. N., Pond, R. S., Jr., Lambert, N. M., Bodenhausen, G. V., & Fincham, F. D. (2011, August 8). Putting the brakes on aggression toward a romantic partner: The inhibitory influence of relationship commitment. *Journal of Personality and Social Psychology* (in press).
+Seligman, C., Fazio, R. H., & Zanna, M. P. (1980). Effects of salience of extrinsic rewards on liking and loving. _Journal of Personality and Social Psychology, 38_(3), 453–460.
 
-Sprecher, S. (2006). Sexuality in close relationships. In P. Noller & J. A. Feeney (Eds.), *Close relationships: Functions, forms and processes* (pp. 267–284). Hove, England: Psychology Press/Taylor & Francis (UK).
+Simpson, J. A. (1987). The dissolution of romantic relationships: Factors involved in relationship stability and emotional distress. _Journal of Personality and Social Psychology, 53_(4), 683–692.
 
-Sprecher, S., & Metts, S. (1989). Development of the ‘Romantic Beliefs Scale’ and examination of the effects of gender and gender-role orientation. *Journal Of Social And Personal Relationships*, *6*(4), 387-411. doi:10.1177/0265407589064001
+Simpson, J. A., Gangestad, S. W., & Lerma, M. (1990). Perception of physical attractiveness: Mechanisms involved in the maintenance of romantic relationships. _Journal of Personality and Social Psychology, 59_(6), 1192–1201.
 
-Solomon, M. F. (2009). Attachment repair in couples therapy: A prototype for treatment of intimate relationships. *Clinical Social Work Journal*, *37*(3), 214-223. doi:10.1007/s10615-009-0217-1
+Slotter, B., Finkel, E. J., DeWall, C. N., Pond, R. S., Jr., Lambert, N. M., Bodenhausen, G. V., & Fincham, F. D. (2011, August 8). Putting the brakes on aggression toward a romantic partner: The inhibitory influence of relationship commitment. _Journal of Personality and Social Psychology_ (in press).
 
-Sternberg, R. (1986). A triangular theory of love. *Psychological Review*, *93*, 119–135.
+Sprecher, S. (2006). Sexuality in close relationships. In P. Noller & J. A. Feeney (Eds.), _Close relationships: Functions, forms and processes_ (pp. 267–284). Hove, England: Psychology Press/Taylor & Francis (UK).
 
-Stroebe, M. S., Hansson, R. O., Schut, H., & Stroebe, W. (2008). Bereavement research: Contemporary perspectives. In M. S. Stroebe, R. O. Hansson, H. Schut, W. Stroebe, & E. Van den Blink (Eds.), *Handbook of bereavement research and practice: Advances in theory and intervention* (pp. 3–25). Washington, DC: American Psychological Association.
+Sprecher, S., & Metts, S. (1989). Development of the ‘Romantic Beliefs Scale’ and examination of the effects of gender and gender-role orientation. _Journal Of Social And Personal Relationships_, _6_(4), 387-411. doi:10.1177/0265407589064001
 
-Taylor, S. E., & Gonzaga, G. C. (2006). Evolution, relationships, and health: The social shaping hypothesis. In M. Schaller, J. A. Simpson, & D. T. Kenrick (Eds.), *Evolution and social psychology* (pp. 211–236). Madison, CT: Psychosocial Press.
+Solomon, M. F. (2009). Attachment repair in couples therapy: A prototype for treatment of intimate relationships. _Clinical Social Work Journal_, _37_(3), 214-223. doi:10.1007/s10615-009-0217-1
 
-Tidwell, M.-C. O., Reis, H. T., & Shaver, P. R. (1996). Attachment, attractiveness, and social interaction: A diary study. *Journal of Personality and Social Psychology, 71*(4), 729–745.
+Sternberg, R. (1986). A triangular theory of love. _Psychological Review_, _93_, 119–135.
 
-Todosijevic, J., Rothblum, E.D., & Solomon, S.E. (2005). Relationship satisfaction, affectivity, and gay specific stressors in same-sex couples joined in civil unions. *Psychology of Women Quarterly, 29,* 158-166-223. doi: 10.1111/j.1471-6402.2005.00178.x
+Stroebe, M. S., Hansson, R. O., Schut, H., & Stroebe, W. (2008). Bereavement research: Contemporary perspectives. In M. S. Stroebe, R. O. Hansson, H. Schut, W. Stroebe, & E. Van den Blink (Eds.), _Handbook of bereavement research and practice: Advances in theory and intervention_ (pp. 3–25). Washington, DC: American Psychological Association.
 
-Tsapelas, I., Aron, A., & Orbuch, T. (2009). Marital boredom now predicts less satisfaction 9 years later. *Psychological Science, 20*(5), 543–545. doi: 10.1111/j.1467–9280.2009.02332.x
+Taylor, S. E., & Gonzaga, G. C. (2006). Evolution, relationships, and health: The social shaping hypothesis. In M. Schaller, J. A. Simpson, & D. T. Kenrick (Eds.), _Evolution and social psychology_ (pp. 211–236). Madison, CT: Psychosocial Press.
 
-Van Yperen, N. W., & Buunk, B. P. (1990). A longitudinal study of equity and satisfaction in intimate relationships. *European Journal of Social Psychology, 20*(4), 287–309.
+Tidwell, M.-C. O., Reis, H. T., & Shaver, P. R. (1996). Attachment, attractiveness, and social interaction: A diary study. _Journal of Personality and Social Psychology, 71_(4), 729–745.
 
-Wegner, D. M., Erber, R., & Raymond, P. (1991). Transactive memory in close relationships. *Journal of Personality and Social Psychology, 61*(6), 923–929.
+Todosijevic, J., Rothblum, E.D., & Solomon, S.E. (2005). Relationship satisfaction, affectivity, and gay specific stressors in same-sex couples joined in civil unions. _Psychology of Women Quarterly, 29,_ 158-166-223. doi: 10.1111/j.1471-6402.2005.00178.x
 
-Wellman, B., Quan Haase, A., Witte, J., & Hampton, K. (2001). Does the Internet increase, decrease, or supplement social capital? Social networks, participation, and community commitment. *American Behavioral Scientist, 45*(3), 436–455.
+Tsapelas, I., Aron, A., & Orbuch, T. (2009). Marital boredom now predicts less satisfaction 9 years later. _Psychological Science, 20_(5), 543–545. doi: 10.1111/j.1467–9280.2009.02332.x
 
-Wiederman, M. W. (1997). Extramarital sex: Prevalence and correlates in a national survey. *Journal of Sex Research, 34*(2), 167–174.
+Van Yperen, N. W., & Buunk, B. P. (1990). A longitudinal study of equity and satisfaction in intimate relationships. _European Journal of Social Psychology, 20_(4), 287–309.
 
-#### Image Descriptions
+Wegner, D. M., Erber, R., & Raymond, P. (1991). Transactive memory in close relationships. _Journal of Personality and Social Psychology, 61_(6), 923–929.
 
-**<a id="id7.10"></a>Figure 7.10 Romantic Love and Attention to Faces**
+Wellman, B., Quan Haase, A., Witte, J., & Hampton, K. (2001). Does the Internet increase, decrease, or supplement social capital? Social networks, participation, and community commitment. _American Behavioral Scientist, 45_(3), 436–455.
 
-A bar graph illustrating the control prime’s and love prime’s attention to faces of different targets.
+Wiederman, M. W. (1997). Extramarital sex: Prevalence and correlates in a national survey. _Journal of Sex Research, 34_(2), 167–174.
 
-- Attention to faces of attractive opposite sex target:
-  - control prime: 750
-  - love prime: between 550 and 500
-- Attention to faces of average opposite sex target:
-  - control prime: between 600 and 650, slightly higher than love prime
-  - love prime: between 600 and 650, slightly lower than control prime
-- Attention to faces of attractive same sex targets:
-  - control prime: between 625 and 650
-  - love prime: between 600 and 625
-- Attention to faces of average same sex targets:
-  - control prime: 650
-  - love prime: between 600 and 650
+#### 画像の説明
 
-[\[Return to Figure 7.10\]](/translations/social-psychology/07-02-close-relationships-liking-and-loving-over-the-long-term/)
+**図7.10 ロマンティックな愛と顔への注意**
+
+反応時間を示す棒グラフである。魅力的な異性の顔では、統制条件がおよそ750ミリ秒であるのに対し、愛条件はおよそ500〜550ミリ秒である。平均的な魅力の異性の顔では両条件ともおよそ600〜650ミリ秒、魅力的な同性の顔ではおよそ600〜650ミリ秒、平均的な魅力の同性の顔でもおよそ600〜650ミリ秒で、大きな差はない。ロマンティックな愛を活性化したときに特に、魅力的な異性の顔から注意を素早く移していることが分かる。
+
+[\[図7.10へ戻る\]](/translations/social-psychology/07-02-close-relationships-liking-and-loving-over-the-long-term/)

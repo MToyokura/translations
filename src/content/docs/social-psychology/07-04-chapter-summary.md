@@ -1,28 +1,29 @@
 ---
-title: "7.4 Chapter Summary"
+title: "7.4 章のまとめ"
 sidebar:
   order: 50
 ---
-Relationships between people that are characterized by loving, caring, commitment, and intimacy, such as those between adult friends, dating partners, lovers, and married couples, are known as close relationships.
 
-Our close relationships make us happy and healthy. We experience higher self-efficacy, self-esteem, and positive mood when we believe that our friends and partners are responding to us supportively and with a concern for our needs and our welfare.
+成人の友人、交際相手、恋人、夫婦などに見られる、愛情、思いやり、コミットメント、親密性を特徴とする人間関係を親密な関係という。
 
-When we say that we like or love someone, we are experiencing interpersonal attraction. People are strongly influenced by the physical attractiveness of their partners in initial encounters. On average, we find younger people more attractive than older people, we are more attracted to faces that are more symmetrical in comparison with those that are less symmetrical, and we prefer faces that are more, rather than less, average. Although the preferences for youth, symmetry, and averageness appear to be universal, there is evidence that at least some differences in perceived attractiveness are due to social and cultural factors.
+親密な関係は私たちを幸福で健康にする。友人やパートナーが、自分の必要や福祉を気遣い、支援的に応じてくれていると信じるとき、より高い自己効力感、自尊心、肯定的気分を経験する。
 
-Overall, both men and women value physical attractiveness. However, for men, the physical attractiveness of women is more important than it is for women judging men, whereas women are relatively more interested in the social status of men. These gender differences may have evolutionary origins. The tendency to perceive attractive people as having positive characteristics, such as sociability and competence, is known as the what is beautiful is good stereotype.
+誰かを好きだ、あるいは愛していると言うとき、私たちは対人魅力を経験している。最初の出会いでは、人はパートナーの身体的魅力から強い影響を受ける。平均すると、年長者より若い人、非対称な顔より対称な顔、平均から外れた顔より平均的な顔を魅力的だと感じる。若さ、対称性、平均性への選好は普遍的に見える一方、知覚される魅力の少なくとも一部の差は社会的・文化的要因によるという証拠もある。
 
-Relationships are more likely to develop and be maintained to the extent that the partners share values and beliefs. The basic principles of social exchange and equity dictate that there will be general similarity in status among people in close relationships. And we tend to prefer people who seem to like us about as much as we like them.
+全体として男女とも身体的魅力を重視する。ただし男性が女性を見るときは、女性が男性を見るときより身体的魅力が重要であり、女性は男性の社会的地位へ相対的に強い関心を持つ。このジェンダー差には進化的起源がある可能性がある。魅力的な人には社交性や能力など肯定的特性があると知覚する傾向は、「美しいものは良い」というステレオタイプとして知られる。
 
-Simply being around another person also increases our liking for that individual. The tendency to prefer stimuli (including, but not limited to, people) that we have seen more frequently is known as mere exposure.
+パートナーが価値観や信念を共有するほど、関係は発展し維持されやすい。社会的交換と衡平性の基本原理によれば、親密な関係にある人々の地位には全般的な類似性が生じる。また私たちは、自分が相手を好むのと同程度に自分を好んでくれているように見える人を好む傾向がある。
 
-We tend to like people more when we are in a good mood and to like them less when we are in a bad mood. And it has been found that arousal polarizes our liking of others. The strong feelings that we experience toward another person that are accompanied by increases in arousal are called passion, and the emotionally intense love that is based on arousal and sexual attraction is known as passionate love.
+単にほかの人の近くにいるだけでも、その人への好意は高まる。人に限らず、より頻繁に見た刺激を好む傾向を単純接触という。
 
-As partners stay together over time, cognition becomes relatively more important than passion, and close relationships are more likely to be based on companionate love than on passionate love. As a relationship progresses, the partners in the relationship come to know each other more fully and care about each other to a greater degree—they become closer to each other. Intimacy is marked in large part by reciprocal self-disclosure—that is, the tendency to communicate frequently and openly.
+良い気分のときには人をより好み、悪い気分のときには好意が低くなる。また覚醒は、他者への好意を両極化させることが示されている。覚醒の高まりを伴って他者へ経験する強い感情を情熱と呼び、覚醒と性的魅力にもとづく感情的に強烈な愛を情熱的愛という。
 
-The partners in close relationships increasingly turn to each other for social support and for other needs. The members of a close relationship are highly interdependent and rely to a great degree on effective social exchange. When partners are attentive to the needs of the other person, and when they help the other meet his or her needs without explicitly keeping track of what they are giving or expecting to get in return, we say that the partners have a communal relationship.
+パートナーが時間をかけて一緒にいると、情熱より認知が相対的に重要になり、親密な関係は情熱的愛より友愛的愛にもとづくようになる。関係が進むにつれ、パートナーは互いをより十分に知り、より深く気遣うようになり、互いへより親密になる。親密性は大部分、相互的自己開示、すなわち頻繁かつ開放的にコミュニケーションを取る傾向によって特徴づけられる。
 
-In relationships in which a positive rapport between the partners is developed and maintained over a period of time, the partners are naturally happy with the relationship and they become committed to it.
+親密な関係のパートナーは、社会的支援やほかの必要のために互いへますます頼るようになる。親密な関係のメンバーは高度に相互依存し、効果的な社会的交換へ大きく依存する。パートナーが相手の必要へ注意を払い、自分が何を与え、何を返してもらうかを明示的に記録せず相手の必要を満たすよう助けるとき、その二人は共同的関係にあるという。
 
-The triangular model of love proposes that there are different types of love, each made up of different combinations of the basic components of passion, intimacy, and commitment.
+パートナー間に肯定的な関係が形成され、長く維持される関係では、パートナーは自然に関係へ満足し、それへコミットする。
 
-Children have been found to develop either a secure or insecure attachment style with their caregivers, and individual differences in these styles remain somewhat stable into adulthood. People with secure attachment styles may make better partners. Attachment styles, though, do show some diversity across different cultural and age groups. They can also shift somewhat, even during adulthood, and so people who are currently showing insecure attachment can move toward being more securely attached in their relationships.
+愛の三角形モデルは、愛には複数の種類があり、それぞれが情熱、親密性、コミットメントという基本要素の異なる組み合わせから成ると提案する。
+
+子どもは養育者との間に安定型または不安定型の愛着スタイルを発達させることが分かっており、その個人差は成人後もある程度安定している。安定型愛着の人は、より良いパートナーになりやすい。ただし愛着スタイルには文化集団や年齢集団による多様性もあり、成人期であってもある程度変化しうる。そのため、現在不安定な愛着を示す人も、関係の中でより安定した愛着へ移行できる。

@@ -1,12 +1,13 @@
 ---
-title: "7.3 Thinking Like a Social Psychologist about Liking and Loving"
+title: "7.3 好意と愛情について社会心理学者のように考える"
 sidebar:
   order: 49
 ---
-There is no part of human experience that is more important to our survival than our close relationships with others. Without close relationships, we could not successfully reproduce, and without the social support provided by others who care about us, our lives would be less meaningful and we would be less mentally and physically healthy. Hopefully, this chapter has reminded you of the importance of your relationships with others or perhaps taught you to think differently about those relationships.
 
-Perhaps you are already in a happy, close relationship, and this chapter may have given you some ideas about how to keep that relationship happy and healthy. Perhaps you are thinking more now about your commitment to the relationship, the benefits and costs you receive from the relationship, the equity between you and your partner, and the costs or benefits you and your partner gain from the relationship. Is your relationship a communal relationship or is it more of an exchange relationship? What can you do to help ensure that you and your partner remain together as one interrelated pair?
+人間の経験の中で、他者との親密な関係ほど私たちの生存に重要なものはない。親密な関係がなければ、うまく生殖することはできない。また、私たちを気遣う他者が提供する社会的支援がなければ、人生は意味が乏しくなり、精神的にも身体的にも健康でいにくい。本章によって、他者との関係の重要性を改めて認識したり、これまでとは違う仕方で考えられるようになったりしていればよい。
 
-Or perhaps you are not currently in a relationship and are hoping to develop a new close relationship. In this case, this chapter may have provided you with some ideas about how to get someone to like you and to see you as an appropriate partner. Maybe you will think more about the important role of actual and assumed similarity and reciprocal disclosure on liking, and the role of proximity in attraction.
+すでに幸福で親密な関係にいるなら、本章はその関係を幸福で健全に保つための考えを与えたかもしれない。関係へのコミットメント、関係から得る利益とコスト、自分とパートナーの衡平性、自分とパートナーが関係から得ているコストや利益について、以前より考えるようになったかもしれない。あなたの関係は共同的関係だろうか、それとも交換的関係に近いだろうか。自分とパートナーが一つの相互関連したペアとして一緒にい続けるため、何ができるだろうか。
 
-In any case, hopefully you can now see that even close relationships can be considered in terms of the basic principles of social psychology, the ABCs of affect, behavior, and cognition, and the goals of self-concern and other-concern. Close relationships are particularly interesting in terms of the last factor because they are one of the ways that we can feel good about ourselves by connecting with others.
+あるいは、現在は関係にいなくても、新しい親密な関係を築きたいと思っているかもしれない。その場合、本章は、誰かに好かれ、適切なパートナーだと見てもらうための考えを与えたかもしれない。実際の類似性と想定された類似性、相互的自己開示が好意へ果たす役割や、近接性が魅力へ果たす役割を、以前より考えるようになるだろう。
+
+いずれにせよ、親密な関係でさえ、社会心理学の基本原理、すなわち感情・行動・認知の ABC と、自己への関心・他者への関心という目標から考えられることが分かったはずである。親密な関係は最後の点で特に興味深い。なぜなら他者とつながることで、自分自身について良い感情を持つ方法の一つだからである。
