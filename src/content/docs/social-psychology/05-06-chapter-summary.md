@@ -1,60 +1,61 @@
 ---
-title: "5.6 Chapter Summary"
+title: "5.6 章のまとめ"
 sidebar:
   order: 39
 ---
-Person perception helps us make accurate and informed judgments about how other people are likely to respond to us. At the same time, we are exercising our person perception skills on other people, those same people are also using their powers of person perception to form impressions of us.
 
-Our initial impressions of other people can be formed quite accurately in a very short time—sometimes in a matter of seconds. These initial judgments are made on the basis of the other person’s social category memberships—such as race, gender, and age—and their physical appearance.
+人物知覚は、他者が自分へどのように反応する可能性があるかについて、正確で情報に基づいた判断を行う助けになる。私たちが他者に対して人物知覚の能力を使っているのと同時に、その人々もまた、人物知覚の力を使って私たちについて印象を形成している。
 
-Another source of information in initial perception is nonverbal behavior. We use a wide variety of nonverbal cues to help us form impressions of others. These behaviors are also useful in helping us determine whether people are being honest with us. Although our ability to detect deception is often not very good, there are nevertheless some reliable cues that we can use to do so.
+他者についての第一印象は、非常に短い時間、ときには数秒のうちに、かなり正確に形成できる。この初期判断は、人種、ジェンダー、年齢など、その人物の社会的カテゴリーへの所属や身体的外見をもとに行われる。
 
-Once we learn more about a person, we begin to think about that person in terms of their personality traits. Often we average traits together to form an overall impression of the person. Some traits have more weight than others—for instance, negative traits, the central traits of *warm* and *cold*, and those traits that we learn first.
+初期知覚におけるもう一つの情報源が非言語的行動である。私たちは、さまざまな非言語的手がかりを使って他者についての印象を形成する。また、こうした行動は、相手が自分へ正直であるかどうかを判断する助けにもなる。欺瞞を検出する能力はしばしばそれほど高くないものの、それでも利用できる信頼性のある手がかりはいくつか存在する。
 
-An important task of person perception is to attempt to draw inferences about a person’s personality by observing his or her behavior. This is the process of causal attribution. When we make attributions, we make either personal attributions, situational attributions, or both.
+ある人物についてより多くを知るようになると、その人を性格特性という観点から考え始める。人物について総合的な印象を形成する際には、特性を平均することが多い。一部の特性にはほかより大きな重みがある。たとえば否定的特性、*温かい*と*冷たい*という中心的特性、そして最初に知った特性などである。
 
-We can make stronger personal attributions when behavior is unusual or unexpected and when it is freely chosen. When we have information about behavior over time, we can analyze the consistency, distinctiveness, and consensus of that behavior to make attributions. In some cases, we may use the process of causal attribution to draw conclusions about the causes of success and failure.
+人物知覚の重要な課題の一つは、その人の行動を観察することで性格について推論しようとすることである。これが原因帰属の過程である。帰属を行うとき、個人的帰属、状況的帰属、またはその両方を行う。
 
-Our attributions are generally accurate, but they are subject to some biases. We tend to make too many personal attributions for the behavior of others (the fundamental attribution error), and we make more personal attributions for others than we do for ourselves (the actor-observer effect). In some cases, this may lead us to blame others for events that they might not have been responsible for. Furthermore, we tend to make self-serving attributions, which are frequently inaccurate but which do help us to meet our needs for self-enhancement. We also make a variety of attributions that favor our ingroups over our outgroups (e.g., the group-serving bias) and ones that can lead us to blame people for their misfortunes (e.g., the just world hypothesis).
+行動が普通ではない、予想外である場合や、自由に選択されたものである場合、より強い個人的帰属を行うことができる。時間を通じた行動についての情報がある場合、一貫性、弁別性、合意性を分析して帰属を行うことができる。また場合によっては、原因帰属の過程を使い、成功や失敗の原因について結論を導くこともある。
 
-There are important cultural differences in person perception. People from individualistic cultures, or people for whom an individualistic culture is currently highly accessible, tend to make stronger personal attributions and weaker situational attributions in comparison with people from collectivistic cultures. They also tend to show more self-serving and group-serving biases.
+私たちの帰属は一般に正確だが、いくつかのバイアスを受ける。他者の行動について個人的帰属を行いすぎる傾向があり（基本的帰属錯誤）、自分自身より他者について個人的帰属を多く行う（行為者‐観察者効果）。場合によっては、それによって本当は責任を負っていない出来事について他者を責めることがある。さらに、自己奉仕的帰属を行う傾向もある。これはしばしば不正確だが、自己高揚の欲求を満たす助けになる。また、外集団より内集団を有利に扱うさまざまな帰属（たとえば集団奉仕バイアス）や、人々をその不幸について責めることにつながる帰属（たとえば公正世界仮説）も行う。
 
-Different individuals make different judgments about others, in part because they see those people in different circumstances and in part because they use their own attitudes and schemas when they judge them. This can lead people to make more similar judgments about different people than different people make about the same person. Individual difference variables such as need for cognition and entity versus incremental thinking can also influence our person perception.
+人物知覚には重要な文化差がある。個人主義文化の人々、または個人主義文化がその時点で強く認知的にアクセス可能になっている人々は、集団主義文化の人々と比べ、より強い個人的帰属と、より弱い状況的帰属を行う傾向がある。また、自己奉仕バイアスや集団奉仕バイアスもより強く示す傾向がある。
 
-Causal attributions for our own behaviors have an important outcome on our mental and physical health. For example, whereas a negative attributional style has been linked to depression, a positive attributional style can act as a protective factor against it. Ultimately, finding a balance between positive and realistic explanations of our own behavior appears to be very important to our well-being.
+異なる人は他者について異なる判断を行う。その理由の一部は、異なる状況でその人を見るからであり、また一部は、自分自身の態度やスキーマを使って相手を判断するからである。このため、異なる人々が同じ人物について行う判断より、一人の人が異なる人物について行う判断のほうが似ている場合さえある。認知欲求や、実体理論対増加理論のような個人差変数も、人物知覚へ影響する。
 
-:::note[Interactive activity]
+自分自身の行動について行う原因帰属は、精神的・身体的健康へ重要な影響を与える。たとえば否定的帰属スタイルは抑うつと関連する一方、肯定的帰属スタイルは抑うつに対する保護因子として働く場合がある。最終的には、自分自身の行動についての肯定的説明と現実的説明との間にバランスを見つけることが、幸福にとって非常に重要であるように思われる。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3244#h5p-17](https://opentextbc.ca/socialpsychology/?p=3244#h5p-17)
+:::note[インタラクティブ活動]
+
+インタラクティブな H5P 要素は、このテキスト版から除外されている。オンラインではこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3244#h5p-17](https://opentextbc.ca/socialpsychology/?p=3244#h5p-17)
 
 :::
 
-**H5P: Test your Learning: Chapter 5 Multiple-Choice Quiz**
+**H5P：学習を確認しよう：第5章 選択式クイズ**
 
-To round out your review of this chapter, try this multiple-choice quiz. You can either check the correct answers as you go along, or wait until the end for your overall score. Good luck!
+本章の復習を仕上げるため、この選択式クイズに挑戦しよう。問題を解くたびに正解を確認することも、最後まで待って総合得点を確認することもできる。健闘を祈る！
 
-1. The self-serving attributional bias \_\_\_\_\_.
-  1. tends to be weaker in Western cultures
-  2. tends to be stronger in Western cultures.
-  3. is unrelated to cultural factors
-  4. is only found in Western cultures
-2. People who have depression, compared to those who do not, are more likely to attribute their setbacks to \_\_\_\_\_ and their accomplishments to \_\_\_\_\_.
-  1. enduring internal causes; temporary external causes
-  2. temporary external causes; enduring internal causes
-  3. temporary external causes; temporary internal causes
-  4. enduring external causes; enduring external causes
-3. Jason often shows the correspondence bias when evaluating his political rivals. How do we know this?
-  1. he always uses a self-serving bias in explaining his rivals’ behavior.
-  2. he pays more attention to his rivals’ personalities than to their situations when he makes attributions about their behaviors.
-  3. he tends to focus his attention on the situation rather than on his rivals’ personality traits.
-  4. he gives more weight to situational than individual factors when making attributions about their behaviors.
-4. In Asch’s famous “warm/cold” study, central traits were \_\_\_\_\_.
-  1. traits that we use to make attributions about behaviours
-  2. traits that determine our impression of another person, regardless of their other qualities
-  3. traits that are central to making each individual’s personality unique
-  4. traits that affect our overall impression of others
-5. Joseph would be most likely to attribute Raquel’s behavior to internal causes when consensus is \_\_\_\_\_, consistency is \_\_\_\_\_, and distinctiveness is \_\_\_\_\_.
-  1. low; low; low
-  2. high; high; high
-  3. high; high; low
-  4. low; high; low
+1. 自己奉仕的帰属バイアスは \_\_\_\_\_。
+   1. 西洋文化では弱い傾向がある。
+   2. 西洋文化では強い傾向がある。
+   3. 文化的要因とは無関係である。
+   4. 西洋文化でのみ見られる。
+2. 抑うつを経験している人は、そうでない人と比べ、自分の失敗を \_\_\_\_\_ へ、自分の成功を \_\_\_\_\_ へ帰属しやすい。
+   1. 持続的な内的原因；一時的な外的原因
+   2. 一時的な外的原因；持続的な内的原因
+   3. 一時的な外的原因；一時的な内的原因
+   4. 持続的な外的原因；持続的な外的原因
+3. Jason は政治的なライバルを評価するとき、しばしば対応バイアスを示す。どのような点からそれが分かるか。
+   1. ライバルの行動を説明するとき、常に自己奉仕バイアスを用いる。
+   2. ライバルの行動について帰属するとき、その人が置かれた状況より性格へ多くの注意を向ける。
+   3. ライバルの性格特性より状況へ注意を集中する傾向がある。
+   4. ライバルの行動について帰属するとき、個人的要因より状況的要因へ大きな重みを与える。
+4. Asch の有名な「温かい／冷たい」研究で、中心的特性とは \_\_\_\_\_。
+   1. 行動について帰属するために使う特性
+   2. ほかの特徴にかかわらず、他者への印象を決定する特性
+   3. 各個人の性格を独自なものにする中心的特性
+   4. 他者についての総合的印象へ影響する特性
+5. Joseph が Raquel の行動を内的原因へ帰属する可能性が最も高いのは、合意性が \_\_\_\_\_、一貫性が \_\_\_\_\_、弁別性が \_\_\_\_\_ の場合である。
+   1. 低い；低い；低い
+   2. 高い；高い；高い
+   3. 高い；高い；低い
+   4. 低い；高い；低い

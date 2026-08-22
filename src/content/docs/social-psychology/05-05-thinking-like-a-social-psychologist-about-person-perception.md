@@ -1,30 +1,31 @@
 ---
-title: "5.5 Thinking Like a Social Psychologist about Person Perception"
+title: "5.5 人物知覚について社会心理学者のように考える"
 sidebar:
   order: 38
 ---
-Understanding other people is one of the most important tasks facing us in our everyday lives. Now that you are familiar with the processes we use during person perception, perhaps you will use this information to be more aware of—and perhaps even improve—your own person perception skills. Are you now more aware of how quickly you are forming impressions of other people and of how quickly they are forming impressions of you? Does this knowledge make you think differently about those snap judgments you make about others? Might it make you more careful about how you behave in front of others?
 
-You may find that you are now better able to use your person perception powers to accurately determine how others are responding to you. Do you find yourself more attuned to the nonverbal information that you are sending to others and that they are sending to you? Are you more aware of the role that traits (and particularly central traits) are playing in your everyday interactions? And are you now more (or perhaps less) sure about your skills at detecting deception in others?
+他者を理解することは、日常生活で私たちが直面する最も重要な課題の一つである。人物知覚の際に用いる過程について理解した今、この情報を使って、自分自身の人物知覚能力へより注意を向け、さらには改善できるかもしれない。自分が他者についてどれほど素早く印象を形成し、また相手も自分についてどれほど素早く印象を形成しているかを、以前より意識するようになっただろうか。この知識によって、他者について瞬時に下す判断を以前とは違う形で考えるようになっただろうか。他者の前でどう行動するかについて、より慎重になるだろうか。
 
-Your broader understanding about the processes of causal attribution—and the potential errors that may accompany it—may also help you improve your relationships with others. Do you sometimes blame other people for their misfortunes that they could not really have caused themselves? If so, and you stop to think about it, you know that you may well be falling into the traps of the fundamental attribution error, of the just world hypothesis and defensive attribution. Do you sometimes take more credit for your contribution to a group project than you should? This would, of course, be expected if you, like most people, tend to make self-serving attributions. But because you are thinking like a social psychologist, you will more likely be aware of their potential pitfalls and try to prevent or correct for them.
+今では、人物知覚の能力を利用して、他者が自分へどう反応しているかをより正確に判断できるようになっているかもしれない。自分が他者へ送っている非言語的情報や、相手が自分へ送っている非言語的情報へ以前より敏感になっているだろうか。特性、とりわけ中心的特性が日常の相互作用で果たしている役割を以前より意識しているだろうか。そして今では、他者の欺瞞を見抜く自分の能力について、以前より自信を持っているだろうか。それとも、むしろ自信がなくなっただろうか。
 
-With your new knowledge of person perception in hand, you may also think about your own style of person perception. Do you now do this more thoughtfully or more spontaneously? Could you be more accurate if you took more time to evaluate the actions of others? And how do you think that the culture that you live in influences your person perception? Do you think that cultures are too focused on individuals rather than on situational factors in explaining important social issues, like homelessness, addiction, and crime?
+原因帰属の過程と、それに伴う可能性のある誤りについてより広く理解することは、他者との関係を改善する助けにもなるかもしれない。他者自身には実際には原因を作れなかった不幸について、その人を責めることはないだろうか。もしそうなら、少し考えてみれば、基本的帰属錯誤、公正世界仮説、防衛的帰属の罠へ陥っている可能性があると分かる。集団プロジェクトへの自分の貢献について、本来より多くの功績を自分へ帰すことはないだろうか。ほとんどの人と同じように自己奉仕的帰属を行う傾向があるなら、もちろんこれは予想される。しかし社会心理学者のように考えている今では、こうした帰属の潜在的な落とし穴をより意識し、それを防いだり修正したりしようとする可能性が高くなる。
 
-Finally, consider again the many ways that the processes of causal attribution guide your perceptions of yourself and influence your own behaviors and even your mental and physical health. Now that you can see how important your own thinking styles are, you might want to try to further improve them.
+人物知覚について新しく得た知識を使い、自分自身の人物知覚スタイルについて考えることもできる。今では、以前より熟慮的に人物知覚を行っているだろうか、それとも自発的に行っているだろうか。他者の行動を評価するためより多くの時間をかければ、もっと正確になれるだろうか。また、自分が暮らす文化は人物知覚へどのように影響していると思うだろうか。ホームレス、依存症、犯罪のような重要な社会問題を説明するとき、自分の文化は状況的要因より個人へ焦点を当てすぎていると思うだろうか。
 
-:::note[Interactive activity]
+最後に、原因帰属の過程が自分自身への知覚を導き、自分の行動、さらには精神的・身体的健康へ影響するさまざまな方法について、もう一度考えてみよう。自分自身の思考スタイルがどれほど重要か分かった今、それをさらに改善しようと思うかもしれない。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3242#h5p-16](https://opentextbc.ca/socialpsychology/?p=3242#h5p-16)
+:::note[インタラクティブ活動]
+
+インタラクティブな H5P 要素は、このテキスト版から除外されている。オンラインではこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3242#h5p-16](https://opentextbc.ca/socialpsychology/?p=3242#h5p-16)
 
 :::
 
-**H5P: Test your Learning: Chapter 5 True or False Quiz**
+**H5P：学習を確認しよう：第5章 正誤クイズ**
 
-To check what you have remembered about some key concepts in this chapter, try this quick true-false quiz. You can either choose to get feedback after each question, or wait until the end for an overall score.
+本章の重要な概念についてどの程度覚えているかを確認するため、この短い正誤クイズに挑戦しよう。各問題の後ですぐフィードバックを受け取ることも、最後まで待って総合得点を見ることもできる。
 
-1. The study of social perception focuses on how we try to understand our own and others behavior.
-2. Impression formation research confirms the belief that you should never trust your first impressions of other people.
-3. When Julian often attributes positive outcomes he experiences to internal causes and negative outcomes to external ones, this is an example of the actor-observer effect.
-4. Gurjeet has depression, and so she is more likely than people who do not have depression to show the self-serving bias.
-5. Impression formation is a topic focused on how we interpret people’s personalities over the long-term.
+1. 社会的知覚の研究は、自分自身と他者の行動をどのように理解しようとするかへ焦点を当てる。
+2. 印象形成の研究は、「他者についての第一印象を決して信頼してはいけない」という考えを裏づけている。
+3. Julian が経験した肯定的結果を内的原因へ、否定的結果を外的原因へ頻繁に帰属するなら、これは行為者‐観察者効果の例である。
+4. Gurjeet は抑うつを経験しているため、抑うつを経験していない人より自己奉仕バイアスを示す可能性が高い。
+5. 印象形成は、長期にわたって人の性格をどのように解釈するかへ焦点を当てたテーマである。

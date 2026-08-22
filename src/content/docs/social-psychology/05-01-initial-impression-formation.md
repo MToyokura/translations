@@ -1,369 +1,370 @@
 ---
-title: "5.1 Initial Impression Formation"
+title: "5.1 第一印象の形成"
 sidebar:
   order: 34
 ---
-:::note[Learning Objectives]
 
-1. Describe how people use behaviors and traits to form initial perceptions of others.
-2. Explore research about forming impressions from thin slices of information.
-3. Summarize the role of nonverbal behaviors in person perception.
-4. Review research about detecting deception.
+:::note[学習目標]
+
+1. 人々が行動や特性を用いて他者についての初期知覚をどのように形成するかを説明する。
+2. わずかな情報の断片から印象を形成することについての研究を検討する。
+3. 人物知覚における非言語的行動の役割を要約する。
+4. 欺瞞の検出についての研究を概観する。
 
 :::
 
-People are often very skilled at person perception—*the process of learning about other people*—and our brains are designed to help us judge others efficiently (Haselton & Funder, 2006; Macrae & Quadflieg, 2010). Infants prefer to look at faces of people more than they do other visual patterns, and children quickly learn to identify people and their emotional expressions (Turati, Cassia, Simion, & Leo, 2006). As adults, we are able to identify and remember a potentially unlimited number of people as we navigate our social environments (Haxby, Hoffman, & Gobbini, 2000), and we form impressions of those others quickly and without much effort (Carlston & Skowronski, 2005; Fletcher-Watson, Findlay, Leekam, & Benson, 2008). Furthermore, our first impressions are, at least in some cases, remarkably accurate (Ambady, Bernieri, & Richeson, 2000).
+人々はしばしば人物知覚、すなわち*他者について知る過程*に非常に優れており、私たちの脳は他者を効率的に判断できるように作られている (Haselton & Funder, 2006; Macrae & Quadflieg, 2010)。乳児はほかの視覚パターンより人の顔を見ることを好み、子どもは人やその感情表現をすぐに識別できるようになる (Turati, Cassia, Simion, & Leo, 2006)。成人になると、社会的環境の中で生活する際、潜在的には無限ともいえる数の人々を識別し、記憶することができる (Haxby, Hoffman, & Gobbini, 2000)。また、そうした他者について、素早く、ほとんど努力せずに印象を形成する (Carlston & Skowronski, 2005; Fletcher-Watson, Findlay, Leekam, & Benson, 2008)。さらに、少なくとも一部の場合、私たちの第一印象は驚くほど正確である (Ambady, Bernieri, & Richeson, 2000)。
 
-Recent research is beginning to uncover the areas in our brain where person perception occurs. In one relevant study, Mason and Macrae (2004) used functional magnetic resonance imaging (fMRI) scans to test whether people stored information about other people in a different location in the brain than where they stored information about animals, and they found that this was the case. Specific areas of the prefrontal cortex were found to be more active when people made judgments about people rather than dogs (Figure 5.2).
+近年の研究では、人物知覚が脳のどの領域で生じるのかも明らかになり始めている。関連するある研究で Mason and Macrae (2004) は、機能的磁気共鳴画像法（fMRI）を使い、人についての情報が、動物についての情報とは脳の異なる場所へ保存されるかどうかを調べ、実際にそうであることを見いだした。人々が犬ではなく人について判断するとき、前頭前皮質の特定領域がより活発になることが分かった（図5.2）。
 
-![Figure 5.2 Recent advances in neuroimaging techniques have provided information about the brain structures that are involved in person perception. The prefrontal cortex shows strong activation when we are thinking about another person. Data are from Mason, Banfield, and Macrae (2004). Mason, M. F., &amp; Macrae, C. N. (2004). Categorizing and individuating others: The neural substrates of person perception. Journal of Cognitive Neuroscience, 16(10), 1785–1795. doi: 10.1162/0898929042947801](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/b4fc4eeb161f603c142fca011502c2b91-1.jpg)
+![図5.2 近年の神経画像技法の進歩によって、人物知覚に関係する脳構造についての情報が得られるようになった。他者について考えているとき、前頭前皮質は強く活性化する。データは Mason, Banfield, and Macrae (2004) に基づく。Mason, M. F., & Macrae, C. N. (2004). Categorizing and individuating others: The neural substrates of person perception. Journal of Cognitive Neuroscience, 16(10), 1785–1795. doi: 10.1162/0898929042947801](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/b4fc4eeb161f603c142fca011502c2b91-1.jpg)
 
-*Figure 5.2 Recent advances in neuroimaging techniques have provided information about the brain structures that are involved in person perception. The prefrontal cortex shows strong activation when we are thinking about another person.*
+_図5.2 近年の神経画像技法の進歩によって、人物知覚に関係する脳構造についての情報が得られるようになった。他者について考えているとき、前頭前皮質は強く活性化する。_
 
-Learning about people is a lot like learning about any other object in our environment, with one major exception. With an object, there is no interaction: we learn about the characteristics of a car or a cell phone, for example, without any concern that the car or the phone is learning about us. It is a one-way process. With people, in contrast, there is a two-way social process: just as we are learning about another person, that person is learning about us, or potentially attempting to keep us from accurately perceiving him or her. For instance, research has found that when other people are looking directly at us, we process their features more fully and faster, and we remember them better than when the same people are not looking at us (Hood & Macrae, 2007).
+人について学ぶことは、私たちの環境にあるほかの対象について学ぶこととかなり似ているが、一つ大きな例外がある。物体の場合、相互作用はない。たとえば車や携帯電話の特徴について学ぶとき、その車や携帯電話が私たちについて学んでいるのではないかと気にする必要はない。一方向の過程である。しかし人の場合には、双方向の社会的過程となる。私たちが相手について学んでいるのと同時に、相手も私たちについて学んでいる。または、私たちが相手を正確に知覚できないようにしようとしているかもしれない。たとえば研究では、他者が私たちを直接見ているとき、そうでないときより、その人の特徴をより完全かつ速く処理し、その人をよく記憶することが明らかになっている (Hood & Macrae, 2007)。
 
-In the social dynamic with others, then, we have two goals: first, we need to learn about them, and second, we want them to learn about us (and, we hope, like and respect us). Our focus here is on the former process—how we make sense of other people. But remember that just as you are judging them, they are judging you.
+したがって、他者との社会的な力動の中では、私たちには2つの目標がある。第一に相手について知る必要があり、第二に、相手にも自分について知ってもらいたい。そしてできれば、自分を好きになり、尊重してもらいたい。ここでは前者の過程、つまり他者をどのように理解するのかに焦点を当てる。しかし、あなたが相手を判断しているのと同時に、相手もあなたを判断していることを覚えておこう。
 
-We have seen in “[Chapter 4. Attitudes, Behavior, and Persuasion](/translations/social-psychology/04-attitudes-behavior-and-persuasion/)“, that when people are asked to describe themselves, they generally do so in terms of their physical features (“I am really tall”), social category memberships (“I am a woman”), and traits (“I am friendly”). These characteristics well reflect the dimensions we use when we try to form impressions of others. In this section, we will review how we initially use the physical features and social category memberships of others (e.g., male or female, race, and ethnicity) to form judgments and then will focus on the role of personality traits in person perception.
+「[第4章 態度、行動、説得](/translations/social-psychology/04-attitudes-behavior-and-persuasion/)」で見たように、人々に自分自身について説明してもらうと、通常、身体的特徴（「私はとても背が高い」）、社会的カテゴリーへの所属（「私は女性です」）、特性（「私は親しみやすいです」）という観点から説明する。こうした特徴は、私たちが他者について印象を形成するときに用いる次元をよく反映している。本節ではまず、他者の身体的特徴や社会的カテゴリーへの所属（たとえば男性か女性か、人種、民族など）を使って初期判断を行う方法を概観し、その後、人物知覚における性格特性の役割へ焦点を当てる。
 
-![judgement](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/judgement.jpg)
+![判断](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/judgement.jpg)
 
-*Figure 5.3 One of the important tasks of everyday life is to form judgments about other people.*
+_図5.3 日常生活における重要な課題の一つは、他者について判断を形成することである。_
 
-#### Research Focus
+#### 研究フォーカス
 
-Forming Impressions from Thin Slices
+わずかな情報の断片から印象を形成する
 
-Although it might seem surprising, social psychological research has demonstrated that at least in some limited situations, people can draw remarkably accurate conclusions about others on the basis of very little data, and that they can do this very quickly (Rule & Ambady, 2010; Rule, Ambady, Adams, & Macrae, 2008; Rule, Ambady, & Hallett, 2009).
+驚くように思えるかもしれないが、社会心理学の研究は、少なくとも一部の限られた状況では、人々がごくわずかなデータから他者について驚くほど正確な結論を導き、しかも非常に素早くそれを行えることを示している (Rule & Ambady, 2010; Rule, Ambady, Adams, & Macrae, 2008; Rule, Ambady, & Hallett, 2009)。
 
-Ambady and Rosenthal (1993) made videotapes of six female and seven male graduate students while they were teaching an undergraduate course. The courses covered diverse areas of the college curriculum, including humanities, social sciences, and natural sciences. For each instructor, three 10-second video clips were taken—10 seconds from the first 10 minutes of the class, 10 seconds from the middle of the class, and 10 seconds from the last 10 minutes of the class.
+Ambady and Rosenthal (1993) は、学部生の授業を教えている女子大学院生6人と男子大学院生7人のビデオを撮影した。授業は人文科学、社会科学、自然科学を含む多様な大学教育分野にわたっていた。それぞれの教員について、10秒間のビデオクリップを3本用意した。授業開始後最初の10分間から10秒、授業中盤から10秒、最後の10分間から10秒である。
 
-Nine female undergraduates were asked to rate the 39 clips of the instructors individually on 15 dimensions, such as “optimistic,” “confident,” “active,” and so on, as well as give an overall, global rating. Ambady and her colleagues then compared the ratings of the instructors made by the participants who had seen the instructors for only 30 seconds with the ratings of the same instructors that had been made by actual students who had spent a whole semester with the instructors and who had rated them at the end of the semester on dimensions such as “the quality of the course section” and “the section leader’s performance.” The researchers used the Pearson correlation coefficient to make the comparison (remember that correlations nearer +1.0 or –1.0 are stronger). As you can see in the following table, the ratings of the participants and the ratings of the students were highly positively correlated.
+女子学部生9人に、教員を映した39本のクリップをそれぞれ、「楽観的」「自信がある」「活動的」など15の次元で評価させ、さらに全体的な総合評価も求めた。その後 Ambady らは、教員を合計30秒しか見ていない参加者による評価と、実際に一学期間その教員と過ごし、学期末に「授業セクションの質」「担当教員のパフォーマンス」などの次元で評価した学生による評価を比較した。研究者は比較に Pearson の相関係数を用いた（+1.0または–1.0に近い相関ほど強いことを思い出してほしい）。次の表から分かるように、参加者の評価と学生の評価には高い正の相関があった。
 
-<table style="width: 100%;"><caption>Table 5.1 Forming Accurate Impressions in Only 30 Seconds</caption> <thead><tr><th colspan="2" scope="col">Correlations of Molar Nonverbal Behaviors with College Teacher Effectiveness Ratings (Student Ratings)</th> </tr> </thead> <tbody><tr><td>Variable</td> <td>r</td> </tr> <tr><td>Accepting</td> <td>.50</td> </tr> <tr><td>Active</td> <td>.77**</td> </tr> <tr><td>Attentive</td> <td>.48</td> </tr> <tr><td>Competent</td> <td>.56*</td> </tr> <tr><td>Confident</td> <td>.82***</td> </tr> <tr><td>Dominant</td> <td>.79**</td> </tr> <tr><td>Empathic</td> <td>.45</td> </tr> <tr><td>Enthusiastic</td> <td>.76**</td> </tr> <tr><td>Honest</td> <td>.32</td> </tr> <tr><td>Likable</td> <td>.73**</td> </tr> <tr><td>(Not) Anxious</td> <td>.26</td> </tr> <tr><td>Optimistic</td> <td>.84***</td> </tr> <tr><td>Professional</td> <td>.53</td> </tr> <tr><td>Supportive</td> <td>.55*</td> </tr> <tr><td>Warm</td> <td>.67*</td> </tr> <tr><td>&nbsp;Global Variable</td> <td>.76**</td> </tr> <tr><th colspan="2">*p&lt;.05. **p&lt;.01. ***p&lt;.001. Data are from Ambady and Rosenthal (1993). Ambady, N., &amp; Rosenthal, R. (1993). Half a minute: Predicting teacher evaluations from thin slices of nonverbal behavior and physical attractiveness. Journal of Personality and Social Psychology, 64(3), 431–441.</th> </tr> </tbody> </table>
+<table style="width: 100%;"><caption>表5.1 わずか30秒で正確な印象を形成する</caption> <thead><tr><th colspan="2" scope="col">全体的な非言語的行動と大学教員の有効性評価（学生による評価）との相関</th> </tr> </thead> <tbody><tr><td>変数</td> <td>r</td> </tr> <tr><td>受容的</td> <td>.50</td> </tr> <tr><td>活動的</td> <td>.77**</td> </tr> <tr><td>注意深い</td> <td>.48</td> </tr> <tr><td>有能</td> <td>.56*</td> </tr> <tr><td>自信がある</td> <td>.82***</td> </tr> <tr><td>支配的</td> <td>.79**</td> </tr> <tr><td>共感的</td> <td>.45</td> </tr> <tr><td>熱意がある</td> <td>.76**</td> </tr> <tr><td>正直</td> <td>.32</td> </tr> <tr><td>好ましい</td> <td>.73**</td> </tr> <tr><td>（不）安ではない</td> <td>.26</td> </tr> <tr><td>楽観的</td> <td>.84***</td> </tr> <tr><td>専門的</td> <td>.53</td> </tr> <tr><td>支援的</td> <td>.55*</td> </tr> <tr><td>温かい</td> <td>.67*</td> </tr> <tr><td>&nbsp;総合変数</td> <td>.76**</td> </tr> <tr><th colspan="2">*p&lt;.05. **p&lt;.01. ***p&lt;.001. Data are from Ambady and Rosenthal (1993). Ambady, N., &amp; Rosenthal, R. (1993). Half a minute: Predicting teacher evaluations from thin slices of nonverbal behavior and physical attractiveness. Journal of Personality and Social Psychology, 64(3), 431–441.</th> </tr> </tbody> </table>
 
-If the finding that we can make accurate judgments about other people in only 30 seconds surprises you, then perhaps you will be even more surprised to learn that we do not even need that much time. Willis and Todorov (2006) found that even a tenth of a second was enough to make judgments that correlated highly with the same judgments made by other people who were given several minutes to make the judgments. Other research has found that we can make accurate judgments in seconds or even milliseconds about, for instance, the personalities of salespersons (Ambady, Krabbenhoft, & Hogan, 2006) and even whether or not a person is prejudiced (Richeson & Shelton, 2005).
+わずか30秒で他者について正確な判断を下せるという知見に驚いたなら、それほど長い時間すら必要ないと知れば、さらに驚くかもしれない。Willis and Todorov (2006) は、わずか10分の1秒でも、数分間判断する時間を与えられた別の人々の判断と高く相関する判断を行うのに十分であることを見いだした。ほかの研究では、販売員の性格 (Ambady, Krabbenhoft, & Hogan, 2006) や、その人物が偏見を持っているかどうか (Richeson & Shelton, 2005) についてさえ、数秒、あるいは数ミリ秒で正確な判断を下せることが示されている。
 
-Todorov, Mandisodza, Goren, and Hall (2005) reported a demonstration of just how important such initial impressions can be. These researchers showed to participants pairs of political candidates who had run against each other in previous elections for the U.S. Senate and House of Representatives. Participants saw only the faces of the candidates, and they saw them in some cases for only one second. Their task was to judge which person in of each pair was the most competent. Todorov and colleagues (2005) found that these judgments predicted the actual result of the election; in fact, 68% of the time the person judged to have the most competent face won.
+Todorov, Mandisodza, Goren, and Hall (2005) は、このような第一印象がどれほど重要になりうるかを示した。研究者は参加者に、過去のアメリカ上院選挙や下院選挙で争った政治家候補の顔を2人ずつ組み合わせて見せた。参加者が見たのは候補者の顔だけであり、場合によってはわずか1秒だった。課題は、それぞれの組のうちどちらがより有能そうに見えるかを判断することだった。Todorov ら (2005) は、この判断が実際の選挙結果を予測することを見いだした。実際、より有能そうな顔だと判断された人物が68%の確率で選挙に勝っていた。
 
-Rule and Ambady (2010) showed that perceivers were also able to accurately distinguish whether people were Democrats or Republicans based only on photos of their faces. Republicans were perceived as more powerful than Democrats, and Democrats were perceived as warmer than Republicans. Further, Rule, Ambady, Adams, and Macrae (2008) found that people could accurately determine the sexual orientation of faces presented in photos (gay or straight) based on their judgments of what they thought “most people” would say. These findings have since been replicated across different cultures varying in their average acceptance of homosexuality (Rule, Ishii, Ambady, Rosen, & Hallett, 2011).
+Rule and Ambady (2010) は、顔写真だけをもとに、その人物が民主党員か共和党員かを知覚者がかなり正確に区別できることも示した。共和党員は民主党員より力強く、民主党員は共和党員より温かく知覚された。さらに Rule, Ambady, Adams, and Macrae (2008) は、写真に写った顔の性的指向（同性愛者か異性愛者か）を、「ほとんどの人ならどう答えると思うか」という判断に基づいて正確に判定できることを見いだした。その後、この知見は、同性愛への平均的な受容度が異なる複数の文化でも再現されている (Rule, Ishii, Ambady, Rosen, & Hallett, 2011)。
 
-Taken together, these data confirm that we can form a wide variety of initial impressions of others quickly and, at least in some cases, quite accurately. Of course, in these situations, the people who were being observed were not trying to hide their personalities from the observers. As we saw in Chapter 3, people often use strategic self-presentation quite skillfully, which further complicates the person perception process.
+総合すると、こうしたデータは、私たちが他者について多様な第一印象を素早く形成し、少なくとも一部の場合にはかなり正確であることを確認している。もちろん、ここで観察されていた人々は、観察者から自分の性格を隠そうとしていたわけではない。第3章で見たように、人々は戦略的自己呈示をかなり巧みに行うことがあり、それによって人物知覚の過程はさらに複雑になる。
 
-## Nonverbal Behavior
+## 非言語的行動
 
-One way that the participants in the studies described above may have been able to form such accurate impressions of instructors on the basis of such little information was by viewing their nonverbal behavior. Nonverbal behavior is *any type of communication that does not involve speaking, including facial expressions, body language, touching, voice patterns, and interpersonal distance.* Nonverbal behaviors are used to reinforce spoken words (Hostetter, 2011) but also include such things as interpersonal distance (how far away from you the other person stands), tone of voice, eye gaze, and hand gestures and body positions (DePaulo et al., 2003).
+前述の研究で参加者がごくわずかな情報から教員について非常に正確な印象を形成できた理由の一つは、非言語的行動を観察したことだったのかもしれない。非言語的行動とは、*表情、身体言語、接触、声のパターン、対人距離など、発話を伴わないあらゆる種類のコミュニケーション*である。非言語的行動は話し言葉を補強するために用いられる (Hostetter, 2011) が、対人距離（相手が自分からどれほど離れて立つか）、声の調子、視線、手のジェスチャー、身体の姿勢なども含まれる (DePaulo et al., 2003)。
 
-The ability to decode nonverbal behavior is learned early, even before the development of language (Walker-Andrews, 2008). We tend to like people who have a pleasant tone of voice and open posture, who stand an appropriate distance away from us, and who look at and touch us for the “right” amount of time—not too much or too little. And, of course, behavior matters; people who walk faster are perceived as happier and more powerful than those who walk more slowly (Montepare & Zebrowitz-McArthur, 1988). (For more insight into the relationship between nonverbal communication and success, see social psychologist [Amy Cuddy’s fascinating TED Talk.](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are)
+非言語的行動を読み取る能力は早期に、言語が発達する以前から学習される (Walker-Andrews, 2008)。私たちは、心地よい声の調子と開かれた姿勢を持ち、適切な距離に立ち、「ちょうどよい」程度、つまり多すぎも少なすぎもしない程度にこちらを見たり触れたりする人を好む傾向がある。そしてもちろん、行動も重要である。ゆっくり歩く人より速く歩く人のほうが、より幸福で力強いと知覚される (Montepare & Zebrowitz-McArthur, 1988)。（非言語コミュニケーションと成功との関係についてさらに知りたい場合は、社会心理学者 [Amy Cuddy の興味深い TED Talk](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are) を参照。）
 
-The importance of body movement has been demonstrated in studies in which people are viewed in point-light displays in dark rooms with only small lights at their joints. Research has found that observers are able to accurately recognize the behavior of others from these minimal displays (Clarke, Bradshaw, Field, Hampson, & Rose, 2005; Johnson, Gill, Reichman, & Tassinary, 2007; Heberlein, Adolphs, Tranel, & Damasio, 2004; Figure 5.4 “Point-Light Displays”). People can also determine personality by tone of voice provided by degraded and incomprehensible speech (Ambady, Krabbenhoft, & Hogan, 2006).
+身体運動の重要性は、暗い部屋で、関節部分につけた小さな光だけを見せるポイントライト・ディスプレイを使った研究でも示されている。研究によれば、観察者はこのような最小限の表示からでも他者の行動を正確に認識できる (Clarke, Bradshaw, Field, Hampson, & Rose, 2005; Johnson, Gill, Reichman, & Tassinary, 2007; Heberlein, Adolphs, Tranel, & Damasio, 2004; 図5.4「ポイントライト・ディスプレイ」)。また、劣化させて内容が理解できなくなった音声であっても、声の調子から性格を判断することができる (Ambady, Krabbenhoft, & Hogan, 2006)。
 
-![Figure 5.4 Point-Light Displays](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/689f2e98cf8f77ad94c3a6577a8ab88f.jpg)
+![図5.4 ポイントライト・ディスプレイ](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/689f2e98cf8f77ad94c3a6577a8ab88f.jpg)
 
-*Figure 5.4 Point-Light Displays*
+_図5.4 ポイントライト・ディスプレイ_
 
-People can accurately detect behaviors, emotions, and traits from point-light displays.
+人々はポイントライト・ディスプレイから、行動、感情、特性を正確に検出できる。
 
-Although they may be pretty good at it in some cases, people are often not aware of their ability to make accurate judgments. Rule, Ambady, Adams, and Macrae (2008) found that even though the participants in their research were quite accurate in their perceptions, they could not articulate how they made their judgments. They claimed that they were “just guessing” and could hardly believe that they were getting the judgments right. These results suggest that they were made without any conscious awareness on the part of the judgers. Furthermore, the participants’ judgments of their own accuracy were not generally correlated with their actual accurate judgments.
+場合によってはこのような判断にかなり優れているにもかかわらず、人々は自分が正確な判断を行えることに気づいていないことが多い。Rule, Ambady, Adams, and Macrae (2008) は、研究参加者の知覚がかなり正確だったにもかかわらず、自分がどうやって判断したのか説明できないことを見いだした。参加者は「ただ推測しただけ」と述べ、判断が正しいことをほとんど信じられなかった。この結果は、判断者自身に意識的な自覚がないまま判断が行われたことを示唆している。さらに、自分の正確さについての参加者の判断は、実際の判断精度と一般に相関していなかった。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/love1.jpg)
 
-*Figure 5.5 Nonverbal behaviors are an important form of communication—and they are particularly important in expressing our liking of, and caring for, others.*
+_図5.5 非言語的行動は重要なコミュニケーション形態であり、とりわけ他者への好意や思いやりを表すうえで重要である。_
 
-The particular nonverbal behaviors that we use, as well as their meanings, are determined by social norms, and these norms may vary across cultures. For example, people who live in warm climates nearer the equator use more nonverbal communication (e.g., talking with their hands or showing strong facial expressions) and are more likely to touch each other during conversations than people who live in colder climates nearer Earth’s poles (Manstead, 1991; Pennebaker, Rime, & Blankenship, 1996). And the appropriate amount of personal space to keep between ourselves and others also varies across cultures. In some cultures—for instance, those of South American countries—it is appropriate to stand very close to another person while talking to him or her; in other cultures—for example, in the United States and Western Europe—more interpersonal space is the norm (Knapp & Hall, 2006). The appropriate amount of eye contact with others is also determined by culture. In Latin America, it is appropriate to lock eyes with another person, whereas in Japan, people more often try to avoid eye contact.
+私たちが用いる具体的な非言語的行動とその意味は社会規範によって決まり、こうした規範は文化によって異なることがある。たとえば、赤道に近い温暖な気候に住む人々は、地球の極に近い寒冷な地域に住む人々より、手を使って話したり、強い表情を示したりするなど、より多くの非言語コミュニケーションを用い、会話中に互いへ触れる可能性も高い (Manstead, 1991; Pennebaker, Rime, & Blankenship, 1996)。また、自分と他者との間に保つべき適切なパーソナルスペースの大きさも文化によって異なる。南米諸国など一部の文化では、会話中に相手へ非常に近づいて立つことが適切である。一方、アメリカや西ヨーロッパなど別の文化では、より広い対人距離を取ることが規範となっている (Knapp & Hall, 2006)。他者とどの程度アイコンタクトを取るのが適切かも文化によって決まる。Latin America では相手としっかり目を合わせることが適切であるのに対し、Japan ではアイコンタクトを避けようとすることがより多い。
 
-Although nonverbal behaviors can be informative during the initial stages of person perception, they are limited in what they can convey. In general, they communicate our own status or dominance (self-concern) as well as our interest in or liking of another (other-concern). If we notice that someone is smiling and making eye contact with us while leaning toward us in conversation, we can be pretty sure that he or she likes us. On the other hand, if someone frowns at us, touches us inappropriately, or moves away when we get close, we may naturally conclude that he or she does not like us.
+非言語的行動は人物知覚の初期段階で有益な情報を与えるが、伝えられる内容には限界がある。一般に、非言語的行動は自分自身の地位や支配性（自己への関心）と、他者への関心や好意（他者への関心）を伝える。会話中に相手が笑顔を見せ、こちらと目を合わせ、身体をこちらへ傾けているなら、その人が自分を好いているとかなり確信できる。一方、こちらへ顔をしかめたり、不適切に触れたり、近づくと離れたりする人については、自然に「自分を好きではない」と結論するかもしれない。
 
-We may also use nonverbal behaviors to try out new situations: If we move a little closer and look at someone a bit longer, we communicate our interest. If these responses are reciprocated by the other person, that can indicate that he or she likes us, and we can move on to share other types of information. If the initial nonverbal behaviors are not reciprocated, then we may conclude that the relationship may not work out and we can withdraw before we go “too far.”
+非言語的行動を使って、新しい状況を探ることもできる。少し近づき、相手を少し長く見ることで関心を伝えることができる。相手が同じように反応してくれれば、その人も自分を好いている可能性を示し、そこからさらに別の種類の情報を共有していくことができる。一方、最初の非言語的行動が返されなければ、その関係はうまくいかないかもしれないと判断し、「深入り」する前に引き下がることができる。
 
-Nonverbal behavior provides different information than verbal behavior because people frequently say one thing and do another. Perhaps you remember being really angry at someone but not wanting to let on that you were mad, so you tried to hide your emotions by not saying anything. But perhaps your nonverbal behavior eventually gave you away to the other person: although you were trying as hard as you could not to, you just looked angry. We frequently rely more on nonverbal than on verbal behavior when messages are contradictory. One reason for this is that we know that it is relatively easy to monitor our verbal behavior but harder to control the nonverbal. However, we expect that people who need to deceive others—for instance, good poker players—are able to monitor their nonverbal behavior better than most people, making it difficult to get a good read on them.
+人はしばしば口では一つのことを言いながら別の行動をするため、非言語的行動は言語的行動とは異なる情報を提供する。誰かに非常に腹を立てていたが、怒っていると気づかれたくなかったので、何も言わず感情を隠そうとした経験があるかもしれない。しかし最終的には、非言語的行動が相手に本当の感情を知らせてしまったかもしれない。どれほど隠そうとしても、怒っているように見えてしまったのである。言語的メッセージと非言語的メッセージが矛盾する場合、私たちはしばしば言語的行動より非言語的行動を重視する。その理由の一つは、自分の言葉は比較的容易に監視できる一方、非言語的行動を統制するのは難しいと知っているからである。ただし、優れたポーカー選手のように他者を欺く必要がある人は、一般の人より非言語的行動をうまく監視できると考えられ、そのためその人を正確に読み取ることが難しくなる。
 
-Because we use nonverbal behaviors so frequently in our social interactions, we are fluent readers of them. We also realize that we can better communicate with others when we use them. Indeed, it is difficult to communicate accurately when we cannot express ourselves nonverbally (Krauss, Chen, & Chawla, 1996). You probably have noticed this yourself. If you e-mail or text a message to your friend, for instance, you need to be careful about using sarcasm because he or she might misinterpret your meaning. Because nonverbal information is so important, we quickly learned to incorporate it, in the form of emoticons, in our text messages (Figure 5.6 ).
+社会的相互作用の中で非言語的行動を頻繁に使っているため、私たちはそれを流暢に読み取ることができる。また、非言語的行動を使えば他者とよりよくコミュニケーションできることも理解している。実際、自分を非言語的に表現できない場合、正確なコミュニケーションを行うことは難しい (Krauss, Chen, & Chawla, 1996)。自分でも経験したことがあるだろう。たとえば友人へメールやテキストメッセージを送るとき、皮肉を使う場合には注意しなければならない。相手が意図を誤解する可能性があるからである。非言語的情報が非常に重要であるため、私たちはすぐに、顔文字という形でそれをテキストメッセージへ取り入れるようになった（図5.6）。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/4d9a4463f8627efd14a454c400d201aa-1.jpg)
 
-*Figure 5.6 Emoticons are a type of nonverbal behavior for electronic messages.*
+_図5.6 顔文字は、電子メッセージにおける一種の非言語的行動である。_
 
-### Detecting Danger by Focusing on Negative Information
+### 否定的情報へ注目して危険を検出する
 
-You may have noticed when you first looked at the images presented earlier in this chapter that you tended to like some of the people and to dislike others. It is not surprising that you had these emotions—these initial affective reactions are an essential and highly adaptive part of person perception. One of the things that we need to determine when we first perceive someone is whether that person poses any threat to our well-being. We may dislike or experience negative emotions about people because we feel that they are likely to harm us, just as we may like and feel positively about them if we feel that they can help us (Rozin & Royzman, 2001). Research has found that the threat and the trustworthiness of others are particularly quickly perceived, at least by people who are not trying to hide their intentions (Bar, Neta, & Linz, 2006; Todorov, Said, Engel, & Oosterhof, 2008).
+本章の前半で示された画像を最初に見たとき、一部の人を好ましく感じ、別の人を好ましくないと感じたことに気づいたかもしれない。このような感情を持ったことは驚くべきことではない。こうした初期の感情的反応は、人物知覚の本質的で、非常に適応的な一部だからである。誰かを初めて知覚するときに判断しなければならないことの一つは、その人が自分の幸福へ脅威を与えるかどうかである。相手が自分へ害を与えそうだと感じれば、その人を嫌ったり、否定的な感情を持ったりすることがある。一方、その人が自分を助けてくれそうだと感じれば、好ましく感じ、肯定的な感情を持つことがある (Rozin & Royzman, 2001)。少なくとも自分の意図を隠そうとしていない人については、脅威や信頼性が特に素早く知覚されることが研究で示されている (Bar, Neta, & Linz, 2006; Todorov, Said, Engel, & Oosterhof, 2008)。
 
-Most people with whom we interact are not dangerous, nor do they create problems for us. In fact, when we are asked to rate how much we like complete strangers, we generally rate them positively (Sears, 1986). Because we generally expect people to be positive, people who are negative or threatening are salient, likely to create strong emotional responses, and relatively easy to spot.
+私たちが相互作用するほとんどの人は危険ではなく、問題を起こすわけでもない。実際、完全な見知らぬ人をどの程度好きか評価するよう求められると、一般に肯定的に評価する (Sears, 1986)。通常、人は肯定的であると期待しているため、否定的または脅威的な人は目立ち、強い感情的反応を生み出しやすく、比較的容易に発見できる。
 
-Compared with positive information, negative information about a person tends to elicit more physiological arousal, draw greater attention, and exert greater impact on our judgments and impressions of the person. Hansen and Hansen (1988) had undergraduate students complete a series of trials in which they were shown, for very brief time periods, “crowds” of nine faces (Figure 5.7, “Faces”). On some of the trials, all the faces were happy or all the faces were angry. On other trials, the “crowd” was made up of eight happy faces and one angry face, or eight angry faces and one happy face. For each trial, the participants were instructed to say, as quickly as possible, whether the crowd contained a discrepant face or not. Hansen and Hansen found that the students were significantly faster at identifying the single angry face among the eight happy ones than they were at identifying the single happy face among the eight angry ones. They also made significantly fewer errors doing so. The researchers’ conclusion was that angry, and thus threatening, faces quickly popped out from the crowd. Similarly, Ackerman and colleagues (2006) found that people were better at recognizing the faces of other people when those faces had angry, rather than neutral, expressions, and Dijksterhuis and Aarts (2003) found that people could more quickly and more accurately recognize negative, rather than positive, words.
+人についての否定的情報は、肯定的情報よりも生理的覚醒を強く引き起こし、より多くの注意を引き、その人についての判断や印象へより強い影響を与える傾向がある。Hansen and Hansen (1988) は大学生へ、非常に短い時間だけ9つの顔からなる「群衆」を見せる一連の試行を行った（図5.7「顔」）。ある試行ではすべての顔が笑顔、またはすべての顔が怒った表情だった。別の試行では、8つの笑顔と1つの怒った顔、または8つの怒った顔と1つの笑顔で「群衆」が構成されていた。各試行で参加者は、異なる顔が含まれているかどうかをできるだけ早く答えるよう指示された。Hansen and Hansen は、8つの笑顔の中にある1つの怒った顔を発見するほうが、8つの怒った顔の中にある1つの笑顔を発見するより有意に速く、誤りも有意に少ないことを見いだした。研究者は、怒った、したがって脅威となる顔は、群衆の中からすぐに飛び出して見えると結論した。同様に Ackerman ら (2006) は、中立的表情より怒った表情をしている他者の顔をよりよく認識できることを見いだし、Dijksterhuis and Aarts (2003) は、肯定的な単語より否定的な単語を速く正確に認識できることを示した。
 
-![the left image has 8 happy faces and 1 angry face, the right image has 8 angry faces and 1 happy face](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/smileangry.png)
+![左の画像には8つの笑顔と1つの怒った顔、右の画像には8つの怒った顔と1つの笑顔がある](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/smileangry.png)
 
-*Figure 5.7 Faces.*
+_図5.7 顔。_
 
-Because negative faces are more salient and therefore more likely to grab our attention than are positive faces, people are faster at locating a single negative face in a display of positive faces than they are to locate a single positive face in a display of negative faces.
+否定的な顔は肯定的な顔より目立ち、注意を引きやすいため、人々は否定的な顔の集団の中の1つの肯定的な顔を探すより、肯定的な顔の集団の中の1つの否定的な顔を速く見つける。
 
-Our brains seem to be hardwired to detect negative behaviors (Adams, Gordon, Baird, Ambady, & Kleck, 2003), and at an evolutionary level this makes sense. It is important to tell the “good guys” from the “bad guys” and to try to avoid interacting with the latter. In one study, Tiffany Ito and her colleagues (Ito, Larsen, Smith, & Cacioppo, 1998) showed college students a series of positive, negative, and neutral images while their event-related brain potentials were collected. The researchers found that different parts of the brain reacted to positive and negative images and that the response to negative images was greater overall. They concluded that “negative information weighs more heavily on the brain” (p. 887). In sum, the results of research in person perception are clear: when we are perceiving people, negative information is simply more influential than positive information (Pratto & John, 1991).
+私たちの脳には、否定的行動を検出する仕組みがあらかじめ備わっているようであり (Adams, Gordon, Baird, Ambady, & Kleck, 2003)、進化の観点から見ても合理的である。「良い人」と「悪い人」を区別し、後者との相互作用を避けることは重要である。ある研究で Tiffany Ito とその同僚 (Ito, Larsen, Smith, & Cacioppo, 1998) は、大学生へ肯定的、否定的、中立的な画像を一連で見せ、その間の事象関連脳電位を測定した。脳の異なる部分が肯定的画像と否定的画像へ反応し、全体として否定的画像への反応のほうが大きかった。研究者は「否定的情報は脳により重くのしかかる」(p. 887) と結論した。まとめると、人物知覚研究の結果は明確である。他者を知覚するとき、否定的情報は肯定的情報より強い影響を持つ (Pratto & John, 1991)。
 
-#### Social Psychology in the Public Interest
+#### 公共の利益における社会心理学
 
-##### Detecting Deception
+##### 欺瞞を検出する
 
-One important person perception task that we must all engage in sometimes is to try to determine whether other people are lying to us. We might wonder whether our poker opponent is bluffing, whether our partner is being honest when she tells us she loves us, or whether our boss is really planning to give us the promotion he has promised. This task is particularly important for members of courtroom juries, who are asked determine the truth or falsehood of the testimony given by witnesses. And detecting deception is perhaps even more important for those whose job is to provide public security. How good are professionals, such as airport security officers and police detectives at determining whether or not someone is telling the truth?
+私たち全員がときどき取り組まなければならない重要な人物知覚課題の一つは、他者が自分へ嘘をついているかどうかを判断することである。ポーカーの相手がブラフをしているのか、パートナーが「愛している」と言うとき本当に正直なのか、上司が約束した昇進を本当に与えるつもりなのかと疑うことがある。この課題は、証人の証言が真実か虚偽かを判断するよう求められる裁判の陪審員にとって特に重要である。また、公共の安全を守る仕事に就く人にとっては、欺瞞の検出はさらに重要かもしれない。空港の保安職員や警察の捜査官などの専門家は、誰かが真実を話しているかどうかをどの程度正確に判断できるのだろうか。
 
-It turns out that the average person is only moderately good at detecting deception and that experts do not seem to be much better. In a recent meta-analysis, researchers looked at over 200 studies that had tested the ability of almost 25,000 people to detect deception (Bond & DePaulo, 2006). The researchers found that people were better than chance at doing so but were not really that great. The participants in the studies were able to correctly identify lies and truths about 54% of the time (chance performance is 50%). This is not a big advantage, but it is one that could have at least some practical consequences and that suggests that we can at least detect some deception. However, the meta-analysis also found that experts—including police officers, detectives, judges, interrogators, criminals, customs officials, mental health professionals, polygraph examiners, job interviewers, federal agents, and auditors—were not significantly better at detecting deception than were nonexperts.
+実際のところ、平均的な人は欺瞞を検出する能力がそれほど高いわけではなく、専門家もあまり優れていないようである。最近のメタ分析では、約25,000人の欺瞞検出能力を調べた200件を超える研究が分析された (Bond & DePaulo, 2006)。人々の成績は偶然よりは良かったが、それほど優秀ではなかった。研究参加者が嘘と真実を正しく識別した割合は約54%だった（偶然なら50%）。これは大きな優位性ではないが、少なくとも多少の実用的意味は持ち、ある程度の欺瞞は検出できることを示している。しかし、このメタ分析では、警察官、刑事、裁判官、尋問担当者、犯罪者、税関職員、メンタルヘルスの専門家、ポリグラフ検査官、採用面接官、連邦捜査官、監査人などの専門家も、非専門家より有意に優れているわけではなかった。
 
-Why is it so difficult for us to detect liars? One reason is that people do not expect to be lied to. Most people are good and honest folk, and we expect them to tell the truth, and we tend to give them the benefit of the doubt (Buller, Stiff, & Burgoon, 1996; Gilbert, Krull, & Malone, 1990). In fact, people are more likely to expect deception when they view someone on a videotape than when they are having an interpersonal interaction with the person. It’s as if we expect the people who are right around us to be truthful (Bond & DePaulo, 2006).
+なぜ嘘をついている人を見抜くことはこれほど難しいのだろうか。一つの理由は、人々が「自分は嘘をつかれる」と予想していないことである。ほとんどの人は善良で正直であり、私たちは相手が真実を話すと期待し、疑わしい場合にも好意的に解釈する傾向がある (Buller, Stiff, & Burgoon, 1996; Gilbert, Krull, & Malone, 1990)。実際、相手と直接対人相互作用しているときより、その人をビデオで見ているときのほうが、人々は欺瞞を予想しやすい。まるで、すぐそばにいる人は正直だと期待しているかのようである (Bond & DePaulo, 2006)。
 
-A second reason is that most people are pretty good liars. The cues that liars give off are quite faint, particularly when the lies that they are telling are not all that important. Bella DePaulo and her colleagues (DePaulo et al., 2003) found that in most cases it was very difficult to tell if someone was lying, although it was easier when the liar was trying to cover up something important (e.g., a sexual transgression) than when he or she was lying about something less important. De Paulo and colleagues did find, however, that there were some reliable cues to deception.
+二つ目の理由は、ほとんどの人がかなり上手に嘘をつくからである。嘘をつく人が示す手がかりは非常に弱く、とりわけその嘘がそれほど重大でない場合にはそうである。Bella DePaulo とその同僚 (DePaulo et al., 2003) は、ほとんどの場合、誰かが嘘をついているか判断することは非常に難しいと見いだした。ただし、性的不貞など重大なことを隠そうとしている場合には、それほど重大でないことについて嘘をつく場合より見抜きやすかった。しかし DePaulo らは、欺瞞を示す信頼できる手がかりもいくつか見いだした。
 
-Compared with truth tellers, liars:
+真実を話す人と比べて、嘘をつく人は、
 
-- Made more negative statements overall
-- Appeared more tense
-- Provided fewer details in their stories
-- Gave accounts that were more indirect and less personal
-- Took longer to respond to questions and exhibited more silent pauses when they were not able to prepare their responses
-- Gave responses that were briefer and spoken in a higher pitch
+- 全体として否定的な発言をより多くする。
+- より緊張しているように見える。
+- 話の細部が少ない。
+- より間接的で個人的でない説明をする。
+- あらかじめ回答を準備できない場合、質問へ答えるまでに時間がかかり、沈黙の間も多くなる。
+- 回答が短く、より高い声で話す。
 
-A third reason it is difficult for us to detect liars is that we tend to think we are better at catching lies than we actually are. This overconfidence may prevent us from working as hard as we should to try to uncover the truth.
+嘘を見抜くのが難しい三つ目の理由は、自分は実際より嘘を見抜くのが上手だと思う傾向があることである。この過信のために、真実を明らかにするため本来行うべき努力を十分にしなくなる可能性がある。
 
-Finally, most of us do not really have a very good idea of how to detect deception; we tend to pay attention to the wrong things. Many people think that a person who is lying will avert his or her gaze or will not smile or that perhaps he or she will smile too much. But it turns out that faces are not that revealing. The problem is that liars can more easily control their facial expressions than they can control other parts of their bodies. In fact, Ekman and Friesen (1974) found that people were better able to detect other people’s true emotions when they could see their bodies but not their faces than when they could see their faces but not their bodies. Although we may think that deceivers do not smile when they are lying, it is actually common for them to mask their statements with false smiles—smiles that look very similar to the more natural smile that we make when we are really happy (Ekman & Davidson, 1993; Frank & Ekman, 1993).
+最後に、私たちの多くは欺瞞を見抜く方法を実際にはよく理解しておらず、間違った点へ注意を向ける傾向がある。多くの人は、嘘をついている人は視線をそらす、笑わない、あるいは逆に笑いすぎると考える。しかし実際には、顔はそれほど多くを明らかにしない。嘘をつく人は、身体のほかの部分より表情を容易に統制できることが問題なのである。実際、Ekman and Friesen (1974) は、顔だけを見て身体を見られない場合より、身体を見て顔を見られない場合のほうが、他者の本当の感情を正確に検出できることを見いだした。嘘をつく人は笑わないと思うかもしれないが、実際には、偽りの笑顔で発言を覆い隠すことがよくある。この偽りの笑顔は、本当に幸せなときに見せる自然な笑顔と非常によく似ている (Ekman & Davidson, 1993; Frank & Ekman, 1993)。
 
-Recently, advances in technology have begun to provide new ways to assess deception. Some software analyzes the language of truth tellers, other software analyzes facial microexpressions that are linked with lying (Newman, Pennebaker, Berry, & Richards, 2003), and still other software uses neuroimaging techniques to try to catch liars (Langleben et al., 2005). Whether these techniques will be successful, however, remains to be seen.
+近年の技術進歩によって、欺瞞を評価する新しい方法も生まれ始めている。真実を話す人の言語を分析するソフトウェア、嘘と関連する顔の微表情を分析するソフトウェア (Newman, Pennebaker, Berry, & Richards, 2003)、さらには神経画像技法で嘘をつく人を検出しようとするソフトウェアもある (Langleben et al., 2005)。ただし、こうした技法が成功するかどうかはまだ分からない。
 
-### Judging People by Their Traits
+### 特性によって人を判断する
 
-Although we can learn some things about others by observing their physical characteristics and their nonverbal behaviors, to really understand them we will eventually need to know their personality traits. Traits are important because they are the basic language by which we understand and communicate about people. When we talk about other people, we describe their traits. Our friends are “fun,” “creative,” and “crazy in a good way,” or “quiet,” “serious,” and “controlling.” The language of traits is a powerful one—indeed, there are over 18,000 trait terms in the English language.
+他者の身体的特徴や非言語的行動を観察することで、その人についていくつかのことは学べる。しかし、その人を本当に理解するためには、最終的には性格特性を知る必要がある。特性が重要なのは、人を理解し、人についてコミュニケーションするときの基本的な言語だからである。他者について話すとき、私たちはその特性を説明する。友人は「楽しい」「創造的」「いい意味で変わっている」、あるいは「静か」「真面目」「支配的」と表現される。特性の言語は非常に強力であり、実際、英語には18,000を超える特性を表す用語がある。
 
-### Combining Traits: Information Integration
+### 特性を組み合わせる：情報統合
 
-Let’s consider for a moment how people might use trait terms to form an overall evaluation of another person. Imagine that you have to describe two friends of yours, Amir and Connor, to another person, Rianna, who might be interested in dating one of them. You’ll probably describe the two men in terms of their physical features first, but then you’ll want to say something about their personalities. Let’s say that you want to make both Amir and Connor sound as good as possible to Rianna, but you also want to be honest and not influence her one way or the other. How would you do that? You would probably start by mentioning their positive traits: Amir is “intelligent” and “serious”; Connor is “fun” and “exciting.” But to be fair, you would also need to mention their negative traits: Amir sometimes seems “depressed,” and Connor can be “inconsiderate.”
+人々が特性を表す言葉を使って、別の人物について総合的な評価をどのように形成するかを考えてみよう。あなたには Amir と Connor という2人の友人がおり、そのどちらかとの交際に興味を持つかもしれない Rianna へ2人を紹介しなければならないと想像しよう。おそらくまず身体的特徴について説明するだろうが、その後は性格についても何か言いたくなる。Amir と Connor の両方を Rianna にできるだけよく見せたいが、同時に正直でありたいし、一方へ誘導したくもないとしよう。どうすればよいだろうか。おそらく最初に肯定的特性を挙げる。Amir は「賢く」「真面目」であり、Connor は「楽しく」「刺激的」である。しかし公平を期すには、否定的特性にも触れる必要がある。Amir はときどき「落ち込んでいる」ように見え、Connor は「思いやりに欠ける」ことがある。
 
-You might figure that Rianna will just combine whatever information you give her, perhaps in a mathematical way. For instance, she might listen to all the traits that you mention, decide how positive or negative each one is, and then add the traits together or average them. Research has found that people do exactly that, both for strangers and for people whom they know very well (Anderson, 1974; Falconi & Mullet, 2003). Consider what might happen if you gave Rianna the following information:
+Rianna は、あなたから得た情報を、おそらく数学的な方法で単純に組み合わせるのではないかと考えるかもしれない。たとえば、あなたが挙げたすべての特性を聞き、それぞれがどれほど肯定的または否定的かを判断して、足し合わせたり平均したりするかもしれない。研究では、見知らぬ人についても、非常によく知っている人についても、人々が実際にそのようなことを行うと示されている (Anderson, 1974; Falconi & Mullet, 2003)。Rianna に次の情報を与えたとき何が起こるか考えてみよう。
 
-- Amir is *smart, serious, kind, and sad*.
-- Connor is *fun, happy, selfish, and inconsiderate*.
+- Amir は*賢く、真面目で、親切で、悲しげ*である。
+- Connor は*楽しく、幸福で、利己的で、思いやりに欠ける*。
 
-Rianna might decide to score each trait on a scale of +5 (very positive) to –5 (very negative). Once she has these numbers, she could then either add them together or average them to get an overall judgment.
+Rianna は、それぞれの特性を+5（非常に肯定的）から–5（非常に否定的）の尺度で採点するとしよう。その数値を得たら、それを足し合わせるか平均して、総合的な判断を得ることができる。
 
-*Table 5.2a: Combining Traits – Amir*
+_表5.2a：特性を組み合わせる ― Amir_
 
-| Trait | Value |
-| --- | --- |
-| Smart | +5 |
-| Serious | +1 |
-| Kind | +4 |
-| Sad | –4 |
-| Sum | **+6.0** |
-| Average | +1.5 |
+| 特性   | 値       |
+| ------ | -------- |
+| 賢い   | +5       |
+| 真面目 | +1       |
+| 親切   | +4       |
+| 悲しげ | –4       |
+| 合計   | **+6.0** |
+| 平均   | +1.5     |
 
-*Table 5.2b: Combining Traits – Connor*
+_表5.2b：特性を組み合わせる ― Connor_
 
-| Trait | Value |
-| --- | --- |
-| Fun | +3 |
-| Happy | +2 |
-| Selfish | –4 |
-| Inconsiderate | –5 |
-| **Sum** | **–4.0** |
-| Average | –1.0 |
+| 特性             | 値       |
+| ---------------- | -------- |
+| 楽しい           | +3       |
+| 幸福             | +2       |
+| 利己的           | –4       |
+| 思いやりに欠ける | –5       |
+| **合計**         | **–4.0** |
+| 平均             | –1.0     |
 
-Based on this scoring, Rianna would probably decide that she likes Amir more than Connor. Of course, different people might weight the traits in somewhat different ways, and this would lead different people to draw different impressions about Amir and Connor. But there is pretty good agreement among most people about the meaning of traits, at least in terms of the overall positivity or negativity of each trait, and thus most people would be likely to draw similar conclusions.
+この採点に基づけば、Rianna はおそらく Connor より Amir のほうを好きだと判断するだろう。もちろん、特性に与える重みは人によって多少異なり、そのため Amir と Connor について異なる印象を形成することもある。しかし少なくとも各特性が全体としてどの程度肯定的または否定的かという点では、多くの人の間にかなりの一致があるため、ほとんどの人は似た結論へ達する可能性が高い。
 
-Now imagine that you later thought of some other new, moderately positive characteristics about Amir—that he was also “careful” and “helpful.” Whether you told Rianna about them might depend on how you thought they would affect her overall impression of Amir. Perhaps these new traits would make Rianna like Amir more (after all, they do add new positive information about him). But perhaps they might make her like him less (if the new, moderately positive information diluted the existing positive impression she has already formed about him).
+その後、Amir について新たに、そこそこ肯定的な特徴を思い出したとしよう。「慎重」で「人を助ける」という特徴である。それを Rianna へ伝えるかどうかは、それが Amir への総合的印象へどう影響すると考えるかによるかもしれない。この新しい特性によって Rianna は Amir をより好きになるかもしれない。実際、新しい肯定的情報が加わるからである。しかし逆に、彼を以前より少し好まなくなる可能性もある。新しい、ほどほどに肯定的な情報が、すでに形成された強い肯定的印象を薄めるからである。
 
-One way to think about this is to consider whether Rianna might be *adding* the traits together or *averaging* them. In our first example, it didn’t matter because the outcome was the same. But now it might—if she’s adding the traits together, then Rianna will probably like Amir more after she hears the new information, because new positive traits have been added to the existing sum score. If she is averaging the traits together, however, then Rianna will probably like him less than she did before, because the new, more moderate information tends to dilute the initial impressions.
+これについて考える一つの方法は、Rianna が特性を*加算*しているのか、*平均*しているのかを考えることである。最初の例では結果が同じだったので問題にならなかった。しかし今回は違う可能性がある。特性を加算しているなら、肯定的な新しい特性が現在の合計点へ加わるため、Rianna は新しい情報を聞いた後、Amir をより好きになる可能性が高い。一方、特性を平均しているなら、より中程度の新しい情報によって最初の印象が薄められるため、以前より好意が下がる可能性が高い。
 
-It turns out that in most cases, our judgments are better predicted by mental averaging than by mental adding (Mills, 2007). What this means is that when you are telling someone about another person and you are trying to get him or her to like the person, you should say the most positive things that you know but leave out the more moderate (although also positive) information. The moderate information is more likely to dilute, rather than enhance, the more extreme information.
+実際、ほとんどの場合、私たちの判断は心の中での加算より、心の中での平均によってよく予測される (Mills, 2007)。これは、誰かについて他者へ説明し、その人を好きになってもらおうとする場合、知っている中で最も肯定的なことを伝え、中程度の肯定的情報は省いたほうがよいことを意味する。中程度の情報は、より極端な肯定的情報を強めるより、むしろ薄める可能性が高い。
 
-### The Importance of the Central Traits Warm and Cold
+### 「温かい」と「冷たい」という中心的特性の重要性
 
-Although the averaging model is quite good at predicting final impressions, it is not perfect. This is because some traits are simply weighted more heavily than others. For one, negative information is more heavily weighted than is positive information (Rozin & Royzman, 2001). In addition to the heavy weight that we give to negative traits, we give a particular emphasis to the traits “warm” and “cold.” Imagine two men, Brad and Phil, who were described with these two sets of characteristics:
+平均モデルは最終的な印象をかなりよく予測するが、完全ではない。なぜなら、一部の特性には単純にほかより大きな重みが与えられるからである。第一に、肯定的情報より否定的情報へ大きな重みが与えられる (Rozin & Royzman, 2001)。さらに否定的特性へ大きな重みを与えるだけでなく、「温かい」と「冷たい」という特性を特に重視する。Brad と Phil という2人の男性が、次のような特徴によって説明されたと想像しよう。
 
-- Brad is *industrious, critical, warm, practical, and determined*.
-- Phil is *industrious, critical, cold, practical, and determined*.
+- Brad は*勤勉で、批判的で、温かく、実際的で、決断力がある*。
+- Phil は*勤勉で、批判的で、冷たく、実際的で、決断力がある*。
 
-As you can see, the descriptions are identical except for the presence of “warm” and “cold.” In a classic study, Solomon Asch (1946) found that people described with these two sets of traits were perceived very differently—the “warm” person very positively and the “cold” person very negatively.
+分かるように、「温かい」と「冷たい」以外の説明はまったく同じである。古典的な研究で Solomon Asch (1946) は、この2組の特性で説明された人物が非常に異なって知覚されることを見いだした。「温かい」人物は非常に肯定的に、「冷たい」人物は非常に否定的に知覚された。
 
-To test whether or not these differences would influence real behavior, Harold Kelley (1950) had students read about a professor who was described either as “rather cold” or as “very warm.” Then the professor came into the classroom and led a 20-minute discussion group with the students. Although the professor behaved in the same way for both groups, the students nevertheless reacted very differently to him. The students who were expecting the “warm” instructor were more likely to participate in the discussion, in comparison with those who were expecting him to be “cold.” And at the end of the discussion, the students also rated the professor who had been described as “warm” as being significantly more humorous, sociable, popular, and better natured than the “cold” professor. Moreover, the effects of warmth and coolness seem to be wired into our bodily responses. Research has found that even holding a cup of hot versus iced coffee, or making judgments in warm versus cold rooms leads people to judge others more positively (Ijzerman & Semin, 2009; Williams & Bargh, 2008).
+この違いが実際の行動にも影響するかを調べるため、Harold Kelley (1950) は学生へ、ある教授について「やや冷たい」または「非常に温かい」と書かれた説明を読ませた。その後、教授が教室へ入り、学生と20分間の討論を行った。教授は両群に対して同じように行動したにもかかわらず、学生の反応は大きく異なった。「温かい」教員を予想していた学生は、「冷たい」と予想していた学生より討論へ参加する可能性が高かった。さらに討論後、「温かい」と説明されていた教授は、「冷たい」教授より、有意にユーモアがあり、社交的で、人気があり、性格が良いと評価された。しかも温かさや冷たさの効果は、身体的反応にも組み込まれているようである。温かいコーヒーのカップと冷たいアイスコーヒーのカップのどちらを持っているか、あるいは温かい部屋と寒い部屋のどちらで判断するかだけでも、他者への評価がより肯定的になることが研究で示されている (Ijzerman & Semin, 2009; Williams & Bargh, 2008)。
 
-In short, the particular dimension *warm* versus *cold* makes a big difference in how we perceive people—much bigger than do other traits. As a result, the traits of warm and cold are known as central traits, which are *characteristics that have a very strong influence on our impressions of others* (Asch, 1946). The powerful influence of central traits is due to two things. One, they lead us to make inferences about other traits that might not have been mentioned. The students who heard that the professor was “warm” might also have assumed that he had other positive traits (maybe “nice” and “funny”), in comparison with those who heard that he was “cold.” Two, the important central traits also color our perceptions of the other traits that surround them. When a person is described as “warm” and “intelligent,” the meaning of “intelligent” seems a lot better than does the term “intelligent” in the context of a person who is also “cold.” Overall, the message is clear: if you want to get someone to like you, try to act in a warm manner toward them. Be friendly, nice, and interested in what they say. This attention you pay to the other will be more powerful than any other characteristics that you might try to display to them. The importance of perceptions of warmth-coldness has been confirmed in many other contexts. For example, in the field of psychotherapy, many studies have indicated that therapists’ warmth, empathy, and genuineness are the three most important traits in establishing a strong and trusting relationship with clients, which in turn leads to positive change (Shapiro, 1969).
+要するに、*温かい*対*冷たい*という特定の次元は、人をどう知覚するかへ、ほかの特性よりはるかに大きな違いを生み出す。そのため、温かいと冷たいという特性は中心的特性、すなわち*他者への印象へ非常に強い影響を与える特徴*として知られている (Asch, 1946)。中心的特性の強力な影響には2つの理由がある。第一に、それによって、明示されていない別の特性についても推論するようになる。「温かい」教授だと聞いた学生は、「冷たい」と聞いた学生より、その教授には「親切」「面白い」などほかの肯定的特性もあると仮定したかもしれない。第二に、重要な中心的特性は、周囲にある別の特性の知覚にも色づけをする。「温かく、賢い」人物については、「冷たく、賢い」人物の場合より、「賢い」という言葉の意味そのものがずっと好ましく感じられる。全体としてメッセージは明確である。誰かに自分を好きになってもらいたいなら、その人へ温かい態度を取るようにしよう。親しみやすく、優しく、相手の話に関心を持つのである。相手へ向けるこの注意は、見せようとするほかのどの特徴より強力である。温かさ‐冷たさの知覚の重要性は、ほかの多くの文脈でも確認されている。たとえば心理療法の領域では、セラピストの温かさ、共感、誠実さが、クライアントとの強く信頼できる関係を確立するうえで最も重要な3特性であり、それが肯定的変化につながることが多くの研究で示されている (Shapiro, 1969)。
 
-### First Impressions Matter: The Primacy Effect
+### 第一印象は重要である：初頭効果
 
-It has frequently been said that “first impressions matter.” Social psychological research supports this idea. The primacy effect describes *the tendency for information that we learn first to be weighted more heavily than is information that we learn later*. One demonstration of the primacy effect was conducted by Solomon Asch (1946). In his research, participants learned some traits about a person and then made judgments about him. One half of the participants saw this list of traits:
+「第一印象は重要だ」とよく言われる。社会心理学の研究はこの考えを支持している。初頭効果とは、*最初に学習した情報へ、後から学習した情報より大きな重みを与える傾向*である。初頭効果を示す研究の一つを Solomon Asch (1946) が行った。研究では、参加者がある人物についていくつかの特性を学習し、その後その人を判断した。参加者の半数は次の特性リストを見た。
 
-- *Intelligent, industrious, impulsive, critical, stubborn, envious*
+- _賢い、勤勉、衝動的、批判的、頑固、嫉妬深い_
 
-The other half of the participants saw this list:
+残り半数は次のリストを見た。
 
-- *Envious, stubborn, critical, impulsive, industrious, intelligent*
+- _嫉妬深い、頑固、批判的、衝動的、勤勉、賢い_
 
-You may have noticed something interesting about these two lists—they contain exactly the same traits but in reverse order.
+この2つのリストについて興味深い点に気づいたかもしれない。含まれている特性はまったく同じで、順序だけが逆になっている。
 
-Asch discovered something interesting in his study: because the traits were the same, we might have expected that both groups would form the same impression of the person, but this was not at all the case. Rather, Asch found that the participants who heard the first list, in which the positive traits came first, formed much more favorable impressions than did those who heard the second list, in which the negative traits came first. Similar findings were found by Edward Jones (1968), who had participants watch one of two videotapes of a woman taking an intelligence test. In each video, the woman correctly answered the same number of questions and got the same number wrong. However, when the woman got most of her correct answers in the beginning of the test but got more wrong near the end, she was seen as more intelligent than when she got the same number correct but got more correct at the end of the test.
+Asch の研究では興味深いことが分かった。特性が同じなので、両群は同じ人物像を形成すると予想できるかもしれないが、実際にはまったくそうではなかった。肯定的特性が先に来る最初のリストを聞いた参加者は、否定的特性が先に来る2番目のリストを聞いた参加者より、はるかに好意的な印象を形成した。同様の結果は Edward Jones (1968) によっても得られている。参加者は、女性が知能テストを受ける2種類のビデオのどちらかを見た。どちらのビデオでも女性の正解数と不正解数は同じだった。しかし、テストの最初に多く正解し、終盤で多く間違えた場合のほうが、同じ数だけ正解しながら終盤に正解が多かった場合より、知的だと判断された。
 
-Primacy effects also show up in other domains, even in those that seem really important. For instance, Koppell and Steen (2004) found that in elections in New York City, the candidate who was listed first on the ballot was elected more than 70% of the time, and Miller and Krosnick (1998) found similar effects for candidate preferences in laboratory studies.
+初頭効果は、非常に重要そうに見える領域にも現れる。たとえば Koppell and Steen (2004) は、New York City の選挙では、投票用紙の最初に名前が記載された候補者が70%以上の確率で当選していたことを見いだした。また Miller and Krosnick (1998) も、実験室研究における候補者の選好で似た効果を見いだした。
 
-This is not to say that it is always good to be first. In some cases, the information that comes last can be most influential. Recency effects, *in which information that comes later is given more weight*, although much less common than primacy effects, may sometimes occur. For example, de Bruin (2005) found that in competitions such as the Eurovision Song Contest and ice skating, higher marks were given to competitors who performed last.
+これは、常に最初であるほうがよいという意味ではない。場合によっては最後に提示された情報が最も強い影響を持つこともある。新近効果、すなわち*後から提示された情報へより大きな重みが与えられる現象*は、初頭効果よりはるかに少ないものの、ときに生じる。たとえば de Bruin (2005) は、Eurovision Song Contest やアイススケートなどの競技で、最後に演技した競技者ほど高い点数を与えられることを見いだした。
 
-Considering the primacy effect in terms of the cognitive processes central to human information processing leads us to understand why it can be so powerful. One reason is that humans are cognitive misers. Because we desire to conserve our energy, we are more likely to pay more attention to the information that comes first and less likely to attend to information that comes later. In fact, when people read a series of statements about a person, the amount of time they spend reading the items declines with each new piece of information (Belmore & Hubbard, 1987). Not surprisingly, then, we are more likely to show the primacy effect when we are tired than when we are wide awake and when we are distracted than when we are paying attention (Webster, Richter, & Kruglanski, 1996).
+人間の情報処理の中心にある認知過程という観点から初頭効果を考えると、なぜこれほど強力なのか理解できる。一つの理由は、人間が認知的倹約家だからである。エネルギーを節約したいので、最初に来る情報へ多くの注意を向け、後から来る情報へはあまり注意を払わなくなる。実際、人についての一連の記述を読む場合、新しい情報が追加されるたびに各項目を読む時間は短くなる (Belmore & Hubbard, 1987)。したがって驚くことではないが、十分に目が覚めているときより疲れているとき、注意を集中しているときより気が散っているときのほうが、初頭効果を示しやすい (Webster, Richter, & Kruglanski, 1996)。
 
-Another reason for the primacy effect is that the early traits lead us to form an initial expectancy about the person, and once that expectancy is formed, we tend to process information in ways that keep that expectancy intact. Thinking back to Chapter 2 and the discussion of social cognition, we can see that this of course is a classic case of assimilation—once we have developed a schema, it becomes difficult to change it. If we learn that a person is “intelligent” and “industrious,” those traits become cognitively accessible, which leads us to develop a positive expectancy about the person. When the information about the negative features comes later, these negatives will be assimilated into the existing knowledge more than the existing knowledge is accommodated to fit the new information. Once we have formed a positive impression, the new negative information just doesn’t seem as bad as it might have been had we learned it first. This is an important factor in explaining the halo effect, which is *the influence of a global positive evaluation of a person on perceptions of their specific traits*. Put simply, if we get an initially positive general impression of someone, we often see their specific traits more positively. The halo effect has been demonstrated in many social contexts, including a classic investigation by Bingham and Moore (1931) on job interviewing and a far more recent study of students’ evaluations of their professors (Keeley, English, Irons, & Hensley, 2013).
+初頭効果のもう一つの理由は、早い段階で提示された特性によって相手について最初の期待を形成し、その期待がいったん形成されると、それを維持するような方法で情報を処理する傾向があることである。第2章の社会的認知の議論を思い出せば、これはもちろん同化の典型例である。スキーマを一度形成すると、それを変えることは難しくなる。ある人が「賢く」「勤勉」だと学習すれば、その特性は認知的にアクセスしやすくなり、その人について肯定的な期待を形成する。後から否定的特徴についての情報が来た場合、新しい情報へ合わせて既存の知識を調節するより、その否定的情報を既存の知識へ同化することが多くなる。一度肯定的印象を形成すると、新しい否定的情報は、最初に知った場合ほど悪く見えなくなる。これはハロー効果、すなわち*人物についての全体的な肯定的評価が、その人の具体的特性の知覚へ影響すること*を説明する重要な要因である。簡単に言えば、誰かについて最初に肯定的な全体印象を持つと、その人の具体的な特性もより肯定的に見えることが多い。ハロー効果は、Bingham and Moore (1931) による就職面接についての古典的研究から、学生による教授評価についてのより最近の研究 (Keeley, English, Irons, & Hensley, 2013) まで、多くの社会的文脈で示されている。
 
-You can be sure that it would be good to take advantage of the primacy and halo effects if you are trying to get someone you just met to like you. Begin with your positive characteristics, and only bring the negatives up later. This will create a much better outcome than beginning with the negatives.
+初めて会った人に自分を好きになってもらおうとするなら、初頭効果とハロー効果を利用するのがよいことは間違いない。まず肯定的な特徴から始め、否定的なことは後から伝えるほうがよい。最初に否定的特徴を示すより、はるかによい結果になるだろう。
 
-:::tip[Key Takeaways]
+:::tip[重要ポイント]
 
-- Every day we must size up the people we interact with. The process of doing this is known as person perception.
-- We can form a wide variety of initial impressions of others quickly and often quite accurately.
-- Nonverbal behavior is communication that does not involve speaking, including facial expressions, body language, touching, voice patterns, and interpersonal distance. We rely on nonverbal behavior in our initial judgments of others.
-- The particular nonverbal behaviors that we use, as well as their meanings, are determined by social norms, and these may vary across cultures.
-- In comparison with positive information about people, negative information tends to elicit more physiological arousal, draw greater attention, and exert greater impact on our judgments and impressions of people.
-- People are only moderately good at detecting deception, and experts are not usually much better than the average person.
-- We integrate traits to form judgments of people primarily by averaging them.
-- Negative and central traits have a large effect on our impressions of others.
-- The primacy effect occurs because we pay more attention to information that comes first and also because initial information colors how we perceive information that comes later.
-- These processes also help to explain how the halo effect occurs.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Consider a case where you formed an impression of someone quickly and on only a little information. How accurate do you think your judgment was and why? What information did you take into account? What information might you have missed?
-2. Consider some of the nonverbal behaviors that you and your friends use when you communicate. What information are you usually trying to communicate by using them? When do you find yourself using more vigorous gesturing and why?
-3. Give an example of a situation in which you have noticed the effects of central traits on your perception of someone. Why do you think that this happened?
-4. Describe a situation where you were influenced by either the primacy or the halo effect in your initial perceptions of someone. How accurate did those initial perceptions turn out to be and why?
+- 毎日、私たちは相互作用する人々がどのような人物なのかを判断しなければならない。この過程を人物知覚という。
+- 私たちは他者について多様な第一印象を素早く形成でき、しばしばかなり正確である。
+- 非言語的行動とは、表情、身体言語、接触、声のパターン、対人距離など、発話を伴わないコミュニケーションである。他者について初期判断をするとき、私たちは非言語的行動に依存する。
+- 私たちが用いる具体的な非言語的行動とその意味は社会規範によって決まり、文化によって異なる場合がある。
+- 人についての肯定的情報と比べ、否定的情報は生理的覚醒をより強く引き起こし、より多くの注意を引き、人物についての判断や印象へより強い影響を与える傾向がある。
+- 人々の欺瞞検出能力はそれほど高くなく、専門家も通常、平均的な人より大幅に優れているわけではない。
+- 私たちは主として特性を平均することによって統合し、人物についての判断を形成する。
+- 否定的特性と中心的特性は、他者についての印象へ大きな影響を与える。
+- 初頭効果は、最初の情報へより多くの注意を向けることと、初期情報がその後の情報の知覚へ色づけすることの両方によって生じる。
+- こうした過程は、ハロー効果が生じる仕組みの説明にも役立つ。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Ackerman, J. M., Shapiro, J. R., Neuberg, S. L., Kenrick, D. T., Becker, D. V., Griskevicius, V., Schaller, M. (2006). They all look the same to me (unless they’re angry): From out-group homogeneity to out-group heterogeneity. *Psychological Science, 17*(10), 836–840.
+1. ごくわずかな情報だけをもとに、誰かについて素早く印象を形成した事例を考えなさい。その判断はどの程度正確だったと思うか。また、なぜそう思うか。どのような情報を考慮しただろうか。見落としていた可能性のある情報には何があるだろうか。
+2. あなたや友人がコミュニケーションするときに使う非言語的行動をいくつか考えなさい。通常、それを使ってどのような情報を伝えようとしているだろうか。より激しいジェスチャーを使うのはどのようなときで、それはなぜだろうか。
+3. 誰かについての知覚へ中心的特性の効果が現れていることに気づいた状況の例を挙げなさい。なぜそのようなことが起きたと思うか。
+4. 誰かについての第一印象で、初頭効果またはハロー効果の影響を受けた状況を説明しなさい。その第一印象は最終的にどの程度正確だっただろうか。また、それはなぜだろうか。
 
-Adams, R. B., Jr., Gordon, H. L., Baird, A. A., Ambady, N., & Kleck, R. E. (2003). Effects of gaze on amygdala sensitivity to anger and fear faces. *Science, 300*(5625), 1536.
+:::
 
-Ambady, N., Bernieri, F. J., & Richeson, J. A. (2000). Toward a histology of social behavior: Judgmental accuracy from thin slices of the behavioral stream. In M. P. Zanna (Ed.), *Advances in experimental social psychology* (Vol. 32, pp. 201–271). San Diego, CA: Academic Press.
+#### 参考文献
 
-Ambady, N., Krabbenhoft, M. A., & Hogan, D. (2006). The 30-sec sale: Using thin-slice judgments to evaluate sales effectiveness. *Journal of Consumer Psychology, 16*(1), 4–13. doi: 10.1207/s15327663jcp1601\_2
+Ackerman, J. M., Shapiro, J. R., Neuberg, S. L., Kenrick, D. T., Becker, D. V., Griskevicius, V., Schaller, M. (2006). They all look the same to me (unless they’re angry): From out-group homogeneity to out-group heterogeneity. _Psychological Science, 17_(10), 836–840.
 
-Ambady, N., & Rosenthal, R. (1993). Half a minute: Predicting teacher evaluations from thin slices of nonverbal behavior and physical attractiveness. *Journal of Personality and Social Psychology,* *64**(3)*, 431–441.
+Adams, R. B., Jr., Gordon, H. L., Baird, A. A., Ambady, N., & Kleck, R. E. (2003). Effects of gaze on amygdala sensitivity to anger and fear faces. _Science, 300_(5625), 1536.
 
-Anderson, N. H. (1974). Cognitive algebra: Integration theory applied to social attribution. In L. Berkowitz (Ed.), *Advances in experimental social psychology* (Vol. 7, pp. 1–101). New York, NY: Academic Press;
+Ambady, N., Bernieri, F. J., & Richeson, J. A. (2000). Toward a histology of social behavior: Judgmental accuracy from thin slices of the behavioral stream. In M. P. Zanna (Ed.), _Advances in experimental social psychology_ (Vol. 32, pp. 201–271). San Diego, CA: Academic Press.
 
-Asch, S. E. (1946). Forming impressions of personality. *Journal of Abnormal and Social Psychology, 41*, 258–290.
+Ambady, N., Krabbenhoft, M. A., & Hogan, D. (2006). The 30-sec sale: Using thin-slice judgments to evaluate sales effectiveness. _Journal of Consumer Psychology, 16_(1), 4–13. doi: 10.1207/s15327663jcp1601_2
 
-Bar, M., Neta, M., & Linz, H. (2006). Very first impressions. *Emotion, 6*(2), 269–278. doi: 10.1037/1528–3542.6.2.269;
+Ambady, N., & Rosenthal, R. (1993). Half a minute: Predicting teacher evaluations from thin slices of nonverbal behavior and physical attractiveness. _Journal of Personality and Social Psychology,_ _64\*\*(3)_, 431–441.
 
-Belmore, S. M., & Hubbard, M. L. (1987). The role of advance expectancies in person memory. *Journal of Personality and Social Psychology, 53*(1), 61–70.
+Anderson, N. H. (1974). Cognitive algebra: Integration theory applied to social attribution. In L. Berkowitz (Ed.), _Advances in experimental social psychology_ (Vol. 7, pp. 1–101). New York, NY: Academic Press;
 
-Bingham, W. V., & Moore, B. V. (1931). *How to interview.* Oxford, England: Harpers.
+Asch, S. E. (1946). Forming impressions of personality. _Journal of Abnormal and Social Psychology, 41_, 258–290.
 
-Bond, C. F., Jr., & DePaulo, B. M. (2006). Accuracy of deception judgments. *Personality and Social Psychology Review, 10*(3), 214–234.
+Bar, M., Neta, M., & Linz, H. (2006). Very first impressions. _Emotion, 6_(2), 269–278. doi: 10.1037/1528–3542.6.2.269;
 
-Buller, D. B., Stiff, J. B., & Burgoon, J. K. (1996). Behavioral adaptation in deceptive transactions: Fact or fiction: Reply to Levine and McCornack. *Human Communication Research*, *22*(4), 589-603. doi:10.1111/j.1468-2958.1996.tb00381.x
+Belmore, S. M., & Hubbard, M. L. (1987). The role of advance expectancies in person memory. _Journal of Personality and Social Psychology, 53_(1), 61–70.
 
-Carlston, D. E., & Skowronski, J. J. (2005). Linking versus thinking: Evidence for the different associative and attributional bases of spontaneous trait transference and spontaneous trait inference. *Journal of Personality and Social Psychology, 89*(6), 884–898;
+Bingham, W. V., & Moore, B. V. (1931). _How to interview._ Oxford, England: Harpers.
 
-Clarke, T. J., Bradshaw, M. F., Field, D. T., Hampson, S. E., & Rose, D. (2005). The perception of emotion from body movement in point-light displays of interpersonal dialogue. *Perception, 34*(10), 1171–1180;
+Bond, C. F., Jr., & DePaulo, B. M. (2006). Accuracy of deception judgments. _Personality and Social Psychology Review, 10_(3), 214–234.
 
-de Bruin, W. B. (2005). Save the last dance for me: Unwanted serial position effects in jury evaluations. *Acta Psychologica, 118*(3), 245–260. doi: 10.1016/j.actpsy.2004.08.005
+Buller, D. B., Stiff, J. B., & Burgoon, J. K. (1996). Behavioral adaptation in deceptive transactions: Fact or fiction: Reply to Levine and McCornack. _Human Communication Research_, _22_(4), 589-603. doi:10.1111/j.1468-2958.1996.tb00381.x
 
-DePaulo, B. M., Lindsay, J. J., Malone, B. E., Muhlenbruck, L., Charlton, K., & Cooper, H. (2003). Cues to deception. *Psychological Bulletin, 129*(1), 74–118.
+Carlston, D. E., & Skowronski, J. J. (2005). Linking versus thinking: Evidence for the different associative and attributional bases of spontaneous trait transference and spontaneous trait inference. _Journal of Personality and Social Psychology, 89_(6), 884–898;
 
-Dijksterhuis, A., & Aarts, H. (2003). On wildebeests and humans: The preferential detection of negative stimuli. *Psychological Science, 14*(1), 14–18.
+Clarke, T. J., Bradshaw, M. F., Field, D. T., Hampson, S. E., & Rose, D. (2005). The perception of emotion from body movement in point-light displays of interpersonal dialogue. _Perception, 34_(10), 1171–1180;
 
-Ekman, P., & Davidson, R. J. (1993). Voluntary smiling changes regional brain activity. *Psychological Science, 4*(5), 342–345;
+de Bruin, W. B. (2005). Save the last dance for me: Unwanted serial position effects in jury evaluations. _Acta Psychologica, 118_(3), 245–260. doi: 10.1016/j.actpsy.2004.08.005
 
-Ekman, P., & Friesen, W. V. (1974). Detecting deception from the body or face. *Journal of Personality and Social Psychology, 29*(3), 288–298. doi: 10.1037/h0036006
+DePaulo, B. M., Lindsay, J. J., Malone, B. E., Muhlenbruck, L., Charlton, K., & Cooper, H. (2003). Cues to deception. _Psychological Bulletin, 129_(1), 74–118.
 
-Falconi, A., & Mullet, E. (2003). Cognitive algebra of love through the adult life. *International Journal of Aging and Human Development, 57*(3), 275–290.
+Dijksterhuis, A., & Aarts, H. (2003). On wildebeests and humans: The preferential detection of negative stimuli. _Psychological Science, 14_(1), 14–18.
 
-Fletcher-Watson, S., Findlay, J. M., Leekam, S. R., & Benson, V. (2008). Rapid detection of person information in a naturalistic scene. *Perception, 37*(4), 571–583.
+Ekman, P., & Davidson, R. J. (1993). Voluntary smiling changes regional brain activity. _Psychological Science, 4_(5), 342–345;
 
-Frank, M. G., & Ekman, P. (1993). Not all smiles are created equal: The differences between enjoyment and nonenjoyment smiles. *Humor: International Journal of Humor Research, 6*(1), 9–26.
+Ekman, P., & Friesen, W. V. (1974). Detecting deception from the body or face. _Journal of Personality and Social Psychology, 29_(3), 288–298. doi: 10.1037/h0036006
 
-Gilbert, D. T., Krull, D. S., & Malone, P. S. (1990). Unbelieving the unbelievable: Some problems in the rejection of false information. *Journal of Personality and Social Psychology, 59*(4), 601–613.
+Falconi, A., & Mullet, E. (2003). Cognitive algebra of love through the adult life. _International Journal of Aging and Human Development, 57_(3), 275–290.
 
-Hansen, C. H., & Hansen, R. D. (1988). Finding the face in the crowd: An anger superiority effect. *Journal of Personality and Social Psychology, 54*(6), 917–924.
+Fletcher-Watson, S., Findlay, J. M., Leekam, S. R., & Benson, V. (2008). Rapid detection of person information in a naturalistic scene. _Perception, 37_(4), 571–583.
 
-Haselton, M. G., & Funder, D. C. (2006). The evolution of accuracy and bias in social judgment. In M. Schaller, J. A. Simpson, & D. T. Kenrick (Eds.), *Evolution and social psychology* (pp. 15–37). Madison, CT: Psychosocial Press.
+Frank, M. G., & Ekman, P. (1993). Not all smiles are created equal: The differences between enjoyment and nonenjoyment smiles. _Humor: International Journal of Humor Research, 6_(1), 9–26.
 
-Haxby, J. V., Hoffman, E. A., & Gobbini, M. I. (2000). The distributed human neural system for face perception. *Trends in Cognitive Sciences, 4*(6), 223–233.
+Gilbert, D. T., Krull, D. S., & Malone, P. S. (1990). Unbelieving the unbelievable: Some problems in the rejection of false information. _Journal of Personality and Social Psychology, 59_(4), 601–613.
 
-Heberlein, A. S., Adolphs, R., Tranel, D., & Damasio, H. (2004). Cortical regions for judgments of emotions and personality traits from point-light walkers. *Journal of Cognitive Neuroscience, 16*(7), 1143–1158.
+Hansen, C. H., & Hansen, R. D. (1988). Finding the face in the crowd: An anger superiority effect. _Journal of Personality and Social Psychology, 54_(6), 917–924.
 
-Hood, B. M., & Macrae, C. N. (2007). Look into my eyes: The effect of direct gaze on face processing in children and adults. In R. Flom, K. Lee, & D. Muir (Eds.), *Gaze-following: Its development and significance* (pp. 283–296). Mahwah, NJ: Lawrence Erlbaum; Mason, M. F.,
+Haselton, M. G., & Funder, D. C. (2006). The evolution of accuracy and bias in social judgment. In M. Schaller, J. A. Simpson, & D. T. Kenrick (Eds.), _Evolution and social psychology_ (pp. 15–37). Madison, CT: Psychosocial Press.
 
-Hostetter, A. B. (2011). When do gestures communicate? A meta-analysis. *Psychological Bulletin, 137* (2), 297–315.
+Haxby, J. V., Hoffman, E. A., & Gobbini, M. I. (2000). The distributed human neural system for face perception. _Trends in Cognitive Sciences, 4_(6), 223–233.
 
-Ijzerman, H., & Semin, G. R. (2009). The thermometer of social relations: Mapping social proximity on temperature. *Psychological Science, 20*(10), 1214–1220
+Heberlein, A. S., Adolphs, R., Tranel, D., & Damasio, H. (2004). Cortical regions for judgments of emotions and personality traits from point-light walkers. _Journal of Cognitive Neuroscience, 16_(7), 1143–1158.
 
-Ito, T. A., Larsen, J. T., Smith, N. K., & Cacioppo, J. T. (1998). Negative information weighs more heavily on the brain: The negativity bias in evaluative categorizations. *Journal of Personality and Social Psychology, 75*(4), 887–900.
+Hood, B. M., & Macrae, C. N. (2007). Look into my eyes: The effect of direct gaze on face processing in children and adults. In R. Flom, K. Lee, & D. Muir (Eds.), _Gaze-following: Its development and significance_ (pp. 283–296). Mahwah, NJ: Lawrence Erlbaum; Mason, M. F.,
 
-Johnson, K. L., Gill, S., Reichman, V., & Tassinary, L. G. (2007). Swagger, sway, and sexuality: Judging sexual orientation from body motion and morphology. *Journal of Personality and Social Psychology, 93*(3), 321–334;
+Hostetter, A. B. (2011). When do gestures communicate? A meta-analysis. _Psychological Bulletin, 137_ (2), 297–315.
 
-Jones, E. E. (1968). Pattern of performance and ability attribution: An unexpected primacy effect. *Journal of Personality and Social Psychology, 10*(4), 317–340.
+Ijzerman, H., & Semin, G. R. (2009). The thermometer of social relations: Mapping social proximity on temperature. _Psychological Science, 20_(10), 1214–1220
 
-Keeley, J. W., English, T., Irons, J., & Henslee, A. M. (2013). Investigating halo and ceiling effects in student evaluations of instruction. *Educational And Psychological Measurement*, *73*(3), 440-457. doi:10.1177/0013164412475300
+Ito, T. A., Larsen, J. T., Smith, N. K., & Cacioppo, J. T. (1998). Negative information weighs more heavily on the brain: The negativity bias in evaluative categorizations. _Journal of Personality and Social Psychology, 75_(4), 887–900.
 
-Kelley, H. H. (1950). The warm-cold variable in first impressions of persons. *Journal of Personality,18*(4), 431–439.
+Johnson, K. L., Gill, S., Reichman, V., & Tassinary, L. G. (2007). Swagger, sway, and sexuality: Judging sexual orientation from body motion and morphology. _Journal of Personality and Social Psychology, 93_(3), 321–334;
 
-Knapp, M. L., & Hall, J. A. (2006). *Nonverbal communication in human interaction* (6th ed.). Belmont, CA: Thomson Wadsworth.
+Jones, E. E. (1968). Pattern of performance and ability attribution: An unexpected primacy effect. _Journal of Personality and Social Psychology, 10_(4), 317–340.
 
-Koppell, J. G. S., & Steen, J. A. (2004). The effects of ballot position on election outcomes. *Journal of Politics, 66*(1), 267–281.
+Keeley, J. W., English, T., Irons, J., & Henslee, A. M. (2013). Investigating halo and ceiling effects in student evaluations of instruction. _Educational And Psychological Measurement_, _73_(3), 440-457. doi:10.1177/0013164412475300
 
-Krauss, R. M., Chen, Y., & Chawla, P. (Eds.). (1996). *Nonverbal behavior and nonverbal communication: What do conversational hand gestures tell us?* San Diego, CA: Academic Press.
+Kelley, H. H. (1950). The warm-cold variable in first impressions of persons. _Journal of Personality,18_(4), 431–439.
 
-Langleben, D. D., Loughead, J. W., Bilker, W. B., Ruparel, K., Childress, A. R., Busch, S. I., & Gur, R. C. (2005). Telling truth from lie in individual subjects with fast event-related fMRI. *Human Brain Mapping, 26*(4), 262–272.
+Knapp, M. L., & Hall, J. A. (2006). _Nonverbal communication in human interaction_ (6th ed.). Belmont, CA: Thomson Wadsworth.
 
-Macrae, C. N., & Quadflieg, S. (2010). Perceiving people. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 1, pp. 428–463). Hoboken, NJ: John Wiley & Sons.
+Koppell, J. G. S., & Steen, J. A. (2004). The effects of ballot position on election outcomes. _Journal of Politics, 66_(1), 267–281.
 
-Manstead, A. S. R. (Ed.). (1991). *Expressiveness as an individual difference*. New York, NY: Cambridge University Press;
+Krauss, R. M., Chen, Y., & Chawla, P. (Eds.). (1996). _Nonverbal behavior and nonverbal communication: What do conversational hand gestures tell us?_ San Diego, CA: Academic Press.
 
-Mason, M. F., & Macrae, C. N. (2004). Categorizing and individuating others: The neural substrates of person perception. *Journal of Cognitive Neuroscience, 16*(10), 1785–1795. doi: 10.1162/0898929042947801
+Langleben, D. D., Loughead, J. W., Bilker, W. B., Ruparel, K., Childress, A. R., Busch, S. I., & Gur, R. C. (2005). Telling truth from lie in individual subjects with fast event-related fMRI. _Human Brain Mapping, 26_(4), 262–272.
 
-Miller, J. M., & Krosnick, J. A. (1998). The impact of candidate name order on election outcomes. *Public Opinion Quarterly, 62*(3), 291–330.
+Macrae, C. N., & Quadflieg, S. (2010). Perceiving people. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (5th ed., Vol. 1, pp. 428–463). Hoboken, NJ: John Wiley & Sons.
+
+Manstead, A. S. R. (Ed.). (1991). _Expressiveness as an individual difference_. New York, NY: Cambridge University Press;
+
+Mason, M. F., & Macrae, C. N. (2004). Categorizing and individuating others: The neural substrates of person perception. _Journal of Cognitive Neuroscience, 16_(10), 1785–1795. doi: 10.1162/0898929042947801
+
+Miller, J. M., & Krosnick, J. A. (1998). The impact of candidate name order on election outcomes. _Public Opinion Quarterly, 62_(3), 291–330.
 
 Mills, J. (2007). Evidence forming attitudes from combining beliefs about positive attributes of activities follows averaging (Unpublished manuscript). University of Maryland, College Park.
 
-Montepare, J. M., & Zebrowitz-McArthur, L. (1988). Impressions of people created by age-related qualities of their gaits. *Journal of Personality and Social Psychology, 55*(4), 547–556.
+Montepare, J. M., & Zebrowitz-McArthur, L. (1988). Impressions of people created by age-related qualities of their gaits. _Journal of Personality and Social Psychology, 55_(4), 547–556.
 
-Newman, M. L., Pennebaker, J. W., Berry, D. S., & Richards, J. M. (2003). Lying words: Predicting deception from linguistic styles. *Personality and Social Psychology Bulletin, 29*(5), 665–675.
+Newman, M. L., Pennebaker, J. W., Berry, D. S., & Richards, J. M. (2003). Lying words: Predicting deception from linguistic styles. _Personality and Social Psychology Bulletin, 29_(5), 665–675.
 
-Pennebaker, J. W., Rime, B., & Blankenship, V. E. (1996). Stereotypes of emotional expressiveness of Northerners and Southerners: A cross-cultural test of Montesquieu’s hypotheses. *Journal of Personality and Social Psychology, 70*(2), 372–380.
+Pennebaker, J. W., Rime, B., & Blankenship, V. E. (1996). Stereotypes of emotional expressiveness of Northerners and Southerners: A cross-cultural test of Montesquieu’s hypotheses. _Journal of Personality and Social Psychology, 70_(2), 372–380.
 
-Pratto, F., & John, O. P. (1991). Automatic vigilance: The attention-grabbing power of negative social information. *Journal of Personality and Social Psychology, 61*(3), 380–391.
+Pratto, F., & John, O. P. (1991). Automatic vigilance: The attention-grabbing power of negative social information. _Journal of Personality and Social Psychology, 61_(3), 380–391.
 
-Richeson, J. A., & Shelton, J. N. (2005). Brief report: Thin slices of racial bias. *Journal of Nonverbal Behavior, 29*(1), 75–86.
+Richeson, J. A., & Shelton, J. N. (2005). Brief report: Thin slices of racial bias. _Journal of Nonverbal Behavior, 29_(1), 75–86.
 
-Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity dominance, and contagion. *Personality and Social Psychology Review, 5*(4), 296–320.
+Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity dominance, and contagion. _Personality and Social Psychology Review, 5_(4), 296–320.
 
-Rule, N. O., & Ambady, N. (2010). Democrats and Republicans can be differentiated from their faces. *PLoS ONE, 5*(1), e8733;
+Rule, N. O., & Ambady, N. (2010). Democrats and Republicans can be differentiated from their faces. _PLoS ONE, 5_(1), e8733;
 
-Rule, N. O., Ambady, N., & Hallett, K. C. (2009). Female sexual orientation is perceived accurately, rapidly, and automatically from the face and its features. *Journal of Experimental Social Psychology, 45*(6), 1245–1251.
+Rule, N. O., Ambady, N., & Hallett, K. C. (2009). Female sexual orientation is perceived accurately, rapidly, and automatically from the face and its features. _Journal of Experimental Social Psychology, 45_(6), 1245–1251.
 
-Rule, N. O., Ambady, N., Adams, R. B., Jr., & Macrae, C. N. (2008). Accuracy and awareness in the perception and categorization of male sexual orientation. *Journal of Personality and Social Psychology, 95*(5), 1019–1028;
+Rule, N. O., Ambady, N., Adams, R. B., Jr., & Macrae, C. N. (2008). Accuracy and awareness in the perception and categorization of male sexual orientation. _Journal of Personality and Social Psychology, 95_(5), 1019–1028;
 
-Rule, N. O., Ishii, K., Ambady, N., Rosen, K. S., & Hallett, K. C. (2011). Found in translation: Cross-cultural consensus in the accurate categorization of male sexual orientation. *Personality And Social Psychology Bulletin*, *37*(11), 1499-1507. doi:10.1177/0146167211415630
+Rule, N. O., Ishii, K., Ambady, N., Rosen, K. S., & Hallett, K. C. (2011). Found in translation: Cross-cultural consensus in the accurate categorization of male sexual orientation. _Personality And Social Psychology Bulletin_, _37_(11), 1499-1507. doi:10.1177/0146167211415630
 
-Sears, D. O. (1986). College sophomores in the laboratory: Influences of a narrow data base on social psychology’s view of human nature. *Journal of Personality and Social Psychology, 51*(3), 515–530.
+Sears, D. O. (1986). College sophomores in the laboratory: Influences of a narrow data base on social psychology’s view of human nature. _Journal of Personality and Social Psychology, 51_(3), 515–530.
 
-Shapiro, D. A. (1969). Empathy, warmth, and genuineness in psychotherapy. *British Journal of Clinical and Social Psychology, 8(4),* 350-361. doi: 10.1111/j.2044-8260.1969.tb00627.x
+Shapiro, D. A. (1969). Empathy, warmth, and genuineness in psychotherapy. _British Journal of Clinical and Social Psychology, 8(4),_ 350-361. doi: 10.1111/j.2044-8260.1969.tb00627.x
 
-Todorov, A., Mandisodza, A. N., Goren, A., & Hall, C. C. (2005). Inferences of competence from faces predict election outcomes. *Science, 308*(5728), 1623–1626.
+Todorov, A., Mandisodza, A. N., Goren, A., & Hall, C. C. (2005). Inferences of competence from faces predict election outcomes. _Science, 308_(5728), 1623–1626.
 
-Todorov, A., Said, C. P., Engel, A. D., & Oosterhof, N. N. (2008). Understanding evaluation of faces on social dimensions. *Trends in Cognitive Sciences, 12*(12), 455–460. doi: 10.1016/j.tics.2008.10.001
+Todorov, A., Said, C. P., Engel, A. D., & Oosterhof, N. N. (2008). Understanding evaluation of faces on social dimensions. _Trends in Cognitive Sciences, 12_(12), 455–460. doi: 10.1016/j.tics.2008.10.001
 
-Turati, C., Cassia, V. M., Simion, F., & Leo, I. (2006). Newborns’ face recognition: Role of inner and outer facial features. *Child Development, 77*(2), 297–311.
+Turati, C., Cassia, V. M., Simion, F., & Leo, I. (2006). Newborns’ face recognition: Role of inner and outer facial features. _Child Development, 77_(2), 297–311.
 
-Walker-Andrews, A. S. (2008). Intermodal emotional processes in infancy. In M. Lewis, J. M. Haviland-Jones, & L. F. Barrett (Eds.), *Handbook of emotions* (3rd ed., pp. 364–375). New York, NY: Guilford Press.
+Walker-Andrews, A. S. (2008). Intermodal emotional processes in infancy. In M. Lewis, J. M. Haviland-Jones, & L. F. Barrett (Eds.), _Handbook of emotions_ (3rd ed., pp. 364–375). New York, NY: Guilford Press.
 
-Webster, D. M., Richter, L., & Kruglanski, A. W. (1996). On leaping to conclusions when feeling tired: Mental fatigue effects on impressional primacy. *Journal of Experimental Social Psychology, 32*(2), 181–195.
+Webster, D. M., Richter, L., & Kruglanski, A. W. (1996). On leaping to conclusions when feeling tired: Mental fatigue effects on impressional primacy. _Journal of Experimental Social Psychology, 32_(2), 181–195.
 
-Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. *Science, 322*(5901), 606–607.
+Williams, L. E., & Bargh, J. A. (2008). Experiencing physical warmth promotes interpersonal warmth. _Science, 322_(5901), 606–607.
 
-Willis, J., & Todorov, A. (2006). First impressions: Making up your mind after a 100ms exposure to a face. *Psychological Science, 17*(7), 592–598.
+Willis, J., & Todorov, A. (2006). First impressions: Making up your mind after a 100ms exposure to a face. _Psychological Science, 17_(7), 592–598.
 
-#### Media Attributions
+#### メディアの帰属表示
 
-- “Figure 5.2 Recent advances in neuroimaging techniques have provided information about the brain structures that are involved in person perception” is based on data are from Mason, Banfield, and Macrae (2004). Mason, M. F., & Macrae, C. N. (2004). Categorizing and individuating others: The neural substrates of person perception. *Journal of Cognitive Neuroscience,* 16(10), 1785–1795. doi: 10.1162/0898929042947801
+- “Figure 5.2 Recent advances in neuroimaging techniques have provided information about the brain structures that are involved in person perception” is based on data are from Mason, Banfield, and Macrae (2004). Mason, M. F., & Macrae, C. N. (2004). Categorizing and individuating others: The neural substrates of person perception. _Journal of Cognitive Neuroscience,_ 16(10), 1785–1795. doi: 10.1162/0898929042947801
 - “[Flickr – Israel Defense Forces – Terrorist Disguised as a Woman](https://commons.wikimedia.org/wiki/File:Flickr_-_Israel_Defense_Forces_-_Terrorist_Disguised_as_a_Woman.jpg)” by [Israel Defense Forces](https://www.flickr.com/people/45644610@N03) is licensed under a [CC BY-SA 3.0 licence](https://creativecommons.org/licenses/by-sa/3.0/deed.en).<br />
 - “[You’re not listening!](https://commons.wikimedia.org/wiki/File:You're_not_listening!.jpg)” by [Jesslee Cuizon](https://www.flickr.com/people/86251769@N00) is licensed under a [CC BY 2.0 licence](https://creativecommons.org/licenses/by/2.0/deed.en).<br />
 - “[Family Party](https://www.flickr.com/photos/fairfaxcounty/8617461034)” by [Fairfax County](https://www.flickr.com/photos/fairfaxcounty/) is licensed under a [CC BY-NC-ND 2.0 licence](https://creativecommons.org/licenses/by-nc-nd/2.0/).

@@ -1,69 +1,70 @@
 ---
-title: "Chapter 5. Perceiving Others"
+title: "第5章 他者を知覚する"
 sidebar:
   order: 33
 ---
-:::note[Chapter Learning Objectives]
 
-1. Initial Impression Formation
+:::note[章の学習目標]
 
-- Describe how people use behaviors and traits to form perceptions of others.
-- Explore research about forming impressions from thin slices of information.
-- Summarize the role of nonverbal behaviors in person perception.
-- Review research about detecting deception.
+1. 第一印象の形成
 
-2. Inferring Dispositions Using Causal Attribution
+- 人々が行動や特性を用いて他者についての知覚をどのように形成するかを説明する。
+- わずかな情報の断片から印象を形成することについての研究を検討する。
+- 人物知覚における非言語的行動の役割を要約する。
+- 欺瞞の検出についての研究を概観する。
 
-- Review the fundamental principles of causal attribution.
-- Explore the tendency to make personal attributions for unusual events.
-- Review the main components of the covariation principle.
-- Outline Weiner’s model of success and failure.
+2. 原因帰属を用いた特性の推論
 
-3. Biases in Attribution
+- 原因帰属の基本原理を概観する。
+- 普通とは異なる出来事について個人的帰属を行う傾向を検討する。
+- 共変原理の主要な構成要素を概観する。
+- Weiner の成功と失敗のモデルを概説する。
 
-- Review a variety of common attibutional biases, outlining cultural diversity in these biases where indicated.
-- Explore the related concepts of the fundamental attribution error and correspondence bias.
-- Describe the actor-observer bias.
-- Outline self-serving attributional biases.
-- Explore group-serving biases in attribution.
-- Describe victim-blaming attributional biases.
+3. 帰属におけるバイアス
 
-4. Individual Differences in Person Perception
+- 一般的なさまざまな帰属バイアスを概観し、該当する場合にはその文化的多様性について概説する。
+- 基本的帰属錯誤と対応バイアスという関連する概念を検討する。
+- 行為者‐観察者バイアスを説明する。
+- 自己奉仕的帰属バイアスを概説する。
+- 帰属における集団奉仕バイアスを検討する。
+- 被害者非難の帰属バイアスを説明する。
 
-- Outline some important individual differences factors that influence people’s causal attributions.
-- Explain the ways that attributions can influence mental health and the ways that mental health can affect attributions.
-- Explore how and why people engage in self-handicapping attributions and behaviors.
+4. 人物知覚における個人差
+
+- 人々の原因帰属へ影響する重要な個人差要因をいくつか概説する。
+- 帰属が精神的健康へ影響する仕組みと、精神的健康が帰属へ影響する仕組みを説明する。
+- 人々がどのように、そしてなぜセルフ・ハンディキャッピング的な帰属や行動を行うのかを検討する。
 
 :::
 
-## Trying to explain murders: Do people from different cultures see things the same way?
+## 殺人事件を説明しようとする：異なる文化の人々は同じように物事を見るのか？
 
-In 1991, Gang Lu was a 28-year-old Chinese former graduate physics student at the University of Iowa, in the United States. He had recently lost a competition for an academic award. He then unsuccessfully appealed the decision, and afterward he was unable to find an academic job. On November 1, he entered the University of Iowa Physics Department and shot his advisor, the person who handled his appeal, several fellow students and bystanders, and then himself. In all, Gang Lu killed five other people besides himself that day: four faculty members and one student—and he seriously injured another student.
+1991年、Gang Lu は、アメリカの University of Iowa で物理学を専攻していた28歳の中国人元大学院生だった。彼は少し前に、学術賞をめぐる競争に敗れていた。その決定に対して異議を申し立てたものの認められず、その後、研究職を得ることもできなかった。11月1日、彼は University of Iowa の物理学科へ入り、指導教員、異議申し立てを担当した人物、数人の学生やその場にいた人々を銃撃し、最後に自分自身を撃った。この日、Gang Lu は自分以外に5人、教員4人と学生1人を殺害し、さらに別の学生1人へ重傷を負わせた。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/06/4180130043_a81aa5a5c0_o.jpg)
 
-*Figure 5.1 University of Iowa, Van Allen Building.*
+_図5.1 University of Iowa、Van Allen Building。_
 
-These tragic events prompted a lot of people in the communities affected and in the press to discuss the reasons for the killings. Michael Morris, at the time a graduate student at the University of Michigan, became interested in these discussions. He noticed that the reports on the English-language campus newspapers focused mainly on Gang Lu’s perceived internal characteristics, making claims about him having had a bad temper and a disturbed personality, for example.
+この悲劇的な出来事を受け、影響を受けた地域社会や報道機関では、殺人の原因について多くの議論が行われた。当時 University of Michigan の大学院生だった Michael Morris は、こうした議論に関心を持った。彼は、英語で書かれた大学新聞の記事が、たとえば Gang Lu は短気で、人格に問題があったというように、主として Gang Lu に知覚された内的特徴へ焦点を当てていることに気づいた。
 
-Morris then consulted with a fellow graduate student who was Chinese, Kaiping Peng, to see how Chinese newspapers were covering the same event. Peng said that in contrast to the English-language campus papers Morris had read, the explanations in the Chinese papers often centered on the social circumstances in the killer’s life; for instance, that he did not get along with his supervisor and on the relatively easy availability of guns in the United States.
+そこで Morris は、中国人の大学院生仲間である Kaiping Peng に相談し、中国の新聞が同じ事件をどのように報じているかを調べた。Peng によれば、Morris が読んだ英語の大学新聞とは対照的に、中国の新聞における説明は、犯人の人生を取り巻く社会的状況へ焦点を当てることが多かった。たとえば、指導教員とうまくいっていなかったことや、アメリカでは銃を比較的容易に入手できることなどである。
 
-Peng and Morris were curious about whether the differences they had observed reflected a wider trend in how Gang Lu’s crimes had been explained. In an attempt to answer that question, they conducted an analysis of the content of the reports about the killings in the *New York Times* and the Chinese-language newspaper, the *World Journal*. Sure enough, they found that the differences in the types of explanations offered for the murders were very different. Whereas the *New York Times* described them mainly in reference to Lu’s internal characteristics, noting things like a “sinister edge to Mr. Lu’s character well before the shootings,” the *World Journal* reporters tended to focus mainly on social factors leading up to the crimes, for example, arguing that the “tragedy reflects the lack of religion in Chinese culture.”
+Peng と Morris は、自分たちが観察した違いが、Gang Lu の犯罪を説明する方法についてのより一般的な傾向を反映しているのかどうかに興味を持った。この問いに答えるため、彼らは _New York Times_ と中国語新聞 _World Journal_ に掲載された殺人事件の記事内容を分析した。その結果、殺人について提示される説明の種類には、実際に大きな違いがあることが分かった。_New York Times_ は、たとえば「銃撃事件よりずっと前から Lu 氏の性格には邪悪な一面があった」というように、主として Lu の内的特徴を参照して事件を説明していた。一方、_World Journal_ の記者は、犯罪へ至った社会的要因を中心に扱う傾向があり、たとえば「この悲劇は中国文化における宗教の欠如を反映している」と論じていた。
 
-Why did these two newspapers report on the same events in such different ways? There are many possible reasons. One particularly relevant topic to social psychologists is that of person perception, which is the study of how we perceive and explain other people’s behavior. Could it be that the different focus of each newspaper was in part due to the contrasting ways that people from the different cultures tend to try to explain human behavior? It is to these and other related topics that we will now turn, coming back to try to shed light on this tragic case study along the way.
+なぜ、この2つの新聞は同じ出来事をこれほど異なる形で報じたのだろうか。考えられる理由は数多くある。社会心理学者に特に関係するテーマの一つが、人物知覚である。人物知覚とは、他者の行動をどのように知覚し、説明するかについての研究である。それぞれの新聞が異なる側面へ焦点を当てたのは、異なる文化の人々が人間の行動を説明しようとするときの方法が対照的だからだったのだろうか。これから、こうした問題や関連する問題を扱いながら、この悲劇的な事例についても折に触れて考えていく。
 
-Sources:
+出典：
 
-Morris, M. W., & Peng, K. (1994). Culture and cause: American and Chinese attributions for social and physical events. *Journal Of Personality And Social Psychology*, *67*(6), 949-971.
+Morris, M. W., & Peng, K. (1994). Culture and cause: American and Chinese attributions for social and physical events. _Journal Of Personality And Social Psychology_, _67_(6), 949-971.
 
-Nisbett, R. E. (2003). *The geography of thought.* New York, NY: Simon & Schuster Inc.
+Nisbett, R. E. (2003). _The geography of thought._ New York, NY: Simon & Schuster Inc.
 
-Although mass killings like these are mercifully rare events, how we try to explain them illustrates many of the processes that we go through in trying to figure out the causes of more everyday behaviors, too. Why did my boss shout at me today? Why is my partner so quiet tonight? Why is that couple arguing in the street? Why did I agree to go to that party? Whenever we are curious about why people, including ourselves, behave in the ways that they do, we engage in an activity that social psychologists call attribution*,* which is *the process of assigning causes to behaviors.*  As we will see later on in this chapter, the very different reasons that the English and Chinese language newspapers used to explain the killings reflect important cultural differences in attribution.
+幸い、このような大量殺人事件はまれだが、それを説明しようとする方法には、より日常的な行動の原因を理解しようとするときに私たちが用いる多くの過程が表れている。なぜ今日、上司は私に怒鳴ったのだろう。なぜ今夜、パートナーはこんなに静かなのだろう。なぜあのカップルは路上で言い争っているのだろう。なぜ私はあのパーティーへ行くことに同意したのだろう。自分自身を含め、人々がなぜそのように行動するのかについて疑問を持つたびに、私たちは社会心理学者が帰属と呼ぶ活動、すなわち*行動に原因を割り当てる過程*を行っている。本章の後半で見るように、英語新聞と中国語新聞が殺人事件を説明するために用いた大きく異なる理由は、帰属における重要な文化差を反映している。
 
-So, we are often in the business of trying to make sense out people and their behavior. In that sense, we are all amateur social psychologists. In some situations, we may need to figure people out quite quickly. Some of these people are not particularly significant to us—the unknown pedestrians we pass on the sidewalk or the checkout clerk at the grocery, for instance. In these cases, our interactions might be on a fairly superficial level—we might just engage in a quick transaction, nod our head in passing, exchange pleasantries, or accomplish some relatively limited tasks with the person before we move on. In other cases, our initial impressions of others might be more important. For example, if someone approaches you in a deserted alleyway, do you need to beat a hasty retreat, or is it safe for you to continue on your way?
+このように、私たちは人々とその行動を理解しようとすることへ日常的に取り組んでいる。その意味では、私たちは皆、アマチュアの社会心理学者である。状況によっては、相手がどのような人物なのかをかなり素早く判断しなければならないこともある。歩道ですれ違う見知らぬ歩行者や、食料品店のレジ係など、私たちにとって特に重要ではない人もいる。このような場合、相互作用はかなり表面的な水準にとどまるかもしれない。短時間の取引をしたり、すれ違いざまにうなずいたり、挨拶を交わしたり、その人と限られた作業を済ませたりした後、すぐ先へ進む。一方、他者についての第一印象がより重要な場合もある。たとえば、人気のない路地で誰かが近づいてきたとき、すぐ逃げる必要があるのか、それとも安全にそのまま進んでよいのかを判断しなければならない。
 
-In this chapter, we will consider how we make sense of other people, including the initial and often intuitive impressions that we rely on so heavily, and our later, more considered judgments. Then we will turn to the process of causal attribution, with the goal of understanding how we infer what other people are really like by observing their behaviors. Finally, we will consider how accurate we are in making our determinations about others and will examine differences among us in our person perception styles. When we are finished, you will have a better idea of how we make judgments about other people, and this insight may enable you to perceive others more accurately.
+本章では、私たちが大きく依存している初期の、しばしば直感的な印象と、その後のより慎重な判断を含め、他者をどのように理解するのかを検討する。次に原因帰属の過程へ移り、他者の行動を観察することで、その人が本当はどのような人物なのかをどのように推論するのかを理解する。最後に、他者について行う判断がどの程度正確なのかを検討し、人物知覚のスタイルにおける個人差について考える。本章を終えるころには、私たちが他者についてどのように判断しているのかをよりよく理解できるようになり、その理解によって、他者をより正確に知覚できるようになるかもしれない。
 
-## Media Attributions
+## メディアの帰属表示
 
 - “Van Allen Hall” by [Twarneke](https://www.flickr.com/photos/trwarnecke/) under [CC BY-SA 2.0 licence](https://creativecommons.org/licenses/by-sa/2.0/).

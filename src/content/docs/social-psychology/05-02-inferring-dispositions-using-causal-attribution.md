@@ -1,154 +1,153 @@
 ---
-title: "5.2 Inferring Dispositions Using Causal Attribution"
+title: "5.2 原因帰属を用いた特性の推論"
 sidebar:
   order: 35
 ---
-:::note[Learning Objectives]
 
-1. Review the fundamental principles of causal attribution.
-2. Explore the tendency to make personal attributions for unusual events.
-3. Review the main components of the covariation principle.
-4. Outline Weiner’s model of success and failure.
+:::note[学習目標]
 
-:::
-
-We have seen that we use personality traits to help us understand and communicate about the people we know. But how do we know what traits people have? People don’t walk around with labels saying “I am generous” or “I am aggressive” on their foreheads. In some cases, thinking back to our discussions of reputation in Chapter 3, we may learn about a person indirectly, for instance, through the comments that other people make about that person. We also use the techniques of person perception to help us learn about people and their traits by observing them and interpreting their behaviors. If Zoe hits Joe, we might conclude that Zoe is aggressive. If Cejay leaves a big tip for the waitress, we might conclude that he is generous. It seems natural and reasonable to make such inferences because we can assume (often, but not always, correctly) that behavior is caused by personality. It is Zoe’s aggressiveness that causes her to hit, and it is Cejay’s generosity that led to his big tip.
-
-Although we can sometimes infer personality by observing behavior, this is not always the case. Remember that behavior is influenced by both our personal characteristics and the social context in which we find ourselves. What this means is that the behavior we observe other people engaging in might not always be reflective of their personality; instead, the behavior might have been caused more by the situation rather than by underlying person characteristics. Perhaps Zoe hit Joe not because she is really an aggressive person but because Joe insulted or provoked her first. And perhaps Cejay left a big tip in order to impress his friends rather than because he is truly generous.
-
-Because behavior can be influenced by both the person and the situation, we must attempt to determine which of these two causes actually more strongly determined the behavior. *The process of trying to determine the causes of people’s behavior* is known as causal attribution (Heider, 1958). Because we cannot see personality, we must work to infer it. When a couple we know breaks up, despite what seemed to be a match made in heaven, we are naturally curious. What could have caused the breakup? Was it something one of them said or did? Or perhaps stress from financial hardship was the culprit?
-
-Making a causal attribution can be a bit like conducting a social psychology experiment. We carefully observe the people we are interested in, and we note how they behave in different social situations. After we have made our observations, we draw our conclusions. We make a personal (or internal or dispositional) attribution *when we decide that the behavior was caused primarily by the person*. A personal attribution might be something like “I think they broke up because Sarah was not committed to the relationship.” At other times, *we may determine that the behavior was caused primarily by the situation*—we call this making a situational (or external) attribution. A situational attribution might be something like, “I think they broke up because they were under such financial stress.” At yet other times, we may decide that the behavior was caused by both the person and the situation; “I think they broke up because Sarah’s lack of commitment really became an issue once they had financial troubles.”
-
-## Making Inferences about Personality
-
-It is easier to make personal attributions in some cases than in others. When a behavior is unusual or unexpected in the particular situation it occurs in, we can more easily make a personal attribution for it. Imagine that you go to a party and you are introduced to Tess. Tess shakes your hand and says, “Nice to meet you!” Can you readily conclude, on the basis of this behavior, that Tess is a friendly person? Probably not. Because the social context demands that people act in a friendly way (by shaking your hand and saying “Nice to meet you”), it is difficult to know whether Tess acted friendly because of the situation or because she is really friendly. Imagine, however, that instead of shaking your hand, Tess ignores you and walks away. In such cases, it is easier in this case to infer that Tess is unfriendly because her behavior is so contrary to what one would expect.
-
-To test this idea, Edward Jones and his colleagues (Jones, Davis, & Gergen, 1961) conducted a classic experiment in which participants viewed one of four different videotapes of a man who was applying for a job. For half the participants, the video indicated that the man was interviewing for a job as a submariner, a position that required close contact with many people over a long period of time. It was clear to the man being interviewed, as well as to the research participants, that to be a good submariner you should be extroverted (i.e., you should enjoy being around others). The other half of the participants saw a video in which the man was interviewing for a job as an astronaut, which involved (remember, this study was conducted in 1961) being in a small capsule, alone, for days on end. In this case, it was clear to everyone that in order to be good astronaut, you should have an introverted personality.
-
-During the videotape of the interview, a second variable was also manipulated. One half of the participants saw the man indicate that he was actually an introvert (he said things such as “I like to work on my own,” “I don’t go out much”), and the other half saw the man say that he was actually an extrovert (he said things such as “I would like to be a salesman,” “I always get ideas from others”). After viewing one of the four videotapes, participants were asked to indicate how introverted or extroverted they thought the applicant really was.
-
-As you can see in Table 5.2, “Attributions to Expected and Unexpected Behaviors,” when the applicant gave responses that better matched what was required by the job (i.e., for the submariner job, the applicant said he was an extrovert, and for the astronaut job, he said he was an introvert), the participants did not think his statements were as indicative of his underlying personality as they did when the applicant said the opposite of what was expected by the job (i.e., when the job required that he be extroverted but he said he was introverted, or vice versa).
-
-<table style="width: 100%;"><caption>Table 5.2 Attributions to Expected and Unexpected Behaviors</caption> <thead><tr><th scope="col">The Job Applied For</th> <th scope="col">Extraverted</th> <th scope="col">Introverted</th> </tr> </thead> <tbody><tr><td scope="row">Astronaut</td> <td>91</td> <td>71</td> </tr> <tr><td scope="row">Submariner</td> <td>71</td> <td>45</td> </tr> <tr><th colspan="3">We are more likely to draw personal attributions when a behavior is unexpected. The numbers represent the percentage of extraverted responses that participants believed the job applicant would actually endorse if he were telling the complete truth. Participants were more likely to believe that the applicant was more extraverted (91%) and more introverted (45%) when he said that he did not have the personality traits required by the job than when he said that he did have the personality traits required by the job. Data are from Jones, Davis, and Gergen (1961). Jones, E. E., Davis, K. E., &amp; Gergen, K. J. (1961). Role playing variations and their informational value for person perception. Journal of Abnormal and Social Psychology, 63(2), 302–310.</th> </tr> </tbody> </table>
-
-The idea here is that the statements that were unusual or unexpected (on the basis of the job requirements) just seemed like they could not possibly have been caused by the situation, so the participants really thought that the interviewee was telling the truth. On the other hand, when the interviewee made statements that were consistent with what was required by the situation, it was more difficult to be sure that he was telling the truth (perhaps, thinking back to the discussion of strategic self-presentation in Chapter 3, he was just saying these things because he wanted to get the job), and the participants made weaker personal attributions for his behavior.
-
-We can also make personal attributions more easily when we know that the person had a choice in the behavior. If a man chooses to be friendly, even in situations in which he might not be, this probably means that he is friendly. But if we can determine that he’s been forced to be friendly, it’s more difficult to know. If, for example, you saw a man pointing a gun at another person, and then you saw that person give his watch and wallet to the gunman, you would probably not infer that the person was generous!
-
-Jones and Harris (1967) had student participants in a study read essays that had been written by other students. Half of the participants thought the students had chosen the essay topics, whereas the other half thought the students had been assigned the topics by their professor. The participants were more likely to make a personal attribution that the students really believed in the essay they were writing when they had chosen the topics rather than been assigned topics.
-
-Sometimes a person may try to lead others to make personal attributions for their behavior to make themselves seem more believable. For example, when a politician makes statements supporting a cause in front of an audience that does not agree with her position, she will be seen as more committed to her beliefs and may be more persuasive than if she gave the same argument in front of an audience known to support her views. Again, the idea is based on principles of attribution: if there is an obvious situational reason for making a statement (the audience supports the politician’s views), then the personal attribution (that the politician really believes what she is saying) is harder to make.
-
-### Detecting the Covariation between Personality and Behavior
-
-So far, we have considered how we make personal attributions when we have only limited information; that is, behavior observed at only a single point in time—a man leaving a big tip at a restaurant, a man answering questions at a job interview, or a politician giving a speech. But the process of making attributions also occurs when we are able to observe a person’s behavior in more than one situation. Certainly, we can learn more about Cejay’s generosity if he gives a big tip in many different restaurants with many different people, and we can learn more about a politician’s beliefs by observing the kinds of speeches she gives to different audiences over time.
-
-When people have multiple sources of information about the behavior of a person, they can make attributions by assessing the relationship between a person’s behavior and the social context in which it occurs. One way of doing so is to use the covariation principle,which states that *a given behavior is more likely to have been caused by the situation if that behavior covaries (or changes) across situations*. Our job, then, is to study the patterns of a person’s behavior across different situations in order to help us to draw inferences about the causes of that behavior (Jones et al., 1987; Kelley, 1967).
-
-Research has found that people focus on three kinds of covariation information when they are observing the behavior of others (Cheng & Novick, 1990).
-
-- Consistency information. A situation seems to be the cause of a behavior if the situation *always produces the behavior in the target*. For instance, if I always start to cry at weddings, then it seems as if the wedding is the cause of my crying.
-- Distinctiveness information. A situation seems to be the cause of a behavior if the behavior *occurs when the situation is present but not when it is not present*. For instance, if I only cry at weddings but not at any other time, then it seems as if the wedding is the cause of my crying.
-- Consensus information. A situation seems to be the cause of a behavior if the situation *creates the same behavior in most people*. For instance, if many people cry at weddings, then it seems as if the wedding is the cause of my (and the other people’s) crying.
-
-Imagine that your friend Jane likes to go out with a lot of different men, and you have observed her behavior with each of these men over time. One night she goes to a party with Ravi, where you observe something unusual. Although Jane has come to the party with Ravi, she completely ignores him all night. She dances with some other men, and in the end she leaves the party with someone else. This is the kind of situation that might make you wonder about the cause of Jane’s behavior (is she a rude person, or is this behavior caused more by Ravi?) and for which you might use the covariation principle to attempt to draw some conclusions.
-
-According to the covariation principle, you should be able to determine the cause of Jane’s behavior by considering the three types of covariation information: consistency, distinctiveness, and consensus. One question you might ask is whether Jane always treats Ravi this way when she goes out with him. If the answer is yes, then you have some consistency information: the perception that a situation always produces the same behavior in a person. If you have noticed that Jane ignores Ravi more than she ignores the other men she dates, then you also have distinctiveness information: the perception that a behavior occurs when the situation is present but not when it is not present. Finally, you might look for consensus information: the perception that a situation is creating the same response in most people—do other people tend to treat Ravi in the same way?
-
-Consider one more example. Imagine that a friend of yours tells you that he has just seen a new movie and that it is the greatest movie he’s ever seen. As you wonder whether you should make an attribution to the situation (the movie), you will naturally ask about consensus; do other people like the movie too? If they do, then you have positive consensus information about how good the movie is. But you probably also have some information about your friend’s experiences with movies over time. If you are like most people, you probably have friends who love every movie they see. If this is the case for this friend, you probably won’t yet be that convinced that it’s a great movie—in this case, your friend’s reactions would not be distinctive. On the other hand, if your friend does not like most movies he sees but loves this one, then distinctiveness is strong (the behavior is occurring only in this particular situation). If this is the case, then you can be more certain it’s something about the movie that has caused your friend’s enthusiasm. Your next thought may be, “I’m going to see that movie tonight.” You can see still another example of the use of covariation information in Table 5.3, “Using Covariation Information.”
-
-<table style="width: 100%;"><caption>Table 5.3 Using Covariation Information</caption> <thead><tr><th scope="col">Attribution</th> <th scope="col">Consensus</th> <th scope="col">Distinctiveness</th> <th scope="col">Consistency</th> </tr> </thead> <tbody><tr><td scope="row">An&nbsp;external attribution&nbsp;(to the situation, in this case the TV show) is more likely if…</td> <td>All my friends laugh at this TV show.</td> <td>Bill laughs more at this TV show.</td> <td>Bill always laughs at this TV show.</td> </tr> <tr><td scope="row">An&nbsp;internal attribution&nbsp;(to the person, in this case Bill) is more likely if…</td> <td>Very few of my friends laugh at this TV show.</td> <td>Bill laughs at this TV show as much as he laughs at other TV shows.</td> <td>Bill always&nbsp;laughs at this TV show.</td> </tr> <tr><th colspan="4">According to the covariation principle, we use three sources of information to help us determine whether we should make an attribution to the situation or to the person. In this example, the attribution is either personal (to my friend Bill) or situational (to a TV show we are watching).</th> </tr> </tbody> </table>
-
-In summary, covariation models predict that we will most likely make external attributions when consensus, distinctiveness, and consistency are all high. In contrast, when consensus and disctinctiveness are both low and this is accompanied by high consistency, then we are most likely to arrive at an internal attribution (Kelley, 1967). In other situations, where the pattern of consensus, consistency, and distinctiveness does not fall into one of these two options, it is predicted that we will tend to make attributions to both the person and the situation.
-
-These predictions have generally been supported in studies of attribution, typically asking people to make attributions about a stranger’s behaviors in vignettes (Kassin, 1979). In studies in more naturalistic contexts, for example those we make about ourselves and others who we know well, many other factors will also affect the types of attributions that we make. These include our relationship to the person and our prior beliefs. For instance, our attributions toward our friends are often more favorable than those we make toward strangers (Campbell, Sedikides, Reeder, & Elliot, 2000). Also, in line with our discussions of schemas and social cogniton in Chapter 2, they are often consistent with the content of the schemas that are salient to us at the time (Lyon, Startup, & Bentall, 1999).
-
-:::note[Interactive activity]
-
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3235#h5p-14](https://opentextbc.ca/socialpsychology/?p=3235#h5p-14)
+1. 原因帰属の基本原理を概観する。
+2. 普通とは異なる出来事について個人的帰属を行う傾向を検討する。
+3. 共変原理の主要な構成要素を概観する。
+4. Weiner の成功と失敗のモデルを概説する。
 
 :::
 
-**H5P: TEST YOUR LEARNING: CHAPTER 5 FILL IN THE BLANKS – INTERNAL OR EXTERNAL ATTRIBUTION CASE STUDY**
+私たちは、知っている人について理解したり話したりするため、性格特性を利用することを見てきた。しかし、その人がどのような特性を持っていると、どうやって分かるのだろうか。「私は寛大です」「私は攻撃的です」と書かれたラベルを額につけて歩いている人はいない。第3章で扱った評判についての議論を思い出すと、場合によっては、ほかの人がその人物について述べることなどを通じ、間接的にその人について知ることがある。また、人物知覚の技法を使い、その人を観察して行動を解釈することで、人やその特性について学ぶ。Zoe が Joe を殴れば、「Zoe は攻撃的だ」と結論するかもしれない。Cejay がウェイトレスへ多額のチップを残せば、「彼は寛大だ」と結論するかもしれない。こうした推論をするのは自然で合理的に思える。行動は性格によって引き起こされると、しばしば、ただし常にではないが正しく仮定できるからである。Zoe の攻撃性が彼女を殴る行動へ導き、Cejay の寛大さが多額のチップへつながったと考えるのである。
 
-Use your understanding of consensus, distinctiveness, and consistency information to determine the type of attribution you would most likely make in the situation below. Fill in each blank with the correct word (low or high for the three types of information; internal or external for the type of attribution).
+行動を観察することで性格を推論できる場合はあるが、常にそうとは限らない。行動は個人的特徴と、自分が置かれている社会的文脈の両方から影響を受けることを思い出してほしい。つまり、他者が行っていると観察した行動が、必ずしもその人の性格を反映しているわけではない。根底にある個人的特徴より、状況によって強く引き起こされていた可能性もある。Zoe が Joe を殴ったのは、本当に攻撃的な人だからではなく、Joe が先に彼女を侮辱したり挑発したりしたからかもしれない。Cejay が多額のチップを残したのも、本当に寛大だからではなく、友人へ良いところを見せたかったからかもしれない。
 
-You are a psychotherapist with many clients. One day, your last client is twenty minutes late for a one hour appointment. He is regularly late for your appointments. Most of your other clients are typically late arriving. He has disclosed to you that, in general, he is quite a punctual person. In this situation, your client’s lateness for his current appointment shows   consensus,   distinctiveness, and   consistency. Given this, it is most likely that you would make an   attribution about his behavior.
+行動は個人と状況の両方から影響を受けるため、この2つの原因のどちらが実際には行動をより強く決定したのかを判断しなければならない。*人々の行動の原因を判断しようとする過程*を原因帰属という (Heider, 1958)。性格は目で見ることができないため、推論しなければならない。「天国で結ばれた」と思えるほど相性のよさそうだった知り合いのカップルが別れれば、当然その原因が気になる。何が別れを引き起こしたのだろうか。どちらかが言ったこと、したことだろうか。それとも経済的困難によるストレスが原因だったのだろうか。
 
-### Attributions for Success and Failure
+原因帰属を行うことは、社会心理学の実験を行うことに少し似ている。関心のある人々を注意深く観察し、異なる社会的状況でどのように行動するかに注目する。そして観察後、結論を導く。行動が主としてその人自身によって引き起こされたと判断するとき、個人的帰属（内的帰属、特性的帰属ともいう）を行う。たとえば「Sarah がその関係に十分コミットしていなかったため、2人は別れたのだと思う」という説明である。一方、*行動が主として状況によって引き起こされた*と判断することもあり、これを状況的帰属（外的帰属ともいう）という。「2人は非常に大きな経済的ストレスを抱えていたため別れたのだと思う」という説明が例である。また、個人と状況の両方が行動を引き起こしたと判断することもある。「経済的問題が生じたとき、Sarah のコミットメントの不足が本当の問題になったため、2人は別れたのだと思う」といった説明である。
 
-Causal attribution is involved in many important situations in our lives; for example, when we attempt to determine why we or others have succeeded or failed at a task. Think back for a moment to a test that you took, or another task that you performed, and consider why you did either well or poorly on it. Then see if your thoughts reflect what Bernard Weiner (1985) considered to be the important factors in this regard.
+## 性格について推論する
 
-Weiner was interested in how we determine the causes of success or failure because he felt that this information was particularly important for us: accurately determining why we have succeeded or failed will help us see which tasks we are good at already and which we need to work on in order to improve. Weiner proposed that we make these determinations by engaging in causal attribution and that the outcomes of our decision-making process were attributions made either to the person (“I succeeded/failed because of my own personal characteristics”) or to the situation (“I succeeded/failed because of something about the situation”).
+個人的帰属を行いやすい場合と、そうでない場合がある。ある行動が、それが生じた特定の状況の中で普通ではない、あるいは予想外である場合、その行動について個人的帰属を行いやすい。パーティーへ行き、Tess を紹介されたと想像しよう。Tess はあなたと握手し、「初めまして！」と言う。この行動だけをもとに、Tess は親しみやすい人だと簡単に結論できるだろうか。おそらくできない。社会的文脈が、握手をして「初めまして」と言うなど、親しみやすく振る舞うことを人々へ求めているため、Tess が状況のために親しみやすく行動したのか、本当に親しみやすい人なのかは分かりにくい。一方、Tess が握手する代わりにあなたを無視して立ち去ったと想像してみよう。その行動は予想されるものと大きく反しているため、この場合は Tess が親しみにくい人だと推論しやすい。
 
-Weiner’s analysis is shown in Figure 5.8, “Attributions for Success and Failure.” According to Weiner, success or failure can be seen as coming from personal causes (e.g., ability, motivation) or from situational causes (e.g., luck, task difficulty). However, he also argued that those personal and situational causes could be either stable (less likely to change over time) or unstable (more likely to change over time).<a id="f5.8"></a>
+この考えを検証するため、Edward Jones とその同僚 (Jones, Davis, & Gergen, 1961) は古典的な実験を行った。参加者は、ある男性が仕事へ応募している4種類のビデオのうち一つを見た。参加者の半数が見たビデオでは、その男性は潜水艦乗組員の職へ応募していた。この職種では、長期間にわたり多くの人と密接に接触する必要がある。面接を受ける男性にも研究参加者にも、優れた潜水艦乗組員になるには外向的、つまり他者と一緒に過ごすことを楽しめる必要があることは明らかだった。残り半数の参加者は、その男性が宇宙飛行士へ応募しているビデオを見た。この仕事では、この研究が1961年に行われたことを思い出してほしいが、小さなカプセルの中で何日も一人で過ごすことになる。この場合、優れた宇宙飛行士になるには内向的な性格が必要だと全員に明らかだった。
 
-![image description linked in caption](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/10/a5955faa479ff8bd748b3e38229076b8.jpg)
+面接ビデオでは、もう一つの変数も操作された。参加者の半数は、男性が実際には内向的だと述べる場面を見た。「一人で仕事をするのが好きだ」「あまり外出しない」などと発言した。残り半数は、実際には外向的だと述べる場面を見た。「セールスマンになりたい」「いつも他者からアイデアを得ている」などと発言した。4本のビデオのうち一つを見た後、参加者は応募者が本当はどの程度内向的または外向的だと思うかを答えた。
 
-*Figure 5.8 Attributions for Success and Failure [\[Image description\]](/translations/social-psychology/05-02-inferring-dispositions-using-causal-attribution/)*
+表5.2「予想される行動と予想外の行動への帰属」から分かるように、応募者が仕事で求められる性格により一致する回答をした場合、すなわち潜水艦乗組員の仕事では外向的だと答え、宇宙飛行士では内向的だと答えた場合、参加者はその発言を、反対の性格を述べた場合ほど本人の根底にある性格を示すものだとは考えなかった。つまり、仕事では外向性が求められるのに「自分は内向的だ」と述べたり、その逆を述べたりした場合のほうが、その発言を本人の性格の証拠として強く受け取った。
 
-This figure shows the potential attributions that we can make for our, or for other people’s, success or failure. *Locus* considers whether the attributions are to the per
+<table style="width: 100%;"><caption>表5.2 予想される行動と予想外の行動への帰属</caption> <thead><tr><th scope="col">応募した仕事</th> <th scope="col">外向的</th> <th scope="col">内向的</th> </tr> </thead> <tbody><tr><td scope="row">宇宙飛行士</td> <td>91</td> <td>71</td> </tr> <tr><td scope="row">潜水艦乗組員</td> <td>71</td> <td>45</td> </tr> <tr><th colspan="3">行動が予想外である場合、個人的帰属を行う可能性が高くなる。数値は、応募者が完全に正直に答えた場合、実際に外向的な回答へ同意すると参加者が考えた割合を表す。応募した仕事で求められる性格特性を持っていないと本人が述べた場合、必要な特性を持っていると述べた場合より、参加者は応募者がより外向的（91%）またはより内向的（45%）だと信じやすかった。Data are from Jones, Davis, and Gergen (1961). Jones, E. E., Davis, K. E., &amp; Gergen, K. J. (1961). Role playing variations and their informational value for person perception. Journal of Abnormal and Social Psychology, 63(2), 302–310.</th> </tr> </tbody> </table>
 
-son or to the situation, and *stability* considers whether or not the situation is likely to remain the same over time.
+ここでの考えは、仕事の要件を基準にして普通ではない、または予想外だった発言は、状況によって引き起こされたとは到底思えなかったため、参加者は面接を受けた人物が本当に正直に話していると考えたということである。一方、その状況で求められるものと一致する発言をした場合、本当に正直なのかは判断しにくかった。第3章の戦略的自己呈示についての議論を思い出せば、その仕事を得たいためにそう言っていただけかもしれない。そのため、その行動についての個人的帰属は弱くなった。
 
-If you did well on a test because you are really smart, then this is a personal and stable attribution of *ability*. It’s clearly something that is caused by you personally, and it is also quite a stable cause—you are smart today, and you’ll probably be smart in the future. However, if you succeeded more because you studied hard, then this is a success due to *motivation*. It is again personal (you studied), but it is also potentially unstable (although you studied really hard for this test, you might not work so hard for the next one). Weiner considered *task difficulty* to be a situational cause: you may have succeeded on the test because it was easy, and he assumed that the next test would probably be easy for you too (i.e., that the task, whatever it is, is always either hard or easy). Finally, Weiner considered success due to *luck* (you just guessed a lot of the answers correctly) to be a situational cause, but one that was more unstable than task difficulty. It turns out that although Weiner’s attributions do not always fit perfectly (e.g., task difficulty may sometimes change over time and thus be at least somewhat unstable), the four types of information pretty well capture the types of attributions that people make for success and failure.
+本人がその行動を選択できたと分かっている場合にも、個人的帰属を行いやすい。親しみやすく振る舞う必要がない状況でも、ある男性が自ら親しみやすく振る舞うことを選べば、おそらく本当に親しみやすい人なのだろう。しかし、親しみやすく振る舞うことを強制されていたと分かれば、判断は難しくなる。たとえば、ある男性が別の人へ銃を向け、その人が銃を持つ男性へ腕時計と財布を渡すのを見たとしても、その人が寛大だとはおそらく推論しないだろう。
 
-We have reviewed some of the important theory and research into how we make attributions. Another important question, that we will now turn to, is how accurately we attribute the causes of behavior. It is one thing to believe that that someone shouted at us because he or she has an aggressive personality, but quite another to prove that the situation, including our own behavior, was not the more important cause!
+Jones and Harris (1967) は学生参加者へ、別の学生が書いたエッセイを読ませた。半数の参加者は、学生自身がエッセイのテーマを選んだと思い、残り半数は教授からテーマを指定されたと思った。テーマを自分で選んだ場合のほうが、割り当てられた場合より、参加者は「その学生はエッセイに書いた内容を本当に信じている」という個人的帰属を行いやすかった。
 
-:::tip[Key Takeaways]
+ときには、本人がより信頼できるように見えるため、自分の行動について他者が個人的帰属を行うよう誘導することもある。たとえば政治家が、自分の立場に反対する聴衆の前である主張を支持する発言をすると、その考えを支持することが知られている聴衆の前で同じ主張をする場合より、信念へのコミットメントが強いと見られ、説得力も高くなるかもしれない。これも帰属の原理に基づいている。ある発言を行う明白な状況的理由、つまり聴衆が政治家の考えを支持していることがある場合、「政治家は自分が言っていることを本当に信じている」という個人的帰属は行いにくくなる。
 
-- Causal attribution is the process of trying to determine the causes of people’s behavior.
-- Attributions are made to personal or situational causes.
-- It is easier to make personal attributions when a behavior is unusual or unexpected and when people are perceived to have chosen to engage in it.
-- The covariation principle proposes that we use consistency information, distinctiveness information, and consensus information to draw inferences about the causes of behaviors.
-- According to Bernard Weiner, success or failure can be seen as coming from either personal causes (ability and motivation) or situational causes (luck and task difficulty).
+### 性格と行動の共変を検出する
+
+ここまでは、限られた情報しかないとき、つまりレストランで多額のチップを残した人、面接で質問へ答える人、演説する政治家など、ある一時点でしか観察されていない行動から個人的帰属を行う方法を考えてきた。しかし、複数の状況でその人の行動を観察できる場合にも帰属は行われる。Cejay がさまざまなレストランで、さまざまな人と一緒のときにも多額のチップを残すなら、その寛大さについてより多くを学べる。また、政治家が時間を通じて異なる聴衆へどのような演説をするかを観察すれば、その信念についてより多くを学べる。
+
+ある人の行動について複数の情報源がある場合、その人の行動と、その行動が生じる社会的文脈との関係を評価することで帰属を行うことができる。その一つの方法が共変原理である。これは、*ある行動が状況をまたいで共変、つまり変化している場合、その行動は状況によって引き起こされている可能性が高い*という原理である。したがって私たちの課題は、さまざまな状況におけるその人の行動パターンを調べ、その行動の原因についての推論に役立てることである (Jones et al., 1987; Kelley, 1967)。
+
+研究では、人々が他者の行動を観察するとき、3種類の共変情報へ注目することが示されている (Cheng & Novick, 1990)。
+
+- 一貫性情報。ある状況が*対象者に常にその行動を生じさせる*場合、その状況が行動の原因であるように見える。たとえば、私が結婚式ではいつも泣くなら、結婚式が泣く原因のように見える。
+- 弁別性情報。ある行動が*その状況が存在するときには生じるが、存在しないときには生じない*場合、その状況が行動の原因であるように見える。たとえば、結婚式でだけ泣き、それ以外では泣かないなら、結婚式が泣く原因のように見える。
+- 合意性情報。ある状況が*ほとんどの人へ同じ行動を生じさせる*場合、その状況が行動の原因であるように見える。たとえば、多くの人が結婚式で泣くなら、結婚式が私やほかの人々の涙の原因のように見える。
+
+友人の Jane はさまざまな男性とよく出かけており、あなたは時間を通じて、それぞれの男性に対する彼女の行動を観察してきたとしよう。ある晩、Jane は Ravi とパーティーへ行き、そこであなたは普通ではないことに気づく。Jane は Ravi と一緒にパーティーへ来たにもかかわらず、一晩中彼を完全に無視している。別の男性と踊り、最後には別の人と一緒にパーティーを去る。これは Jane の行動の原因について疑問を持たせる状況である。彼女は失礼な人なのか、それともこの行動は Ravi によって引き起こされているのか。このようなときに、共変原理を使って結論を導くことができる。
+
+共変原理によれば、一貫性、弁別性、合意性という3種類の共変情報を考えることで、Jane の行動の原因を判断できるはずである。一つの問いは、Jane が Ravi と出かけるとき、いつもこのように扱うのかということである。答えが「はい」なら、一貫性情報、すなわちある状況が常にその人へ同じ行動を生じさせるという知覚を持つことになる。Jane がほかの交際相手より Ravi を多く無視していることにも気づいていたなら、弁別性情報、すなわちある行動がその状況が存在するときに生じ、存在しないときには生じないという知覚も持つことになる。最後に、合意性情報、すなわちある状況がほとんどの人へ同じ反応を生じさせているという知覚を探すことができる。ほかの人も Ravi を同じように扱う傾向があるだろうか。
+
+もう一つ例を考えよう。友人から、新しい映画を見て「今まで見た中で最高の映画だった」と聞いたと想像しよう。その状況、つまり映画へ帰属すべきか考えるとき、自然に合意性について尋ねるだろう。ほかの人もその映画を好きなのだろうか。そうなら、その映画が良いという肯定的な合意性情報が得られる。しかし、その友人がこれまで映画へどう反応してきたかについての情報もあるだろう。ほとんどの人と同じなら、どの映画を見ても大好きになる友人がいるかもしれない。この友人がそうなら、その映画が本当に素晴らしいとはまだあまり確信できない。友人の反応に弁別性がないからである。一方、普段はほとんどの映画を好きにならないのに、この映画だけ大好きなら、弁別性は高い。その行動がこの特定の状況でのみ生じているからである。その場合、友人の熱意を引き起こしたのは映画そのものの何かだと、より強く確信できる。次に「今夜その映画を見に行こう」と考えるかもしれない。共変情報の利用例は、表5.3「共変情報の利用」にも示されている。
+
+<table style="width: 100%;"><caption>表5.3 共変情報の利用</caption> <thead><tr><th scope="col">帰属</th> <th scope="col">合意性</th> <th scope="col">弁別性</th> <th scope="col">一貫性</th> </tr> </thead> <tbody><tr><td scope="row">外的帰属（この場合は状況、つまりテレビ番組への帰属）が生じやすいのは…</td> <td>私の友人は全員このテレビ番組で笑う。</td> <td>Bill はこのテレビ番組で特によく笑う。</td> <td>Bill はこのテレビ番組でいつも笑う。</td> </tr> <tr><td scope="row">内的帰属（この場合は人物、つまり Bill への帰属）が生じやすいのは…</td> <td>このテレビ番組で笑う友人はほとんどいない。</td> <td>Bill はほかのテレビ番組と同じ程度、このテレビ番組でも笑う。</td> <td>Bill はこのテレビ番組でいつも笑う。</td> </tr> <tr><th colspan="4">共変原理によれば、状況へ帰属すべきか人物へ帰属すべきかを判断するため、3種類の情報源を利用する。この例では、帰属先は個人（友人 Bill）または状況（見ているテレビ番組）のどちらかである。</th> </tr> </tbody> </table>
+
+まとめると、共変モデルは、合意性、弁別性、一貫性がすべて高い場合、外的帰属を最も行いやすいと予測する。一方、合意性と弁別性がともに低く、一貫性が高い場合、内的帰属へ至る可能性が最も高い (Kelley, 1967)。合意性、一貫性、弁別性のパターンがこのどちらにも当てはまらない場合には、個人と状況の両方へ帰属する傾向があると予測される。
+
+こうした予測は、一般に帰属研究で支持されており、典型的には架空の状況を示して見知らぬ人の行動について帰属させる方法が用いられている (Kassin, 1979)。自分自身やよく知っている他者について判断する場合など、より自然な文脈の研究では、ほかにも多くの要因が帰属の種類へ影響する。そこには、その人との関係や以前から持っている信念などが含まれる。たとえば友人については、見知らぬ人についてより好意的な帰属をすることが多い (Campbell, Sedikides, Reeder, & Elliot, 2000)。また、第2章で扱ったスキーマと社会的認知の議論と同様、その時点で顕著なスキーマの内容と一致することも多い (Lyon, Startup, & Bentall, 1999)。
+
+:::note[インタラクティブ活動]
+
+インタラクティブな H5P 要素は、このテキスト版から除外されている。オンラインではこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3235#h5p-14](https://opentextbc.ca/socialpsychology/?p=3235#h5p-14)
 
 :::
 
-:::note[Exercises and Critical Thinking]
+**H5P：学習を確認しよう：第5章 穴埋め問題 ― 内的帰属か外的帰属かのケーススタディ**
 
-1. Describe a time when you used causal attribution to make an inference about another person’s personality. What was the outcome of the attributional process? To what extent do you think that the attribution was accurate? Why?
-2. Outline a situation where you used consensus, consistency, and distinctiveness information to make an attribution about someone’s behavior. How well does the covariation principle explain the type of attribution (internal or external) that you made?
-3. Consider a time when you made an attribution about your own success or failure. How did your analysis of the situation relate to Weiner’s ideas about these processes? How did you feel about yourself after making this attribution and why?
+合意性、弁別性、一貫性についての理解を用いて、以下の状況で最も行いやすい帰属の種類を判断しなさい。それぞれの空欄へ正しい語を入れなさい（3種類の情報については「低い」または「高い」、帰属については「内的」または「外的」）。
+
+あなたは多くのクライアントを担当する心理療法士である。ある日、最後のクライアントが1時間の面談へ20分遅れてきた。彼は普段からあなたとの面談へ遅刻している。あなたのほかのクライアントの多くも、通常は遅れて到着する。しかし彼は、自分は普段かなり時間に正確な人間だとあなたへ話している。この状況で、今回の面談へのクライアントの遅刻は、**_ 合意性、_** 弁別性、**_ 一貫性を示している。したがって、その行動について _** 帰属を行う可能性が最も高い。
+
+### 成功と失敗への帰属
+
+原因帰属は、人生の多くの重要な状況に関係している。たとえば、自分や他者がなぜある課題で成功したり失敗したりしたのかを判断しようとする場合である。自分が受けた試験、または行った別の課題を一つ思い出し、なぜその成績が良かった、あるいは悪かったのかを考えてみよう。その考えが、Bernard Weiner (1985) がこの点で重要だと考えた要因を反映しているか確認してみよう。
+
+Weiner が成功や失敗の原因をどのように判断するかへ関心を持ったのは、その情報が私たちにとって特に重要だと考えたからである。なぜ成功または失敗したのかを正確に判断できれば、すでに得意な課題と、改善するため取り組む必要がある課題を理解できる。Weiner は、原因帰属を行うことでこうした判断をし、その意思決定の結果として、人物への帰属（「自分自身の個人的特徴のため成功／失敗した」）または状況への帰属（「状況の何かのため成功／失敗した」）を行うと提案した。
+
+Weiner の分析を図5.8「成功と失敗への帰属」に示す。Weiner によれば、成功や失敗は、個人的原因（たとえば能力、動機づけ）または状況的原因（たとえば運、課題の難しさ）から生じると捉えることができる。しかしさらに、こうした個人的・状況的原因は、安定的（時間がたっても変化しにくい）または不安定（時間とともに変化しやすい）のどちらかになりうると論じた。
+
+![キャプションに画像説明へのリンクあり](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/10/a5955faa479ff8bd748b3e38229076b8.jpg)
+
+_図5.8 成功と失敗への帰属 [\[画像の説明\]](/translations/social-psychology/05-02-inferring-dispositions-using-causal-attribution/)_
+
+この図は、自分自身または他者の成功や失敗について行う可能性のある帰属を示している。*所在*は帰属先が個人か状況かを表し、*安定性*は、その状況が時間を通じて同じままである可能性があるかどうかを表す。
+
+非常に頭が良いため試験で良い成績を取ったなら、これは*能力*への個人的かつ安定的な帰属である。明らかに自分自身によって生じたものであり、しかもかなり安定した原因である。今日頭が良ければ、おそらく将来も頭が良いだろう。一方、一生懸命勉強したため成功したなら、これは*動機づけ*による成功である。これも個人的原因であるが（自分が勉強した）、潜在的には不安定でもある。この試験では非常に一生懸命勉強したとしても、次の試験ではそれほど努力しないかもしれない。Weiner は*課題の難しさ*を状況的原因と考えた。試験が簡単だったため成功した可能性があり、次の試験もおそらく同様に簡単だと仮定した。つまり、その課題が何であれ、常に難しいか常に簡単だと考えたのである。最後に Weiner は、*運*による成功、たとえば多くの答えをたまたま正しく推測できた場合を状況的原因と考えたが、課題の難しさより不安定なものとした。Weiner の帰属が常に完全に当てはまるわけではない。たとえば課題の難しさは時間とともに変化し、ある程度不安定になることもある。しかし、この4種類の情報は、人々が成功や失敗について行う帰属の種類をかなりよく捉えている。
+
+ここまで、私たちがどのように帰属を行うかについての重要な理論と研究を概観してきた。次に扱うもう一つの重要な問いは、行動の原因をどの程度正確に帰属できるのかということである。誰かが自分へ怒鳴ったのはその人の性格が攻撃的だからだと信じることと、自分自身の行動も含めた状況のほうが重要な原因ではなかったと証明することは、まったく別の問題なのである。
+
+:::tip[重要ポイント]
+
+- 原因帰属とは、人々の行動の原因を判断しようとする過程である。
+- 帰属は個人的原因または状況的原因へ行われる。
+- 行動が普通ではない、予想外である場合や、本人がその行動を選択したと知覚される場合、個人的帰属を行いやすい。
+- 共変原理は、行動の原因について推論するため、一貫性情報、弁別性情報、合意性情報を利用すると提案している。
+- Bernard Weiner によれば、成功や失敗は、個人的原因（能力と動機づけ）または状況的原因（運と課題の難しさ）から生じるとみなすことができる。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-Allison, S. T., & Messick, D. M. (1985b). The group attribution error*.* *Journal of Experimental Social Psychology, 21(6),* 563-579.
+1. 原因帰属を用いて他者の性格について推論した経験を説明しなさい。帰属過程の結果はどうなっただろうか。その帰属はどの程度正確だったと思うか。なぜそう思うか。
+2. 合意性、一貫性、弁別性の情報を使って、誰かの行動について帰属を行った状況を概説しなさい。共変原理は、あなたが行った帰属（内的または外的）の種類をどの程度うまく説明できるだろうか。
+3. 自分自身の成功または失敗について帰属を行った経験を考えなさい。その状況についての分析は、こうした過程についての Weiner の考えとどのように関係していただろうか。その帰属を行った後、自分自身についてどのように感じただろうか。また、それはなぜか。
 
-Campbell, W. K., Sedikides, C., Reeder, G. D., & Elliot, A. J. (2000). Among friends: An examination of friendship and the self-serving bias. *British Journal of Social Psychology, 39,* 229-239.
+:::
 
-Cheng, P. W., & Novick, L. R. (1990). A probabilistic contrast model of causal induction. *Journal of Personality and Social Psychology, 58*(4), 545–567.
+#### 参考文献
 
-Heider, F. (1958). *The psychology of interpersonal relations*. Hillsdale, NJ: Lawrence Erlbaum.
+Allison, S. T., & Messick, D. M. (1985b). The group attribution error*.* _Journal of Experimental Social Psychology, 21(6),_ 563-579.
 
-Jones, E. E., & Harris, V. A. (1967). The attribution of attitudes. *Journal of Experimental Social Psychology, 3*(1), 1–24.
+Campbell, W. K., Sedikides, C., Reeder, G. D., & Elliot, A. J. (2000). Among friends: An examination of friendship and the self-serving bias. _British Journal of Social Psychology, 39,_ 229-239.
 
-Jones, E. E., Davis, K. E., & Gergen, K. J. (1961). Role playing variations and their informational value for person perception. *Journal of Abnormal and Social Psychology, 63*(2), 302–310.
+Cheng, P. W., & Novick, L. R. (1990). A probabilistic contrast model of causal induction. _Journal of Personality and Social Psychology, 58_(4), 545–567.
 
-Jones, E. E., Kanouse, D. E., Kelley, H. H., Nisbett, R. E., Valins, S., & Weiner, B. (Eds.). (1987). *Attribution: Perceiving the causes of behavior*. Hillsdale, NJ: Lawrence Erlbaum.
+Heider, F. (1958). _The psychology of interpersonal relations_. Hillsdale, NJ: Lawrence Erlbaum.
 
-Kassin, S. M. (1979). Consensus information, prediction, and causal attribution: A review of the literature and issues. *Journal of Personality*<br /> *and Social Psychology, 37,* 1966-1981.
+Jones, E. E., & Harris, V. A. (1967). The attribution of attitudes. _Journal of Experimental Social Psychology, 3_(1), 1–24.
 
-Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine (Ed.), *Nebraska symposium on motivation* (Vol. 15, pp. 192–240). Lincoln, NE: University of Nebraska Press.
+Jones, E. E., Davis, K. E., & Gergen, K. J. (1961). Role playing variations and their informational value for person perception. _Journal of Abnormal and Social Psychology, 63_(2), 302–310.
 
-Lyon, H. M., & Startup, M., & Bentall, R. P. (1999). Social cognition and the manic defense: Attributions, selective attention, and self-schema in Bipolar Affective Disorder. *Journal of Abnormal Psychology, 108(2),* 273-282.Frubin
+Jones, E. E., Kanouse, D. E., Kelley, H. H., Nisbett, R. E., Valins, S., & Weiner, B. (Eds.). (1987). _Attribution: Perceiving the causes of behavior_. Hillsdale, NJ: Lawrence Erlbaum.
 
-Uleman, J. S., Blader, S. L., & Todorov, A. (Eds.). (2005). *Implicit impressions*. New York, NY: Oxford University Press.
+Kassin, S. M. (1979). Consensus information, prediction, and causal attribution: A review of the literature and issues. _Journal of Personality_<br /> _and Social Psychology, 37,_ 1966-1981.
 
-Weiner, B. (1985). Attributional theory of achievement motivation and emotion. *Psychological Review, 92*, 548–573.
+Kelley, H. H. (1967). Attribution theory in social psychology. In D. Levine (Ed.), _Nebraska symposium on motivation_ (Vol. 15, pp. 192–240). Lincoln, NE: University of Nebraska Press.
 
-#### Image Description
+Lyon, H. M., & Startup, M., & Bentall, R. P. (1999). Social cognition and the manic defense: Attributions, selective attention, and self-schema in Bipolar Affective Disorder. _Journal of Abnormal Psychology, 108(2),_ 273-282.Frubin
 
-<a id="id5.8"></a>**Figure 5.8 Attributions for Success and Failure**
+Uleman, J. S., Blader, S. L., & Todorov, A. (Eds.). (2005). _Implicit impressions_. New York, NY: Oxford University Press.
 
-The potential attributions we make for our, or for other people’s, success or failure based on the locus and the stability of the situation
+Weiner, B. (1985). Attributional theory of achievement motivation and emotion. _Psychological Review, 92_, 548–573.
 
-- Ability: internal locus, stable
-- Task difficulty: external locus, stable
-- Motivation: internal locus, unstable
-- Luck: external locus, unstable
+#### 画像の説明
 
-[\[Return to Figure 5.8\]](/translations/social-psychology/05-02-inferring-dispositions-using-causal-attribution/)
+**図5.8 成功と失敗への帰属**
+
+自分自身または他者の成功・失敗について、原因の所在と状況の安定性に基づいて行う可能性のある帰属。
+
+- 能力：内的所在、安定
+- 課題の難しさ：外的所在、安定
+- 動機づけ：内的所在、不安定
+- 運：外的所在、不安定
+
+[\[図5.8へ戻る\]](/translations/social-psychology/05-02-inferring-dispositions-using-causal-attribution/)
