@@ -3,9 +3,6 @@ title: "3.4 Thinking Like a Social Psychologist about the Self"
 sidebar:
   order: 25
 ---
-<a id="chapter-thinking-like-a-social-psychologist-about-the-self"></a>
-
-
 Social psychologists think about the self in the same way that they think about any other social phenomenon—in terms of affect, behavior, and cognition, and in terms of the person-situation interaction. Our focus in this chapter has been on the cognitive, affective, and social aspects of the self and on the remarkable extent to which the self is created by the social situation in which we find ourselves.
 
 Take a moment and use this new knowledge about how social psychologists think about the self to consider your own self. Think carefully (and as fairly as you can) about how you think and feel about yourself. What constructs did you list when you tried the Twenty Statements Test in section 10, “[The Cognitive Self: The Self-Concept”](stangorsocial_1.0-ch04_s01#stangorsocial_1.0-ch04_s01)? Which of your physical characteristics were most accessible for you? And what about your social identities and your traits? Do you now have a better insight into the characteristics that are most important to you?

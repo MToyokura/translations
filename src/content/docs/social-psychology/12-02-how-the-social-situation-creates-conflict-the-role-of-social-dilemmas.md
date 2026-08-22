@@ -3,9 +3,6 @@ title: "12.2 How the Social Situation Creates Conflict: The Role of Social Dilem
 sidebar:
   order: 80
 ---
-<a id="chapter-how-the-social-situation-creates-conflict-the-role-of-social-dilemmas"></a>
-
-
 :::note[Learning Objectives]
 
 1. Explain the concepts of public goods and social dilemmas, and how these conflicts influence human interactions.

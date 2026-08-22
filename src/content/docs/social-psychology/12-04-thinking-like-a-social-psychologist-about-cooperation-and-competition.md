@@ -3,9 +3,6 @@ title: "12.4 Thinking Like a Social Psychologist about Cooperation and Competiti
 sidebar:
   order: 82
 ---
-<a id="chapter-thinking-like-a-social-psychologist-about-cooperation-and-competition"></a>
-
-
 Now that you are familiar with the factors that lead us to cooperate or compete, we hope you will use this information to be more aware of, and to guide, your own behaviors in situations of conflict. Are you now more aware of how easy it is to assume that others will compete rather than cooperate and of how events that seem to be fixed-sum may in fact be integrative? Can you see that at least some conflict is more perceived than realistic and that cooperation is frequently more advantageous to both the self and others than is competition? Does this knowledge make you think differently about how you will want to react to situations of potential conflict?
 
 You may want to keep in mind that solutions to conflict may frequently be integrative, allowing both you or your party and the other individuals involved in the conflict to come to a mutually beneficial solution. Taking a problem-solving approach in which you keep not only your needs but also the needs of others in mind will be helpful.

@@ -3,9 +3,6 @@ title: "9.1 Defining Aggression"
 sidebar:
   order: 59
 ---
-<a id="chapter-defining-aggression"></a>
-
-
 :::note[Learning Objectives]
 
 1. Define aggression and violence as social psychologists do.

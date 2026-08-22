@@ -3,9 +3,6 @@ title: "6.5 Chapter Summary"
 sidebar:
   order: 45
 ---
-<a id="chapter-chapter-summary-6"></a>
-
-
 Conformity refers to the change in beliefs, opinions, and behaviors that occurs as the result of social influence. The typical outcome of conformity is that people’s beliefs and behaviors become more similar to those of others around them.
 
 The change in opinions or behavior that occurs when we conform to people who we believe have accurate information is known as informational social influence. Informational social influence usually results in private acceptance, which is real change in opinions on the part of the individual.

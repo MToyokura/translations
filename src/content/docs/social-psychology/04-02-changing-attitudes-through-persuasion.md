@@ -3,9 +3,6 @@ title: "4.2 Changing Attitudes through Persuasion"
 sidebar:
   order: 29
 ---
-<a id="chapter-changing-attitudes-through-persuasion"></a>
-
-
 :::note[Learning Objectives]
 
 1. Outline how persuasion is determined by the choice of effective communicators and effective messages.

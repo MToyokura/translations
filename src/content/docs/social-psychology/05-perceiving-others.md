@@ -3,9 +3,6 @@ title: "Chapter 5. Perceiving Others"
 sidebar:
   order: 33
 ---
-<a id="part-perceiving-others"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Initial Impression Formation

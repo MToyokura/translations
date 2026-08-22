@@ -3,9 +3,6 @@ title: "Versioning History"
 sidebar:
   order: 86
 ---
-<a id="back-matter-versioning-history"></a>
-
-
 This page provides a record of edits and changes made to this book since its initial publication. Whenever edits or updates are made, we make the required changes in the text and provide a record and description of those changes here. The files on our website always reflect the most recent version, including the Print on Demand copy.
 
 If you find an error in this book, please fill out the [Report an Open Textbook Error](https://open.bccampus.ca/browse-our-collection/reporting-an-error/) form.

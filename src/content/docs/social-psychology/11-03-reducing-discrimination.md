@@ -3,9 +3,6 @@ title: "11.3 Reducing Discrimination"
 sidebar:
   order: 75
 ---
-<a id="chapter-reducing-discrimination"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review the causes of discrimination and the ways that we can reduce it.

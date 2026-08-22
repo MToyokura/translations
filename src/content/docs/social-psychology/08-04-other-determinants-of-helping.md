@@ -3,9 +3,6 @@ title: "8.4 Other Determinants of Helping"
 sidebar:
   order: 55
 ---
-<a id="chapter-other-determinants-of-helping"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review the person, gender, and cultural variables that relate to altruism.

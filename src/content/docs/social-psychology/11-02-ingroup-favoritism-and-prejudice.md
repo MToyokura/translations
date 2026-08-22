@@ -3,9 +3,6 @@ title: "11.2 Ingroup Favoritism and Prejudice"
 sidebar:
   order: 74
 ---
-<a id="chapter-ingroup-favoritism-and-prejudice"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review the causes and outcomes of ingroup favoritism.

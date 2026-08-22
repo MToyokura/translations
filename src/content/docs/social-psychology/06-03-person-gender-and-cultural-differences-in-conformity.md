@@ -3,9 +3,6 @@ title: "6.3 Person, Gender, and Cultural Differences in Conformity"
 sidebar:
   order: 43
 ---
-<a id="chapter-person-gender-and-cultural-differences-in-conformity"></a>
-
-
 :::note[Learning Objectives]
 
 1. Summarize the social psychological literature concerning differences in conformity between men and women.

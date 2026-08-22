@@ -3,9 +3,6 @@ title: "7.2 Close Relationships: Liking and Loving over the Long Term"
 sidebar:
   order: 48
 ---
-<a id="chapter-close-relationships-liking-and-loving-over-the-long-term"></a>
-
-
 :::note[Learning Objectives]
 
 1. Outline the factors that define close relationships.

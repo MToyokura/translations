@@ -3,9 +3,6 @@ title: "8.6 Chapter Summary"
 sidebar:
   order: 57
 ---
-<a id="chapter-chapter-summary-8"></a>
-
-
 Altruism refers to any behavior that is designed to increase another person’s welfare, and particularly those actions that do not seem to provide a direct reward to the person who performs them. Every day numerous acts of altruism occur all around us. People give up substantial time and energy to help others.
 
 The tendency to help others is at least in part a basic feature of human nature, designed to help us help ourselves. Altruism enhances our reproductive success by helping the species as a whole survive and prosper. We are particularly helpful to our kin and to people we perceive as being similar to us. We also help people who are not related or similar as the result of reciprocal altruism. By cooperating with others, we increase our and others’ chances of survival and reproductive success.

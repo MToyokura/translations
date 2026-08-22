@@ -3,9 +3,6 @@ title: "3.2 The Feeling Self: Self-Esteem"
 sidebar:
   order: 23
 ---
-<a id="chapter-the-feeling-self-self-esteem"></a>
-
-
 :::note[Learning Objectives]
 
 1. Define self-esteem and explain how it is measured by social psychologists.

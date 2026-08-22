@@ -3,9 +3,6 @@ title: "10.6 Chapter Summary"
 sidebar:
   order: 71
 ---
-<a id="chapter-chapter-summary-10"></a>
-
-
 We started out this chapter by looking at how groups are defined and perceived. One determinant of the perception of a group is a cognitive one—the perception of similarity. A group can only be a group to the extent that its members have something in common. A group also has more entitativity when the group members have frequent interaction and communication with each other. Interaction is particularly important when it is accompanied by interdependence—the extent to which the group members are mutually dependent upon each other to reach a goal. A group that develops group structure is also more likely to be seen as a group. The affect that we have toward the group we belong to—social identity—also helps to create an experience of a group. Most groups pass through a series of stages—forming, storming, norming and performing, and adjourning—during their time together.
 
 Because groups consist of many members, group performance is often better, and group decisions generally more accurate, than that of any individual acting alone. On the other hand, there are also costs to working in groups—we call them process losses.

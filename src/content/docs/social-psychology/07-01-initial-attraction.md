@@ -3,9 +3,6 @@ title: "7.1 Initial Attraction"
 sidebar:
   order: 47
 ---
-<a id="chapter-initial-attraction"></a>
-
-
 :::note[Learning Objectives]
 
 1. Summarize the variables that lead to initial attraction between people.

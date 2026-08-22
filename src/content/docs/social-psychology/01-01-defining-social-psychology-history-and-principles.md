@@ -3,9 +3,6 @@ title: "1.1 Defining Social Psychology: History and Principles"
 sidebar:
   order: 11
 ---
-<a id="chapter-defining-social-psychology-history-and-principles"></a>
-
-
 :::note[Learning Objectives]
 
 1. Define *social psychology*.

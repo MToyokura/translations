@@ -3,9 +3,6 @@ title: "6.1 The Many Varieties of Conformity"
 sidebar:
   order: 41
 ---
-<a id="chapter-the-many-varieties-of-conformity"></a>
-
-
 :::note[Learning Objectives]
 
 1. Describe some of the active and passive ways that conformity occurs in our everyday lives.

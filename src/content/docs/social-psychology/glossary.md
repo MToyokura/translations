@@ -3,9 +3,6 @@ title: "Glossary"
 sidebar:
   order: 85
 ---
-<a id="back-matter-glossary-2"></a>
-
-
 **Accommodation** When existing schemas change on the basis of new information
 
 **Actor-observer bias** or **difference** When we tend to make more personal attributions for the behavior of others than we do for ourselves and to make more situational attributions for our own behavior than for the behavior of others

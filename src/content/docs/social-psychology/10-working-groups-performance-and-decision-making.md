@@ -3,9 +3,6 @@ title: "Chapter 10. Working Groups: Performance and Decision Making"
 sidebar:
   order: 65
 ---
-<a id="part-working-groups"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Understanding Social Groups

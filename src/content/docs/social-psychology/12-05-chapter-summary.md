@@ -3,9 +3,6 @@ title: "12.5 Chapter Summary"
 sidebar:
   order: 83
 ---
-<a id="chapter-chapter-summary-12"></a>
-
-
 This chapter has examined how goals of self-concern and other-concern relate to our tendencies to cooperate or compete with others and how these individual goals can help us understand the behavior of large groups of people, such as nations, societies, and cultures. Most generally, we can say that when individuals or groups interact, they can take either cooperative or competitive positions. Competition frequently leads to conflict, in which the parties involved engage in violence and hostility. Although competition is normal and will always be a part of human existence, cooperation is also built into the human repertoire.
 
 One type of situation in which the goals of the individual conflict with the goals of the group is known as a social dilemma. Social dilemmas have an important impact on a variety of important social problems because the dilemma creates a type of trap in which even though the individual or group may want to be cooperative, the situation leads to competitive behaviors. Although social dilemmas create the potential for conflict and even hostility, such outcomes are not inevitable. The solutions to social dilemmas are more favorable when the outcomes are integrative rather than fixed-sum.

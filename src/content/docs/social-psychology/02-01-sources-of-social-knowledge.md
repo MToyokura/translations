@@ -3,9 +3,6 @@ title: "2.1 Sources of Social Knowledge"
 sidebar:
   order: 16
 ---
-<a id="chapter-sources-of-social-knowledge"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review the principles of operant, associational, and observational learning, and explain the similarities and differences between them.

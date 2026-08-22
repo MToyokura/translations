@@ -3,9 +3,6 @@ title: "12.1 Conflict, Cooperation, Morality, and Fairness"
 sidebar:
   order: 79
 ---
-<a id="chapter-conflict-cooperation-morality-and-fairness"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review the situational variables that increase or decrease competition and conflict.

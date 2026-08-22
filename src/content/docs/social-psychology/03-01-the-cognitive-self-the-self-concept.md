@@ -3,9 +3,6 @@ title: "3.1 The Cognitive Self: The Self-Concept"
 sidebar:
   order: 22
 ---
-<a id="chapter-the-cognitive-self-the-self-concept"></a>
-
-
 :::note[Learning Objectives]
 
 1. Define and describe the self-concept, its influence on information processing, and its diversity across social groups.

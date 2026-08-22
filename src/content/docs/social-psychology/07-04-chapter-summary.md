@@ -3,9 +3,6 @@ title: "7.4 Chapter Summary"
 sidebar:
   order: 50
 ---
-<a id="chapter-chapter-summary-7"></a>
-
-
 Relationships between people that are characterized by loving, caring, commitment, and intimacy, such as those between adult friends, dating partners, lovers, and married couples, are known as close relationships.
 
 Our close relationships make us happy and healthy. We experience higher self-efficacy, self-esteem, and positive mood when we believe that our friends and partners are responding to us supportively and with a concern for our needs and our welfare.

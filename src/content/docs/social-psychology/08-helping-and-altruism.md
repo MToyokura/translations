@@ -3,9 +3,6 @@ title: "Chapter 8. Helping and Altruism"
 sidebar:
   order: 51
 ---
-<a id="part-helping-and-altruism"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Understanding Altruism: Self and Other Concerns

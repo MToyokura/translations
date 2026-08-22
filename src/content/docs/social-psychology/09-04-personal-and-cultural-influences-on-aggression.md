@@ -3,9 +3,6 @@ title: "9.4 Personal and Cultural Influences on Aggression"
 sidebar:
   order: 62
 ---
-<a id="chapter-personal-and-cultural-influences-on-aggression"></a>
-
-
 :::note[Learning Objectives]
 
 1. Summarize the individual difference variables related to aggression.

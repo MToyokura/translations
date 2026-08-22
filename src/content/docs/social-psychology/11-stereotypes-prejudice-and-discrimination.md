@@ -3,9 +3,6 @@ title: "Chapter 11. Stereotypes, Prejudice, and Discrimination"
 sidebar:
   order: 72
 ---
-<a id="part-stereotypes-prejudice-and-discrimination"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Social Categorization and Stereotyping

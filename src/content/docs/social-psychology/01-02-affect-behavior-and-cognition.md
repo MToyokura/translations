@@ -3,9 +3,6 @@ title: "1.2 Affect, Behavior, and Cognition"
 sidebar:
   order: 12
 ---
-<a id="chapter-affect-behavior-and-cognition"></a>
-
-
 :::note[Learning Objectives]
 
 1. Define and differentiate *affect, behavior,* and *cognition* as considered by social psychologists.

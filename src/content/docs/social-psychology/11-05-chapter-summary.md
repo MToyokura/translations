@@ -3,9 +3,6 @@ title: "11.5 Chapter Summary"
 sidebar:
   order: 77
 ---
-<a id="chapter-chapter-summary-11"></a>
-
-
 The social groups that are part of a given nation or society become essential parts of the culture itself. We easily develop beliefs about the characteristics of the groups and the members of those groups (stereotypes) as well as prejudice (an unjustifiable negative attitude toward an outgroup). Our stereotypes and our prejudices are problematic because they may create discrimination—unjustified negative behaviors toward members of outgroups based on their group membership. Discrimination is a societal and health problem because it is so pervasive, takes so many forms, and has such negative effects on so many people.
 
 Stereotyping and prejudice begin from social categorization—the natural cognitive process by which we place individuals into social groups. Social categorization is in many cases quite helpful and useful. In some cases, we might categorize others because doing so provides us with information about the characteristics of people who belong to certain social groups or categories. And we may categorize others because we may not have time to do anything more thorough.

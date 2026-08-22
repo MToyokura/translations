@@ -3,9 +3,6 @@ title: "8.5 Thinking Like a Social Psychologist about Altruism"
 sidebar:
   order: 56
 ---
-<a id="chapter-thinking-like-a-social-psychologist-about-altruism"></a>
-
-
 This chapter has been concerned with the many varieties of helping. We have seen that helping and altruism may occur in a variety of ways and toward a variety of people. Were you surprised to learn how important helping is in our social lives, and in how many different ways it occurs? Can you now see—perhaps in a way that you did not before—that helping allows us to lead more effective lives?
 
 Because you are thinking like a social psychologist, you will realize that we help partly as a result of other-concern. We help because we care about others, we feel bad when they feel bad, and we really want to help. We help more when we see those others as similar to us and when we feel empathy for them. But we also help out of self-concern, to relieve our personal distress, to escape public shame for not helping, and to feel good about our helpful actions. Helping others is beneficial to others but also to us—we often enjoy being helpful, and helping can make us feel good and be healthy.

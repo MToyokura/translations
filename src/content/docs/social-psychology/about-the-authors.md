@@ -3,9 +3,6 @@ title: "About the Authors"
 sidebar:
   order: 84
 ---
-<a id="back-matter-about-the-author"></a>
-
-
 ## Rajiv Jhangiani
 
 ![Rajiv Jhangiani](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Rajiv-profile-pic-medium.jpg)Rajiv Jhangiani is a core faculty member at Kwantlen Polytechnic University, Vancouver, Canada, and an Open Learning Faculty Member at Thompson Rivers University, Kamloops, Canada, where he teaches a variety of courses including social psychology, personality psychology, conservation psychology, and the psychology of genocide. He completed his PhD in Social and Personality Psychology from the University of British Columbia in 2008. Dr. Jhangiani’s research focuses on political violence, social cognition, and the scholarship of teaching and learning. His research has been supported by agencies including the Social Sciences & Humanities Research Council of Canada, the Michael Smith Foundation for Health Research and the Society for the Study of Peace, Conflict, & Violence. Dr. Jhangiani is a Faculty Fellow with the BC Open Textbook Project, the Director of Research, Resources, and Special Initiatives on the Society for the Teaching of Psychology’s Early Career Psychologists Committee, a member of the Society for the Teaching of Psychology’s Task Force on Undergraduate Skills Assessment, and an Associate Editor of *Psychology Learning & Teaching*. Among other honours, Dr. Jhangiani is the recipient of the Robert E. Knox Master Teacher Award from the University of British Columbia and the Roberta Sigel Award from the International Society of Political Psychology.

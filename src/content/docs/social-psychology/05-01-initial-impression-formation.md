@@ -3,9 +3,6 @@ title: "5.1 Initial Impression Formation"
 sidebar:
   order: 34
 ---
-<a id="chapter-initial-impression-formation"></a>
-
-
 :::note[Learning Objectives]
 
 1. Describe how people use behaviors and traits to form initial perceptions of others.

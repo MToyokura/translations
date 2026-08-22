@@ -3,9 +3,6 @@ title: "5.6 Chapter Summary"
 sidebar:
   order: 39
 ---
-<a id="chapter-chapter-summary-5"></a>
-
-
 Person perception helps us make accurate and informed judgments about how other people are likely to respond to us. At the same time, we are exercising our person perception skills on other people, those same people are also using their powers of person perception to form impressions of us.
 
 Our initial impressions of other people can be formed quite accurately in a very short time—sometimes in a matter of seconds. These initial judgments are made on the basis of the other person’s social category memberships—such as race, gender, and age—and their physical appearance.

@@ -3,9 +3,6 @@ title: "4.1 Exploring Attitudes"
 sidebar:
   order: 28
 ---
-<a id="chapter-exploring-attitudes"></a>
-
-
 :::note[Learning Objectives]
 
 1. Define the concept of an attitude and explain why it is of such interest to social psychologists.

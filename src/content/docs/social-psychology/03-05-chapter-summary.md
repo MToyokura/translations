@@ -3,9 +3,6 @@ title: "3.5 Chapter Summary"
 sidebar:
   order: 26
 ---
-<a id="chapter-chapter-summary-3"></a>
-
-
 The many and varied thoughts that we have about ourselves are stored in the variety of self-schemas that make up the cognitive part of the self—the self-concept. The self-concept is the most complex of all our schemas because it includes all of the images, desires, beliefs, feelings, and hopes that we have for and about ourselves.
 
 The self-concept can be measured by simply asking people to list the things that come to mind when they think about themselves or by using other techniques such as asking people to remember information related to the self. Research has found that some people have more complex and consistent selves than others do, and that having a variety of self-schemas is useful because the various aspects of the self help to improve our responses to the events that we experience.

@@ -3,9 +3,6 @@ title: "10.2 Group Performance"
 sidebar:
   order: 67
 ---
-<a id="chapter-group-process-the-pluses-and-minuses-of-working-together"></a>
-
-
 :::note[Learning Objectives]
 
 1. Describe the situations under which social facilitation and social inhibition might occur, and review the theories that have been used to explain these processes.

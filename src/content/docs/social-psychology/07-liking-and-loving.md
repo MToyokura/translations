@@ -3,9 +3,6 @@ title: "Chapter 7. Liking and Loving"
 sidebar:
   order: 46
 ---
-<a id="part-liking-and-loving"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Initial Attraction

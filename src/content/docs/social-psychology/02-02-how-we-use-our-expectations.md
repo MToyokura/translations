@@ -3,9 +3,6 @@ title: "2.2 How We Use Our Expectations"
 sidebar:
   order: 17
 ---
-<a id="chapter-how-we-use-our-expectations"></a>
-
-
 :::note[Learning Objectives]
 
 1. Provide examples of how salience and accessibility influence information processing.

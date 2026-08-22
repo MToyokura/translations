@@ -3,9 +3,6 @@ title: "10.3 Group Decision Making"
 sidebar:
   order: 68
 ---
-<a id="chapter-group-decision-making"></a>
-
-
 :::note[Learning Objectives]
 
 1. Explain factors that can lead to process gain in group versus individual decision making.

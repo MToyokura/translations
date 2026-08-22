@@ -3,9 +3,6 @@ title: "9.3 The Violence around Us: How the Social Situation Influences Aggressi
 sidebar:
   order: 61
 ---
-<a id="chapter-the-violence-around-us-how-the-social-situation-influences-aggression"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review the situational variables that increase and decrease aggression.

@@ -3,9 +3,6 @@ title: "9.5 Thinking Like a Social Psychologist about Aggression"
 sidebar:
   order: 63
 ---
-<a id="chapter-thinking-like-a-social-psychologist-about-aggression"></a>
-
-
 This chapter has reviewed how social psychologists understand human aggression and violence. These actions surround us every day and cause much pain for many people. We have seen how social psychologists study aggression, their understanding of why it occurs, and how we might attempt to reduce it. Did you learn something about human aggression that surprised you and that helps you better understand social tragedies, such as school shootings, violence in sports, and even terrorism?
 
 Perhaps you were surprised that social psychologists consider aggression to be primarily about self-concern. Although violence is designed to harm others, this is not usually its underlying goal or its underlying cause. Violence is more about the self and threats to it. We react violently when we feel bad about ourselves, for instance, when we feel that our status is threatened or when we are experiencing other negative emotions. But because you are thinking like a social psychologist, you will realize how important the self-concept is—so important, indeed, that threats against it can result in extremely violent acts.

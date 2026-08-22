@@ -3,9 +3,6 @@ title: "Chapter 1. Introducing Social Psychology"
 sidebar:
   order: 10
 ---
-<a id="part-introducing-social-psychology"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Defining Social Psychology: History and Principles

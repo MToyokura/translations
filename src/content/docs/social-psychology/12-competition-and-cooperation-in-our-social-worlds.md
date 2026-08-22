@@ -3,9 +3,6 @@ title: "Chapter 12. Competition and Cooperation in Our Social Worlds"
 sidebar:
   order: 78
 ---
-<a id="part-competition-and-cooperation-in-our-social-worlds"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Conflict, Cooperation, Morality, and Fairness

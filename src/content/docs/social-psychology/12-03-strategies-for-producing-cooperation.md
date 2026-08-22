@@ -3,9 +3,6 @@ title: "12.3 Strategies for Producing Cooperation"
 sidebar:
   order: 81
 ---
-<a id="chapter-strategies-for-producing-cooperation"></a>
-
-
 :::note[Learning Objectives]
 
 1. Outline the variables that increase and decrease competition.

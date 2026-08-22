@@ -3,9 +3,6 @@ title: "6.2 Obedience, Power, and Leadership"
 sidebar:
   order: 42
 ---
-<a id="chapter-obedience-power-and-leadership"></a>
-
-
 :::note[Learning Objectives]
 
 1. Describe and interpret the results of Stanley Milgram’s research on obedience to authority.

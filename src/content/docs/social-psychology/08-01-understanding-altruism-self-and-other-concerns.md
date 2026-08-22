@@ -3,9 +3,6 @@ title: "8.1 Understanding Altruism: Self and Other Concerns"
 sidebar:
   order: 52
 ---
-<a id="chapter-understanding-altruism-self-and-other-concerns"></a>
-
-
 :::note[Learning Objectives]
 
 1. Understand the differences between altruism and helping, and explain how social psychologists try to differentiate the two.

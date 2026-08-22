@@ -3,9 +3,6 @@ title: "4.3 Changing Attitudes by Changing Behavior"
 sidebar:
   order: 30
 ---
-<a id="chapter-changing-attitudes-by-changing-behavior"></a>
-
-
 :::note[Learning Objectives]
 
 1. Outline the principles of self-perception and explain how they can account for the influences of behavior on attitude.

@@ -3,9 +3,6 @@ title: "5.4 Individual Differences in Person Perception"
 sidebar:
   order: 37
 ---
-<a id="chapter-individual-and-cultural-differences-in-person-perception"></a>
-
-
 :::note[Learning Objectives]
 
 1. Outline some important individual differences factors that influence people’s causal attributions.

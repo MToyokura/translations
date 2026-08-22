@@ -3,9 +3,6 @@ title: "Chapter 9. Aggression"
 sidebar:
   order: 58
 ---
-<a id="part-aggression"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Defining Aggression

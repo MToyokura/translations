@@ -3,9 +3,6 @@ title: "5.3 Biases in Attribution"
 sidebar:
   order: 36
 ---
-<a id="chapter-biases-in-attribution"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review a variety of common attibutional biases, outlining cultural diversity in these biases where indicated.

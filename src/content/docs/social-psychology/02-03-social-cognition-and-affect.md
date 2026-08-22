@@ -3,9 +3,6 @@ title: "2.3 Social Cognition and Affect"
 sidebar:
   order: 18
 ---
-<a id="chapter-moods-and-emotions-in-our-social-lives"></a>
-
-
 :::note[Learning Objectives]
 
 1. Describe important ways in which our affective states can influence our social cognition, both directly and indirectly, for example, through the operation of the affect heuristic.

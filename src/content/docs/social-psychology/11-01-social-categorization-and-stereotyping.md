@@ -3,9 +3,6 @@ title: "11.1 Social Categorization and Stereotyping"
 sidebar:
   order: 73
 ---
-<a id="chapter-social-categorization-and-stereotyping"></a>
-
-
 :::note[Learning Objectives]
 
 1. Describe the fundamental process of social categorization and its influence on thoughts, feelings, and behavior.

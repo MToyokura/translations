@@ -3,9 +3,6 @@ title: "8.2 The Role of Affect: Moods and Emotions"
 sidebar:
   order: 53
 ---
-<a id="chapter-the-role-of-affect-moods-and-emotions"></a>
-
-
 :::note[Learning Objectives]
 
 1. Summarize the effects of positive and negative moods on helping.

@@ -3,9 +3,6 @@ title: "9.2 The Biological and Emotional Causes of Aggression"
 sidebar:
   order: 60
 ---
-<a id="chapter-the-biological-and-emotional-causes-of-aggression"></a>
-
-
 :::note[Learning Objectives]
 
 1. Explain how aggression might be evolutionarily adaptive.

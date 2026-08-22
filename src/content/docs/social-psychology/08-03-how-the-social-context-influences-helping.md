@@ -3,9 +3,6 @@ title: "8.3 How the Social Context Influences Helping"
 sidebar:
   order: 54
 ---
-<a id="chapter-how-the-social-context-influences-helping"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review Bibb Latané and John Darley’s model of helping behavior and indicate the social psychological variables that influence each stage.

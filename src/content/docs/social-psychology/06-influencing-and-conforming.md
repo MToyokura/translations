@@ -3,9 +3,6 @@ title: "Chapter 6. Influencing and Conforming"
 sidebar:
   order: 40
 ---
-<a id="part-influencing-and-conforming"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. The Many Varieties of Conformity

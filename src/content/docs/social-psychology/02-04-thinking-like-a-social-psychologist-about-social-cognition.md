@@ -3,9 +3,6 @@ title: "2.4 Thinking Like a Social Psychologist about Social Cognition"
 sidebar:
   order: 19
 ---
-<a id="chapter-thinking-like-a-social-psychologist-about-social-cognition"></a>
-
-
 Consider your schemas and attitudes toward some of the many people you have met in your life—perhaps those you knew in school, the people in your family, or those in your wider social groups or other organizations. And also think about people you have only heard about rather than have met—maybe those from other countries or cultures. Did operant learning influence your opinions about them? Did you model your behavior after them? Or perhaps you had a single negative encounter with one person and disliked that person or his or her social group for a long time after.
 
 Perhaps you can remember some times when you may have misinterpreted events or judged people incorrectly because your opinions were influenced by the operation of your existing expectations. Did you ever falsely assume that someone had a given characteristic and assimilate information into your existing expectations more than you might have? For instance, did you ever find yourself thinking that the referees in a sports game were favoring the other team rather than your own, or that the media was treating the political candidate that you oppose better than the one you prefer? Could this have occurred because your attitudes or beliefs influenced your interpretation of the information?

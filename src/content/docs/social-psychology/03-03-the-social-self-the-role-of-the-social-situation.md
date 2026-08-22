@@ -3,9 +3,6 @@ title: "3.3 The Social Self: The Role of the Social Situation"
 sidebar:
   order: 24
 ---
-<a id="chapter-the-social-self-the-role-of-the-social-situation"></a>
-
-
 :::note[Learning Objectives]
 
 1. Describe the concept of the looking-glass self and how it affects our self-concept.

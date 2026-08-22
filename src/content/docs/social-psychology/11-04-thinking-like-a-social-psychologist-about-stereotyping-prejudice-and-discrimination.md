@@ -3,9 +3,6 @@ title: "11.4 Thinking Like a Social Psychologist about Stereotyping, Prejudice, 
 sidebar:
   order: 76
 ---
-<a id="chapter-thinking-like-a-social-psychologist-about-stereotyping-prejudice-and-discrimination"></a>
-
-
 This chapter has focused on the ways in which people from different social groups feel about, think about, and behave toward each other. In most cases, we have positive thoughts and feelings about others, and our interactions with them are friendly and positive. And yet in other cases, there is a potential for negative interactions, and in rare cases, even hostility and violence.
 
 Look again at the pictures in [Figure 11.3](/translations/social-psychology/11-stereotypes-prejudice-and-discrimination/) and carefully consider your thoughts and feelings about each person. Does the image bring some stereotypes to mind? What about prejudices? How do you think your impressions of the individuals might influence your behavior toward them? Do you hold these beliefs yourself, or do you know people who do? Can you see how quickly you or other people might make judgments about these individuals, based on the culturally relevant stereotypes, and how those judgments might lead to discrimination? What might be the negative outcomes of the stereotypes on the person?

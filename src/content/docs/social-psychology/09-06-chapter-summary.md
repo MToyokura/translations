@@ -3,9 +3,6 @@ title: "9.6 Chapter Summary"
 sidebar:
   order: 64
 ---
-<a id="chapter-chapter-summary-9"></a>
-
-
 Aggression refers to behavior that is intended to harm another individual. To determine whether or not a behavior is aggressive, we must determine the intent of the perpetrator. The level of intent that underlies an aggressive behavior creates the distinction between emotional or impulsive aggression (which refers to aggression that occurs with only a small amount of forethought or intent) and instrumental or cognitive aggression (which is intentional and planned). Aggression can be nonphysical as well as physical, and nonphysical aggression can be very damaging to its victims.
 
 The ability to be aggressive to others, at least under some circumstances, is part of our fundamental human makeup. Because aggression helps in both our individual survival as well as in the survival of our genes, human beings need to be able to aggress. Under the right situation, if we feel that our self is threatened, almost all of us will aggress.

@@ -3,9 +3,6 @@ title: "10.1 Understanding Social Groups"
 sidebar:
   order: 66
 ---
-<a id="chapter-understanding-social-groups"></a>
-
-
 :::note[Learning Objectives]
 
 1. Define the factors that create social groups and perceptions of entitativity.

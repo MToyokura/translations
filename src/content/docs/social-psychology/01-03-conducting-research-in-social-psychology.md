@@ -3,9 +3,6 @@ title: "1.3 Conducting Research in Social Psychology"
 sidebar:
   order: 13
 ---
-<a id="chapter-conducting-research-in-social-psychology"></a>
-
-
 :::note[Learning Objectives]
 
 1. Explain why social psychologists rely on empirical methods to study social behavior.

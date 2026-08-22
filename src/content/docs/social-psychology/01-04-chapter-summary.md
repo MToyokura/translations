@@ -3,9 +3,6 @@ title: "1.4 Chapter Summary"
 sidebar:
   order: 14
 ---
-<a id="chapter-chapter-summary"></a>
-
-
 The science of social psychology began when scientists first started to systematically and formally measure the thoughts, feelings, and behaviors of human beings. Social psychology was energized by a number of researchers who sought to better understand how the Nazis perpetrated the Holocaust against the Jews of Europe. The 1950s and 1960s saw an expansion of social psychology into the field of attitudes and group processes. In the 1970s and 1980s, the discipline became more cognitive in orientation. Today, the field of social psychology is expanding into still other areas, such as evolutionary psychology, the study of culture, and social neuroscience.
 
 Social psychology is the scientific study of how we think about, feel about, and behave toward the people in our lives and how our thoughts, feelings, and behaviors are influenced by those people. The goal of this book is to help you learn to think like a social psychologist to enable you to use social psychological principles to better understand social relationships.

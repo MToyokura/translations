@@ -3,9 +3,6 @@ title: "Chapter 4. Attitudes, Behavior, and Persuasion"
 sidebar:
   order: 27
 ---
-<a id="part-attitudes-behaviour-and-persuasion"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Exploring Attitudes

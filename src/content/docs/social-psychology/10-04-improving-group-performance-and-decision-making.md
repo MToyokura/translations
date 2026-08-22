@@ -3,9 +3,6 @@ title: "10.4 Improving Group Performance and Decision Making"
 sidebar:
   order: 69
 ---
-<a id="chapter-improving-group-performance"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review the ways that people can work to make group performance and decision making more effective.

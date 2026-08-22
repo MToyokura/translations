@@ -3,9 +3,6 @@ title: "5.2 Inferring Dispositions Using Causal Attribution"
 sidebar:
   order: 35
 ---
-<a id="chapter-inferring-dispositions-using-causal-attribution"></a>
-
-
 :::note[Learning Objectives]
 
 1. Review the fundamental principles of causal attribution.

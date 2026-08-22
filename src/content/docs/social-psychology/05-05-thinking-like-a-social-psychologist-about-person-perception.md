@@ -3,9 +3,6 @@ title: "5.5 Thinking Like a Social Psychologist about Person Perception"
 sidebar:
   order: 38
 ---
-<a id="chapter-thinking-like-a-social-psychologist-about-person-perception"></a>
-
-
 Understanding other people is one of the most important tasks facing us in our everyday lives. Now that you are familiar with the processes we use during person perception, perhaps you will use this information to be more aware of—and perhaps even improve—your own person perception skills. Are you now more aware of how quickly you are forming impressions of other people and of how quickly they are forming impressions of you? Does this knowledge make you think differently about those snap judgments you make about others? Might it make you more careful about how you behave in front of others?
 
 You may find that you are now better able to use your person perception powers to accurately determine how others are responding to you. Do you find yourself more attuned to the nonverbal information that you are sending to others and that they are sending to you? Are you more aware of the role that traits (and particularly central traits) are playing in your everyday interactions? And are you now more (or perhaps less) sure about your skills at detecting deception in others?

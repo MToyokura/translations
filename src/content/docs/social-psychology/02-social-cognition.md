@@ -3,9 +3,6 @@ title: "Chapter 2. Social Cognition"
 sidebar:
   order: 15
 ---
-<a id="part-social-cognition"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. Sources of Social Knowledge

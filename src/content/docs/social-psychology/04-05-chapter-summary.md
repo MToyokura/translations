@@ -3,9 +3,6 @@ title: "4.5 Chapter Summary"
 sidebar:
   order: 32
 ---
-<a id="chapter-chapter-summary-4"></a>
-
-
 Attitudes are our positive or negative evaluations of an attitude object. Our attitudes are based on the ABCs of affect, behavior, and cognition. Some attitudes are more important than others because they are more useful to us and thus have more impact on our daily lives. The importance of an attitude, as assessed by how quickly it comes to mind, is known as attitude strength.
 
 The affective, behavioral, and cognitive components of attitudes normally line up or match—this is the idea of attitude consistency. Because of this consistency, our attitudes (as assessed on self-report measures) normally predict our behavior.

@@ -3,9 +3,6 @@ title: "Chapter 3. The Self"
 sidebar:
   order: 21
 ---
-<a id="part-the-self"></a>
-
-
 :::note[Chapter Learning Objectives]
 
 1. The Cognitive Self: The Self-Concept

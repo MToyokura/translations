@@ -3,9 +3,6 @@ title: "2.5 Chapter Summary"
 sidebar:
   order: 20
 ---
-<a id="chapter-chapter-summary-2"></a>
-
-
 This chapter has focused primarily on one central topic in social psychology: namely, the ways that we learn about and judge other people—our social cognition. The ability to make accurate judgments about our social situation is critical. For example, if we cannot understand others and predict how they will respond to us, our social interactions will be difficult indeed.
 
 We have seen that social cognition is efficient, frequently operating quickly and even out of our awareness, and generally accurate. However, although we are often quite accurate at evaluating other people and in creating effective social interactions, we are not perfect. The errors we make frequently occur because of our reliance on our mental knowledge (our schemas and attitudes) as well our tendency to take shortcuts through the use of cognitive heuristics. We use schemas and heuristics as energy savers, because we are often overwhelmed by the amount of information we need to process.
