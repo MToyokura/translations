@@ -1,376 +1,375 @@
 ---
-title: "1.3 Conducting Research in Social Psychology"
+title: "1.3 社会心理学における研究の実施"
 sidebar:
   order: 13
 ---
-:::note[Learning Objectives]
 
-1. Explain why social psychologists rely on empirical methods to study social behavior.
-2. Provide examples of how social psychologists measure the variables they are interested in.
-3. Review the three types of research designs, and evaluate the strengths and limitations of each type.
-4. Consider the role of validity in research, and describe how research programs should be evaluated.
+:::note[学習目標]
 
-:::
-
-Social psychologists are not the only people interested in understanding and predicting social behavior or the only people who study it. Social behavior is also considered by religious leaders, philosophers, politicians, novelists, and others, and it is a common topic on TV shows. But the social psychological approach to understanding social behavior goes beyond the mere observation of human actions. Social psychologists believe that a true understanding of the causes of social behavior can only be obtained through a systematic scientific approach, and that is why they conduct scientific research. Social psychologists believe that the study of social behavior should be empirical—that is, *based on the collection and systematic analysis of observable data*.
-
-## The Importance of Scientific Research
-
-Because social psychology concerns the relationships among people, and because we can frequently find answers to questions about human behavior by using our own common sense or intuition, many people think that it is not necessary to study it empirically (Lilienfeld, 2011). But although we do learn about people by observing others and therefore social psychology is in fact partly common sense, social psychology is not entirely common sense.
-
-:::note[Is social psychology just common sense?]
-
-To test for yourself whether or not social psychology is just common sense, try doing this activity. Based on your past observations of people’s behavior, along with your own common sense, you will likely have answers to each of the questions on the activity. But how sure are you? Would you be willing to bet that all, or even most, of your answers have been shown to be correct by scientific research? If you are like most people, you will get at least some of these answers wrong.
-
-Read through each finding, and decide if you think the research evidence shows that it is either mainly true or mainly false. When you have figured out the answers, think about why each finding is either mainly true or mainly false. You may also find some other ideas on this as you work your way through the textbook chapters!
-
-- Opposites attract.
-- An athlete who wins the bronze medal (third place) in an event is happier about his or her performance than the athlete who won the silver medal (second place).
-- Having good friends you can count on can keep you from catching colds.
-- Subliminal advertising (i.e., persuasive messages that are presented out of our awareness on TV or movie screens) is very effective in getting us to buy products.
-- The greater the reward promised for an activity, the more one will come to enjoy engaging in that activity.
-- Physically attractive people are seen as less intelligent than less attractive people.
-- Punching a pillow or screaming out loud is a good way to reduce frustration and aggressive tendencies.
-- People pull harder in a tug-of-war when they’re pulling alone than when pulling in a group.
-
-**Interactive activity:**
-
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-1](https://opentextbc.ca/socialpsychology/?p=3142#h5p-1)
-
-**H5P: TEST YOUR LEARNING: CHAPTER 1 DRAG THE WORDS – CLASSIC FINDINGS IN SOCIAL PSYCHOLOGY**
-
-Read through each finding, taken from Table 1.5 in the chapter summary, and decide if you think the research evidence shows that it is either mainly true or mainly false by dragging the correct word into each box. Pay attention to the number of “trues” and “falses” available! When you have figured out the answers, think about why each finding is either mainly true or mainly false. You may also find some other ideas on this as you work your way through the textbook chapters!
-
-- Opposites attract.
-- An athlete who wins the bronze medal (third place) in an event is happier about his or her performance than the athlete who wins the silver medal (second place).
-- Having good friends you can count on can keep you from catching colds.
-- Subliminal advertising (i.e., persuasive messages that are displayed out of our awareness on TV or movie screens) is very effective in getting us to buy products.
-- The greater the reward promised for an activity, the more one will come to enjoy engaging in that activity.
-- Physically attractive people are seen as less intelligent than less attractive people.
-- Punching a pillow or screaming out loud is a good way to reduce frustration and aggressive tendencies.
-- People pull harder in a tug-of-war when they’re pulling alone than when pulling in a group.
-
-See [Table 1.5](/translations/social-psychology/01-04-chapter-summary/) in the chapter summary for answers and explanations.
+1. 社会心理学者が社会的行動を研究する際に、なぜ実証的方法に依拠するのかを説明する。
+2. 社会心理学者が関心を持つ変数をどのように測定するか、その例を挙げる。
+3. 3種類の研究デザインを概観し、それぞれの長所と限界を評価する。
+4. 研究における妥当性の役割を検討し、研究プログラムをどのように評価すべきかを説明する。
 
 :::
 
-One of the reasons we might think that social psychology is common sense is that once we learn about the outcome of a given event (e.g., when we read about the results of a research project), we frequently believe that we would have been able to predict the outcome ahead of time. For instance, if half of a class of students is told that research concerning attraction between people has demonstrated that “opposites attract,” and if the other half is told that research has demonstrated that “birds of a feather flock together,” most of the students in both groups will report believing that the outcome is true and that they would have predicted the outcome before they had heard about it. Of course, both of these contradictory outcomes cannot be true. The problem is that just reading a description of research findings leads us to think of the many cases that we know that support the findings and thus makes them seem believable. *The tendency to think that we could have predicted something that we probably would not have been able to predict* is called the hindsight bias.
+社会的行動を理解し予測することに関心を持ち、それを研究しているのは社会心理学者だけではない。宗教指導者、哲学者、政治家、小説家なども社会的行動について考察しており、テレビ番組でもよく取り上げられる。しかし、社会的行動を理解しようとする社会心理学のアプローチは、人間の行動を単に観察するだけではない。社会心理学者は、社会的行動の原因を本当に理解するためには、体系的な科学的方法が必要であると考えており、そのため科学的研究を実施する。社会心理学者は、社会的行動の研究は実証的、すなわち*観察可能なデータの収集と体系的分析に基づくもの*であるべきだと考えている。
 
-Our common sense also leads us to believe that we know why we engage in the behaviors that we engage in, when in fact we may not. Social psychologist Daniel Wegner and his colleagues have conducted a variety of studies showing that we do not always understand the causes of our own actions. When we think about a behavior before we engage in it, we believe that the thinking guided our behavior, even when it did not (Morewedge, Gray, & Wegner, 2010). People also report that they contribute more to solving a problem when they are led to believe that they have been working harder on it, even though the effort did not increase their contribution to the outcome (Preston & Wegner, 2007). These findings, and many others like them, demonstrate that our beliefs about the causes of social events, and even of our own actions, do not always match the true causes of those events.
+## 科学的研究の重要性
 
-Social psychologists conduct research because it often uncovers results that could not have been predicted ahead of time. Putting our hunches to the test exposes our ideas to scrutiny. The scientific approach brings a lot of surprises, but it also helps us test our explanations about behavior in a rigorous manner. It is important for you to understand the research methods used in psychology so that you can evaluate the validity of the research that you read about here, in other courses, and in your everyday life.
+社会心理学は人と人との関係を扱っており、また、人間の行動に関する疑問には自分自身の常識や直感によって答えを見つけられることも多いため、実証的に研究する必要はないと考える人も多い (Lilienfeld, 2011)。確かに、私たちは他者を観察することで人間について学んでいるため、社会心理学には常識的な側面もある。しかし、社会心理学のすべてが常識だけで説明できるわけではない。
 
-Social psychologists publish their research in scientific journals, and your instructor may require you to read some of these research articles. The most important social psychology journals are listed in “[Social Psychology Journals](https://www.socialpsychology.org/journals.htm#social).” If you are asked to do a literature search on research in social psychology, you should look for articles from these journals.
+:::note[社会心理学は単なる常識なのか？]
 
-Social Psychology Journals:
+社会心理学が本当に単なる常識なのか、自分自身で確かめるために次の活動をしてみよう。これまでに人々の行動を観察してきた経験と自分自身の常識に基づけば、それぞれの問いについて何らかの答えを思いつくだろう。しかし、その答えにどの程度自信があるだろうか。自分の答えのすべて、あるいはその大部分が科学的研究によって正しいことが示されていると賭けてもよいだろうか。ほとんどの人と同じであれば、少なくともいくつかの答えは間違えるはずである。
 
-- *Journal of Personality and Social Psychology*
-- *Journal of Experimental Social Psychology*
-- *Personality and Social Psychology Bulletin*
-- *Social Psychology and Personality Science*
-- *Social Cognition*
-- *European Journal of Social Psychology*
-- *Social Psychology Quarterly*
-- *Basic and Applied Social Psychology*
-- *Journal of Applied Social Psychology*
+次の各知見を読み、研究上の証拠からみて「主として正しい」のか「主として誤っている」のかを判断してみよう。答えがわかったら、それぞれがなぜ正しい、または誤っているのかを考えてみよう。本書の各章を読み進める中で、これらについてさらに別の考え方を見つけられるかもしれない。
 
-**Note. The research articles in these journals are likely to be available in your college or university library.**
+- 正反対の者同士は惹かれ合う。
+- 競技で銅メダル（3位）を獲得した選手は、銀メダル（2位）を獲得した選手よりも自分の成績に満足している。
+- 頼りにできる良い友人がいると、風邪をひきにくくなる。
+- サブリミナル広告（テレビや映画の画面上で、意識的に認識できない形で提示される説得的メッセージ）は、商品を購入させるうえで非常に効果的である。
+- ある活動に対して約束される報酬が大きいほど、その活動自体を楽しむようになる。
+- 身体的に魅力的な人は、魅力的でない人より知的でないと見なされる。
+- 枕を殴ったり大声で叫んだりすることは、欲求不満や攻撃的傾向を減らす良い方法である。
+- 綱引きでは、集団で引くときより一人で引くときのほうが強く引く。
 
-We’ll discuss the empirical approach and review the findings of many research projects throughout this book, but for now let’s take a look at the basics of how scientists use research to draw overall conclusions about social behavior. Keep in mind as you read this book, however, that although social psychologists are pretty good at understanding the causes of behavior, our predictions are a long way from perfect. We are not able to control the minds or the behaviors of others or to predict exactly what they will do in any given situation. Human behavior is complicated because people are complicated and because the social situations that they find themselves in every day are also complex. It is this complexity—at least for me—that makes studying people so interesting and fun.
+**インタラクティブ・アクティビティ：**
 
-### Measuring Affect, Behavior, and Cognition
+インタラクティブな H5P 要素は、この版のテキストから除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-1](https://opentextbc.ca/socialpsychology/?p=3142#h5p-1)
 
-One important aspect of using an empirical approach to understand social behavior is that the concepts of interest must be measured (Figure 1.7, “The Operational Definition”). If we are interested in learning how much Sarah likes Robert, then we need to have a measure of her liking for him. But how, exactly, should we measure the broad idea of “liking”? In scientific terms, the *characteristics that we are trying to measure* are known as conceptual variables, and the *particular method that we use to measure a variable* *of interest* is called an operational definition.
+**H5P：学習内容を確認しよう：第1章 単語ドラッグ ― 社会心理学の古典的知見**
 
-For anything that we might wish to measure, there are many different operational definitions, and which one we use depends on the goal of the research and the type of situation we are studying. To better understand this, let’s look at an example of how we might operationally define “Sarah likes Robert.”
+章末まとめの表1.5から取られた次の各知見を読み、正しい単語を各ボックスへドラッグして、研究上の証拠からみて「主として正しい」のか「主として誤っている」のかを判断しよう。使用できる「正しい」と「誤り」の数にも注意しよう。答えがわかったら、それぞれの知見がなぜ主として正しい、または主として誤っているのかを考えてみよう。本書の各章を読み進める中で、さらに別の考え方も見つけられるかもしれない。
 
-![Conceptual and measured variables](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Figure-1-7.png)
+- 正反対の者同士は惹かれ合う。
+- 競技で銅メダル（3位）を獲得した選手は、銀メダル（2位）を獲得した選手よりも自分の成績に満足している。
+- 頼りにできる良い友人がいると、風邪をひきにくくなる。
+- サブリミナル広告（テレビや映画の画面上で、意識的に認識できない形で提示される説得的メッセージ）は、商品を購入させるうえで非常に効果的である。
+- ある活動に対して約束される報酬が大きいほど、その活動自体を楽しむようになる。
+- 身体的に魅力的な人は、魅力的でない人より知的でないと見なされる。
+- 枕を殴ったり大声で叫んだりすることは、欲求不満や攻撃的傾向を減らす良い方法である。
+- 綱引きでは、集団で引くときより一人で引くときのほうが強く引く。
 
-*Figure 1.7 The Operational Definition. An idea or conceptual variable (such as “how much Sarah likes Robert”) is turned into a measure through an operational definition.*
-
-One approach to measurement involves directly asking people about their perceptions using self-report measures. Self-report measures are *measures in which individuals are asked to respond to questions posed by an interviewer or on a questionnaire*. Generally, because any one question might be misunderstood or answered incorrectly, in order to provide a better measure, more than one question is asked and the responses to the questions are averaged together. For example, an operational definition of Sarah’s liking for Robert might involve asking her to complete the following measure:
-
-1. I enjoy being around Robert.<br /> Strongly disagree 1 2 3 4 5 6 Strongly agree
-2. I get along well with Robert.<br /> Strongly disagree 1 2 3 4 5 6 Strongly agree
-3. I like Robert.<br /> Strongly disagree 1 2 3 4 5 6 Strongly agree
-
-The operational definition would be the average of her responses across the three questions. Because each question assesses the attitude differently, and yet each question should nevertheless measure Sarah’s attitude toward Robert in some way, the average of the three questions will generally be a better measure than would any one question on its own.
-
-Although it is easy to ask many questions on self-report measures, these measures have a potential disadvantage. As we have seen, people’s insights into their own opinions and their own behaviors may not be perfect, and they might also not want to tell the truth—perhaps Sarah really likes Robert, but she is unwilling or unable to tell us so. Therefore, an alternative to self-report that can sometimes provide a more valid measure is to measure behavior itself. Behavioral measures are *measures designed to directly assess what people do*. Instead of asking Sarah how much she likes Robert, we might instead measure her liking by assessing how much time she spends with Robert or by coding how much she smiles at him when she talks to him. Some examples of behavioral measures that have been used in social psychological research are shown in Table 1.3, “Examples of Operational Definitions of Conceptual Variables That Have Been Used in Social Psychological Research.”
-
-*Table 1.3 Examples of Operational Definitions of Conceptual Variables that have been used in Sociological Research.*
-
-| Conceptual variable | Operational definitions |
-| --- | --- |
-| Aggression | Number of seconds taken to honk the horn at the car ahead after a stoplight turns green Number of presses of a button that administers shock to another student |
-| Interpersonal attraction | Number of millimeters of pupil dilation when one person looks at another Number of times that a person looks at another person |
-| Altruism | Number of hours of volunteering per week that a person engages in Number of pieces of paper a person helps another pick up |
-| Group-decision making skills | Number of seconds in which a group correctly solves a problem Number of groups able to correctly solve a group performance task |
-| Prejudice | Number of groups able to correctly solve a group performance task Number of negative words used in a creative story about another person |
-
-### Social Neuroscience: Measuring Social Responses in the Brain
-
-Still another approach to measuring thoughts and feelings is to measure brain activity, and recent advances in brain science have created a wide variety of new techniques for doing so. One approach, known as electroencephalography (EEG), is *a technique that records the electrical activity produced by the brain’s neurons through the use of electrodes that are placed around the research participant’s head*. An electroencephalogram (EEG) can show if a person is asleep, awake, or anesthetized because the brain wave patterns are known to differ during each state. An EEG can also track the waves that are produced when a person is reading, writing, and speaking with others. A particular advantage of the technique is that the participant can move around while the recordings are being taken, which is useful when measuring brain activity in children who often have difficulty keeping still. Furthermore, by following electrical impulses across the surface of the brain, researchers can observe changes over very fast time periods.
-
-![Man wearing an EEG Cap](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/EEG_cap.jpg)
-
-*Figure 1.8*
-
-Although EEGs can provide information about the general patterns of electrical activity within the brain, and although they allow the researcher to see these changes quickly as they occur in real time, the electrodes must be placed on the surface of the skull, and each electrode measures brain waves from large areas of the brain. As a result, EEGs do not provide a very clear picture of the structure of the brain.
-
-But techniques exist to provide more specific brain images. Functional magnetic resonance imaging (fMRI) is a *neuroimaging technique that uses a magnetic field to create images of brain structure and function*. In research studies that use the fMRI, the research participant lies on a bed within a large cylindrical structure containing a very strong magnet. Nerve cells in the brain that are active use more oxygen, and the need for oxygen increases blood flow to the area. The fMRI detects the amount of blood flow in each brain region and thus is an indicator of which parts of the brain are active.
-
-Very clear and detailed pictures of brain structures (see Figure 1.9, “MRI BOLD activation in an emotional Stroop task”) can be produced via fMRI. Often, the images take the form of cross-sectional “slices” that are obtained as the magnetic field is passed across the brain. The images of these slices are taken repeatedly and are superimposed on images of the brain structure itself to show how activity changes in different brain structures over time. Normally, the research participant is asked to engage in tasks while in the scanner, for instance, to make judgments about pictures of people, to solve problems, or to make decisions about appropriate behaviors. The fMRI images show which parts of the brain are associated with which types of tasks. Another advantage of the fMRI is that is it noninvasive. The research participant simply enters the machine and the scans begin.
-
-[![mri](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/mri-e1410974658989.jpg)](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/mri-e1410974658989.jpg)
-
-*Figure 1.9 MRI BOLD activation in an emotional Stroop task \[click to see image full size\]*
-
-Although the scanners themselves are expensive, the advantages of fMRIs are substantial, and scanners are now available in many university and hospital settings. The fMRI is now the most commonly used method of learning about brain structure, and it has been employed by social psychologists to study social cognition, attitudes, morality, emotions, responses to being rejected by others, and racial prejudice, to name just a few topics (Eisenberger, Lieberman, & Williams, 2003; Greene, Sommerville, Nystrom, Darley, & Cohen, 2001; Lieberman, Hariri, Jarcho, Eisenberger, & Bookheimer, 2005; Ochsner, Bunge, Gross, & Gabrieli, 2002; Richeson et al., 2003).
-
-### Observational Research
-
-Once we have decided how to measure our variables, we can begin the process of research itself. As you can see in Table 1.4, “Three Major Research Designs Used by Social Psychologists,” there are three major approaches to conducting research that are used by social psychologists—the *observational approach*, the *correlational approach*, and the *experimental approach*. Each approach has some advantages and disadvantages.
-
-*Table 1.4 Three Major Research Designs Used by Social Psychologists*
-
-| Research Design | Goal | Advantages | Disadvantages |
-| --- | --- | --- | --- |
-| Observational | To create a snapshot of the current state of affairs | Provides a relatively complete picture of what is occurring at a given time. Allows the development of questions for further study. | Does not assess relationships between variables. |
-| Correlational | To assess the relationships between two or more variables | Allows the testing of expected relationships between variables and the making of predictions. Can assess these relationships in everyday life events. | Cannot be used to draw inferences about the causal relationships between the variables. |
-| Experimental | To assess the causal impact of one or more experimental manipulations on a dependent variable | Allows the drawing of conclusions about the causal relationships among variables. | Cannot experimentally manipulate many important variables. May be expensive and take much time to conduct. |
-
-The most basic research design, observational research, is *research that involves making observations of behavior and recording those observations in an objective manner*. Although it is possible in some cases to use observational data to draw conclusions about the relationships between variables (e.g., by comparing the behaviors of older versus younger children on a playground), in many cases the observational approach is used only to get a picture of what is happening to a given set of people at a given time and how they are responding to the social situation. In these cases, the observational approach involves creating a type of “snapshot” of the current state of affairs.
-
-One advantage of observational research is that in many cases it is the only possible approach to collecting data about the topic of interest. A researcher who is interested in studying the impact of an earthquake on the residents of Tokyo, the reactions of Israelis to a terrorist attack, or the activities of the members of a religious cult cannot create such situations in a laboratory but must be ready to make observations in a systematic way when such events occur on their own. Thus observational research allows the study of unique situations that could not be created by the researcher. Another advantage of observational research is that the people whose behavior is being measured are doing the things they do every day, and in some cases they may not even know that their behavior is being recorded.
-
-One early observational study that made an important contribution to understanding human behavior was reported in a book by Leon Festinger and his colleagues (Festinger, Riecken, & Schachter, 1956). The book, called *When Prophecy Fails*, reported an observational study of the members of a “doomsday” cult. The cult members believed that they had received information, supposedly sent through “automatic writing” from a planet called “Clarion,” that the world was going to end. More specifically, the group members were convinced that Earth would be destroyed as the result of a gigantic flood sometime before dawn on December 21, 1954.
-
-When Festinger learned about the cult, he thought that it would be an interesting way to study how individuals in groups communicate with each other to reinforce their extreme beliefs. He and his colleagues observed the members of the cult over a period of several months, beginning in July of the year in which the flood was expected. The researchers collected a variety of behavioral and self-report measures by observing the cult, recording the conversations among the group members, and conducting detailed interviews with them. Festinger and his colleagues also recorded the reactions of the cult members, beginning on December 21, when the world did not end as they had predicted. This observational research provided a wealth of information about the indoctrination patterns of cult members and their reactions to disconfirmed predictions. This research also helped Festinger develop his important theory of cognitive dissonance.
-
-Despite their advantages, observational research designs also have some limitations. Most importantly, because the data that are collected in observational studies are only a description of the events that are occurring, they do not tell us anything about the relationship between different variables. However, it is exactly this question that correlational research and experimental research are designed to answer.
-
-### The Research Hypothesis
-
-Because social psychologists are generally interested in looking at relationships among variables, they begin by stating their predictions in the form of a precise statement known as a *research hypothesis*. A research hypothesis is a *specific prediction* *about the relationship between the variables of interest and about the specific direction of that relationship*. For instance, the research hypothesis “People who are more similar to each other will be more attracted to each other” predicts that there is a relationship between a variable called similarity and another variable called attraction. In the research hypothesis “The attitudes of cult members become more extreme when their beliefs are challenged,” the variables that are expected to be related are extremity of beliefs and the degree to which the cult’s beliefs are challenged.
-
-Because the research hypothesis states both that there is a relationship between the variables and the direction of that relationship, it is said to be falsifiable, which means *that the outcome of the research can demonstrate empirically either that there is support for the hypothesis (i.e., the relationship between the variables was correctly specified) or that there is actually no relationship between the variables or that the actual relationship is not in the direction that was predicted*. Thus the research hypothesis that “People will be more attracted to others who are similar to them” is falsifiable because the research could show either that there was no relationship between similarity and attraction or that people we see as similar to us are seen as *less* attractive than those who are dissimilar.
-
-### Correlational Research
-
-Correlational researchis designed to *search for and test hypotheses about the relationships between two or more variables.* In the simplest case, the correlation is between only two variables, such as that between similarity and liking, or between gender (male versus female) and helping.
-
-In a correlational design, the research hypothesis is that there is an association (i.e., a correlation) between the variables that are being measured. For instance, many researchers have tested the research hypothesis that a positive correlation exists between the use of violent video games and the incidence of aggressive behavior, such that people who play violent video games more frequently would also display more aggressive behavior.
-
-![Correlational design](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-10.png)
-
-*Figure 1.10 Correlational Design. The research hypothesis that a positive correlation exists between the use of violent video games and the incidence of aggressive behavior*
-
-A statistic known as the Pearson correlation coefficient (symbolized by the letter *r*) is normally *used to summarize the association, or correlation, between two variables*. The Pearson correlation coefficient can range from −1 (indicating a very strong negative relationship between the variables) to +1 (indicating a very strong positive relationship between the variables). Recent research has found that there is a positive correlation between the use of violent video games and the incidence of aggressive behavior and that the size of the correlation is about *r* = .30 (Bushman & Huesmann, 2010).
-
-One advantage of correlational research designs is that, like observational research (and in comparison with experimental research designs in which the researcher frequently creates relatively artificial situations in a laboratory setting), they are often used to study people doing the things that they do every day. Correlational research designs also have the advantage of allowing prediction. When two or more variables are correlated, we can use our knowledge of a person’s score on one of the variables to predict his or her likely score on another variable. Because high-school grades are correlated with university grades, if we know a person’s high-school grades, we can predict his or her likely university grades. Similarly, if we know how many violent video games a child plays, we can predict how aggressively he or she will behave. These predictions will not be perfect, but they will allow us to make a better guess than we would have been able to if we had not known the person’s score on the first variable ahead of time.
-
-Despite their advantages, correlational designs have a very important limitation. This limitation is that they cannot be used to draw conclusions about the causal relationships among the variables that have been measured. An observed correlation between two variables does not necessarily indicate that either one of the variables caused the other. Although many studies have found a correlation between the number of violent video games that people play and the amount of aggressive behaviors they engage in, this does not mean that viewing the video games necessarily caused the aggression. Although one possibility is that playing violent games increases aggression,
-
-![Causation](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-11.png)
-
-*Figure 1.11 Playing violent video games leads to aggressive behavior.*
-
-another possibility is that the causal direction is exactly opposite to what has been hypothesized. Perhaps increased aggressiveness causes more interest in, and thus increased viewing of, violent games. Although this causal relationship might not seem as logical, there is no way to rule out the possibility of such *reverse causation* on the basis of the observed correlation.
-
-![Causation](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-12.png)
-
-*Figure 1.12 Increased aggressiveness causes more interest in, and thus increased viewing of, violent games.*
-
-Still another possible explanation for the observed correlation is that it has been produced by the presence of another variable that was not measured in the research. Common-causal variables (also known as third variables) are *variables that are not part of the research hypothesis but that cause both the predictor and the outcome variable and thus produce the observed correlation between them* (Figure 1.13, “Correlation and Causality”). It has been observed that students who sit in the front of a large class get better grades than those who sit in the back of the class. Although this could be because sitting in the front causes the student to take better notes or to understand the material better, the relationship could also be due to a common-causal variable, such as the interest or motivation of the students to do well in the class. Because a student’s interest in the class leads him or her to both get better grades and sit nearer to the teacher, seating position and class grade are correlated, even though neither one caused the other.
-
-![Correlation and causation](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-13.png)
-
-*Figure 1.13 Correlation and Causality. The correlation between where students sit in a large class and their grade in the class is likely caused by the influence of one or more common-causal variables.*
-
-The possibility of common-causal variables must always be taken into account when considering correlational research designs. For instance, in a study that finds a correlation between playing violent video games and aggression, it is possible that a common-causal variable is producing the relationship. Some possibilities include the family background, diet, and hormone levels of the children. Any or all of these potential common-causal variables might be creating the observed correlation between playing violent video games and aggression. Higher levels of the male sex hormone testosterone, for instance, may cause children to both watch more violent TV and behave more aggressively.
-
-You may think of common-causal variables in correlational research designs as “mystery” variables, since their presence and identity is usually unknown to the researcher because they have not been measured. Because it is not possible to measure every variable that could possibly cause both variables, it is always possible that there is an unknown common-causal variable. For this reason, we are left with the basic limitation of correlational research: correlation does not imply causation.
-
-### Experimental Research
-
-The goal of much research in social psychology is to understand the causal relationships among variables, and for this we use experiments. Experimental research designs are *research designs that include the manipulation of a given situation or experience for two or more groups of individuals who are initially created to be equivalent, followed by a measurement of the effect of that experience*.
-
-In an experimental research design, the variables of interest are called the independent variables and the dependent variables. The independent variable refers to *the situation that is created by the experimenter through the experimental manipulations*, and the dependent variable refers to *the variable that is measured after the manipulations have occurred*. In an experimental research design, the research hypothesis is that the manipulated independent variable (or variables) causes changes in the measured dependent variable (or variables). We can diagram the prediction like this, using an arrow that points in one direction to demonstrate the expected direction of causality:
-
-viewing violence (independent variable) → aggressive behavior (dependent variable)
-
-Consider an experiment conducted by Anderson and Dill (2000), which was designed to directly test the hypothesis that viewing violent video games would cause increased aggressive behavior. In this research, male and female undergraduates from Iowa State University were given a chance to play either a violent video game (Wolfenstein 3D) or a nonviolent video game (Myst). During the experimental session, the participants played the video game that they had been given for 15 minutes. Then, after the play, they participated in a competitive task with another student in which they had a chance to deliver blasts of white noise through the earphones of their opponent. The operational definition of the dependent variable (aggressive behavior) was the level and duration of noise delivered to the opponent. The design and the results of the experiment are shown in Figure 1.14, “An Experimental Research Design (After Anderson & Dill, 2000).”
-
-![A/B Testing](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-14.png)
-
-*Figure 1.14 An Experimental Research Design (After Anderson & Dill, 2000). Two advantages of the experimental research design are (a) an assurance that the independent variable (also known as the experimental manipulation) occurs prior to the measured dependent variable and (b) the creation of initial equivalence between the conditions of the experiment (in this case, by using random assignment to conditions).*
-
-Experimental designs have two very nice features. For one, they guarantee that the independent variable occurs prior to measuring the dependent variable. This eliminates the possibility of reverse causation. Second, the experimental manipulation allows ruling out the possibility of common-causal variables that cause both the independent variable and the dependent variable. In experimental designs, the influence of common-causal variables is controlled, and thus eliminated, by creating equivalence among the participants in each of the experimental conditions before the manipulation occurs.
-
-The most common method of creating equivalence among the experimental conditions is through random assignment to conditionsbefore the experiment begins, which involves *determining separately for each participant which condition he or she will experience through a random process,* such as drawing numbers out of an envelope or using a website such as [randomizer.org](http://randomizer.org). Anderson and Dill first randomly assigned about 100 participants to each of their two groups. Let’s call them Group A and Group B. Because they used random assignment to conditions, they could be confident that *before the experimental manipulation occurred*, the students in Group A were, *on average*, equivalent to the students in Group B on *every possible variable*, including variables that are likely to be related to aggression, such as family, peers, hormone levels, and diet—and, in fact, everything else.
-
-Then, after they had created initial equivalence, Anderson and Dill created the experimental manipulation—they had the participants in Group A play the violent video game and the participants in Group B play the nonviolent video game. Then they compared the dependent variable (the white noise blasts) between the two groups and found that the students who had viewed the violent video game gave significantly longer noise blasts than did the students who had played the nonviolent game. When the researchers observed differences in the duration of white noise blasts between the two groups after the experimental manipulation, they could draw the conclusion that it was the independent variable (and not some other variable) that caused these differences because they had created initial equivalence between the groups. The idea is that the *only thing* that was different between the students in the two groups was which video game they had played.
-
-When we create a situation in which the groups of participants are expected to be equivalent before the experiment begins, when we manipulate the independent variable before we measure the dependent variable, and when we change only the nature of independent variables between the conditions, then we can be confident that it is the independent variable that caused the differences in the dependent variable. Such experiments are said to have high internal validity, where internal validity is *the extent to which changes in the dependent variable in an experiment can confidently be attributed to changes in the independent variable*.
-
-Despite the advantage of determining causation, experimental research designs do have limitations. One is that the experiments are usually conducted in laboratory situations rather than in the everyday lives of people. Therefore, we do not know whether results that we find in a laboratory setting will necessarily hold up in everyday life. To counter this, researchers sometimes conduct field experiments, which *are experimental research studies that are conducted in a natural environment*, such as a school or a factory*.* However, they are difficult to conduct because they require a means of creating random assignment to conditions, and this is frequently not possible in natural settings.
-
-A second and perhaps more important limitation of experimental research designs is that some of the most interesting and important social variables cannot be experimentally manipulated. If we want to study the influence of the size of a mob on the destructiveness of its behavior, or to compare the personality characteristics of people who join suicide cults with those of people who do not join suicide cults, these relationships must be assessed using correlational designs because it is simply not possible to manipulate mob size or cult membership.
-
-:::note[Interactive activity]
-
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-2](https://opentextbc.ca/socialpsychology/?p=3142#h5p-2)
+答えと解説については、章末まとめの [表1.5](/translations/social-psychology/01-04-chapter-summary/) を参照。
 
 :::
 
-**H5P: TEST YOUR LEARNING: CHAPTER 1 DRAG THE WORDS – INDEPENDENT AND DEPENDENT VARIABLES**
+社会心理学を常識にすぎないと考えてしまう理由の一つは、ある出来事の結果を知った後、たとえば研究プロジェクトの結果を読んだ後になると、その結果を事前に予測できたはずだと考えやすいことである。たとえば、あるクラスの半分の学生に、人間同士の魅力に関する研究で「正反対の者同士は惹かれ合う」ことが示されたと伝え、残り半分の学生には「類は友を呼ぶ」ことが示されたと伝えたとする。すると、どちらの集団の学生も大部分が、その結果は正しいと思うだけでなく、聞く前から自分ならその結果を予測できたと答える。当然、この互いに矛盾する2つの結果が両方とも正しいということはありえない。問題は、研究結果についての説明を読んだだけで、その結果を支持する自分の知っている多くの事例が頭に浮かび、その結果がもっともらしく思えてしまうことである。*本当は予測できなかった可能性が高いことについて、自分なら予測できたはずだと考える傾向*は、後知恵バイアス（hindsight bias）と呼ばれる。
 
-Read through the following descriptions of experimental studies, and identify the independent and dependent variables in each scenario.
+常識はまた、自分がなぜある行動をしているのかを自分自身で理解していると思わせるが、実際にはそうでないこともある。社会心理学者 Daniel Wegner とその同僚たちは、私たちが自分自身の行動の原因を常に理解しているわけではないことを示すさまざまな研究を行ってきた。ある行動をする前にその行動について考えた場合、実際にはその思考が行動を導いていなくても、その思考によって自分の行動が導かれたと考える (Morewedge, Gray, & Wegner, 2010)。また、実際には努力量の増加が問題解決への貢献度を高めていなくても、自分がより一生懸命取り組んだと思わされると、問題解決により大きく貢献したと報告する (Preston & Wegner, 2007)。これらをはじめとする多くの研究結果は、社会的出来事や自分自身の行動の原因について私たちが持つ信念が、それらの出来事の実際の原因と常に一致しているわけではないことを示している。
 
-1. A social psychologist wants to conduct a study to see if playing a violent versus a non-violent video game influences peoples’ aggressiveness.
-  - Amount of aggression:
-  - Type of video game:
-2. A researcher is investigating whether the speed of a helping response is affected by the size of a group of onlookers to an emergency situation.
-  - Size of group of onlookers
-  - Speed of helping response
-3. A social psychologist is interested in determining if people show greater attitude change after being exposed to a one-sided versus a two-sided argument.
-  - Amount of attitude change
-  - Type of message
-4. People are assigned to viewing either aggression-related or neutral words, and then their level of hostile intention bias is measured using a questionnaire.
-  - Hostile intention bias score
-  - Type of word
-5. A team of researchers assess whether people make more external attributions when they are asked to evaluate their own rather than someone else’s behaviour.
-  - Target of attribution
-  - Type of attribution
+社会心理学者が研究を行うのは、研究によって、事前には予測できなかった結果がしばしば明らかになるからである。自分たちの直感を実際に検証することで、考えを批判的な検討にさらすことができる。科学的アプローチは多くの驚きをもたらす一方、行動についての説明を厳密に検証することも可能にする。本書、ほかの授業、そして日常生活の中で目にする研究の妥当性を評価できるようになるためにも、心理学で用いられる研究方法を理解することが重要である。
 
-### Factorial Research Designs
+社会心理学者は科学雑誌に研究成果を発表しており、授業によってはこうした研究論文を読むよう求められることもある。主要な社会心理学雑誌は “[Social Psychology Journals](https://www.socialpsychology.org/journals.htm#social)” に掲載されている。社会心理学研究について文献検索をするよう求められた場合は、これらの雑誌に掲載された論文を探すとよい。
 
-Social psychological experiments are frequently designed to simultaneously study the effects of more than one independent variable on a dependent variable. Factorial research designs are *experimental designs that have two or more independent variables*. By using a factorial design, the scientist can study the influence of each variable on the dependent variable (known as the *main effects* of the variables) as well as how the variables work together to influence the dependent variable (known as the *interaction* between the variables). Factorial designs sometimes demonstrate the person by situation interaction.
+社会心理学の主要学術誌：
 
-In one such study, Brian Meier and his colleagues (Meier, Robinson, & Wilkowski, 2006) tested the hypothesis that exposure to aggression-related words would increase aggressive responses toward others. Although they did not directly manipulate the social context, they used a technique common in social psychology in which they *primed* (i.e., activated) thoughts relating to social settings. In their research, half of their participants were randomly assigned to see words relating to aggression and the other half were assigned to view neutral words that did not relate to aggression. The participants in the study also completed a measure of individual differences in *agreeableness*—a personality variable that assesses the extent to which people see themselves as compassionate, cooperative, and high on other-concern.
+- _Journal of Personality and Social Psychology_
+- _Journal of Experimental Social Psychology_
+- _Personality and Social Psychology Bulletin_
+- _Social Psychology and Personality Science_
+- _Social Cognition_
+- _European Journal of Social Psychology_
+- _Social Psychology Quarterly_
+- _Basic and Applied Social Psychology_
+- _Journal of Applied Social Psychology_
 
-Then the research participants completed a task in which they thought they were competing with another student. Participants were told that they should press the space bar on the computer keyboard as soon as they heard a tone over their headphones, and the person who pressed the space bar the fastest would be the winner of the trial. Before the first trial, participants set the intensity of a blast of white noise that would be delivered to the loser of the trial. The participants could choose an intensity ranging from 0 (no noise) to the most aggressive response (10, or 105 decibels). In essence, participants controlled a “weapon” that could be used to blast the opponent with aversive noise, and this setting became the dependent variable. At this point, the experiment ended.
+**注：これらの学術誌に掲載された研究論文は、大学の図書館で利用できる可能性が高い。**
 
-![Agreeableness comparison chart](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-15.png)
+本書では今後も実証的アプローチについて論じ、多くの研究プロジェクトの知見を検討していく。しかしここではまず、科学者が研究を使って社会的行動について総合的な結論を導く方法の基本を見ていこう。また、本書を読む際には、社会心理学者は行動の原因をかなりうまく理解できるとはいえ、その予測は完全からはほど遠いことを覚えておいてほしい。他者の心や行動をコントロールすることも、ある状況でその人が何をするかを正確に予測することもできない。人間の行動が複雑なのは、人間そのものが複雑であるうえ、日々置かれる社会的状況も複雑だからである。少なくとも私にとっては、この複雑さこそが、人間を研究することを非常に興味深く、楽しいものにしている。
 
-*Figure 1.15 A Person-Situation Interaction. In this experiment by Meier, Robinson, and Wilkowski (2006) the independent variables are a type of priming (aggression or neutral) and participant agreeableness (high or low). The dependent variable is the white noise level selected (a measure of aggression). The participants who were low in agreeableness became significantly more aggressive after seeing aggressive words, but those high in agreeableness did not.*
+### 感情・行動・認知を測定する
 
-As you can see in Figure 1.15, “A Person-Situation Interaction,” there was a person-by-situation interaction. Priming with aggression-related words (the situational variable) increased the noise levels selected by participants who were low on agreeableness, but priming did not increase aggression (in fact, it decreased it a bit) for students who were high on agreeableness. In this study, the social situation was important in creating aggression, but it had different effects for different people.
+実証的アプローチによって社会的行動を理解する際の重要な点の一つは、関心の対象となる概念を測定しなければならないことである（図1.7「操作的定義」）。Sarah が Robert をどのくらい好きなのかを知りたいのであれば、Sarah の Robert に対する好意を測定する必要がある。しかし、「好きである」という幅広い考えを、具体的にどのように測定すればよいのだろうか。科学の用語では、*私たちが測定しようとしている特徴*を概念変数（conceptual variables）と呼び、*関心のある変数を測定するために用いる具体的な方法*を操作的定義（operational definition）と呼ぶ。
 
-### Deception in Social Psychology Experiments
+測定したいものが何であっても、操作的定義には多くの異なる方法があり、どれを使うかは研究の目的や研究対象となる状況の種類によって異なる。これをよりよく理解するため、「Sarah は Robert が好きである」をどのように操作的に定義できるかを例として見てみよう。
 
-You may have wondered whether the participants in the video game study that we just discussed were told about the research hypothesis ahead of time. In fact, these experiments both used a cover story—*a false statement of what the research was really about*. The students in the video game study were not told that the study was about the effects of violent video games on aggression, but rather that it was an investigation of how people learn and develop skills at motor tasks like video games and how these skills affect other tasks, such as competitive games. The participants in the task performance study were not told that the research was about task performance. In some experiments, the researcher also makes use of an experimental confederate—*a person who is actually part of the experimental team but who pretends to be another participant in the study*. The confederate helps create the right “feel” of the study, making the cover story seem more real.
+![概念変数と測定変数](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Figure-1-7.png)
 
-In many cases, it is not possible in social psychology experiments to tell the research participants about the real hypotheses in the study, and so cover stories or other types of *deception* may be used. You can imagine, for instance, that if a researcher wanted to study racial prejudice, he or she could not simply tell the participants that this was the topic of the research because people may not want to admit that they are prejudiced, even if they really are. Although the participants are always told—through the process of *informed consent*—as much as is possible about the study before the study begins, they may nevertheless sometimes be deceived to some extent. At the end of every research project, however, participants should always receive a complete *debriefing* in which all relevant information is given, including the real hypothesis, the nature of any deception used, and how the data are going to be used.
+_図1.7 操作的定義。「Sarah は Robert をどのくらい好きか」のような考えや概念変数は、操作的定義を通じて測定値へと変換される。_
 
-:::note[Interactive activity]
+測定方法の一つは、自己報告尺度を使い、人々自身に自分の認識を直接尋ねることである。自己報告尺度とは、*面接者や質問票によって提示された質問に本人が回答するよう求められる測定方法*である。一般に、一つの質問だけでは誤解されたり誤って回答されたりする可能性があるため、より良い測定値を得るためには複数の質問を行い、その回答を平均する。たとえば、Sarah の Robert に対する好意を操作的に定義する方法として、次の尺度への回答を求めることが考えられる。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-3](https://opentextbc.ca/socialpsychology/?p=3142#h5p-3)
+1. Robert と一緒にいるのは楽しい。<br /> まったくそう思わない 1 2 3 4 5 6 非常にそう思う
+2. Robert とは仲が良い。<br /> まったくそう思わない 1 2 3 4 5 6 非常にそう思う
+3. Robert が好きだ。<br /> まったくそう思わない 1 2 3 4 5 6 非常にそう思う
+
+この場合の操作的定義は、3つの質問への回答の平均値となる。それぞれの質問は異なる方法で態度を評価しているが、いずれも何らかの形で Sarah の Robert に対する態度を測定するはずである。そのため、一般に3問の平均値は、いずれか1問だけを用いるよりも良い測定値になる。
+
+自己報告尺度では多くの質問を簡単に尋ねることができるが、潜在的な欠点もある。すでに見てきたように、自分自身の意見や行動についての人々の洞察は完全ではない可能性がある。また、本当のことを話したくないこともある。Sarah は実際には Robert のことがとても好きでも、そのことを私たちに話したくない、あるいは話せないかもしれない。そのため、場合によっては自己報告よりも妥当性の高い測定となりうる代替的方法として、行動そのものを測ることができる。行動測定とは、*人々が実際に何をするかを直接評価するための測定*である。Sarah に Robert がどのくらい好きかを尋ねる代わりに、Robert と一緒に過ごす時間の長さを測定したり、彼と話すときにどの程度笑顔を見せるかを符号化したりすることで、彼女の好意を測定することができる。社会心理学研究で使用されてきた行動測定の例を、表1.3「社会学研究で使用されてきた概念変数の操作的定義の例」に示す。
+
+_表1.3 社会学研究で使用されてきた概念変数の操作的定義の例_
+
+| 概念変数         | 操作的定義                                                                                                     |
+| ---------------- | -------------------------------------------------------------------------------------------------------------- |
+| 攻撃性           | 信号が青に変わった後、前の車にクラクションを鳴らすまでの秒数／別の学生に電気ショックを与えるボタンを押した回数 |
+| 対人的魅力       | ある人が別の人を見るときの瞳孔拡張量（ミリメートル）／ある人が別の人を見る回数                                 |
+| 利他性           | 1週間あたりのボランティア活動時間／別の人が落とした紙を拾うのを手伝った枚数                                    |
+| 集団意思決定能力 | 集団が問題を正しく解決するまでの秒数／集団課題を正しく解決できた集団の数                                       |
+| 偏見             | 集団課題を正しく解決できた集団の数／別の人物について創作した物語の中で使用された否定的な単語の数               |
+
+### 社会神経科学：脳における社会的反応の測定
+
+思考や感情を測定するさらに別の方法として、脳活動を測定する方法がある。近年の脳科学の進歩によって、そのためのさまざまな新しい技術が開発されている。その一つである脳波記録法（electroencephalography; EEG）は、*研究参加者の頭部周囲に配置した電極を用いて、脳のニューロンが生み出す電気活動を記録する技術*である。脳波（EEG）のパターンは、睡眠中、覚醒中、麻酔下で異なることがわかっているため、EEG によって人が眠っているのか、起きているのか、麻酔状態なのかを判断できる。また、人が読んだり、書いたり、他者と会話したりするときに生じる脳波を追跡することもできる。この技術の大きな利点の一つは、記録中に参加者が動くことができることである。じっとしていることが難しい子どもの脳活動を測定するときには特に有用である。さらに、脳表面を伝わる電気的インパルスを追跡することで、非常に短い時間単位で生じる変化を観察できる。
+
+![EEGキャップを装着した男性](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/EEG_cap.jpg)
+
+_図1.8_
+
+EEG は脳内の電気活動の全体的なパターンについて情報を与え、変化がリアルタイムに生じる様子を迅速に確認できる。しかし、電極は頭蓋骨の表面に配置する必要があり、それぞれの電極は脳の広い領域から生じる脳波を測定する。そのため、EEG では脳の構造について非常に明瞭な画像を得ることはできない。
+
+一方、より具体的な脳画像を得る技術も存在する。機能的磁気共鳴画像法（functional magnetic resonance imaging; fMRI）は、*磁場を利用して脳の構造と機能の画像を作成する神経画像法*である。fMRI を用いる研究では、研究参加者は非常に強力な磁石を内蔵した大きな円筒形装置の中のベッドに横たわる。活動している脳内の神経細胞はより多くの酸素を消費し、酸素需要の増加によってその領域への血流が増える。fMRI は脳の各領域の血流量を検出するため、脳のどの部分が活動しているかを示す指標となる。
+
+fMRI を利用すると、脳構造の非常に鮮明で詳細な画像を作成することができる（図1.9「感情的ストループ課題における MRI BOLD 活性化」を参照）。多くの場合、画像は磁場を脳全体に通過させることで得られる横断面の「スライス」の形を取る。これらのスライス画像を繰り返し撮影し、脳そのものの構造画像に重ね合わせることで、時間の経過に伴って異なる脳構造の活動がどのように変化するのかを示す。通常、研究参加者はスキャナーの中で、人の写真について判断する、問題を解く、適切な行動について意思決定するといった課題を行うよう求められる。fMRI 画像は、どの種類の課題が脳のどの部分と関連しているかを示す。fMRI のもう一つの利点は、非侵襲的であることである。研究参加者は装置の中に入るだけで、スキャンが開始される。
+
+[![MRI](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/mri-e1410974658989.jpg)](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/mri-e1410974658989.jpg)
+
+_図1.9 感情的ストループ課題における MRI BOLD 活性化［クリックするとフルサイズの画像を表示］_
+
+スキャナー自体は高価ではあるものの、fMRI の利点は大きく、現在では多くの大学や病院で利用できる。fMRI は現在、脳構造について学ぶために最も一般的に使用される方法となっており、社会心理学者は、社会的認知、態度、道徳、情動、他者から拒絶されたときの反応、人種的偏見など、さまざまなテーマを研究するために利用してきた (Eisenberger, Lieberman, & Williams, 2003; Greene, Sommerville, Nystrom, Darley, & Cohen, 2001; Lieberman, Hariri, Jarcho, Eisenberger, & Bookheimer, 2005; Ochsner, Bunge, Gross, & Gabrieli, 2002; Richeson et al., 2003)。
+
+### 観察研究
+
+変数をどのように測定するかを決めたら、実際の研究過程を始めることができる。表1.4「社会心理学者が使用する3つの主要な研究デザイン」に示すように、社会心理学者が用いる研究方法には、_観察的アプローチ_、_相関的アプローチ_、*実験的アプローチ*という3つの主要な方法がある。それぞれに長所と短所がある。
+
+_表1.4 社会心理学者が使用する3つの主要な研究デザイン_
+
+| 研究デザイン | 目的                                                    | 長所                                                                                                       | 短所                                                                               |
+| ------------ | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- |
+| 観察研究     | 現在の状況のスナップショットを作る                      | ある時点で何が起きているのかについて比較的包括的な像を得られる。さらなる研究のための問いを発展させられる。 | 変数間の関係を評価しない。                                                         |
+| 相関研究     | 2つ以上の変数間の関係を評価する                         | 変数間に予測された関係があるかを検証し、予測を行える。日常生活の出来事における関係も評価できる。           | 変数間の因果関係について推論することはできない。                                   |
+| 実験研究     | 1つ以上の実験操作が従属変数に及ぼす因果的影響を評価する | 変数間の因果関係について結論を導くことができる。                                                           | 多くの重要な変数は実験的に操作できない。費用が高く、実施に時間がかかる場合がある。 |
+
+最も基本的な研究デザインである観察研究とは、*行動を観察し、その観察内容を客観的な方法で記録する研究*である。場合によっては観察データを使って変数間の関係について結論を導くこともできる。たとえば遊び場で年長児と年少児の行動を比較することなどである。しかし多くの場合、観察的アプローチは、ある時点で特定の人々に何が起きており、その人々が社会的状況にどのように反応しているのかを把握するために使われる。こうした場合、観察的アプローチは、現状の一種の「スナップショット」を作ることになる。
+
+観察研究の利点の一つは、多くの場合、関心のあるテーマについてデータを収集する唯一の方法であることである。東京の住民に対する地震の影響、テロ攻撃に対するイスラエル人の反応、宗教カルトの構成員の活動などを研究したい研究者は、そのような状況を実験室内で作り出すことはできない。そのため、そうした出来事が自然に発生したときに、体系的な方法で観察できるよう準備しておかなければならない。つまり観察研究によって、研究者自身には作り出すことのできない特殊な状況を研究できる。観察研究には、測定対象となる人々が普段の日常生活で行っていることをそのまま行っており、場合によっては自分の行動が記録されていることにさえ気づいていない、という利点もある。
+
+人間行動の理解に重要な貢献をした初期の観察研究の一つが、Leon Festinger とその同僚たちによる書籍で報告された (Festinger, Riecken, & Schachter, 1956)。_When Prophecy Fails_ と題されたこの本は、「終末論的」カルトの構成員を対象とした観察研究を報告している。カルトの構成員たちは、「Clarion」という惑星から「自動書記」によって送られてきたとされる情報を受け取り、世界が終わると信じていた。より具体的には、1954年12月21日の夜明け前までのいずれかの時点で、巨大な洪水によって地球が破壊されると確信していた。
+
+Festinger はこのカルトについて知ると、集団に属する個人同士が、極端な信念を強化するためにどのようにコミュニケーションするのかを研究する興味深い機会だと考えた。彼と同僚たちは、洪水が起こると予想されていた年の7月から数か月間にわたって、カルトの構成員を観察した。研究者たちは、カルトを観察し、集団成員同士の会話を記録し、詳細な面接を行うことで、さまざまな行動測定と自己報告測定を収集した。また、世界が予言どおりには終わらなかった12月21日以降、カルト構成員がどのように反応したかも記録した。この観察研究は、カルト構成員への教化のパターンや、予測が外れた場合の反応について豊富な情報を提供した。また、この研究は Festinger が重要な認知的不協和理論を発展させる助けにもなった。
+
+観察研究デザインにはこうした利点がある一方、いくつかの限界もある。最も重要なのは、観察研究で収集されるデータは起きている出来事を記述したものにすぎないため、異なる変数同士の関係については何も教えてくれないという点である。しかし、この問いに答えるために設計されているのが、相関研究と実験研究なのである。
+
+### 研究仮説
+
+社会心理学者は一般に変数間の関係を調べることに関心があるため、まず予測を*研究仮説*と呼ばれる正確な命題として表現する。研究仮説とは、*関心のある変数間の関係と、その関係がどの方向にあるかについての具体的な予測*である。たとえば、「互いに似ている人同士ほど、互いに強く惹かれ合う」という研究仮説は、類似性という変数と魅力という別の変数との間に関係があると予測している。「カルト構成員の信念が疑問視されるほど、その態度はより極端になる」という研究仮説では、信念の極端さと、カルトの信念がどの程度疑問視されたかが、互いに関連すると予測されている変数である。
+
+研究仮説は、変数間に関係が存在することと、その関係の方向の両方を述べるため、反証可能（falsifiable）であるといわれる。これは、*研究結果によって、その仮説が支持されること、つまり変数間の関係が正しく特定されていたことを実証できる一方で、実際には変数間に関係がないことや、実際の関係が予測された方向とは異なることも実証できる*という意味である。したがって、「人は自分に似ている他者ほど魅力的だと感じる」という研究仮説は反証可能である。研究によって、類似性と魅力の間にまったく関係がないことや、自分に似ているとみなす人のほうが、似ていない人よりも*魅力が低い*と評価されることが示される可能性があるからである。
+
+### 相関研究
+
+相関研究は、*2つ以上の変数間の関係についての仮説を探索し、検証するために設計された研究*である。最も単純な場合、類似性と好意、あるいは性別（男性か女性か）と援助行動など、2つの変数だけの間の相関を調べる。
+
+相関研究デザインでは、測定される変数間に関連、すなわち相関が存在するというのが研究仮説となる。たとえば多くの研究者は、暴力的なビデオゲームの使用と攻撃的行動の発生頻度の間には正の相関があり、暴力的なゲームをより頻繁にプレイする人ほど、より多くの攻撃的行動を示すという仮説を検証してきた。
+
+![相関研究デザイン](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-10.png)
+
+_図1.10 相関研究デザイン。暴力的ビデオゲームの使用と攻撃的行動の発生頻度との間に正の相関が存在するという研究仮説_
+
+通常、2つの変数間の関連、すなわち相関を要約するために、Pearson の相関係数（文字 _r_ で表す）と呼ばれる統計量が用いられる。Pearson の相関係数は −1（変数間の非常に強い負の関係を示す）から +1（変数間の非常に強い正の関係を示す）までの値を取る。近年の研究では、暴力的ビデオゲームの使用と攻撃的行動の発生頻度との間には正の相関があり、その大きさはおよそ _r_ = .30 であることが明らかになっている (Bushman & Huesmann, 2010)。
+
+相関研究デザインの利点の一つは、観察研究と同様、また研究者が実験室で比較的人為的な状況を作ることの多い実験研究とは対照的に、人々が日常的に行っている行動をそのまま研究するためによく利用できることである。相関研究デザインには予測を可能にするという利点もある。2つ以上の変数が相関している場合、一方の変数についてのある人の得点を知ることで、もう一方の変数についてその人がどの程度の得点を取る可能性があるかを予測できる。高校の成績と大学の成績には相関があるため、ある人の高校時代の成績がわかれば、その人の大学での成績もある程度予測できる。同様に、子どもが暴力的ビデオゲームをどの程度プレイしているかわかれば、その子どもがどの程度攻撃的に行動するかを予測できる。こうした予測は完全ではないが、最初の変数について何も知らない場合より、より良い推測ができる。
+
+しかし、こうした利点にもかかわらず、相関研究デザインには非常に重要な限界がある。それは、測定された変数間の因果関係について結論を導くためには利用できないことである。2つの変数間に相関が観察されたからといって、一方がもう一方の原因であるとは限らない。暴力的ビデオゲームをプレイする量と、攻撃的行動の量との間に相関を見いだした研究は数多く存在するが、だからといってビデオゲームを見ることが必ず攻撃性を引き起こしたとは限らない。可能性の一つは、暴力的ゲームをプレイすることが攻撃性を高めるというものである。
+
+![因果関係](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-11.png)
+
+_図1.11 暴力的ビデオゲームをプレイすることが攻撃的行動につながる。_
+
+しかし、因果関係の方向が仮説とは正反対である可能性もある。攻撃性が高い人ほど暴力的ゲームへの関心が高まり、その結果としてそうしたゲームをより多く見るようになるのかもしれない。この因果関係は前者ほど直感的には思えないかもしれないが、観察された相関だけに基づいて、このような*逆因果（reverse causation）*の可能性を排除することはできない。
+
+![因果関係](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-12.png)
+
+_図1.12 攻撃性の高まりによって暴力的ゲームへの関心が高まり、その結果としてプレイ量が増える。_
+
+観察された相関については、研究で測定されなかった別の変数の存在によって生み出されたという、さらに別の説明も可能である。共通原因変数（common-causal variables。「第三の変数」とも呼ばれる）とは、*研究仮説には含まれていないものの、予測変数と結果変数の両方を引き起こし、その結果として両者の間に観察される相関を生み出す変数*である（図1.13「相関と因果関係」）。大人数の授業では、教室の前方に座る学生のほうが、後方に座る学生より良い成績を取ることが観察されている。これは前方に座ることでより良いノートを取れたり、教材をよく理解できたりするためかもしれない。しかし、この関係は、授業で良い成績を取りたいという学生の関心や動機づけのような共通原因変数によって生じている可能性もある。授業への関心が高い学生は、良い成績を取ると同時に教師の近くに座る傾向もあるため、座席位置と授業の成績には相関が生じる。しかし、そのどちらか一方がもう一方を引き起こしたとは限らない。
+
+![相関と因果関係](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-13.png)
+
+_図1.13 相関と因果関係。大人数の授業における学生の座席位置と授業成績との相関は、一つ以上の共通原因変数の影響によって生じている可能性が高い。_
+
+相関研究デザインを考える際には、共通原因変数の可能性を常に考慮しなければならない。たとえば、暴力的ビデオゲームのプレイと攻撃性との間に相関を見いだした研究でも、共通原因変数がその関係を生み出している可能性がある。候補としては、子どもの家庭環境、食生活、ホルモン水準などが挙げられる。こうした潜在的な共通原因変数のいずれか、または複数が、暴力的ビデオゲームのプレイと攻撃性との間に観察された相関を生み出している可能性がある。たとえば、男性ホルモンであるテストステロンの水準が高いことによって、子どもが暴力的なテレビ番組をより多く見ると同時に、より攻撃的に行動するようになる可能性がある。
+
+相関研究デザインにおける共通原因変数は、「謎の変数」のようなものだと考えることができる。その存在や正体は、測定されていないため通常は研究者にもわからないからである。両方の変数を引き起こしうるすべての変数を測定することは不可能であるため、未知の共通原因変数が存在する可能性は常に残る。そのため、相関研究には「相関は因果関係を意味しない」という基本的な限界がある。
+
+### 実験研究
+
+社会心理学における多くの研究の目的は、変数間の因果関係を理解することであり、そのために実験を用いる。実験研究デザインとは、*最初は同等になるよう構成された2つ以上の個人集団に対して、ある状況または経験を操作し、その後、その経験が与えた効果を測定する研究デザイン*である。
+
+実験研究デザインでは、関心の対象となる変数を独立変数と従属変数と呼ぶ。独立変数とは、*実験操作によって実験者が作り出す状況*を指し、従属変数とは、*操作が行われた後に測定される変数*を指す。実験研究デザインにおける研究仮説は、操作された独立変数が、測定される従属変数を変化させるというものである。予想される因果関係の方向を示す一方向の矢印を使えば、次のように表せる。
+
+暴力を見ること（独立変数） → 攻撃的行動（従属変数）
+
+Anderson と Dill (2000) が実施した、暴力的ビデオゲームを見ることが攻撃的行動を増加させるという仮説を直接検証するための実験を考えてみよう。この研究では、Iowa State University の男女の大学生に、暴力的ビデオゲーム（Wolfenstein 3D）または非暴力的ビデオゲーム（Myst）のいずれかをプレイしてもらった。実験セッションでは、参加者は割り当てられたゲームを15分間プレイした。その後、別の学生との競争課題に参加し、対戦相手のヘッドホンを通じてホワイトノイズを流す機会を与えられた。従属変数である攻撃的行動の操作的定義は、相手に与えたノイズの強度と持続時間であった。実験のデザインと結果は、図1.14「実験研究デザイン（Anderson & Dill, 2000 に基づく）」に示されている。
+
+![A/Bテスト](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-14.png)
+
+_図1.14 実験研究デザイン（Anderson & Dill, 2000 に基づく）。実験研究デザインには、(a) 独立変数（実験操作とも呼ばれる）が測定される従属変数より前に必ず生じること、(b) 実験条件間に初期的な同等性を作れること（この場合は条件への無作為割り当てを利用している）という2つの利点がある。_
+
+実験デザインには2つの非常に優れた特徴がある。第一に、独立変数が従属変数の測定より前に必ず発生することが保証される。これによって逆因果の可能性を排除できる。第二に、実験操作によって、独立変数と従属変数の両方を引き起こす共通原因変数の可能性を排除できる。実験デザインでは、操作を行う前に各実験条件の参加者を同等にしておくことで、共通原因変数の影響を統制し、したがって排除する。
+
+実験条件間の同等性を作る最も一般的な方法は、実験開始前に行う条件への無作為割り当て（random assignment to conditions）である。これは、*封筒から番号を引く、あるいは [randomizer.org](http://randomizer.org) のようなウェブサイトを利用するといった無作為な手続きによって、各参加者がどの条件を経験するかを個別に決定すること*を意味する。Anderson と Dill はまず、およそ100名ずつの参加者を2つの集団に無作為に割り当てた。ここでは集団Aと集団Bと呼ぶことにしよう。条件への無作為割り当てを利用したため、_実験操作を行う前の時点では_、集団Aの学生と集団Bの学生が、家族、友人、ホルモン水準、食生活など攻撃性と関係しそうな変数を含む*あらゆる可能な変数について、平均的には同等である*と考えることができた。
+
+その後、初期的な同等性を作ったうえで、Anderson と Dill は実験操作を行った。集団Aの参加者には暴力的ビデオゲームをプレイさせ、集団Bの参加者には非暴力的ビデオゲームをプレイさせた。その後、2つの集団間で従属変数（ホワイトノイズ）を比較したところ、暴力的ビデオゲームを見た学生は、非暴力的ゲームをプレイした学生よりも有意に長いホワイトノイズを与えていた。研究者は、実験操作後に2つの集団のホワイトノイズの持続時間に違いを観察したとき、集団間に初期的な同等性を作っていたため、この違いを生み出したのはほかの変数ではなく独立変数であると結論づけることができた。つまり、2つの集団の学生の間で異なっていた*唯一のもの*が、どのビデオゲームをプレイしたかだったということである。
+
+実験開始前に参加者の集団が同等になると期待できる状況を作り、従属変数を測定する前に独立変数を操作し、条件間で独立変数の性質だけを変化させた場合、従属変数の違いを引き起こしたのは独立変数であると確信することができる。このような実験は内的妥当性（internal validity）が高いといわれる。内的妥当性とは、*実験における従属変数の変化を、独立変数の変化によって生じたものだとどの程度確信をもって帰属できるか*を意味する。
+
+因果関係を明らかにできるという利点がある一方、実験研究デザインにも限界がある。その一つは、通常、実験は人々の日常生活ではなく実験室という状況で行われることである。そのため、実験室で得られた結果が日常生活でも必ず成立するかどうかはわからない。この問題に対応するため、研究者は学校や工場などの自然な環境で行われる実験研究であるフィールド実験を行うことがある。しかし、フィールド実験には条件への無作為割り当てを行う方法が必要であり、自然環境ではそれが不可能な場合が多いため、実施は難しい。
+
+実験研究デザインの第二の、そしておそらくより重要な限界は、社会に関する最も興味深く重要な変数の一部は実験的に操作できないことである。暴徒集団の規模がその破壊的行動に与える影響を研究したい場合や、自殺カルトに参加する人と参加しない人の性格特性を比較したい場合、暴徒の規模やカルトへの所属を実験的に操作することは不可能である。そのため、こうした関係は相関研究デザインによって評価しなければならない。
+
+:::note[インタラクティブ・アクティビティ]
+
+インタラクティブな H5P 要素は、この版のテキストから除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-2](https://opentextbc.ca/socialpsychology/?p=3142#h5p-2)
 
 :::
 
-**H5P: TEST YOUR LEARNING: CHAPTER 1 DRAG THE WORDS – TYPES OF RESEARCH DESIGN**
+**H5P：学習内容を確認しよう：第1章 単語ドラッグ ― 独立変数と従属変数**
 
-Now that you have reviewed the three main types of research design used in social psychology, read each brief summary of empirical findings below and identify which type of design the results were derived from – experimental, observational or correlational. Table 1.4 contains some helpful information here.
+次の実験研究の説明を読み、それぞれのシナリオにおける独立変数と従属変数を特定しよう。
 
-1. There is a positive relationship between level of academic self-concept and self-esteem scores in university students.
-2. People are more persuaded if given a two-sided versus a one-sided message.
-3. People assigned to a group of four are more likely to conform to the dominant response in a perceptual task than people tasked with performing the task alone.
-4. People in individualistic cultures make predominantly internal attributions about the causes of social behavior.
-5. The more hours per month individuals spend doing voluntary work with people who are socially marginalized, the less they tend to believe in the just world hypothesis.
-6. 13 year-olds engage in more acts of relational aggression towards their peers than 8 year-olds.
+1. ある社会心理学者が、暴力的ビデオゲームと非暴力的ビデオゲームのどちらをプレイするかによって、人々の攻撃性が変化するかを調べようとしている。
+   - 攻撃性の程度：
+   - ビデオゲームの種類：
+2. ある研究者が、緊急事態を目撃している人の集団規模によって、援助反応の速さが影響を受けるかを調べている。
+   - 目撃者集団の規模
+   - 援助反応の速さ
+3. ある社会心理学者が、一面的な主張と両面的な主張のどちらに接した場合に、人々の態度変化が大きくなるかを調べようとしている。
+   - 態度変化の程度
+   - メッセージの種類
+4. 参加者を、攻撃性に関連する単語または中立的な単語を見る条件のいずれかに割り当て、その後、質問票によって敵意意図バイアスの水準を測定する。
+   - 敵意意図バイアス得点
+   - 単語の種類
+5. 研究チームが、自分自身の行動を評価するよう求められた場合と、他者の行動を評価するよう求められた場合とで、外的帰属を行う程度が異なるかを評価する。
+   - 帰属の対象
+   - 帰属の種類
 
-### Interpreting Research
+### 要因計画による研究デザイン
 
-No matter how carefully it is conducted or what type of design is used, all research has limitations. Any given research project is conducted in only one setting and assesses only one or a few dependent variables. And any one study uses only one set of research participants. Social psychology research is sometimes criticized because it frequently uses university students from Western cultures as participants (Henrich, Heine, & Norenzayan, 2010). But relationships between variables are only really important if they can be expected to be found again when tested using other research designs, other operational definitions of the variables, other participants, and other experimenters, and in other times and settings.
+社会心理学の実験は、一つの従属変数に対する複数の独立変数の効果を同時に研究できるよう設計されることが多い。要因計画（factorial research designs）とは、*2つ以上の独立変数を持つ実験デザイン*である。要因計画を使うことで、研究者は各変数が従属変数に及ぼす影響（各変数の*主効果*と呼ばれる）だけでなく、複数の変数が協働して従属変数へ与える影響（変数間の*交互作用*と呼ばれる）も研究できる。要因計画によって、人‐状況相互作用が示されることもある。
 
-External validity refers to *the extent to which relationships can be expected to hold up when they are tested again in different ways and for different people*. Science relies primarily upon replication—that is, *the repeating of research*—to study the external validity of research findings. Sometimes the original research is replicated exactly, but more often, replications involve using new operational definitions of the independent or dependent variables, or designs in which new conditions or variables are added to the original design. And to test whether a finding is limited to the particular participants used in a given research project, scientists may test the same hypotheses using people from different ages, backgrounds, or cultures. Replication allows scientists to test the external validity as well as the limitations of research findings.
+そのような研究の一つとして、Brian Meier とその同僚たち (Meier, Robinson, & Wilkowski, 2006) は、攻撃性に関連する単語に接することで、他者への攻撃的反応が増えるという仮説を検証した。彼らは社会的文脈そのものを直接操作したわけではないが、社会心理学で一般的に用いられる、社会的状況に関連する思考を*プライミング*、すなわち活性化する技法を利用した。研究では、参加者の半数を攻撃性に関連する単語を見る条件へ無作為に割り当て、残り半数を攻撃性とは関係のない中立的な単語を見る条件へ割り当てた。さらに参加者は、*協調性（agreeableness）*の個人差を測る尺度にも回答した。協調性は、自分自身をどの程度思いやりがあり、協力的で、他者への関心が高い人間だと捉えているかを評価する性格変数である。
 
-In some cases, researchers may test their hypotheses, not by conducting their own study, but rather by looking at the results of many existing studies, using a meta-analysis—*a statistical procedure in which the results of existing studies are combined to determine what conclusions can be drawn on the basis of all the studies considered together*. For instance, in one meta-analysis, Anderson and Bushman (2001) found that across all the studies they could locate that included both children and adults, college students and people who were not in college, and people from a variety of different cultures, there was a clear positive correlation (about *r* = .30) between playing violent video games and acting aggressively. The summary information gained through a meta-analysis allows researchers to draw even clearer conclusions about the external validity of a research finding.
+その後、研究参加者は別の学生と競争していると思わされる課題を行った。ヘッドホンから音が聞こえたら、できるだけ早くコンピュータのキーボードのスペースバーを押し、最も早く押した人がその試行の勝者になると説明された。最初の試行の前に、参加者は敗者に与えるホワイトノイズの強度を設定した。強度は0（ノイズなし）から、最も攻撃的な反応である10（105デシベル）まで選ぶことができた。事実上、参加者は不快なノイズを相手に浴びせるために使える「武器」を操作していたことになり、この設定値が従属変数となった。この時点で実験は終了した。
 
-*Figure 1.16 Some Important Aspects of the Scientific Approach*
+![協調性の比較グラフ](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/Figure-1-15.png)
 
-Scientists generate **research hypotheses**, which are tested using an **observational, correlational, or experimental research design**.
+_図1.15 人‐状況相互作用。Meier, Robinson, and Wilkowski (2006) の実験では、独立変数はプライミングの種類（攻撃性関連または中立）と、参加者の協調性（高または低）である。従属変数は選択されたホワイトノイズの水準（攻撃性の指標）である。協調性の低い参加者は攻撃的な単語を見た後、有意に攻撃性が高まったが、協調性の高い参加者ではそのような変化は見られなかった。_
 
-The variables of interest are measured using **self-report or behavioral measures**.
+図1.15「人‐状況相互作用」に示すように、人と状況の間には交互作用があった。攻撃性関連の単語によるプライミング（状況変数）は、協調性の低い参加者が選択するノイズ水準を高めた。しかし、協調性の高い学生については攻撃性を高めず、実際にはわずかに低下させた。この研究では、社会的状況は攻撃性を生み出すうえで重要だったが、その影響は人によって異なっていた。
 
-Data is interpreted according to its **validity** (including **internal validity** and **external validity**).
+### 社会心理学実験における欺瞞
 
-The results of many studies may be combined and summarized using **meta-analysis**.
+ここまで扱ってきたビデオゲーム研究の参加者には、研究仮説が事前に伝えられていたのだろうかと疑問に思ったかもしれない。実際には、これらの実験ではカバーストーリー、すなわち*研究が本当は何についてのものなのかを偽って説明する内容*が使用されていた。ビデオゲーム研究の学生には、暴力的ビデオゲームが攻撃性に与える影響についての研究だとは伝えられず、ビデオゲームのような運動課題を人々がどのように学習し技能を発達させるのか、そしてそうした技能が競争ゲームなどの別の課題にどのような影響を与えるのかを調べる研究だと説明された。課題遂行研究の参加者にも、その研究が課題遂行についてのものだとは伝えられなかった。実験によっては、研究者が実験協力者（experimental confederate）、すなわち*実際には実験チームの一員でありながら、研究の別の参加者であるかのように振る舞う人物*を利用することもある。実験協力者は研究に適切な「雰囲気」を作り、カバーストーリーをより現実らしく見せるのに役立つ。
 
-It is important to realize that the understanding of social behavior that we gain by conducting research is a slow, gradual, and cumulative process. The research findings of one scientist or one experiment do not stand alone—no one study proves a theory or a research hypothesis. Rather, research is designed to build on, add to, and expand the existing research that has been conducted by other scientists. That is why whenever a scientist decides to conduct research, he or she first reads journal articles and book chapters describing existing research in the domain and then designs his or her research on the basis of the prior findings. The result of this cumulative process is that over time, research findings are used to create a systematic set of knowledge about social psychology (Figure 1.16, “Some Important Aspects of the Scientific Approach”).
+社会心理学の実験では、多くの場合、研究の本当の仮説を参加者に伝えることができないため、カバーストーリーなどの*欺瞞（deception）*が用いられることがある。たとえば研究者が人種的偏見を研究したい場合、それが研究テーマだと参加者にそのまま伝えることはできないと考えられる。実際には偏見を持っていても、それを認めたくない人がいるからである。研究開始前には必ず*インフォームド・コンセント（informed consent）*の手続きを通じて、可能な限り多くの情報が参加者に伝えられる。それでも、ある程度の欺瞞が用いられることはある。ただし、すべての研究プロジェクトの終了時には、参加者に完全な*デブリーフィング（debriefing）*を行い、本当の仮説、使用した欺瞞の内容、データがどのように利用されるかなど、関連するすべての情報を説明しなければならない。
 
-:::note[Interactive activity]
+:::note[インタラクティブ・アクティビティ]
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-4](https://opentextbc.ca/socialpsychology/?p=3142#h5p-4)
-
-:::
-
-**H5P: Test your Learning: Chapter 1 True or False Quiz**
-
-Try these true/false questions, to see how well you have retained some key ideas from this chapter!
-
-1. Social psychology is a scientific discipline.
-2. Cultural differences are rarely studied nowadays in social psychology because it has been established that all of its important concepts are universal.
-3. In social psychology, the primary focus in on the behavior of groups, not individuals.
-4. Factorial designs are a type of correlational research.
-5. Nonrandom assignments of participants to conditions in experimental social psychological research ensures that everyone has an equal chance of being in any of the conditions.
-
-:::tip[Key Takeaways]
-
-- Social psychologists study social behavior using an empirical approach. This allows them to discover results that could not have been reliably predicted ahead of time and that may violate our common sense and intuition.
-- The variables that form the research hypothesis, known as conceptual variables, are assessed by using measured variables such as self-report, behavioral, or neuroimaging measures.
-- Observational research is research that involves making observations of behavior and recording those observations in an objective manner. In some cases, it may be the only approach to studying behavior.
-- Correlational and experimental research designs are based on developing falsifiable research hypotheses.
-- Correlational research designs allow prediction but cannot be used to make statements about causality. Experimental research designs in which the independent variable is manipulated can be used to make statements about causality.
-- Social psychological experiments are frequently factorial research designs in which the effects of more than one independent variable on a dependent variable are studied.
-- All research has limitations, which is why scientists attempt to replicate their results using different measures, populations, and settings and to summarize those results using meta-analyses.
+インタラクティブな H5P 要素は、この版のテキストから除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-3](https://opentextbc.ca/socialpsychology/?p=3142#h5p-3)
 
 :::
 
-:::note[Exercises and Critical Thinking]
+**H5P：学習内容を確認しよう：第1章 単語ドラッグ ― 研究デザインの種類**
 
-1. Using [Google Scholar](http://scholar.google.com) find journal articles that report observational, correlational, and experimental research designs. Specify the research design, the research hypothesis, and the conceptual and measured variables in each design.
-2. For each of the following variables, (a) propose a research hypothesis in which the variable serves as an independent variable and (b) propose a research hypothesis in which the variable serves as a dependent variable.
-  - Helping
-  - Aggression
-  - Prejudice
-  - Liking another person
-  - Life satisfaction
-3. Visit the website [Online Social Psychology Studies](http://www.socialpsychology.org/expts.htm) and take part in one of the online studies listed there.
+ここまで、社会心理学で用いられる3つの主要な研究デザインを確認した。次の実証的知見の短い要約を読み、それぞれの結果が実験研究、観察研究、相関研究のどのデザインから得られたものかを特定しよう。表1.4も参考になる。
+
+1. 大学生では、学業に関する自己概念の水準と自尊心得点との間に正の関係がある。
+2. 一面的なメッセージよりも両面的なメッセージを与えられた人のほうが説得されやすい。
+3. 4人集団に割り当てられた人は、知覚課題を一人で行うよう割り当てられた人より、集団内の支配的な反応に同調しやすい。
+4. 個人主義文化の人々は、社会的行動の原因について主として内的帰属を行う。
+
+### 研究結果の解釈
+
+どれほど慎重に実施された研究であっても、どの種類の研究デザインを使ったとしても、すべての研究には限界がある。一つの研究プロジェクトは、一つの状況だけで実施され、一つまたは少数の従属変数だけを評価する。また、一つの研究では一組の研究参加者しか使用しない。社会心理学研究は、西洋文化の大学生を研究参加者として頻繁に利用することから、批判されることもある (Henrich, Heine, & Norenzayan, 2010)。しかし、変数間の関係が本当に重要だといえるのは、別の研究デザイン、別の操作的定義、別の参加者、別の実験者、別の時代や場所で再び検証したときにも、その関係が再現されると期待できる場合だけである。
+
+外的妥当性（external validity）とは、*異なる方法や異なる人々を用いて再び検証した場合にも、その関係がどの程度維持されると期待できるか*を意味する。科学では、研究結果の外的妥当性を検討するために、主として追試（replication）、すなわち*研究を繰り返すこと*に依拠する。元の研究を完全に同じ形で再現する場合もあるが、より多くの場合、追試では独立変数や従属変数について新しい操作的定義を用いたり、元のデザインに新しい条件や変数を追加したりする。また、ある研究プロジェクトで使用された特定の参加者にのみ知見が限定されていないかを調べるため、異なる年齢、背景、文化に属する人々を用いて同じ仮説を検証することもある。追試によって、研究者は研究結果の外的妥当性と限界の両方を検証できる。
+
+場合によっては、研究者は自分自身で新しい研究を行うのではなく、メタ分析（meta-analysis）、すなわち*既存の複数の研究結果を統合し、それらの研究全体をまとめて考えたときにどのような結論を導けるのかを判断する統計的手続き*を用いて仮説を検証することがある。たとえば、あるメタ分析で Anderson と Bushman (2001) は、子どもと成人、大学生と大学に通っていない人々、さまざまな異なる文化の人々を含む、彼らが見つけることのできたすべての研究を検討した。その結果、暴力的ビデオゲームをプレイすることと攻撃的に行動することとの間に、明確な正の相関（およそ _r_ = .30）が存在した。メタ分析によって得られる要約情報は、研究者が研究知見の外的妥当性についてさらに明確な結論を導くことを可能にする。
+
+_図1.16 科学的アプローチのいくつかの重要な側面_
+
+科学者は**研究仮説**を立て、それを**観察研究、相関研究、または実験研究デザイン**を用いて検証する。
+
+関心のある変数は、**自己報告測定または行動測定**を用いて測定される。
+
+データは、その**妥当性**（**内的妥当性**および**外的妥当性**を含む）に従って解釈される。
+
+複数の研究結果は、**メタ分析**を用いて統合・要約することができる。
+
+研究によって得られる社会的行動の理解は、ゆっくりと、段階的かつ累積的に進む過程であることを理解することが重要である。一人の科学者や一つの実験による研究結果が、それだけで独立して決定的な意味を持つわけではない。一つの研究だけで理論や研究仮説が証明されることはない。むしろ研究とは、ほかの科学者たちがすでに行ってきた研究の上に積み重ね、それに知見を追加し、既存の研究をさらに発展させるよう設計される。そのため、科学者は研究を実施しようとするとき、まずその領域における既存研究を記述した学術論文や書籍の章を読み、それまでの知見に基づいて自分自身の研究を設計する。この累積的な過程の結果、時間の経過とともに研究成果が蓄積され、社会心理学についての体系的な知識体系が作られていくのである（図1.16「科学的アプローチのいくつかの重要な側面」）。
+
+:::note[インタラクティブ・アクティビティ]
+
+インタラクティブな H5P 要素は、この版のテキストから除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-4](https://opentextbc.ca/socialpsychology/?p=3142#h5p-4)
 
 :::
 
-#### References
+**H5P：学習内容を確認しよう：第1章 正誤クイズ**
 
-Anderson, C. A., & Dill, K. E. (2000). Video games and aggressive thoughts, feelings, and behavior in the laboratory and in life. *Journal of Personality and Social Psychology, 78*(4), 772–790.
+次の正誤問題に取り組み、この章の重要な考え方をどの程度覚えているか確認してみよう。
 
-Bushman, B. J., & Huesmann, L. R. (2010). Aggression. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), *Handbook of social psychology* (5th ed., Vol. 2, pp. 833–863). Hoboken, NJ: John Wiley & Sons.
+1. 社会心理学は科学的な学問分野である。
+2. 社会心理学の重要な概念はすべて普遍的であることが確立されたため、現在では文化差はほとんど研究されていない。
+3. 社会心理学では、個人ではなく集団の行動が主な研究対象である。
+4. 要因計画は相関研究の一種である。
+5. 社会心理学の実験研究で参加者を条件に非無作為に割り当てることによって、すべての人が各条件に割り当てられる確率が等しくなる。
 
-Eisenberger, N. I., Lieberman, M. D., & Williams, K. D. (2003). Does rejection hurt? An fMRI study of social exclusion. *Science, 302*(5643), 290–292.
+:::tip[重要なポイント]
 
-Festinger, L., Riecken, H. W., & Schachter, S. (1956). *When prophecy fails: A social and psychological study of a modern group that predicted the destruction of the world*. Minneapolis, MN: University of Minnesota Press.
+- 社会心理学者は、実証的アプローチを用いて社会的行動を研究する。この方法によって、事前には信頼性をもって予測できず、私たちの常識や直感に反する可能性のある結果を発見できる。
+- 研究仮説を構成する変数は概念変数と呼ばれ、自己報告、行動、神経画像などによる測定変数を用いて評価される。
+- 観察研究とは、行動を観察し、その観察内容を客観的な方法で記録する研究である。場合によっては、行動を研究する唯一の方法となる。
+- 相関研究と実験研究のデザインは、反証可能な研究仮説を立てることを基礎としている。
+- 相関研究デザインでは予測を行うことができるが、因果関係について主張することはできない。独立変数を操作する実験研究デザインでは、因果関係について主張することができる。
+- 社会心理学の実験は、一つの従属変数に対して複数の独立変数の効果を研究する要因計画となっていることが多い。
+- すべての研究には限界がある。そのため科学者は、異なる測定方法、異なる母集団、異なる状況を使って研究結果を再現し、その結果をメタ分析によって要約しようとする。
 
-Greene, J. D., Sommerville, R. B., Nystrom, L. E., Darley, J. M., & Cohen, J. D. (2001). An fMRI investigation of emotional engagement in moral judgment. *Science, 293*(5537), 2105–2108.
+:::
 
-Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? *Behavioral and Brain Sciences, 33*(2–3), 61–83.
+:::note[演習と批判的思考]
 
-Lieberman, M. D., Hariri, A., Jarcho, J. M., Eisenberger, N. I., & Bookheimer, S. Y. (2005). An fMRI investigation of race-related amygdala activity in African-American and Caucasian-American individuals. *Nature Neuroscience, 8*(6), 720–722.
+1. [Google Scholar](http://scholar.google.com) を使用して、観察研究、相関研究、実験研究の各デザインを報告している学術論文を探しなさい。それぞれについて、研究デザイン、研究仮説、概念変数、測定変数を特定しなさい。
+2. 次の各変数について、(a) その変数を独立変数とする研究仮説と、(b) その変数を従属変数とする研究仮説をそれぞれ提案しなさい。
+   - 援助
+   - 攻撃性
+   - 偏見
+   - 他者に対する好意
+   - 生活満足度
+3. [Online Social Psychology Studies](http://www.socialpsychology.org/expts.htm) のウェブサイトを訪れ、掲載されているオンライン研究の一つに参加しなさい。
 
-Lilienfeld, S. O. (2011, June 13). Public skepticism of psychology: Why many people perceive the study of human behavior as unscientific. *American Psychologist.* doi: 10.1037/a0023963
+:::
 
-Meier, B. P., Robinson, M. D., & Wilkowski, B. M. (2006). Turning the other cheek: Agreeableness and the regulation of aggression-related crimes. *Psychological Science, 17*(2), 136–142.
+#### 参考文献
 
-Morewedge, C. K., Gray, K., & Wegner, D. M. (2010). Perish the forethought: Premeditation engenders misperceptions of personal control. In R. R. Hassin, K. N. Ochsner, & Y. Trope (Eds.), *Self-control in society, mind, and brain* (pp. 260–278). New York, NY: Oxford University Press.
+Anderson, C. A., & Dill, K. E. (2000). Video games and aggressive thoughts, feelings, and behavior in the laboratory and in life. _Journal of Personality and Social Psychology, 78_(4), 772–790.
 
-Ochsner, K. N., Bunge, S. A., Gross, J. J., & Gabrieli, J. D. E. (2002). Rethinking feelings: An fMRI study of the cognitive regulation of emotion. *Journal of Cognitive Neuroscience, 14*(8), 1215–1229
+Bushman, B. J., & Huesmann, L. R. (2010). Aggression. In S. T. Fiske, D. T. Gilbert, & G. Lindzey (Eds.), _Handbook of social psychology_ (5th ed., Vol. 2, pp. 833–863). Hoboken, NJ: John Wiley & Sons.
 
-Preston, J., & Wegner, D. M. (2007). The eureka error: Inadvertent plagiarism by misattributions of effort. *Journal of Personality and Social Psychology, 92*(4), 575–584.
+Eisenberger, N. I., Lieberman, M. D., & Williams, K. D. (2003). Does rejection hurt? An fMRI study of social exclusion. _Science, 302_(5643), 290–292.
 
-Richeson, J. A., Baird, A. A., Gordon, H. L., Heatherton, T. F., Wyland, C. L., Trawalter, S., Richeson, J. A., Baird, A. A., Gordon, H. L., Heatherton, T. F., Wyland, C. L., Trawalter, S., et al.#8230;Shelton, J. N. (2003). An fMRI investigation of the impact of interracial contact on executive function. *Nature Neuroscience, 6*(12), 1323–1328.
+Festinger, L., Riecken, H. W., & Schachter, S. (1956). _When prophecy fails: A social and psychological study of a modern group that predicted the destruction of the world_. Minneapolis, MN: University of Minnesota Press.
 
-#### Media Attributions
+Greene, J. D., Sommerville, R. B., Nystrom, L. E., Darley, J. M., & Cohen, J. D. (2001). An fMRI investigation of emotional engagement in moral judgment. _Science, 293_(5537), 2105–2108.
+
+Henrich, J., Heine, S. J., & Norenzayan, A. (2010). The weirdest people in the world? _Behavioral and Brain Sciences, 33_(2–3), 61–83.
+
+Lieberman, M. D., Hariri, A., Jarcho, J. M., Eisenberger, N. I., & Bookheimer, S. Y. (2005). An fMRI investigation of race-related amygdala activity in African-American and Caucasian-American individuals. _Nature Neuroscience, 8_(6), 720–722.
+
+Lilienfeld, S. O. (2011, June 13). Public skepticism of psychology: Why many people perceive the study of human behavior as unscientific. _American Psychologist._ doi: 10.1037/a0023963
+
+Meier, B. P., Robinson, M. D., & Wilkowski, B. M. (2006). Turning the other cheek: Agreeableness and the regulation of aggression-related crimes. _Psychological Science, 17_(2), 136–142.
+
+Morewedge, C. K., Gray, K., & Wegner, D. M. (2010). Perish the forethought: Premeditation engenders misperceptions of personal control. In R. R. Hassin, K. N. Ochsner, & Y. Trope (Eds.), _Self-control in society, mind, and brain_ (pp. 260–278). New York, NY: Oxford University Press.
+
+Ochsner, K. N., Bunge, S. A., Gross, J. J., & Gabrieli, J. D. E. (2002). Rethinking feelings: An fMRI study of the cognitive regulation of emotion. _Journal of Cognitive Neuroscience, 14_(8), 1215–1229
+
+Preston, J., & Wegner, D. M. (2007). The eureka error: Inadvertent plagiarism by misattributions of effort. _Journal of Personality and Social Psychology, 92_(4), 575–584.
+
+Richeson, J. A., Baird, A. A., Gordon, H. L., Heatherton, T. F., Wyland, C. L., Trawalter, S., Richeson, J. A., Baird, A. A., Gordon, H. L., Heatherton, T. F., Wyland, C. L., Trawalter, S., et al.#8230;Shelton, J. N. (2003). An fMRI investigation of the impact of interracial contact on executive function. _Nature Neuroscience, 6_(12), 1323–1328.
+
+#### メディアの帰属表示
 
 - “[EEG cap](https://commons.wikimedia.org/wiki/File%3AEEG_cap.jpg)” by [Thuglas](https://en.wikipedia.org/wiki/User:Thuglas) is licensed under a [CC0 1.0 licence.](https://creativecommons.org/publicdomain/zero/1.0/)
 - “[FMRI BOLD activation in an emotional Stroop task](https://commons.wikimedia.org/wiki/File:FMRI_BOLD_activation_in_an_emotional_Stroop_task.jpg)” by Shima Ovaysikia, Khalid A. Tahir, Jason L. Chan and Joseph F. X. DeSouza is licensed under a [CC BY 2.5 licence.](https://creativecommons.org/licenses/by/2.5/deed.en)

@@ -1,92 +1,93 @@
 ---
-title: "1.2 Affect, Behavior, and Cognition"
+title: "1.2 感情・行動・認知"
 sidebar:
   order: 12
 ---
-:::note[Learning Objectives]
 
-1. Define and differentiate *affect, behavior,* and *cognition* as considered by social psychologists.
-2. Summarize the principles of social cognition.
+:::note[学習目標]
+
+1. 社会心理学者が捉える*感情、行動、認知*を定義し、それぞれの違いを説明する。
+2. 社会的認知の原理を要約する。
 
 :::
 
-Social psychology is based on the ABCs of *affect, behavior*, and *cognition*. In order to effectively maintain and enhance our own lives through successful interaction with others, we rely on these three basic and interrelated human capacities:
+社会心理学は、*感情（affect）、行動（behavior）、認知（cognition）*というABCを基礎としている。他者との相互作用を成功させることで自分自身の生活を効果的に維持し、より良いものにしていくために、私たちは相互に関連する次の3つの基本的な人間の能力を利用している。
 
-1. **A**ffect (feelings)
-2. **B**ehavior (interactions)
-3. **C**ognition (thought)
+1. **A**ffect（感情）
+2. **B**ehavior（行動・相互作用）
+3. **C**ognition（認知・思考）
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/silhouette-e1410974390419.png)
 
-*Figure 1.5 Human beings rely on the three capacities of affect, behavior, and cognition, which work together to help them create successful social interactions.*
+_図1.5 人間は感情、行動、認知という3つの能力に依拠している。これらは相互に働き合い、社会的相互作用を成功させるのに役立っている。_
 
-You can see that these three aspects directly reflect the idea in our definition of social psychology—the study of the feelings, behaviors, and thoughts of individuals in the social situation. Although we will frequently discuss each of the capacities separately, keep in mind that all three work together to produce human experience. Now let’s consider separately the roles of cognition, affect, and behavior.
+これら3つの側面は、社会心理学の定義、すなわち社会的状況における個人の感情・行動・思考の研究という考え方を直接反映していることがわかるだろう。本書ではそれぞれの能力を別々に論じることが多いが、この3つすべてが協働して人間の経験を生み出していることを忘れてはならない。それでは、認知、感情、行動の役割をそれぞれ検討してみよう。
 
-## Social Cognition: Thinking and Learning about Others
+## 社会的認知：他者について考え、学ぶ
 
-The human brain contains about 86 billion neurons, each of which can make contact with tens of thousands of other neurons. The distinguishing brain feature in mammals, including humans, is the more recently evolved *cerebral cortex*—the part of the brain that is involved in thinking. Humans are highly intelligent, and they use cognition in every part of their social lives. Psychologists refer to cognition as the mental activity of processing information and using that information in judgment. Social cognition is *cognition that relates to social activities and that helps us understand and predict the behavior of ourselves and others.*
+人間の脳にはおよそ860億個のニューロンがあり、それぞれのニューロンは数万個もの別のニューロンと接触することができる。人間を含む哺乳類の脳を特徴づけているのは、進化上比較的新しく発達した*大脳皮質*、すなわち思考に関与する脳の部分である。人間は非常に高い知性を持ち、社会生活のあらゆる部分で認知を利用している。心理学者は認知を、情報を処理し、その情報を判断に利用する精神活動と呼ぶ。社会的認知とは、*社会的活動に関連し、自分自身や他者の行動を理解し予測するのに役立つ認知*である。
 
 ![](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/brain-e1410974405668.png)
 
-*Figure 1.6 The cerebral cortex is the part of the brain that is involved in thinking. A big part of its job is social cognition—thinking about and understanding other people.*
+_図1.6 大脳皮質は、思考に関与する脳の部分である。その働きの大きな部分を占めるのが、他者について考え理解する「社会的認知」である。_
 
-Over time, people develop a set of social knowledge that contains information about the self, other people, social relationships, and social groups. Two types of knowledge are particularly important in social psychology: *schemas* and *attitudes.* A schema is *a knowledge representation that includes information about a person or group* (e.g., our knowledge that Joe is a friendly guy or that Italians are romantic). An attitude is *a knowledge representation that includes primarily our liking or disliking of a person, thing, or group* (“I really like Julie”; “I dislike my new apartment”). Once we have formed them, both schemas and attitudes allow us to judge quickly and without much thought whether someone or something we encounter is good or bad, helpful or hurtful, to be sought out or avoided. Thus schemas and attitudes have an important influence on our social information processing and social behavior.
+時間の経過とともに、人は自己、他者、社会的関係、社会集団についての情報を含む社会的知識の体系を形成する。社会心理学で特に重要な2種類の知識が、*スキーマ*と*態度*である。スキーマとは、*人や集団についての情報を含む知識表象*である（たとえば、「Joe は親しみやすい人だ」「イタリア人はロマンチックだ」という知識）。態度とは、*主として、ある人物、物、集団を好きか嫌いかという評価を含む知識表象*である（「Julie がとても好きだ」「新しいアパートが嫌いだ」）。いったん形成されると、スキーマと態度はどちらも、出会った人や物が良いか悪いか、役に立つか害になるか、近づくべきか避けるべきかを、それほど深く考えず素早く判断することを可能にする。そのため、スキーマと態度は、私たちの社会的情報処理や社会的行動に重要な影響を与えている。
 
-Social cognition involves the active interpretation of events. As a result, different people may draw different conclusions about the same events. When Indira smiles at Robert, he might think that she is romantically attracted to him, whereas she might think that she’s just being friendly. When Mike tells a joke about Polish people, he might think it’s funny, but Wanda might think he is being prejudiced. The 12 members of a jury who are deliberating about the outcome in a trial have all heard the same evidence, but each juror’s own schemas and attitudes may lead him or her to interpret the evidence differently. The fact that different people interpret the same events differently makes life interesting, but it can sometimes lead to disagreement and conflict. Social psychologists study how people interpret and understand their worlds and, particularly, how they make judgments about the causes of other people’s behavior.
+社会的認知には、出来事を能動的に解釈することが含まれる。そのため、同じ出来事を見ても、人によって異なる結論を導き出すことがある。Indira が Robert に微笑んだとき、Robert は彼女が自分に恋愛感情を抱いていると考えるかもしれないが、Indira は単に友好的に振る舞っただけだと思っているかもしれない。Mike がポーランド人についての冗談を言ったとき、彼自身は面白いと思っていても、Wanda は偏見に満ちた発言だと感じるかもしれない。裁判の結論について審議する12人の陪審員は全員、同じ証拠を聞いている。しかし、それぞれの陪審員が持つスキーマや態度によって、証拠の解釈は異なる可能性がある。同じ出来事を人によって異なって解釈することは人生を興味深いものにするが、ときには意見の不一致や対立の原因にもなる。社会心理学者は、人々が自分たちの世界をどのように解釈し理解するのか、とりわけ、他者の行動の原因についてどのように判断するのかを研究している。
 
-### Social Affect: Feelings about Ourselves and Others
+### 社会的感情：自分自身と他者に対する感情
 
-Affect refers to the *feelings we experience as part of our everyday lives*. As our day progresses, we may find ourselves feeling happy or sad, jealous or grateful, proud or embarrassed. Although affect can be harmful if it is unregulated or unchecked, our affective experiences normally help us to function efficiently and in a way that increases our chances of survival. Affect signals us that things are going all right (e.g., because we are in a good mood or are experiencing joy or serenity) or that things are not going so well (we are in a bad mood, anxious, upset, or angry). Affect can also lead us to engage in behaviors that are appropriate to our perceptions of a given situation. When we are happy, we may seek out and socialize with others; when we are angry, we may attack; when we are fearful, we may run away.
+感情（affect）とは、*日常生活の一部として私たちが経験する気持ち*を意味する。一日を過ごす中で、私たちは幸福になったり悲しくなったり、嫉妬したり感謝したり、誇らしくなったり恥ずかしくなったりする。感情は、適切に調整されず制御されなければ有害になる場合もあるが、通常、感情的経験は私たちが効率的に機能し、生存の可能性を高めるような方法で行動するのを助けている。感情は、物事が順調であること（たとえば気分がよい、喜びや穏やかさを感じていること）や、物事がうまくいっていないこと（気分が悪い、不安である、動揺している、怒っていること）を知らせてくれる。また感情は、ある状況をどのように認識しているかに応じた適切な行動をとるよう私たちを導くこともある。幸福なときには他者を求めて交流し、怒っているときには攻撃し、恐れているときには逃げることがある。
 
-We experience affect in the form of *mood* and *emotions*. Mood refers to *the positive or negative feelings that are in the background of our everyday experiences*. Most of the time, we are in a relatively good mood, and positive mood has some positive consequences—it encourages us to do what needs to be done and to make the most of the situations we are in (Isen, 2003). When we are in a good mood, our thought processes open up and we are more likely to approach others. We are more friendly and helpful to others when we are in a good mood than when we are in a bad mood, and we may think more creatively (De Dreu, Baas, & Nijstad, 2008). On the other hand, when we are in a bad mood, we are more likely to prefer to remain by ourselves rather than interact with others, and our creativity suffers.
+私たちは、*気分（mood）*と*情動（emotion）*という形で感情を経験する。気分とは、*日常的経験の背景に存在する肯定的または否定的な感情*を意味する。ほとんどの場合、私たちは比較的良い気分であり、肯定的な気分にはいくつかの肯定的な結果がある。やるべきことを実行し、自分が置かれた状況を最大限に活用するよう促してくれるのである (Isen, 2003)。良い気分のときには思考過程が広がり、他者に近づきやすくなる。悪い気分のときよりも他者に友好的かつ親切になり、より創造的に考えられる場合もある (De Dreu, Baas, & Nijstad, 2008)。一方、気分が悪いときには他者と交流するより一人でいたいと思う可能性が高くなり、創造性も低下する。
 
-**Emotions** are *brief, but often intense, mental and physiological feeling states*. In comparison with moods, emotions are shorter lived, stronger, and more specific forms of affect. Emotions are caused by specific events (things that make us, for instance, jealous or angry), and they are accompanied by high levels of arousal. Whereas we experience moods in normal, everyday situations, we experience emotions only when things are out of the ordinary or unusual. Emotions serve an adaptive role in helping us guide our social behaviors. Just as we run from a snake because the snake elicits fear, we may try to make amends with other people when we feel guilty.
+**情動（emotions）**とは、*短時間ではあるものの、しばしば強烈な、精神的・生理的な感情状態*である。気分と比較すると、情動は持続時間が短く、より強く、より具体的な感情の形態である。情動は特定の出来事、たとえば私たちを嫉妬させたり怒らせたりする出来事によって引き起こされ、高い覚醒状態を伴う。気分は通常の日常的な状況でも経験するが、情動は何か通常とは異なることや非日常的なことが起こったときに経験する。情動は、社会的行動を導くうえで適応的な役割を果たしている。ヘビが恐怖を引き起こすため私たちがヘビから逃げるのと同様、罪悪感を感じたときには他者との関係を修復しようとすることがある。
 
-### Social Behavior: Interacting with Others
+### 社会的行動：他者との相互作用
 
-Because we interact with and influence each other every day, we have developed the ability to make these interactions proceed efficiently and effectively. We cooperate with other people to gain outcomes that we could not obtain on our own, and we exchange goods, services, and other benefits with other people. These behaviors are essential for survival in any society (Kameda, Takezawa, & Hastie, 2003; Kameda, Takezawa, Tindale, & Smith, 2002).
+私たちは毎日互いに相互作用し、影響し合っているため、そうした相互作用を効率的かつ効果的に進める能力を発達させてきた。一人では得ることのできない成果を得るために他者と協力し、物品、サービス、その他の利益を他者と交換する。こうした行動は、どのような社会で生き残るためにも不可欠である (Kameda, Takezawa, & Hastie, 2003; Kameda, Takezawa, Tindale, & Smith, 2002)。
 
-The *sharing of goods, services, emotions, and other social outcomes* is known as social exchange. Social rewards (the positive outcomes that we give and receive when we interact with others) include such benefits as attention, praise, affection, love, and financial support. Social costs (the negative outcomes that we give and receive when we interact with others), on the other hand, include, for instance, the frustrations that accrue when disagreements with others develop, the guilt that results if we perceive that we have acted inappropriately, and the effort involved in developing and maintaining harmonious interpersonal relationships.
+*物品、サービス、感情、その他の社会的成果を分かち合うこと*は、社会的交換と呼ばれる。社会的報酬、すなわち他者との相互作用の中で与えたり受け取ったりする肯定的な成果には、注目、賞賛、愛情、愛、金銭的支援などが含まれる。一方、社会的コスト、すなわち他者との相互作用の中で与えたり受け取ったりする否定的な成果には、たとえば他者との意見の不一致によって生じる欲求不満、自分が不適切な行動をしたと認識した場合の罪悪感、調和のとれた対人関係を形成し維持するために必要となる労力などが含まれる。
 
-Imagine a first-year student at college or university who is trying to decide whether or not to join a student club. Joining the club has costs, in terms of the dues that have to be paid, the need to make friends with each of the other club members and to attend club meetings, and so forth. On the other hand, there are the potential benefits of group membership, including having a group of friends with similar interests and a social network to help find activities to participate in. To determine whether or not to join, the student has to weigh both the social and the material costs and benefits before coming to a conclusion (Moreland & Levine, 2006).
+大学1年生が学生クラブに参加するかどうかを決めようとしている場面を想像してみよう。クラブへの参加には、会費を支払う必要があること、ほかのクラブ員それぞれと友人関係を築く必要があること、クラブの会合に参加しなければならないことなど、さまざまなコストがある。一方で、似た関心を持つ友人の集団ができることや、参加できる活動を見つけるのに役立つ社会的ネットワークが得られることなど、集団に所属する潜在的な利益もある。参加するかどうかを決定するためには、社会的・物質的なコストと利益の両方を比較検討しなければならない (Moreland & Levine, 2006)。
 
-People generally prefer to maximize their own outcomes by attempting to gain as many social rewards as possible and by attempting to minimize their social costs. Such behavior is consistent with the goal of protecting and enhancing the self. But although people do behave according to the goals of self-concern, these goals are tempered by other-concern: the goals of respecting, accepting, and cooperating with others. As a result, social exchange is generally fair and equitable, at least in the long run. Imagine, for example, that someone asks you to do a favor for them, and you do it. If they were only concerned about their own self-enhancement, they might simply accept the favor without any thought of paying you back. Yet both you and they would realize that you would most certainly expect them to be willing to do the same type of favor for you, should you ask them at some later time.
+一般に、人々は、できるだけ多くの社会的報酬を得て、社会的コストをできるだけ小さくすることによって、自分自身の成果を最大化しようとする。このような行動は、自己を守り高めるという目標と一致する。しかし、人々は自己への関心という目標に従って行動する一方で、その目標は、他者を尊重し、受け入れ、協力するという他者への関心によって調整される。その結果、少なくとも長期的には、社会的交換は一般に公平で公正なものとなる。たとえば、誰かがあなたに頼み事をして、あなたがそれを引き受けたとしよう。その人が自分自身の利益を高めることだけを考えていたなら、将来あなたに恩返しをすることなど考えず、その好意を受け取るだけかもしれない。しかしあなたも相手も、後になってあなたが同じような頼み事をした場合には、相手にも同じ種類の好意を返してほしいとあなたが当然期待することを理解しているだろう。
 
-One of the outcomes of humans living together in small groups over thousands of years is that people have learned to *cooperate by giving benefits to those who are in need, with the expectation of a return of benefits at a future time*. This mutual, and generally equitable, exchange of benefits is known as reciprocal altruism. An individual who is temporarily sick or injured will benefit from the help that he or she might get from others during this time. And according to the principle of reciprocal altruism, other group members will be willing to give that help to the needy individual because they expect that similar help will be given to them should they need it. However, in order for reciprocal altruism to work, people have to keep track of how benefits are exchanged, to be sure that everyone plays by the rules. If one person starts to take benefits without paying them back, this violates the principle of reciprocity and should not be allowed to continue for very long. In fact, research has shown that people seem to be particularly good at detecting “cheaters”—those who do not live up to their obligations in reciprocal altruism—and that these individuals are judged extremely negatively (Mealey, Daood, & Krage, 1996; Tooby & Cosmides, 1992).
+人間が何千年にもわたって小集団の中で暮らしてきた結果の一つとして、人々は、*将来自分にも利益が返ってくることを期待しながら、困っている人に利益を与えることで協力する*ことを学んだ。この相互的で、通常は公平な利益の交換は、互恵的利他主義（reciprocal altruism）と呼ばれる。一時的に病気やけがをしている個人は、その期間に他者から受ける援助によって利益を得る。そして互恵的利他主義の原理によれば、集団のほかの成員は、将来自分自身が援助を必要としたときに同じように助けてもらえることを期待するため、困っている人に援助を与えようとする。しかし、互恵的利他主義が機能するためには、全員がルールを守っていることを確認できるよう、人々は利益がどのように交換されているかを把握しておかなければならない。一人の人が利益を受け取るだけで返さなくなれば、それは互恵性の原理に反しており、長く許容されるべきではない。実際、研究によれば、人間は互恵的利他主義における義務を果たさない「ただ乗りする人」「裏切る人」を特にうまく見つけ出すようであり、そのような人々はきわめて否定的に評価される (Mealey, Daood, & Krage, 1996; Tooby & Cosmides, 1992)。
 
-:::tip[Key Takeaways]
+:::tip[重要なポイント]
 
-- We use affect, behavior, and cognition to help us successfully interact with others.
-- Social cognition refers to our thoughts about and interpretations of ourselves and other people. Over time, we develop schemas and attitudes to help us better understand and more successfully interact with others.
-- Affect refers to the feelings that we experience as part of life and includes both moods and emotions.
-- Social behavior is influenced by principles of reciprocal altruism and social exchange.
-
-:::
-
-:::note[Exercises and Critical Thinking]
-
-1. Consider a time when you had an important social interaction or made an important decision. Analyze your responses to the situation in terms of affect, behaviour, and cognition.
-2. Think about when you last engaged in a case of reciprocal altruism and describe what took place.
+- 私たちは、他者とうまく相互作用するために、感情、行動、認知を利用している。
+- 社会的認知とは、自分自身や他者についての思考と解釈を意味する。時間の経過とともに、私たちは他者をよりよく理解し、よりうまく相互作用できるようにするためのスキーマや態度を形成する。
+- 感情とは、生活の一部として経験する気持ちを意味し、気分と情動の両方を含む。
+- 社会的行動は、互恵的利他主義と社会的交換の原理から影響を受ける。
 
 :::
 
-#### References
+:::note[演習と批判的思考]
 
-De Dreu, C. K. W., Baas, M., & Nijstad, B. A. (2008). Hedonic tone and activation level in the mood-creativity link: Toward a dual pathway to creativity model. *Journal of Personality and Social Psychology, 94*(5), 739–756.
+1. 重要な社会的相互作用を経験したとき、または重要な意思決定をしたときのことを考えてみよう。その状況に対する自分の反応を、感情、行動、認知という観点から分析しなさい。
+2. 最近、自分が互恵的利他主義を実践したときのことを考え、何が起こったのかを説明しなさい。
 
-Isen, A. M. (2003). Positive affect as a source of human strength. In *A psychology of human strengths: Fundamental questions and future directions for a positive psychology* (pp. 179–195). Washington, DC: American Psychological Association.
+:::
 
-Kameda, T., Takezawa, M., & Hastie, R. (2003). The logic of social sharing: An evolutionary game analysis of adaptive norm development. *Personality & Social Psychology Review, 7*(1), 2–19..
+#### 参考文献
 
-Kameda, T., Takezawa, M., Tindale, R. S., & Smith, C. M. (2002). Social sharing and risk reduction: Exploring a computational algorithm for the psychology of windfall gains. *Evolution & Human Behavior, 23*(1), 11–33.
+De Dreu, C. K. W., Baas, M., & Nijstad, B. A. (2008). Hedonic tone and activation level in the mood-creativity link: Toward a dual pathway to creativity model. _Journal of Personality and Social Psychology, 94_(5), 739–756.
 
-Mealey, L., Daood, C., & Krage, M. (1996). Enhanced memory for faces of cheaters. *Ethology & Sociobiology, 7*(2), 119–128.
+Isen, A. M. (2003). Positive affect as a source of human strength. In _A psychology of human strengths: Fundamental questions and future directions for a positive psychology_ (pp. 179–195). Washington, DC: American Psychological Association.
 
-Moreland, R. L., & Levine, J. M. (Eds.). (2006). *Socialization in organizations and work groups*. New York, NY: Psychology Press.
+Kameda, T., Takezawa, M., & Hastie, R. (2003). The logic of social sharing: An evolutionary game analysis of adaptive norm development. _Personality & Social Psychology Review, 7_(1), 2–19..
 
-Tooby, J., & Cosmides, L. (1992). The psychological foundations of culture. In J. H. Barkow & L. Cosmides (Eds.), *The adapted mind: Evolutionary psychology and the generation of culture* (p. 666). New York, NY: Oxford University Press.
+Kameda, T., Takezawa, M., Tindale, R. S., & Smith, C. M. (2002). Social sharing and risk reduction: Exploring a computational algorithm for the psychology of windfall gains. _Evolution & Human Behavior, 23_(1), 11–33.
 
-#### Media Attributions
+Mealey, L., Daood, C., & Krage, M. (1996). Enhanced memory for faces of cheaters. _Ethology & Sociobiology, 7_(2), 119–128.
+
+Moreland, R. L., & Levine, J. M. (Eds.). (2006). _Socialization in organizations and work groups_. New York, NY: Psychology Press.
+
+Tooby, J., & Cosmides, L. (1992). The psychological foundations of culture. In J. H. Barkow & L. Cosmides (Eds.), _The adapted mind: Evolutionary psychology and the generation of culture_ (p. 666). New York, NY: Oxford University Press.
+
+#### メディアの帰属表示
 
 - “[icy\*kiss](https://www.flickr.com/photos/smcgee/2170220318/)” by [smcgee](https://www.flickr.com/photos/smcgee/) is licensed under a [CC BY-NC 2.0 licence.](https://creativecommons.org/licenses/by-nc/2.0/)
 - “[Work man-sitting](https://commons.wikimedia.org/wiki/File:Work_man-sitting.jpg#file)” by [Pilatesball](https://commons.wikimedia.org/w/index.php?title=User:Pilatesball&action=edit&redlink=1) is licensed under a [CC BY-SA 3.0 licence.](https://creativecommons.org/licenses/by-sa/3.0/deed.en)

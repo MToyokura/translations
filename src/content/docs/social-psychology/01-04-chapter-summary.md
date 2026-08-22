@@ -1,87 +1,88 @@
 ---
-title: "1.4 Chapter Summary"
+title: "1.4 章のまとめ"
 sidebar:
   order: 14
 ---
-The science of social psychology began when scientists first started to systematically and formally measure the thoughts, feelings, and behaviors of human beings. Social psychology was energized by a number of researchers who sought to better understand how the Nazis perpetrated the Holocaust against the Jews of Europe. The 1950s and 1960s saw an expansion of social psychology into the field of attitudes and group processes. In the 1970s and 1980s, the discipline became more cognitive in orientation. Today, the field of social psychology is expanding into still other areas, such as evolutionary psychology, the study of culture, and social neuroscience.
 
-Social psychology is the scientific study of how we think about, feel about, and behave toward the people in our lives and how our thoughts, feelings, and behaviors are influenced by those people. The goal of this book is to help you learn to think like a social psychologist to enable you to use social psychological principles to better understand social relationships.
+社会心理学という科学は、科学者が人間の思考、感情、行動を体系的かつ正式に測定し始めたことによって誕生した。社会心理学は、ナチスがヨーロッパのユダヤ人に対してどのようにホロコーストを実行したのかをより深く理解しようとした多くの研究者によって活性化した。1950年代から1960年代にかけては、社会心理学の研究対象が態度や集団過程へと拡大した。1970年代から1980年代になると、この分野はより認知的な方向へ進んだ。現在、社会心理学は進化心理学、文化研究、社会神経科学など、さらに別の領域へと広がっている。
 
-Social psychology concerns the interplay between the individual person and the social situation. The social situation refers to the other people we interact with every day. The key aspect of the social situation is that the people around us produce social influence, or the processes through which other people change our thoughts, feelings, and behaviors, and through which we change theirs. Social influence operates largely through social norms.
+社会心理学とは、私たちが生活の中で関わる人々についてどのように考え、感じ、その人々に対してどのように行動するのか、そして私たちの思考、感情、行動がそれらの人々によってどのような影響を受けるのかを科学的に研究する学問である。本書の目的は、社会心理学者のように考える方法を学び、社会心理学の原理を使って社会的関係をよりよく理解できるようにすることである。
 
-The most basic tendency of all living organisms is the desire to protect and enhance their own life and the lives of important others—self-concern. People also desire to affiliate with others, a motive known as other-concern, and doing so is an important part of human behavior.
+社会心理学は、個人と社会的状況との相互作用を扱う。社会的状況とは、日々私たちが相互作用する他者を指す。社会的状況の重要な側面は、周囲の人々が社会的影響、すなわち他者が私たちの思考、感情、行動を変化させ、私たちも他者の思考、感情、行動を変化させる過程を生み出すことである。社会的影響は、主として社会規範を通じて働く。
 
-An important source of our common human experiences is our culture—a group of people, normally living within a given geographical region, who share a common set of social norms. Norms in Western cultures are primarily oriented toward individualism and self-concern, whereas norms in East Asian cultures are more focused on collectivism and other-concern.
+すべての生物に最も基本的に見られる傾向は、自分自身の生命と、自分にとって重要な他者の生命を守り、高めようとする欲求、すなわち自己への関心である。また人間には、他者と結びつきたいという欲求もある。これは他者への関心と呼ばれる動機であり、人間行動の重要な部分を占めている。
 
-Three fundamental capacities of human beings are affect, behavior, and cognition—the ABCs of social psychology. Affect refers to the feelings we experience as part of our everyday lives. The basic component of affect is mood—the positive or negative feelings that are in the background of our everyday experiences. Emotions are mental states like moods, but they are shorter-lived, stronger, more intense, and more specific forms of affect.
+私たち人間に共通する経験の重要な源の一つが文化である。文化とは、通常は一定の地理的地域に暮らし、共通の社会規範を共有する人々の集団である。西洋文化の規範は主として個人主義と自己への関心を重視する一方、東アジア文化の規範は集団主義と他者への関心により重点を置いている。
 
-Human beings exchange goods, services, and other benefits with other people in the process of social exchange. The mutual, and generally equitable, exchange of benefits is known as reciprocal altruism.
+人間には、感情、行動、認知という3つの基本的な能力がある。これらは社会心理学のABCである。感情とは、日常生活の一部として経験する気持ちを意味する。感情の基本的な構成要素の一つが気分であり、それは日常的経験の背景に存在する肯定的または否定的な感情である。情動は気分と同じく精神状態の一種だが、持続時間が短く、より強く、より激しく、より具体的な感情の形態である。
 
-Social cognition relates to social activities and helps us understand and predict the behavior of ourselves and others. Two types of knowledge particularly important in social psychology are schemas and attitudes.
+人間は社会的交換という過程を通じて、物品、サービス、その他の利益を他者と交換する。相互的で、通常は公平な利益の交換は互恵的利他主義と呼ばれる。
 
-Although common sense is useful for getting ideas, and although our intuitions are sometimes correct, they are not perfect. Thus social psychologists conduct empirical research to test their ideas. The concepts of interest must be measured using operational definitions. Both self-report and behavioral measures can be used.
+社会的認知は社会的活動に関係しており、自分自身や他者の行動を理解し予測するのに役立つ。社会心理学で特に重要な2種類の知識が、スキーマと態度である。
 
-One approach to learning about social psychology involves using observational research to make observations of behavior. In some cases, this approach is the only way to learn about and study social events.
+常識はアイデアを得るためには有用であり、直感が正しい場合もある。しかし、常識や直感は完全ではない。そのため社会心理学者は、自分たちの考えを検証するために実証研究を行う。関心の対象となる概念は、操作的定義を用いて測定しなければならない。そのために自己報告測定と行動測定の両方を利用できる。
 
-Because social psychologists are generally interested in looking at relationships between variables, they begin by stating their predictions in the form of a precise statement known as a research hypothesis.
+社会心理学について学ぶ方法の一つとして、観察研究を用いて行動を観察する方法がある。場合によっては、これが社会的出来事について学び、それを研究する唯一の方法となる。
 
-The goal of correlational research is to search for and test hypotheses about the relationships between two or more variables. In these studies, a statistic known as the Pearson correlation coefficient is used to summarize the association, or correlation, between the variables.
+社会心理学者は一般に変数間の関係を調べることに関心があるため、まず予測を研究仮説と呼ばれる正確な命題として表現する。
 
-Because scientists are interested in determining the causal relationships among variables, they frequently use experimental research designs. In experiments, the variables of interest are called the independent variable and the dependent variable. The most common method of creating equivalence among the experimental conditions, and thus increasing internal validity, is through random assignment to conditions.
+相関研究の目的は、2つ以上の変数間の関係についての仮説を探索し、検証することである。こうした研究では、Pearson の相関係数と呼ばれる統計量を用いて、変数間の関連、すなわち相関を要約する。
 
-External validity refers to the extent to which relationships can be expected to hold up when they are tested again in different ways and for different people. Meta-analyses can be used to assess the observed relationships among variables across many studies.
+科学者は変数間の因果関係を明らかにすることに関心を持っているため、実験研究デザインを頻繁に使用する。実験では、関心の対象となる変数を独立変数と従属変数と呼ぶ。実験条件間の同等性を作り、その結果として内的妥当性を高めるために最も一般的に用いられる方法が、条件への無作為割り当てである。
 
-:::note[Interactive activity]
+外的妥当性とは、異なる方法や異なる人々を使って再び検証した場合にも、その関係がどの程度維持されると期待できるかを意味する。複数の研究にわたって観察された変数間の関係を評価するために、メタ分析を利用することができる。
 
-An interactive H5P element has been excluded from this version of the text. You can view it online here:<br /> [https://opentextbc.ca/socialpsychology/?p=3144#h5p-5](https://opentextbc.ca/socialpsychology/?p=3144#h5p-5)
+:::note[インタラクティブ・アクティビティ]
+
+インタラクティブな H5P 要素は、この版のテキストから除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3144#h5p-5](https://opentextbc.ca/socialpsychology/?p=3144#h5p-5)
 
 :::
 
-**H5P: TEST YOUR LEARNING: CHAPTER 1 MULTIPLE-CHOICE QUIZ**
+**H5P：学習内容を確認しよう：第1章 選択式クイズ**
 
-Now that you’ve reviewed the chapter, try this multiple-choice quiz to see what you know! You can check your answers as you go, or wait until after the last question for feedback. Good luck!
+章の復習が終わったので、次の選択式クイズに挑戦し、自分がどの程度理解しているか確認してみよう。各問題を解くごとに答えを確認してもよいし、最後の問題まで終えてからフィードバックを見ることもできる。健闘を祈る！
 
-1. Which field of psychology is most focused on the nature and causes of individual behavior and thought in social situations?
-  1. social psychology
-  2. organizational psychology
-  3. developmental psychology
-  4. personality psychology
-2. A researcher wants to know whether writing people are more persuaded by a one-sided or a two-sided message about a social issue. First, she randomly assigns participants to read either a one-sided or a two-sided message. She then administers a questionnaire measuring attitudes about that social issue. In this experiment, the independent variable (IV) is \_\_\_\_\_.
-  1. the two-sided message
-  2. the attitude score
-  3. the one-sided message
-  4. the type of message
-3. Why do social psychologists primarily study individuals?
-  1. because our behavior is affected by the actions of other individuals
-  2. because there are too many variables to study the behavior of groups in laboratory conditions
-  3. because some individuals are more strongly affected by groups, whereas some are never affected by them
-  4. because cultural differences only show up at the group, and not the individual level
-4. Researchers find a significant correlation between peoples’ self-esteem and their conformity to fashion norms. What does this mean?
-  1. that changes in self-esteem cause changes in conformity to fashion norms
-  2. that changes in conformity to fashion norms cause changes in self-esteem
-  3. that changes in self-esteem have no effect on conformity to fashion norms
-  4. that changes in self-esteem and conformity to fashion norms are related to each other
-5. The shifting patterns of behavior around mask-wearing during the COVID-19 best represent a change in which phenomenon?
-  1. affiliation
-  2. schemas
-  3. social norms
-  4. social cognition
+1. 社会的状況における個人の行動と思考の性質および原因に最も焦点を当てる心理学分野はどれか。
+   1. 社会心理学
+   2. 組織心理学
+   3. 発達心理学
+   4. パーソナリティ心理学
+2. ある研究者が、社会問題について一面的なメッセージと両面的なメッセージのどちらによって人々がより説得されるのかを知りたいと考えている。まず参加者を、一面的なメッセージまたは両面的なメッセージのいずれかを読む条件へ無作為に割り当てる。その後、その社会問題についての態度を測定する質問票を実施する。この実験における独立変数（IV）は \_\_\_\_\_ である。
+   1. 両面的なメッセージ
+   2. 態度得点
+   3. 一面的なメッセージ
+   4. メッセージの種類
+3. なぜ社会心理学者は主として個人を研究するのか。
+   1. 私たちの行動はほかの個人の行動から影響を受けるから
+   2. 実験室条件で集団行動を研究するには変数が多すぎるから
+   3. 集団から強く影響を受ける個人もいれば、まったく影響を受けない個人もいるから
+   4. 文化差は集団レベルにしか現れず、個人レベルには現れないから
+4. 研究者が、人々の自尊心とファッション規範への同調との間に有意な相関を見いだした。これは何を意味するか。
+   1. 自尊心の変化がファッション規範への同調の変化を引き起こす
+   2. ファッション規範への同調の変化が自尊心の変化を引き起こす
+   3. 自尊心の変化はファッション規範への同調に影響しない
+   4. 自尊心の変化とファッション規範への同調の変化は互いに関連している
+5. COVID-19 の期間中に見られた、マスク着用をめぐる行動パターンの変化は、次のどの現象の変化を最もよく表しているか。
+   1. 親和
+   2. スキーマ
+   3. 社会規範
+   4. 社会的認知
 
 <a id="t1.5"></a>
 
-:::note[Is social psychology just common sense? Answers and explanations]
+:::note[社会心理学は単なる常識なのか？― 答えと解説]
 
-*Table 1.5 Is social psychology just common sense? Answers and explanations*
+_表1.5 社会心理学は単なる常識なのか？― 答えと解説_
 
-| Statement | Answer and Explanation |
-| --- | --- |
-| Opposites attract. | False.The opposite is more the case. Similarity, particularly in values and beliefs, is an important determinant of liking. |
-| An athlete who wins the bronze medal (third place) in an event is happier about his or her performance than the athlete who won the silver medal (second place). | True. We frequently compare our actual outcomes with what “might have been.” This leads the silver medalist to compare the possibility of having won the gold, whereas the bronze medalist compares the possibility of having won no medal at all. |
-| Having good friends you can count on can keep you from catching colds. | True. Social support—the perception that we have people we can count on and talk to—provides many positive benefits to our mental and physical health. |
-| Subliminal advertising (i.e., persuasive messages that are presented out of our awareness on TV or movie screens) is very effective in getting us to buy products. | False. Although there is evidence that events that occur out of our awareness can influence our behavior, there is little evidence that subliminal advertising is effective. |
-| The greater the reward promised for an activity, the more one will come to enjoy engaging in that activity. | False. In fact, providing a reward for an activity that is already enjoyed (such as paying a child to get good grades) can undermine a person’s enjoyment of the activity. |
-| Physically attractive people are seen as less intelligent than less attractive people. | False. You of course know that this must be false. Why else would you look your very best when you go for a job interview? |
-| Punching a pillow or screaming out loud is a good way to reduce frustration and aggressive tendencies. | False. There is no evidence that engaging in violent behavior can ever reduce the desire to be aggressive. The opposite is much more common. Engaging in aggression leads to more aggression. |
-| People pull harder in a tug-of-war when they’re pulling alone than when pulling in a group. | True. Social loafing (reducing our effort because we think that others in the group will make up for us) is more likely |
+| 記述                                                                                                                                         | 答えと解説                                                                                                                                                                                                                |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 正反対の者同士は惹かれ合う。                                                                                                                 | **誤り。** むしろ反対である。特に価値観や信念の類似性は、好意を決定する重要な要因である。                                                                                                                                 |
+| 競技で銅メダル（3位）を獲得した選手は、銀メダル（2位）を獲得した選手よりも自分の成績に満足している。                                         | **正しい。** 私たちは実際に得た結果を、「ありえたかもしれない結果」と頻繁に比較する。そのため銀メダリストは金メダルを獲得できた可能性と比較するのに対し、銅メダリストはメダルをまったく獲得できなかった可能性と比較する。 |
+| 頼りにできる良い友人がいると、風邪をひきにくくなる。                                                                                         | **正しい。** 社会的支援、すなわち自分には頼ることができ、話をできる人々がいるという認識は、精神的・身体的健康に多くの肯定的な利益をもたらす。                                                                             |
+| サブリミナル広告（テレビや映画の画面上で、意識的に認識できない形で提示される説得的メッセージ）は、商品を購入させるうえで非常に効果的である。 | **誤り。** 意識の外で生じる出来事が行動に影響を与えるという証拠はあるが、サブリミナル広告が効果的であることを示す証拠はほとんどない。                                                                                     |
+| ある活動に対して約束される報酬が大きいほど、その活動自体を楽しむようになる。                                                                 | **誤り。** 実際には、すでに楽しんでいる活動に報酬を与えること（たとえば、良い成績を取った子どもにお金を与えること）は、その活動そのものを楽しむ気持ちを弱める場合がある。                                                 |
+| 身体的に魅力的な人は、魅力的でない人より知的でないと見なされる。                                                                             | **誤り。** もちろん、これは誤りだとわかるだろう。そうでなければ、なぜ就職面接へ行くときに最高に見えるよう身なりを整えるのだろうか。                                                                                       |
+| 枕を殴ったり大声で叫んだりすることは、欲求不満や攻撃的傾向を減らす良い方法である。                                                           | **誤り。** 暴力的行動を行うことで攻撃したいという欲求を減らせるという証拠はない。むしろその反対のほうがはるかに一般的である。攻撃を行うことは、さらなる攻撃につながる。                                                   |
+| 綱引きでは、集団で引くときより一人で引くときのほうが強く引く。                                                                               | **正しい。** 社会的手抜き、すなわち集団のほかの人々が自分の分を補ってくれると考えることで努力を減らすことが、集団では起こりやすい。                                                                                       |
 
 :::

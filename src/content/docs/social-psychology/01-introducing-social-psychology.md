@@ -1,54 +1,55 @@
 ---
-title: "Chapter 1. Introducing Social Psychology"
+title: "第1章 社会心理学入門"
 sidebar:
   order: 10
 ---
-:::note[Chapter Learning Objectives]
 
-1. Defining Social Psychology: History and Principles
+:::note[章の学習目標]
 
-- Define *social psychology*.
-- Review the history of the field of social psychology and the topics that social psychologists study.
-- Summarize the principles of evolutionary psychology.
-- Describe and provide examples of the person-situation interaction.
-- Review the concepts of (a) social norms and (b) cultures.
+1. 社会心理学の定義：歴史と原理
 
-2. Affect, Behavior, and Cognition
+- *社会心理学*を定義する。
+- 社会心理学という分野の歴史と、社会心理学者が研究するテーマを概観する。
+- 進化心理学の原理を要約する。
+- 人‐状況相互作用について説明し、例を挙げる。
+- (a) 社会規範と (b) 文化の概念を概観する。
 
-- Define and differentiate *affect*, *behavior*, and *cognition* as considered by social psychologists.
-- Summarize the principles of social cognition.
+2. 感情・行動・認知
 
-3. Conducting Research in Social Psychology
+- 社会心理学者が捉える*感情*、_行動_、*認知*を定義し、それぞれの違いを説明する。
+- 社会的認知の原理を要約する。
 
-- Explain why social psychologists rely on empirical methods to study social behavior.
-- Provide examples of how social psychologists measure the variables they are interested in.
-- Review the three types of research designs, and evaluate the strengths and limitations of each type.
-- Consider the role of validity in research, and describe how research programs should be evaluated.
+3. 社会心理学における研究の実施
+
+- 社会心理学者が社会的行動を研究する際に、なぜ実証的方法に依拠するのかを説明する。
+- 社会心理学者が関心を持つ変数をどのように測定するか、その例を挙げる。
+- 3種類の研究デザインを概観し、それぞれの長所と限界を評価する。
+- 研究における妥当性の役割を検討し、研究プログラムをどのように評価すべきかを説明する。
 
 :::
 
-## The Story of Raoul Wallenberg
+## ラウル・ワレンバーグの物語
 
-Born into a prominent and wealthy family in Sweden, Raoul Wallenberg grew up especially close to his mother and grandfather (his father had earlier died from cancer). Early in life he demonstrated a flair for languages and became fluent in English, French, German, and Russian. Raoul pursued a college education in the United States, where he distinguished himself academically en route to completing a B.A. in architecture from the University of Michigan in 1935. Following a period during which he lived and worked in South Africa and then Palestine, he returned to his native Sweden, where he became increasingly concerned about the treatment of the Jews in Nazi Germany. His work in the import-export business took him to Budapest, Hungary, where by 1944 the Nazis were sending between 10,000 and 12,000 Jews to their deaths in the gas chambers every day. It was around this time that Wallenberg accepted a position with the Swedish embassy in Budapest.
+スウェーデンの著名で裕福な家庭に生まれたラウル・ワレンバーグは、特に母親と祖父との強い絆の中で育った（父親はそれ以前に癌で亡くなっていた）。幼い頃から語学の才能を示し、英語、フランス語、ドイツ語、ロシア語を流暢に話せるようになった。ラウルはアメリカで大学教育を受け、学業で優れた成績を収め、1935年にミシガン大学で建築学の学士号を取得した。その後、南アフリカ、次いでパレスチナで生活し働いたのち、母国スウェーデンに戻った。そこで彼は、ナチス・ドイツにおけるユダヤ人の扱いを次第に強く懸念するようになった。輸出入業の仕事でハンガリーのブダペストを訪れるようになったが、1944年までにナチスは毎日1万人から1万2千人ものユダヤ人をガス室で殺害するために送り込んでいた。ワレンバーグがブダペストのスウェーデン大使館での職を引き受けたのは、ちょうどこの頃だった。
 
-![Sculpture of Raoul Wallenberg](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/09/5936944826_3dc8be3417_o-e1410974005681.jpg)
+![ラウル・ワレンバーグの彫刻](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/09/5936944826_3dc8be3417_o-e1410974005681.jpg)
 
-*Figure 1.1 Raoul Wallenberg. Raoul Wallenberg sculpture, Great Cumberland Place, London*
+_図1.1 ラウル・ワレンバーグ。ロンドン、グレート・カンバーランド・プレイスにあるラウル・ワレンバーグ像_
 
-What took place over the next six months is an extraordinary and miraculous story of courage and caring. Deciding that he had to do everything in his power to help save the Jews of Hungary, Wallenberg began by establishing an office and “hired” 400 Jewish volunteers to run it so that they could receive diplomatic protection. Next, without his government’s authorization, he invented an official-looking Swedish passport, the “Schutzpass,” that he distributed to as many Jews as he could. This fake passport alone helped save the lives of approximately 20,000 Jews. He even set up 32 “safe houses” that became attached to the Swedish embassy and used them to protect 35,000 Jews. He worked long hours, sleeping barely four hours each night. He bribed, manipulated, confronted, and harassed officials in order to achieve his goal of saving the Jews of Hungary.
+その後の6か月間に起こったことは、勇気と思いやりに満ちた、驚くべき奇跡的な物語である。ハンガリーのユダヤ人を救うために自分にできることは何でもしなければならないと決意したワレンバーグは、まず事務所を設立し、400人のユダヤ人のボランティアを「雇用」した。そうすることで、彼らが外交上の保護を受けられるようにしたのである。次に、政府の許可を得ることなく、公式文書らしく見えるスウェーデンの旅券「シュッツパス（Schutzpass）」を考案し、可能な限り多くのユダヤ人に配布した。この偽造旅券だけでも、およそ2万人のユダヤ人の命を救うことに貢献した。さらに、スウェーデン大使館に付属する32か所の「安全な家」を設置し、3万5千人のユダヤ人を保護した。彼は毎晩わずか4時間ほどしか眠らず、長時間働いた。ハンガリーのユダヤ人を救うという目的を達成するため、役人たちに賄賂を渡し、駆け引きをし、対決し、執拗に働きかけた。
 
-As the Soviet army invaded from the east, the Nazis began to escalate their annihilation of the Hungarian Jewish population. Wallenberg promptly threatened the Nazi commander, indicating that he would personally see the commander hanged for crimes against humanity. The commander backed down and called off the assault, thereby saving the lives of another 70,000 Jews.
+ソ連軍が東から侵攻すると、ナチスはハンガリーのユダヤ人住民の殲滅をさらに加速させ始めた。ワレンバーグはただちにナチスの司令官を脅し、人道に対する罪によって自分が責任を持ってその司令官を絞首刑にすると告げた。司令官は引き下がり、攻撃を中止した。その結果、さらに7万人のユダヤ人の命が救われた。
 
-Unfortunately, Wallenberg was arrested by the Soviets and never heard from again. Some reports indicate that he remained in a Soviet prison for years and eventually died there.
+しかし不幸にも、ワレンバーグはソ連当局に逮捕され、その後二度と消息が確認されることはなかった。一部の報告によると、彼はその後何年にもわたってソ連の刑務所に収容され、最終的にそこで死亡したとされている。
 
-Raoul Wallenberg has been made an honorary citizen of Australia, Canada, Hungary, Israel, and the United States, and there are memorials and awards in his name around the world. In 1985, speaking on the 40th anniversary of his arrest, the U.S. ambassador to the United Nations said that Wallenberg “has become more than a man, more even than a hero. He symbolizes a central conflict of our age, which is the determination to remain human and caring and free in the face of tyranny. What Raoul Wallenberg represented in Budapest was nothing less than the conscience of the civilized world.”
+ラウル・ワレンバーグは、オーストラリア、カナダ、ハンガリー、イスラエル、アメリカ合衆国の名誉市民となっており、世界各地に彼の名を冠した記念碑や賞が存在する。1985年、彼の逮捕40周年に際して、アメリカの国連大使はワレンバーグについて次のように述べた。彼は「一人の人間を超え、英雄という存在すら超えた。彼は、圧政に直面してなお人間らしさと思いやり、そして自由を保とうとする決意という、現代の中心的な葛藤を象徴している。ブダペストでラウル・ワレンバーグが体現したものは、まさに文明世界の良心そのものであった」。
 
-Schreiber, P. (2014). *The Story of Raoul Wallenberg.* Retrieved from http://www.wallenberg.umich.edu/story.html.
+Schreiber, P. (2014). _The Story of Raoul Wallenberg._ Retrieved from http://www.wallenberg.umich.edu/story.html.
 
-Social psychology *is the scientific study of how we feel about, think about, and behave toward the people around us and how our feelings, thoughts, and behaviors are influenced by those people.* As this definition suggests, the subject matter of social psychology is very broad and can be found in just about everything that we do every day. Social psychologists study why we are often helpful to other people and why we may at other times be unfriendly or aggressive. Social psychologists study both the benefits of having good relationships with other people and the costs of being lonely. Social psychologists study what factors lead people to purchase one product rather than another, how men and women behave differently in social settings, how juries work together to make important group decisions, and what makes some people more likely to recycle and engage in other environmentally friendly behaviors than others. And social psychologists also study more unusual events, such as how someone might choose to risk their life to save that of a complete stranger.
+社会心理学とは、_私たちが周囲の人々についてどのように感じ、考え、それらの人々に対してどのように行動するのか、そして私たちの感情・思考・行動がそれらの人々によってどのような影響を受けるのかを科学的に研究する学問である。_ この定義が示すように、社会心理学の研究対象は非常に幅広く、私たちが日常的に行うほとんどあらゆることの中に見いだすことができる。社会心理学者は、なぜ私たちがしばしば他者を助けるのか、また別の場面ではなぜ非友好的になったり攻撃的になったりするのかを研究する。他者と良好な関係を築くことの利点と、孤独であることの代償の両方を研究する。人々がある商品ではなく別の商品を購入する要因、男性と女性が社会的状況においてどのように異なる行動をするのか、陪審員が重要な集団意思決定をどのように共同で行うのか、また、なぜある人々は他の人々よりもリサイクルなどの環境に配慮した行動をとりやすいのかについても研究する。そして社会心理学者は、見ず知らずの他人の命を救うために、なぜ自らの命を危険にさらす人がいるのかといった、より非日常的な出来事についても研究する。
 
-The goal of this book is to help you learn to think about social behaviors in the same way that social psychologists do. We believe you will find this approach useful because it will allow you to think about human behavior more critically and more objectively and to gain insight into your own relationships with other people. Social psychologists study everyday behavior scientifically, and their research creates a useful body of knowledge about our everyday social interactions.
+本書の目的は、社会心理学者と同じような方法で社会的行動について考えることを学んでもらうことである。このアプローチは、人間の行動をより批判的かつ客観的に考え、自分自身と他者との関係について洞察を得られるようにするため、有用であると私たちは考えている。社会心理学者は日常的な行動を科学的に研究し、その研究によって、私たちの日常的な社会的相互作用について有用な知識体系を築いている。
 
-## Media Attributions
+## メディアの帰属表示
 
 - “[Raoul Wallenberg. Raoul Wallenberg sculpture, Great Cumberland Place, London](https://www.flickr.com/photos/21804434@N02/5936944826/)” by [Mira 66](https://www.flickr.com/photos/21804434@N02/) is licensed under [CC BY-NC-SA 2.0 licence](https://creativecommons.org/licenses/by-nc-sa/2.0/).
