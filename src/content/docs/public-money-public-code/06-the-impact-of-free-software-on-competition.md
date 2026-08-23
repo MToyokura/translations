@@ -3,7 +3,7 @@ title: "自由ソフトウェアが競争に与える影響"
 ---
 
 <aside class="translation-attribution">
-この記事は、Free Software Foundation Europe による
+このページは Free Software Foundation Europe による
 <a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
 を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>

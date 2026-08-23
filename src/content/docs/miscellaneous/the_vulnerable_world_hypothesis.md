@@ -3,7 +3,7 @@ title: 脆弱な世界仮説
 ---
 
 <aside class="translation-attribution">
-この記事は、Nick Bostrom による
+このページは Nick Bostrom による
 <a href="https://doi.org/10.1111/1758-5899.12718">The Vulnerable World Hypothesis</a>
 を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
 <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 ライセンス</a>

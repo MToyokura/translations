@@ -3,7 +3,7 @@ title: オープンアクセスと再利用
 ---
 
 <aside class="translation-attribution">
-この記事は、 open-access.network による
+このページは open-access.network による
 <a href="https://open-access.network/en/information/open-access-primers/open-access-and-reuse">Open Access and Reuse</a>
 を翻訳したものです。もとの記事は
 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 ライセンス</a>
