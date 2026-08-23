@@ -1,18 +1,23 @@
 {
   "name": "subsequent-star",
-  "type": "module",
   "version": "0.0.1",
+  "type": "module",
   "scripts": {
     "dev": "astro dev --host 0.0.0.0",
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-		"astro": "astro"
+    "astro": "astro",
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt --check"
   },
   "dependencies": {
     "@astrojs/starlight": "^0.41.7",
-		"astro": "^7.1.6",
+    "astro": "^7.1.6",
     "sharp": "^0.35.3"
+  },
+  "devDependencies": {
+    "oxfmt": "0.63.0"
   },
   "engines": {
     "node": ">=24.18.0",
