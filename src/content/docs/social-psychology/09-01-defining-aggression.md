@@ -4,7 +4,6 @@ sidebar:
   order: 59
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
@@ -66,7 +65,7 @@ Hinduja and Patchin (2009) は、サイバーいじめの被害者だと報告�
 
 :::note[インタラクティブ・アクティビティ]
 
-インタラクティブな H5P 要素は、この版のテキストから除外されています。オンライン版はこちらから確認できます：<br /> [https://opentextbc.ca/socialpsychology/?p=3314#h5p-18](https://opentextbc.ca/socialpsychology/?p=3314#h5p-18)
+インタラクティブなH5P要素は、日本語訳版では除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3314#h5p-18](https://opentextbc.ca/socialpsychology/?p=3314#h5p-18)
 
 :::
 

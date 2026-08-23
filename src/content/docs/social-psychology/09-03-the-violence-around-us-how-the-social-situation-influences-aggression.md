@@ -4,7 +4,6 @@ sidebar:
   order: 61
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
@@ -92,7 +91,7 @@ _図9.10 攻撃のプライミング。Anderson et al. (1998) をもとに改変
 
 :::note[インタラクティブ・アクティビティ]
 
-インタラクティブな H5P 要素は、この版のテキストから除外されています。オンライン版はこちらから確認できます：<br /> [https://opentextbc.ca/socialpsychology/?p=3322#h5p-19](https://opentextbc.ca/socialpsychology/?p=3322#h5p-19)
+インタラクティブなH5P要素は、日本語訳版では除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3322#h5p-19](https://opentextbc.ca/socialpsychology/?p=3322#h5p-19)
 
 :::
 
