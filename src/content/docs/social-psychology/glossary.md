@@ -478,7 +478,7 @@ sidebar:
 
 **再構成的記憶バイアス（Reconstructive memory bias）** 現在の信念と一致することを、一致しないことよりよく覚え、その記憶を現在の信念により合うよう再形成すること
 
-**参照勢力（Referent power）** 権力をもつ人への同一視、魅力、尊敬に基づく影響力
+**参照勢力（Referent power）** 勢力をもつ人への同一視、魅力、尊敬に基づく影響力
 
 **関係的または社会的攻撃（Relational or social aggression）** 他者の社会的関係を意図的に傷つけること
 
