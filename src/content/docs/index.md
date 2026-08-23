@@ -1,11 +1,7 @@
 ---
 title: Translations
-description: 翻訳したものを置いていきます。
+description: 翻訳したもの、AI に翻訳させたものを置いていきます。
 ---
-
-翻訳したものを置いていきます。
-
-GitHub レポジトリは[こちら](https://github.com/MToyokura/translations)
 
 <div class="translation-cards">
   <a class="translation-card" href="/translations/open-access-network/information/open-access-primers/what-does-open-access-mean/">
@@ -29,3 +25,7 @@ GitHub レポジトリは[こちら](https://github.com/MToyokura/translations)
     <span class="translation-card__title">脆弱な世界仮説</span>
   </a>
 </div>
+
+---
+
+GitHub レポジトリは[こちら](https://github.com/MToyokura/translations)
