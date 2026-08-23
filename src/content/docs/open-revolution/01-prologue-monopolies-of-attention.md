@@ -4,6 +4,12 @@ sidebar:
   order: 1
 ---
 
+<aside class="translation-attribution">
+このページは Rufus Pollock による <a href="https://openrevolution.net/">The Open Revolution</a> の、豊倉幹人と渡辺智暁による日本語訳の一部です。<a href="https://docs.google.com/document/d/1MXiRWb8SiXhTNdr-UF1hWoXOoA8tzL0zaOhToZQtcWM/edit?usp=sharing">Google Docs で公開されていたもの</a>を Web に移植しています。原文は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY-SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 2018年3月、政治コンサルティング会社のCambridge AnalyticaとFacebookとのスキャンダルが発覚した際、ロンドンのThe Guardian紙はCambridge Analyticaの元役員の言葉を引用した：
 
 Google、Facebook、Amazonといった大企業はすべて、人のデータをマネタイズすることで、何百億ドルあるいは何千億ドルと稼いでいる…。私は何年も前から企業や政府に、データこそがおそらく個人の最も貴重な資産であるということを伝えてきた。 個人は自分自身のデータをマネタイズできるべきであり、そしてそれは各自が所有する価値であり、搾取されるべきものではない。

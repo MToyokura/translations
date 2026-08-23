@@ -4,6 +4,12 @@ sidebar:
   order: 2
 ---
 
+<aside class="translation-attribution">
+このページは Rufus Pollock による <a href="https://openrevolution.net/">The Open Revolution</a> の、豊倉幹人と渡辺智暁による日本語訳の一部です。<a href="https://docs.google.com/document/d/1MXiRWb8SiXhTNdr-UF1hWoXOoA8tzL0zaOhToZQtcWM/edit?usp=sharing">Google Docs で公開されていたもの</a>を Web に移植しています。原文は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY-SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 今日のデジタル時代では、情報を持つ者が未来を掌握する。このデジタルの世界で私たちはオープンかクローズドかの根本的な選択に直面している。オープンな世界では、情報を皆で共有し誰もが自由に利用できるようにする。クローズドな世界では、情報は独占的に「所有」され、コントロールされ、そこに付随する権力と富はますます集中し、経済、自由、文化、さらには健康への広範な悪影響をもたらす。
 
 今日、私たちはクローズドな世界に生きている。それは権力と富が異常なほど集中し続け、独占という死の手によってイノベーションが押さえつけられ歪められている世界。欠かすことのできない医薬品を富裕層のみが入手できる世界。情報操作、排除、搾取によって自由が脅かされる世界。1つ1つのクリック、1つ1つの行動が監視されている世界だ。

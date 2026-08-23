@@ -4,6 +4,12 @@ sidebar:
   order: 6
 ---
 
+<aside class="translation-attribution">
+このページは Rufus Pollock による <a href="https://openrevolution.net/">The Open Revolution</a> の、豊倉幹人と渡辺智暁による日本語訳の一部です。<a href="https://docs.google.com/document/d/1MXiRWb8SiXhTNdr-UF1hWoXOoA8tzL0zaOhToZQtcWM/edit?usp=sharing">Google Docs で公開されていたもの</a>を Web に移植しています。原文は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY-SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 インターネットは情報社会のインフラだ。現代社会の道路や線路であり、情報スーパーハイウェイだ。そしてそれは私たちが持っているオープンなシステムの最たる例でもある。すべての人に自由と可能性を提供する、オープンなデザインのシステムだ。インターネットが提供する自由は、インターネットの開発者の想像を超える新しい使い方を世界規模で開発することを可能とした。インターネット上でGoogleやAmazonは始まり、インターネット上で10億のウェブサイトが誕生し、インターネット上でデジタル・エコノミーが始まった。
 
 オープンネスはこの華々しい成果の中心にあったが、それは必然的なものではなかった。むしろ、異端な状態なのだ。他の遠隔通信のネットワークはほぼすべてがクローズドなもので、制限された接続と特定の限定されたデータを扱ったものだった。接続する許可は(例えば国際電話の独占のように)ネットワークの所有者によって厳重に守られていた。そしてその利用目的も事前に決められていた。

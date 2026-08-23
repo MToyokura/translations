@@ -4,6 +4,12 @@ sidebar:
   order: 13
 ---
 
+<aside class="translation-attribution">
+このページは Rufus Pollock による <a href="https://openrevolution.net/">The Open Revolution</a> の、豊倉幹人と渡辺智暁による日本語訳の一部です。<a href="https://docs.google.com/document/d/1MXiRWb8SiXhTNdr-UF1hWoXOoA8tzL0zaOhToZQtcWM/edit?usp=sharing">Google Docs で公開されていたもの</a>を Web に移植しています。原文は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY-SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 1500年前、6世紀のアイルランドである書籍の著作権を巡って起こった議論が長期的な論争に発展した。中心にいたのはSt Columbaとして知られる、Colmmcilleという名前の神父だった。25歳のときに叙階式を行った後アイルランドを旅し、15年間で35以上の修道院を築いた。書籍の不足により宗教的な学習が制限されていたため、彼は時間があるときはいつも書物を書き写した。そして彼は教会の教えを広めるために他の修道士にもそうするように促した。
 
 The Vulgateは5世紀のSt Jeromeによる、聖書のラテン語への翻訳であった。その複製はMovilleのFinnianによりローマから初めてアイルランドに渡った。彼は書籍が読まれることを強く制限しており、他の人がそれを読むことを許可しなかった。FinnianはColmcilleの教師の一人であり、彼は自身の生徒は例外として、複製しないという条件の下で翻訳本を読むことを許可していた。Colmcilleは渋々従っていたが、制限を無視した。その知識がしまい込まれるにはあまりにも貴重だと感じたのだろう。

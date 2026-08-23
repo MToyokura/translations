@@ -4,6 +4,12 @@ sidebar:
   order: 15
 ---
 
+<aside class="translation-attribution">
+このページは Rufus Pollock による <a href="https://openrevolution.net/">The Open Revolution</a> の、豊倉幹人と渡辺智暁による日本語訳の一部です。<a href="https://docs.google.com/document/d/1MXiRWb8SiXhTNdr-UF1hWoXOoA8tzL0zaOhToZQtcWM/edit?usp=sharing">Google Docs で公開されていたもの</a>を Web に移植しています。原文は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY-SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 本書は、Rufus PollockによるThe Open Revolutionの全訳である。
 
 作者のRufus Pollockは現在世界的に広まりつつあるオープンデータ運動のパイオニアである。情報の自由な共有を目指すNPOであるOpen Knowledge Foundation（OKF）を2004年に設立したほか、ソフトウェア市場における自由な競争の確立を目指すFoundation for a Free Information Infrastructureイギリス支部の理事、Creative Commons UKのポリシーアドバイザーを務めた経験があり、知的財産の開放に向けて積極的に活動している。OKFが開発しているオープンソースのオープンデータ管理システムであるCKANは世界中で利用されており、日本においても自治体がオープンデータなどを管理するためのデータカタログソフトのデファクトスタンダードとなっている。

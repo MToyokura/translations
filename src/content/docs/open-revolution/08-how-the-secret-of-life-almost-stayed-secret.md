@@ -4,6 +4,12 @@ sidebar:
   order: 8
 ---
 
+<aside class="translation-attribution">
+このページは Rufus Pollock による <a href="https://openrevolution.net/">The Open Revolution</a> の、豊倉幹人と渡辺智暁による日本語訳の一部です。<a href="https://docs.google.com/document/d/1MXiRWb8SiXhTNdr-UF1hWoXOoA8tzL0zaOhToZQtcWM/edit?usp=sharing">Google Docs で公開されていたもの</a>を Web に移植しています。原文は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY-SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 2000年の6月26日、ワシントンとロンドンにてBill ClintonとTony Blairはヒトゲノム(私たち人間の遺伝情報)のドラフトの完成版の公開を発表した。この成果は月面着陸や、さらには車輪の発明と並べて語られるほどのものだ。しかしその発表や報道の多くでは抜け落ちていた事実がある。それは、自然の究極のデータベースであるゲノムが「オープン」に公開され、研究者であれスタートアップ企業であれ就学中の児童であれ、公的にかつ自由に閲覧し利用することができるという事実だ。
 
 また、それが危うく間一髪のところで一つの私企業によって支配、所有され、お金を払った者のみがアクセスでき、独占を維持するために情報を囲い込む「クローズド」なゲノムとなっていた可能性があったことは明確には報道されなかった。

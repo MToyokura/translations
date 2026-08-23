@@ -4,6 +4,12 @@ sidebar:
   order: 5
 ---
 
+<aside class="translation-attribution">
+このページは Rufus Pollock による <a href="https://openrevolution.net/">The Open Revolution</a> の、豊倉幹人と渡辺智暁による日本語訳の一部です。<a href="https://docs.google.com/document/d/1MXiRWb8SiXhTNdr-UF1hWoXOoA8tzL0zaOhToZQtcWM/edit?usp=sharing">Google Docs で公開されていたもの</a>を Web に移植しています。原文は
+<a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0 ライセンス</a>
+のもとで提供されています。翻訳版も同じく CC BY-SA 4.0 ライセンスのもとで提供されます。
+</aside>
+
 プラットフォームであるGoogle、Facebook、Microsoftはそれぞれ単一の企業として存在するが、これがそうである必然性はない。プラットフォームは、誰にも所有されない、あるいは利用者全員に所有されることで中立的であることも可能だ。インターネットは計算や通信の必要性から、ひとつのネットワーク、ひとつのまとまったプロトコルへ収束した。しかしこれは単一の企業に所有・コントロールされているわけではない。インターネットが要求するプロトコルと、反社会的なコンテンツを除外する特定の法的な決まりに従う限り、インターネットとそこにいる他のユーザーとつながることができる。インターネットは、すべてのユーザーを公平に仲介するプラットフォームなのだ。
 
 これをFacebookと比較してみると、異なるあり方が存在しうることに気づくだろう。Facebookはメディアの共有、コミュニケーション、個人認証とスパム対策を提供している。しかしそれらのプロトコルとプラットフォームの大部分は私有のものであり、会社によってコントロールされている。結果としてそれらを誰が何のために使うかを最終的に会社が決定している。これら2種類のプラットフォームの違いは2018年のCambridge Analyticaのスキャンダルで明白になった。Facebookは個人情報の悪用に関して責任を追求されたが、誰もインターネットそのものを責める人はいなかった。
