@@ -4,7 +4,6 @@ sidebar:
   order: 16
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
@@ -46,7 +45,7 @@ sidebar:
 
 ![qrcode.video7.1](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/qrcode.video7_.1-1.png)
 
-この版のテキストでは、1つ以上のインタラクティブ要素が除外されている。オンライン版はこちらから閲覧できる：[https://opentextbc.ca/socialpsychology/?p=3157#oembed-3](#oembed-3)
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：[https://opentextbc.ca/socialpsychology/?p=3157#oembed-3](#oembed-3)
 
 _動画2.1 [Funny Commercials](https://www.youtube.com/watch?v=_Km-2ecLrPo) uploaded by kin100._
 
@@ -78,7 +77,7 @@ Donal Carlston とその同僚たちは、連合学習が生じる別の仕組�
 
 Bandura は保育園児の集団にこの映像を見せ、その後、とても魅力的なおもちゃが置かれた部屋で遊ばせた。子どもたちに欲求不満を生じさせるため、楽しいおもちゃで遊ばせたのは数分間だけで、その後取り上げた。次に、ボボ人形で遊ぶ機会を与えた。多くの子どもが映像の女性をまねしたと聞いても、おそらく驚かないだろう。子どもたちはボボ人形を殴り、「Sockeroo!」と叫び、ハンマーで人形を叩いた。
 
-この版のテキストでは、1つ以上のインタラクティブ要素が除外されている。オンライン版はこちらから閲覧できる：[https://opentextbc.ca/socialpsychology/?p=3157#oembed-4](#oembed-4)
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：[https://opentextbc.ca/socialpsychology/?p=3157#oembed-4](#oembed-4)
 
 ![QR Code](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2022/01/qrcode.22528007.png)
 

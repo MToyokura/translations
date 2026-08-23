@@ -4,7 +4,6 @@ sidebar:
   order: 23
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
@@ -135,7 +134,7 @@ Baumeister と同僚は、自尊心を高めるプログラムは限定的にの
 
 :::note[インタラクティブ・アクティビティ]
 
-この版のテキストでは、インタラクティブな H5P 要素が除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3189#h5p-10](https://opentextbc.ca/socialpsychology/?p=3189#h5p-10)
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3189#h5p-10](https://opentextbc.ca/socialpsychology/?p=3189#h5p-10)
 
 :::
 

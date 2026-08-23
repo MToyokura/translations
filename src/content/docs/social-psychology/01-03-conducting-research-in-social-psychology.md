@@ -4,7 +4,6 @@ sidebar:
   order: 13
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
@@ -46,7 +45,7 @@ sidebar:
 
 **インタラクティブ・アクティビティ：**
 
-インタラクティブな H5P 要素は、この版のテキストから除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-1](https://opentextbc.ca/socialpsychology/?p=3142#h5p-1)
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-1](https://opentextbc.ca/socialpsychology/?p=3142#h5p-1)
 
 **H5P：学習内容を確認しよう：第1章 単語ドラッグ ― 社会心理学の古典的知見**
 
@@ -231,7 +230,7 @@ _図1.14 実験研究デザイン（Anderson & Dill, 2000 に基づく）。実�
 
 :::note[インタラクティブ・アクティビティ]
 
-インタラクティブな H5P 要素は、この版のテキストから除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-2](https://opentextbc.ca/socialpsychology/?p=3142#h5p-2)
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-2](https://opentextbc.ca/socialpsychology/?p=3142#h5p-2)
 
 :::
 
@@ -277,7 +276,7 @@ _図1.15 人‐状況相互作用。Meier, Robinson, and Wilkowski (2006) の実
 
 :::note[インタラクティブ・アクティビティ]
 
-インタラクティブな H5P 要素は、この版のテキストから除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-3](https://opentextbc.ca/socialpsychology/?p=3142#h5p-3)
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-3](https://opentextbc.ca/socialpsychology/?p=3142#h5p-3)
 
 :::
 
@@ -312,7 +311,7 @@ _図1.16 科学的アプローチのいくつかの重要な側面_
 
 :::note[インタラクティブ・アクティビティ]
 
-インタラクティブな H5P 要素は、この版のテキストから除外されている。オンライン版はこちらから閲覧できる：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-4](https://opentextbc.ca/socialpsychology/?p=3142#h5p-4)
+インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3142#h5p-4](https://opentextbc.ca/socialpsychology/?p=3142#h5p-4)
 
 :::
 
