@@ -4,7 +4,6 @@ sidebar:
   order: 83
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
@@ -36,7 +35,7 @@ sidebar:
 
 :::note[インタラクティブ・アクティビティ]
 
-インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3389#h5p-25](https://opentextbc.ca/socialpsychology/?p=3389#h5p-25)
+インタラクティブなH5P要素は、日本語訳版では除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3389#h5p-25](https://opentextbc.ca/socialpsychology/?p=3389#h5p-25)
 
 :::
 

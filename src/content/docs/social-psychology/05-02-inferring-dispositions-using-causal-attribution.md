@@ -76,7 +76,7 @@ Jones and Harris (1967) は学生参加者へ、別の学生が書いたエッ�
 
 :::note[インタラクティブ活動]
 
-インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3235#h5p-14](https://opentextbc.ca/socialpsychology/?p=3235#h5p-14)
+インタラクティブなH5P要素は、日本語訳版では除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3235#h5p-14](https://opentextbc.ca/socialpsychology/?p=3235#h5p-14)
 
 :::
 

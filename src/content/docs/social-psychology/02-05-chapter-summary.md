@@ -31,7 +31,7 @@ sidebar:
 
 :::note[インタラクティブ・アクティビティ]
 
-インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3175#h5p-9](https://opentextbc.ca/socialpsychology/?p=3175#h5p-9)
+インタラクティブなH5P要素は、日本語訳版では除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3175#h5p-9](https://opentextbc.ca/socialpsychology/?p=3175#h5p-9)
 
 :::
 

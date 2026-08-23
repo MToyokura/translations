@@ -233,7 +233,7 @@ _図3.14 セルフ・モニタリングと行動模倣_
 
 :::note[インタラクティブ・アクティビティ]
 
-インタラクティブなH5P要素は、この版の本文から除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3195#h5p-11](https://opentextbc.ca/socialpsychology/?p=3195#h5p-11)
+インタラクティブなH5P要素は、日本語訳版では除外されています。オンライン版はこちらです：<br /> [https://opentextbc.ca/socialpsychology/?p=3195#h5p-11](https://opentextbc.ca/socialpsychology/?p=3195#h5p-11)
 
 :::
 
