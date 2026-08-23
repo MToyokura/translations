@@ -4,7 +4,6 @@ sidebar:
   order: 2
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
@@ -20,7 +19,7 @@ Dr. Rajiv JhangianiおよびDr. Hammond Tarryによる『社会心理学の原�
 
 © 2022 Rajiv Jhangiani and Hammond Tarry
 
-*『社会心理学の原理―第1版国際版』* は、Rajiv JhangianiとHammond Tarryが、*Principles of Social Psychology* © 2011をもとに改訂したものです。原著の出版社は、出版社名および原著者名を表示しないよう求めています。
+_『社会心理学の原理―第1版国際版』_ は、Rajiv JhangianiとHammond Tarryが、_Principles of Social Psychology_ © 2011をもとに改訂したものです。原著の出版社は、出版社名および原著者名を表示しないよう求めています。
 
 原著の教科書から改訂されたコンテンツには、以下の追加部分を除き、[CC BY-NC-SA 3.0ライセンス](https://creativecommons.org/licenses/by-nc-sa/3.0/) が適用されます。以下の追加部分は © 2014 Rajiv Jhangiani and Hammond Tarryであり、[CC BY 4.0ライセンス](https://creativecommons.org/licenses/by/4.0/) の下で提供されています。
 
@@ -35,11 +34,11 @@ Dr. Rajiv JhangianiおよびDr. Hammond Tarryによる『社会心理学の原�
 
 - 「社会的学習（Social Learning）」と「社会的感情（Social Affect）」という別々の章を統合し、一つの「社会的認知（Social Cognition）」の章としたこと。
 
-2022年には、Hammond Tarry © による25個のインタラクティブなH5Pアクティビティが本文全体に追加され、*『社会心理学の原理―第1版国際H5P版』* が出版されました。
+2022年には、Hammond Tarry © による25個のインタラクティブなH5Pアクティビティが本文全体に追加され、_『社会心理学の原理―第1版国際H5P版』_ が出版されました。
 
 クリエイティブ・コモンズ・ライセンスにより、著者を以下のように表示し、共有するコンテンツにも同じライセンスを適用することを条件として、非営利目的であれば、本書の全部または一部を無料で保持、再利用、複製、再配布、改変することができます。
 
-*『社会心理学の原理―第1版国際H5P版』*
+_『社会心理学の原理―第1版国際H5P版』_
 
 Rajiv Jhangiani and Hammond Tarryによる本書は、
 
@@ -57,13 +56,13 @@ Rajiv Jhangiani and Hammond Tarryによる本書は、
 
 Jhangiani, R., & Tarry, H. (2022).
 
-*Principles of social psychology*
+_Principles of social psychology_
 
 (1st international H5P edition). BCcampus. https://opentextbc.ca/socialpsychology/
 
 **表紙画像の出典：**
 
-[「The Gherkinの屋根に映るパーティーの人々」](https://flic.kr/p/4Zx36T)
+[The party people, as reflected by The Gherkin's roof](https://flic.kr/p/4Zx36T)
 
 by
 
