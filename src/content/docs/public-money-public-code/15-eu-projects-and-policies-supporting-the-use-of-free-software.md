@@ -37,9 +37,9 @@ EUの資金提供を受ける FREEWAT（Free and Open Source Software Tools for 
 - http://www.freewat.eu
 
 <aside class="context-aside">
-  
+
 Horizon 2020
-  
+
 Horizon 2020 は、2014年から2020年まで実施されたEUの研究・イノベーションプログラムで、7年間で約800億ユーロの資金が用意されました。一定のメリットはあるものの、このプログラムによる自由ソフトウェアとオープン標準への支援は限定的です。
 
 </aside>

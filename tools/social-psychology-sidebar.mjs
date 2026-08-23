@@ -12,7 +12,9 @@ export function socialPsychologySidebar() {
     return { file, title, slug, order, chapter: match?.[1], section: match?.[2] };
   });
 
-  const chapters = pages.filter((page) => page.chapter && !page.section).sort((a, b) => a.file.localeCompare(b.file, undefined, { numeric: true }));
+  const chapters = pages
+    .filter((page) => page.chapter && !page.section)
+    .sort((a, b) => a.file.localeCompare(b.file, undefined, { numeric: true }));
   const items = chapters.map((chapter) => ({
     label: chapter.title,
     collapsed: true,
@@ -29,11 +31,7 @@ export function socialPsychologySidebar() {
     .filter((page) => !page.chapter)
     .sort((a, b) => a.order - b.order || a.file.localeCompare(b.file))
     .map(({ title, slug }) => ({ label: title, slug }));
-  const backMatterFiles = new Set([
-    "about-the-authors.md",
-    "glossary.md",
-    "versioning-history.md",
-  ]);
+  const backMatterFiles = new Set(["about-the-authors.md", "glossary.md", "versioning-history.md"]);
   const backMatter = other.filter((item) =>
     [...backMatterFiles].some((file) => item.slug.endsWith(`/${file.replace(".md", "")}`)),
   );

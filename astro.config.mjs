@@ -39,8 +39,7 @@ export default defineConfig({
                   slug: "open-access-network/information/open-access-primers/open-access-and-reuse",
                 },
                 {
-                  label:
-                    "グリーン・オープンアクセスとゴールド・オープンアクセス",
+                  label: "グリーン・オープンアクセスとゴールド・オープンアクセス",
                   slug: "open-access-network/information/open-access-primers/green-and-gold",
                 },
                 {
