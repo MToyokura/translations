@@ -4,14 +4,13 @@ sidebar:
   order: 6
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/front-matter/about-bccampus-open-education/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 [社会心理学の原理―第1版国際H5P版](https://opentextbc.ca/socialpsychology/) は、BCcampus Open Educationの資金提供を受けて制作されました。

@@ -4,14 +4,13 @@ sidebar:
   order: 45
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary-6/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 同調とは、社会的影響の結果として生じる信念、意見、行動の変化を指す。同調の典型的な結果は、人々の信念や行動が周囲の他者のものとより似ることである。

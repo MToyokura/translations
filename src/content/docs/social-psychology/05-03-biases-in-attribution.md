@@ -10,7 +10,7 @@ sidebar:
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/biases-in-attribution/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 :::note[学習目標]
@@ -173,7 +173,7 @@ Lerner (1965) は、この信念についての古典的な実験研究で、2�
 
 #### 参考文献
 
-Allison, S. T., & Messick, D. M. (1985). The group attribution error_._ _Journal of Experimental Social Psychology, 21(6),_ 563-579.
+Allison, S. T., & Messick, D. M. (1985). The group attribution error*.* _Journal of Experimental Social Psychology, 21(6),_ 563-579.
 
 Baumeister, R. F., Stillwell, A., & Wotman, S. R. (1990). Victim and perpetrator accounts of interpersonal conflict: Autobiographical narratives about anger. _Journal Of Personality And Social Psychology_, _59_(5), 994-1005. doi:10.1037/0022-3514.59.5.994
 

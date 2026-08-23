@@ -10,7 +10,7 @@ sidebar:
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-the-self/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 社会心理学者は、ほかの社会現象について考えるのと同じように、感情、行動、認知、そして人‐状況相互作用という観点から自己を考える。本章では、自己の認知的・感情的・社会的側面と、私たちが置かれている社会的状況によって自己が驚くほど大きく作り上げられていることに焦点を当ててきた。

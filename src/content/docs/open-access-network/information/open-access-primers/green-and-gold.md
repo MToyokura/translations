@@ -7,7 +7,7 @@ title: グリーン・オープンアクセスとゴールド・オープンア�
 <a href="https://open-access.network/en/information/open-access-primers/green-and-gold">Green, Gold, and Diamond Open Access</a>
 を翻訳したものです。もとの記事は
 <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0 ライセンス</a>
-のもとで提供されています。翻訳版も同じく CC BY 4.0 ライセンスのもとで提供されます。
+のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 ## はじめに

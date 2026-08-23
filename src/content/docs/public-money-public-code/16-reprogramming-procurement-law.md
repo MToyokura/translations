@@ -7,7 +7,7 @@ title: "公共調達法を再設計する"
 <a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
 を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
-のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 同じようなサービスを提供する多数のソフトウェア・プロジェクトに行政がそれぞれ資金を投入する必要があるのでしょうか？一つのプロジェクトに集中し、その費用とコードを複数の機関で共有するほうが効率的ではないでしょうか？

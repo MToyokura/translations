@@ -4,14 +4,13 @@ sidebar:
   order: 78
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/part/competition-and-cooperation-in-our-social-worlds/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 :::note[章の学習目標]
@@ -96,4 +95,4 @@ Van Lange, P. A. M., De Cremer, D., Van Dijk, E., & Van Vugt, M. (Eds.). (2007).
 
 ## メディア帰属
 
-- “[Surexploitation morue surpêcheEn](https://commons.wikimedia.org/wiki/File:Surexploitation_morue_surp%C3%AAcheEn.jpg)” by [Lamiot](https://commons.wikimedia.org/wiki/User:Lamiot) は [GNU Free Documentation License](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) の下で提供されています。
+- “[Surexploitation morue surpêcheEn](https://commons.wikimedia.org/wiki/File:Surexploitation_morue_surp%C3%AAcheEn.jpg)” by [Lamiot](https://commons.wikimedia.org/wiki/User:Lamiot) は [GNU Free Documentation License](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License) のもとで提供されています。

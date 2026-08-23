@@ -4,14 +4,13 @@ sidebar:
   order: 34
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/initial-impression-formation/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 :::note[学習目標]
@@ -161,7 +160,7 @@ _表5.2a：特性を組み合わせる ― Amir_
 | 真面目 | +1       |
 | 親切   | +4       |
 | 悲しげ | –4       |
-| 合計   |  **+6.0** |
+| 合計   | **+6.0** |
 | 平均   | +1.5     |
 
 _表5.2b：特性を組み合わせる ― Connor_
@@ -172,7 +171,7 @@ _表5.2b：特性を組み合わせる ― Connor_
 | 幸福             | +2       |
 | 利己的           | –4       |
 | 思いやりに欠ける | –5       |
-|  **合計**         |  **–4.0** |
+| **合計**         | **–4.0** |
 | 平均             | –1.0     |
 
 この採点に基づけば、Rianna はおそらく Connor より Amir のほうを好きだと判断するだろう。もちろん、特性に与える重みは人によって多少異なり、そのため Amir と Connor について異なる印象を形成することもある。しかし少なくとも各特性が全体としてどの程度肯定的または否定的かという点では、多くの人の間にかなりの一致があるため、ほとんどの人は似た結論へ達する可能性が高い。

@@ -4,14 +4,13 @@ sidebar:
   order: 68
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/group-decision-making/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 :::note[学習目標]
@@ -296,7 +295,7 @@ Stasser, G., Kerr, N. L., & Bray, R. M. (1982). The social psychology of jury de
 
 Stasser, G., & Stewart, D. (1992). Discovery of hidden profiles by decision-making groups: Solving a problem versus making a judgment. _Journal of Personality & Social Psychology, 63_, 426–434.
 
-Stasser, G., & Taylor, L. A. (1991). Speaking turns in face-to-face discussions. _Journal of Personality and Social Psychology, 60,_675–684.
+Stasser, G., & Taylor, L. A. (1991). Speaking turns in face-to-face discussions. \_Journal of Personality and Social Psychology, 60,\_675–684.
 
 Stasser, G., Taylor, L. A., & Hanna, C. (1989). Information sampling in structured and unstructured discussions of three- and six-person groups. _Journal of Personality and Social Psychology, 57_(1), 67–78.
 

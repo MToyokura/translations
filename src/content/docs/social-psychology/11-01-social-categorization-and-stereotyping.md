@@ -4,14 +4,13 @@ sidebar:
   order: 73
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/social-categorization-and-stereotyping/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 :::note[学習目標]
@@ -288,4 +287,4 @@ Yzerbyt, V., Schadron, G., Leyens, J., & Rocher, S. (1994). Social judgeability:
 
 #### メディア帰属
 
-- “[CHILLIN](https://www.flickr.com/photos/cloud10/59798751/)” by [sabrina’s stash](https://www.flickr.com/photos/cloud10/) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/) の下で提供されています。
+- “[CHILLIN](https://www.flickr.com/photos/cloud10/59798751/)” by [sabrina’s stash](https://www.flickr.com/photos/cloud10/) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/) のもとで提供されています。

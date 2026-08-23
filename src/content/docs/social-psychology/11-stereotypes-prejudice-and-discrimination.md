@@ -4,14 +4,13 @@ sidebar:
   order: 72
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/part/stereotypes-prejudice-and-discrimination/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 :::note[章の学習目標]
@@ -109,8 +108,8 @@ Zhang, S., Schmader, T., & Forbes, C. (2009). The effects of gender stereotypes 
 
 ## メディア帰属
 
-- “[LGBT activists were attacked during an action “Day of Kisses” against a homophobic bill in Moscow](https://www.flickr.com/photos/madw/9015242012/)” by [Roma Yandolin](https://www.flickr.com/photos/madw/) は [CC BY-SA 2.0ライセンス](https://creativecommons.org/licenses/by-sa/2.0/) の下で提供されています。
-- “[Women with baby – Sanaa_H8O9429-33](https://www.flickr.com/photos/francesco_veronesi/3387295024)” by [Francesco Veronesi](https://www.flickr.com/photos/francesco_veronesi/) は [CC BY-NC-SA 2.0ライセンス](https://creativecommons.org/licenses/by-nc-sa/2.0/) の下で提供されています。<br />
-- “[Body art](https://en.wikipedia.org/wiki/File:Body_art.jpg)” by kk+ は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) の下で提供されています。
-- “[Ashs-students-studying](https://commons.wikimedia.org/wiki/File:Ashs-students-studying.jpg)” by [Mosborne01](https://commons.wikimedia.org/wiki/User:Mosborne01) は [CC BY-SA 3.0ライセンス](https://creativecommons.org/licenses/by-sa/3.0/deed.en) の下で提供されています。
-- “[Wheel Chair](https://www.flickr.com/photos/cmgxvolley/5756114047)” by [christine.gleason](https://www.flickr.com/photos/cmgxvolley/) は [CC BY-NC-ND 2.0ライセンス](https://creativecommons.org/licenses/by-nc-nd/2.0/) の下で提供されています。
+- “[LGBT activists were attacked during an action “Day of Kisses” against a homophobic bill in Moscow](https://www.flickr.com/photos/madw/9015242012/)” by [Roma Yandolin](https://www.flickr.com/photos/madw/) は [CC BY-SA 2.0ライセンス](https://creativecommons.org/licenses/by-sa/2.0/) のもとで提供されています。
+- “[Women with baby – Sanaa_H8O9429-33](https://www.flickr.com/photos/francesco_veronesi/3387295024)” by [Francesco Veronesi](https://www.flickr.com/photos/francesco_veronesi/) は [CC BY-NC-SA 2.0ライセンス](https://creativecommons.org/licenses/by-nc-sa/2.0/) のもとで提供されています。<br />
+- “[Body art](https://en.wikipedia.org/wiki/File:Body_art.jpg)” by kk+ は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) のもとで提供されています。
+- “[Ashs-students-studying](https://commons.wikimedia.org/wiki/File:Ashs-students-studying.jpg)” by [Mosborne01](https://commons.wikimedia.org/wiki/User:Mosborne01) は [CC BY-SA 3.0ライセンス](https://creativecommons.org/licenses/by-sa/3.0/deed.en) のもとで提供されています。
+- “[Wheel Chair](https://www.flickr.com/photos/cmgxvolley/5756114047)” by [christine.gleason](https://www.flickr.com/photos/cmgxvolley/) は [CC BY-NC-ND 2.0ライセンス](https://creativecommons.org/licenses/by-nc-nd/2.0/) のもとで提供されています。

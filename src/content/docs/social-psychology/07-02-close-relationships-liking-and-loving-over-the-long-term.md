@@ -4,14 +4,13 @@ sidebar:
   order: 48
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/close-relationships-liking-and-loving-over-the-long-term/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 :::note[学習目標]
@@ -159,11 +158,11 @@ McKenna, Green, and Gleason (2002) は、オンラインで関係がどのよう
 
 英国の長寿結婚夫婦 Frank と Anita Milford が、関係成功の理由として挙げた考えの一部は、おそらく正しい。二人がしたように見えることを、社会心理学研究から予測されることと比べてみよう。
 
--  **口げんかに備える。** どんな関係にも対立はある。これは予想外でも、常に悪いことでもない。小さな対立へ取り組むことは、自分とパートナーの社会的技能を改善し、関係を強くする助けになりうる (Pickett & Gardner, 2005)。
--  **否定的にならない。** 否定的な認知と感情は関係へ極めて有害な影響を与える (Gottman, 1994)。否定的思考と否定的行動の悪循環を始めないようにする。できる限り肯定的に考える。
--  **行動を評価するとき公平である。** 多くの人は、日常生活と同じように親密な関係でも自分の価値を過大評価する。自分の肯定的行動をパートナーのものより良いと評価し、パートナーの否定的行動を自分のものより悪く評価する傾向がある。パートナーへ疑わしきは有利に扱おう――自分も完全ではないことを忘れない。
--  **パートナーを喜ばせることをする。** 社会的交換の原理から、他者へ親切にすると、相手も親切を返しやすいことが分かる。
--  **楽しむ。** パートナー同士が肯定的気分を持ち、退屈していない関係は長続きしやすい (Tsapelas, Aron, & Orbuch, 2009)。
+- **口げんかに備える。** どんな関係にも対立はある。これは予想外でも、常に悪いことでもない。小さな対立へ取り組むことは、自分とパートナーの社会的技能を改善し、関係を強くする助けになりうる (Pickett & Gardner, 2005)。
+- **否定的にならない。** 否定的な認知と感情は関係へ極めて有害な影響を与える (Gottman, 1994)。否定的思考と否定的行動の悪循環を始めないようにする。できる限り肯定的に考える。
+- **行動を評価するとき公平である。** 多くの人は、日常生活と同じように親密な関係でも自分の価値を過大評価する。自分の肯定的行動をパートナーのものより良いと評価し、パートナーの否定的行動を自分のものより悪く評価する傾向がある。パートナーへ疑わしきは有利に扱おう――自分も完全ではないことを忘れない。
+- **パートナーを喜ばせることをする。** 社会的交換の原理から、他者へ親切にすると、相手も親切を返しやすいことが分かる。
+- **楽しむ。** パートナー同士が肯定的気分を持ち、退屈していない関係は長続きしやすい (Tsapelas, Aron, & Orbuch, 2009)。
 
 価値観やほかの信念を似たまま維持できるパートナーは、より成功しやすい。Frank と Anita も活動や関心を共有し続けており、これに当てはまる。パートナーは互いへ肯定的感情も示さなければならない。幸福なカップルは一緒にいるとき肯定的気分で、共に笑い、相手の行動を批判するより承認を表す。相手を現実的で、場合によってはより否定的に見るより、肯定的、さらには「理想化された」形で見るとき、パートナーはより幸福である (Murray, Holmes, & Griffin, 1996)。Anita と Frank はインタビューで、一緒に過ごす時間が肯定的感情とロマンスに満ちていたと話しており、それが二人を一緒に保つ助けになったのかもしれない。
 
@@ -283,7 +282,7 @@ Kraut, R., Kiesler, S., Boneva, B., Cummings, J., Helgeson, V., & Crawford, A. (
 
 Kraut, R., Patterson, M., Lundmark, V., Kiesler, S., Mukophadhyay, T., & Scherlis, W. (1998). Internet paradox: A social technology that reduces social involvement and psychological well-being? _American Psychologist, 53_(9), 1017–1031.
 
-Kreider, R.M., & Fields, J. M. (2001). Number, timing, and duration of marriages and divorces. _Current Population Reports_, _70-80, (_Washington, DC: U.S. Census Bureau, 2005).
+Kreider, R.M., & Fields, J. M. (2001). Number, timing, and duration of marriages and divorces. _Current Population Reports_, \_70-80, (\_Washington, DC: U.S. Census Bureau, 2005).
 
 Lemieux, R., & Hale, J. L. (2002). Cross-sectional analysis of intimacy, passion, and commitment: Testing the assumptions of the triangular theory of love. _Psychological Reports_, _90_(3,Pt1), 1009-1014. doi:10.2466/PR0.90.3.1009-1014
 

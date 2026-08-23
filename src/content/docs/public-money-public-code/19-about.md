@@ -7,7 +7,7 @@ title: "巻末"
 <a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
 を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
-のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 Free Software Foundation Europe（FSFE）は、利用者がテクノロジーを自らコントロールできるよう支援する公益団体です。ソフトウェアは、私たちの生活のあらゆる側面に深く関わっています。だからこそ、テクノロジーは私たちを制限するのではなく、私たちの力を高めるものであることが重要です。自由ソフトウェアは、すべての人に、ソフトウェアを使用し、理解し、改変し、共有する権利を与えます。こうした権利は、表現の自由、報道の自由、プライバシーといった、その他の基本的な自由を支えることにもつながります。

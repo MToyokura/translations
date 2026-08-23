@@ -10,18 +10,18 @@ sidebar:
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 ![クリエイティブ・コモンズ 表示—非営利—継承 4.0 国際ライセンスのアイコン](https://opentextbc.ca/socialpsychology/wp-content/themes/pressbooks-book/packages/buckram/assets/images/cc-by-nc-sa.svg)
 
-Dr. Rajiv JhangianiおよびDr. Hammond Tarryによる『社会心理学の原理―第1版国際H5P版』Copyright © 2022は、特に記載がある場合を除き、[クリエイティブ・コモンズ 表示—非営利—継承 4.0 国際ライセンス](https://creativecommons.org/licenses/by-nc-sa/4.0/) の下で提供されています。
+Dr. Rajiv JhangianiおよびDr. Hammond Tarryによる『社会心理学の原理―第1版国際H5P版』Copyright © 2022は、特に記載がある場合を除き、[クリエイティブ・コモンズ 表示—非営利—継承 4.0 国際ライセンス](https://creativecommons.org/licenses/by-nc-sa/4.0/) のもとで提供されています。
 
 © 2022 Rajiv Jhangiani and Hammond Tarry
 
 _『社会心理学の原理―第1版国際版』_ は、Rajiv JhangianiとHammond Tarryが、_Principles of Social Psychology_ © 2011をもとに改訂したものです。原著の出版社は、出版社名および原著者名を表示しないよう求めています。
 
-原著の教科書から改訂されたコンテンツには、以下の追加部分を除き、[CC BY-NC-SA 3.0ライセンス](https://creativecommons.org/licenses/by-nc-sa/3.0/) が適用されます。以下の追加部分は © 2014 Rajiv Jhangiani and Hammond Tarryであり、[CC BY 4.0ライセンス](https://creativecommons.org/licenses/by/4.0/) の下で提供されています。
+原著の教科書から改訂されたコンテンツには、以下の追加部分を除き、[CC BY-NC-SA 3.0ライセンス](https://creativecommons.org/licenses/by-nc-sa/3.0/) が適用されます。以下の追加部分は © 2014 Rajiv Jhangiani and Hammond Tarryであり、[CC BY 4.0ライセンス](https://creativecommons.org/licenses/by/4.0/) のもとで提供されています。
 
 - 新しい研究および理論的発展の追加。
 - 各章冒頭の逸話や現実世界の例を、現代の学生にとってより関連性の高いものに更新。
@@ -44,7 +44,7 @@ Rajiv Jhangiani and Hammond Tarryによる本書は、
 
 [CC BY-NC-SA 4.0ライセンス](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-の下で提供されています。
+のもとで提供されています。
 
 本書の全部または一部を再配布する場合は、読者が原著を無料で入手できるよう、著作権ページに以下の文言を追加することを推奨します。
 
@@ -72,7 +72,7 @@ by
 
 [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/)
 
-の下で提供されています。
+のもとで提供されています。
 
 ブリティッシュコロンビア州におけるオープン教育については、[BCcampus Open Education](http://open.bccampus.ca/) をご覧ください。
 

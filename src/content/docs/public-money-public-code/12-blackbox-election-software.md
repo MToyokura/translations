@@ -7,7 +7,7 @@ title: "ブラックボックス化された選挙ソフトウェア"
 <a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
 を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
-のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 2017年のドイツ連邦議会選挙を前に、Chaos Computer Club（CCC）は、選挙の集計に使用されるソフトウェア「PCWahl」に重大なセキュリティ上の欠陥があることを明らかにしました。これをきっかけに、選挙におけるITセキュリティをめぐる公の議論が起こりました。この問題について、CCCの広報担当者 Constanze Kurz に話を聞きました。

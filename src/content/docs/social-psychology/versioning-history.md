@@ -10,7 +10,7 @@ sidebar:
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/back-matter/versioning-history/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 このページには、本書の初版刊行以降に行われた編集および変更の記録を掲載しています。編集や更新を行う際には、本文に必要な変更を加えるとともに、その変更内容の記録と説明をここに掲載します。当ウェブサイトで提供しているファイルは、オンデマンド印刷版を含め、常に最新バージョンを反映しています。

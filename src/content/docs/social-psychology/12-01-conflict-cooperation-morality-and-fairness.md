@@ -4,14 +4,13 @@ sidebar:
   order: 79
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/conflict-cooperation-morality-and-fairness/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 :::note[学習目標]
@@ -223,7 +222,7 @@ van der Toorn, J., Tyler, T. R., & Jost, J. T. (2011). More than fair: Outcome d
 
 #### メディア帰属
 
-- “[Bill Gates at CES 2007 (350043329)](https://commons.wikimedia.org/wiki/File:Bill_Gates_at_CES_2007_%28350043329%29.jpg)” by [Lori Tingey](https://www.flickr.com/people/27096787@N00) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) の下で提供されています。<br />
-- “[Mark Zuckerberg – South by Southwest 2008](https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_-_South_by_Southwest_2008.jpg)” by [Jason McELweenie](https://www.flickr.com/photos/99565773@N00) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) の下で提供されています。
-- “[my son’s teacher is a supermodel](https://www.flickr.com/photos/wwworks/6233339252/)” by [woodleywonderworks](https://www.flickr.com/photos/wwworks/) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/) の下で提供されています。
-- “[Miles Ehrlich, judge](https://en.wikipedia.org/wiki/File:American_judge.jpg)” by [maveric2003](https://www.flickr.com/photos/maveric2003/) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) の下で提供されています。
+- “[Bill Gates at CES 2007 (350043329)](https://commons.wikimedia.org/wiki/File:Bill_Gates_at_CES_2007_%28350043329%29.jpg)” by [Lori Tingey](https://www.flickr.com/people/27096787@N00) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) のもとで提供されています。<br />
+- “[Mark Zuckerberg – South by Southwest 2008](https://commons.wikimedia.org/wiki/File:Mark_Zuckerberg_-_South_by_Southwest_2008.jpg)” by [Jason McELweenie](https://www.flickr.com/photos/99565773@N00) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) のもとで提供されています。
+- “[my son’s teacher is a supermodel](https://www.flickr.com/photos/wwworks/6233339252/)” by [woodleywonderworks](https://www.flickr.com/photos/wwworks/) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/) のもとで提供されています。
+- “[Miles Ehrlich, judge](https://en.wikipedia.org/wiki/File:American_judge.jpg)” by [maveric2003](https://www.flickr.com/photos/maveric2003/) は [CC BY 2.0ライセンス](https://creativecommons.org/licenses/by/2.0/deed.en) のもとで提供されています。

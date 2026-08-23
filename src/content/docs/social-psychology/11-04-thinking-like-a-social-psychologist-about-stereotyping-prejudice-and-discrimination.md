@@ -4,14 +4,13 @@ sidebar:
   order: 76
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-stereotyping-prejudice-and-discrimination/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 この章では、異なる社会集団に属する人々が、互いについてどのように感じ、考え、行動するかに焦点を当ててきた。大多数の場合、私たちは他者について肯定的な思考と感情をもち、他者との相互作用も友好的で肯定的である。しかし別の場合には、否定的な相互作用が生じる可能性があり、まれではあるが、敵意や暴力にまで至ることもある。

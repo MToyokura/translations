@@ -4,14 +4,13 @@ sidebar:
   order: 44
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-social-influence/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 本章では、社会的影響が日常生活へ浸透している多様な方法を扱ってきた。他者を無自覚に模倣することから、リーダーシップ、権威への盲目的服従まで、非常に幅広い現象に社会的影響が関係していることへ驚いたかもしれない。しかし、社会心理学者のように考えている今なら、社会的影響がなぜ日常生活のこれほど重要な一部なのか理解できるだろう。たとえば私たちは、自己への関心と他者への関心という基本的な目標をよりよく満たすために同調する。同調は、正確で十分な情報に基づいた意思決定をする助けとなり、より良い成果を得ることに役立つ。また同調は、自分にとって重要な人々から受け入れられる助けにもなる。

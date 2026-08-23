@@ -7,7 +7,7 @@ title: "自由ソフトウェアをビジネスと経済の観点から考える
 <a href="https://download.fsfe.org/campaigns/pmpc/PMPC-Modernising-with-Free-Software.pdf">Public Money Public Code</a>
 を ChatGPT が翻訳したものに多少手を加えたものです。元の記事は
 <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY‐SA 4.0 ライセンス</a>
-のもとで提供されています。翻訳版も同じく CC BY‐SA 4.0 ライセンスのもとで提供されます。
+のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 自由ソフトウェアのライセンス方針を基盤としたビジネスモデルを採用する企業が増えています。OW2 の CEO である Cedric Thomas が、こうした動きによってヨーロッパのIT産業がどのように変化しているのかを説明します。

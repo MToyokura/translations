@@ -10,7 +10,7 @@ sidebar:
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/inferring-dispositions-using-causal-attribution/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 :::note[学習目標]
@@ -124,7 +124,7 @@ _図5.8 成功と失敗への帰属 [\[画像の説明\]](/translations/social-p
 
 #### 参考文献
 
-Allison, S. T., & Messick, D. M. (1985b). The group attribution error_._ _Journal of Experimental Social Psychology, 21(6),_ 563-579.
+Allison, S. T., & Messick, D. M. (1985b). The group attribution error*.* _Journal of Experimental Social Psychology, 21(6),_ 563-579.
 
 Campbell, W. K., Sedikides, C., Reeder, G. D., & Elliot, A. J. (2000). Among friends: An examination of friendship and the self-serving bias. _British Journal of Social Psychology, 39,_ 229-239.
 

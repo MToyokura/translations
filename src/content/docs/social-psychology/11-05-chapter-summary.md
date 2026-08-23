@@ -4,14 +4,13 @@ sidebar:
   order: 77
 ---
 
-
 <aside class="translation-attribution">
   このページは、Rajiv Jhangiani および Hammond Tarry による
   <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
   を ChatGPT が翻訳したものです。原著の対応ページは
   <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary-11/">こちら</a>です。原著は
   <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
-  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+  のもとで提供されています。日本語訳も同じライセンスのもとで提供されます。
 </aside>
 
 ある国家や社会を構成する社会集団は、その文化そのものの不可欠な一部となる。私たちは、集団およびその集団のメンバーの特徴についての信念（ステレオタイプ）や、偏見（外集団に対する正当化できない否定的態度）を容易に形成する。ステレオタイプと偏見が問題なのは、それらが差別、すなわち集団所属に基づいて外集団メンバーへ向けられる正当化できない否定的行動を生み出す可能性があるからである。差別は非常に広く存在し、多くの形をとり、多くの人々に非常に否定的な影響を与えるため、社会的問題であると同時に健康上の問題でもある。
