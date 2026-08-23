@@ -18,14 +18,14 @@ BCcampus Open Educationは、教育はすべての人が利用できるもので
 
 ## このリソースのアクセシビリティ
 
-*[社会心理学の原理―第1版国際H5P版](https://opentextbc.ca/socialpsychology/)* のウェブ版は、[Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG20/) のレベルAAを満たすよう設計されています。さらに、[*Accessibility Toolkit – 第2版*](https://opentextbc.ca/accessibilitytoolkit/) の [付録A：アクセシビリティ・チェックリスト](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) に記載されたすべてのガイドラインに従っています。具体的には、以下の特徴があります。
+[社会心理学の原理―第1版国際H5P版](https://opentextbc.ca/socialpsychology/) のウェブ版は、[Web Content Accessibility Guidelines 2.0](https://www.w3.org/TR/WCAG20/) のレベルAAを満たすよう設計されています。さらに、[Accessibility Toolkit – 第2版](https://opentextbc.ca/accessibilitytoolkit/) の [付録A：アクセシビリティ・チェックリスト](https://opentextbc.ca/accessibilitytoolkit/back-matter/appendix-checklist-for-accessibility-toolkit/) に記載されたすべてのガイドラインに従っています。具体的には、以下の特徴があります。
 
 - **容易なナビゲーション**。このリソースにはリンク付きの目次があり、各章では見出しを使用して移動しやすくしています。
 - **アクセシブルな動画**。このリソースに含まれるすべての動画には字幕があります。
 - **アクセシブルな画像**。このリソースに含まれる情報を伝えるすべての画像には代替テキストがあります。装飾目的の画像には空の代替テキストが設定されています。
 - **アクセシブルなリンク**。すべてのリンクに、リンク先の内容が分かる説明的なリンクテキストを使用しています。
 
-*アクセシビリティ・チェックリスト*
+アクセシビリティ・チェックリスト
 
 | 要素 | 要件 | 適合？ |
 | --- | --- | --- |

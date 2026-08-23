@@ -14,7 +14,7 @@ sidebar:
   の下で提供されています。日本語訳も同じライセンスの下で提供されます。
 </aside>
 
-*[社会心理学の原理―第1版国際H5P版](https://opentextbc.ca/socialpsychology/)* は、BCcampus Open Educationの資金提供を受けて制作されました。
+[社会心理学の原理―第1版国際H5P版](https://opentextbc.ca/socialpsychology/) は、BCcampus Open Educationの資金提供を受けて制作されました。
 
 [BCcampus Open Education](https://open.bccampus.ca/) は、オープン教科書やその他のOERを活用して学生の費用負担を軽減し、ブリティッシュコロンビア州の高等教育をより利用しやすいものにすることを目的として、2012年にB.C. Open Textbook Projectとして始まりました。[BCcampus](https://bccampus.ca/) は、ブリティッシュコロンビア州の高等教育機関が教育・学習実践を適応・発展させ、同州の学生に充実した学習機会を提供できるよう支援しています。BCcampus Open Educationは、[高等教育・将来技能省（Ministry of Post-Secondary Education and Future Skills）](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/post-secondary-education-and-future-skills) および [Hewlett Foundation](http://www.hewlett.org/) の資金提供を受けています。
 
