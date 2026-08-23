@@ -299,7 +299,7 @@ Buunk, A. P., Gibbons, F. X., & Visser, A. (2002). The relevance of social compa
 
 Buunk, B. P., Zurriaga, R., Peiró, J. M., Nauta, A., & Gosalvez, I. (2005). Social comparisons at work as related to a cooperative social climate and to individual differences in social comparison orientation. _Applied Psychology: An International Review_, _54_(1), 61-80.
 
-Collins, R. L. (2000). Among the better ones: Upward assimilation in social comparison. In J. Suls & L. Wheeler (Eds.), _Handbook of social comparison_ (pp. 159–172). New York, NY: Kulwer Academic/Plenum.
+Collins, R. L. (2000). Among the better ones: Upward assimilation in social comparison. In J. Suls & L. Wheeler (Eds.), _Handbook of social comparison_ (pp. 159–172). New York, NY: Kluwer Academic/Plenum.
 
 Cooley, C. H. (1902). _Human nature and social order._ New York: Scribner’s.
 

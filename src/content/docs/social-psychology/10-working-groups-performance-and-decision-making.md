@@ -54,7 +54,7 @@ Thomson Reuters の Environmental, Social & Governance (ESG) プロダクト・�
 
 集団パフォーマンスと意思決定を研究する社会心理学者は、より多様な成員構成を持つことが、いつ、なぜ集団の力学や機能へ影響するのかに特に関心を持ってきた。本章で見るように、その問いには多くの可能な答えがある。
 
-出典：[Mining The Metrics Of Board Diversity – Thompson Reuters](https://web.archive.org/web/20190521170611/http://share.thomsonreuters.com/pr_us/gender_diversity_whitepaper.pdf)。
+出典：[Mining The Metrics Of Board Diversity – Thomson Reuters](https://web.archive.org/web/20190521170611/http://share.thomsonreuters.com/pr_us/gender_diversity_whitepaper.pdf)。
 
 人々とその世界は歴史を通じて劇的に変化してきたが、人間存在の基本的な一側面は本質的に変わっていない。原始時代の祖先が家族、部族、clan という小さな社会集団で一緒に暮らしていたのと同様、今日の人々も社会集団の中で多くの時間を過ごす。バーやレストランへ行き、集団で一緒に勉強し、生産ラインや企業で一緒に働く。政府を作り、スポーツチームで一緒にプレイし、ソーシャルメディアを使って他者とコミュニケーションする。世界がどれほど変化しても、人間は常に社会的な存在であり続けるようである。人間の集団こそ人間存在の基盤そのものだと言っても、おそらく誤りではない。互いの相互作用がなければ、私たちは人間として存在できず、人間文化も存在しないだろう。
 
