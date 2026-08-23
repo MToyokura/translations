@@ -1,0 +1,23 @@
+---
+title: "改訂著者からの注記"
+sidebar:
+  order: 9
+---
+
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/front-matter/about-the-adapted-edition/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
+この教科書の原版は、ブリティッシュコロンビア州の教員から好意的な評価を受けましたが、査読者からは、授業で採用できる状態にする前に対処すべきいくつかの領域や問題が指摘されました。具体的には、新しい研究や理論的発展を取り入れること、各章の冒頭にある逸話や現実世界の例を現代の学生にとってより身近なものに更新すること、より国際的な文脈を反映するよう例・参考文献・統計を変更すること、そして別々になっていた「社会的学習（Social Learning）」と「社会的感情（Social Affect）」の章を統合して一つの「社会的認知（Social Cognition）」の章とすることなどです。私たちは改訂作業を通じて、これらすべての問題への対応を試みました（ただし、より本質的な問題に集中するため、アメリカ式綴りはそのまま残しました）。さらに、原版に含まれていなかったいくつかの概念、理論、主要研究の概要を追加するなど、必要と考えたその他の変更や追加も行いました。最後に、学生がすぐに参照できるよう、各章の冒頭に学習目標の一覧を追加し、教科書の巻末には主要用語の用語集を追加しました。
+
+私たちは、この作業によって、より多くの教員が社会心理学または関連科目でこのオープン教科書を採用できるようになることを願っています。また、ご自身の授業や教育上の目標に合うよう、この教科書を改変し、私たちの成果をさらに発展させていただければ幸いです。
+
+Rajiv Jhangiani and Hammond Tarry
+
+2014年8月
