@@ -20,6 +20,10 @@ GitHub レポジトリは[こちら](https://github.com/MToyokura/translations)
     <span class="translation-card__eyebrow">Public Money Public Code</span>
     <span class="translation-card__title">公費で作るコードは公開を</span>
   </a>
+  <a class="translation-card" href="/translations/social-psychology/title/">
+    <span class="translation-card__eyebrow">Principles of Social Psychology</span>
+    <span class="translation-card__title">社会心理学の原理</span>
+  </a>
   <a class="translation-card" href="/translations/miscellaneous/the_vulnerable_world_hypothesis/">
     <span class="translation-card__eyebrow">Miscellaneous</span>
     <span class="translation-card__title">脆弱な世界仮説</span>
