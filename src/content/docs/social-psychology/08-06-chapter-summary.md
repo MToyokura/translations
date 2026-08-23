@@ -4,6 +4,16 @@ sidebar:
   order: 57
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary-8/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 利他主義とは、他者の福祉を高めるように設計されたあらゆる行動、とりわけ、その行動を行う人へ直接的な報酬をもたらすようには見えない行動を指す。毎日、私たちの周囲では数多くの利他的行為が生じている。人々は他者を助けるために、相当な時間とエネルギーを提供する。
 
 他者を助ける傾向は、少なくとも部分的には人間の本性の基本的特徴であり、自分自身を助けることにもつながるよう設計されている。利他主義は、種全体の生存と繁栄を助けることで私たちの繁殖成功を高める。私たちは血縁者や、自分と似ていると知覚する人を特に助ける。また、互恵的利他主義の結果として、血縁も類似性もない人を助ける。協力することで、自分と他者の生存と繁殖成功の可能性を高める。

@@ -4,6 +4,16 @@ sidebar:
   order: 39
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary-5/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 対人知覚は、他者が自分へどのように反応する可能性があるかについて、正確で情報に基づいた判断を行う助けになる。私たちが他者に対して対人知覚の能力を使っているのと同時に、その人々もまた、対人知覚の力を使って私たちについて印象を形成している。
 
 他者についての第一印象は、非常に短い時間、ときには数秒のうちに、かなり正確に形成できる。この初期判断は、人種、ジェンダー、年齢など、その人物の社会的カテゴリーへの所属や身体的外見をもとに行われる。

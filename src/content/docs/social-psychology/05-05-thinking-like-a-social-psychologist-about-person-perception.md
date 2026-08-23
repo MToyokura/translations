@@ -4,6 +4,16 @@ sidebar:
   order: 38
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-person-perception/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 他者を理解することは、日常生活で私たちが直面する最も重要な課題の一つである。対人知覚の際に用いる過程について理解した今、この情報を使って、自分自身の対人知覚能力へより注意を向け、さらには改善できるかもしれない。自分が他者についてどれほど素早く印象を形成し、また相手も自分についてどれほど素早く印象を形成しているかを、以前より意識するようになっただろうか。この知識によって、他者について瞬時に下す判断を以前とは違う形で考えるようになっただろうか。他者の前でどう行動するかについて、より慎重になるだろうか。
 
 今では、対人知覚の能力を利用して、他者が自分へどう反応しているかをより正確に判断できるようになっているかもしれない。自分が他者へ送っている非言語的情報や、相手が自分へ送っている非言語的情報へ以前より敏感になっているだろうか。特性、とりわけ中心的特性が日常の相互作用で果たしている役割を以前より意識しているだろうか。そして今では、他者の欺瞞を見抜く自分の能力について、以前より自信を持っているだろうか。それとも、むしろ自信がなくなっただろうか。

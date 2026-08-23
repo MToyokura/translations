@@ -4,6 +4,16 @@ sidebar:
   order: 85
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/back-matter/glossary/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 **調節（Accommodation）** 新しい情報に基づいて既存のスキーマが変化すること
 
 **行為者―観察者バイアス／差（Actor-observer bias or difference）** 自分自身の行動より他者の行動について個人的帰属を多く行い、他者の行動より自分自身の行動について状況的帰属を多く行う傾向

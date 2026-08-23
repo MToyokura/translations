@@ -4,6 +4,16 @@ sidebar:
   order: 63
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-aggression/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 本章では、社会心理学者が人間の攻撃と暴力をどのように理解しているかを概観してきた。こうした行動は毎日私たちの周囲で起き、多くの人へ大きな苦痛をもたらす。社会心理学者が攻撃をどのように研究し、それがなぜ生じると理解しているか、そしてどのように減らそうと試みられるかを見てきた。学校での銃撃、スポーツにおける暴力、さらにはテロリズムなどの社会的悲劇をよりよく理解する助けとなる、人間の攻撃について意外なことを学んだだろうか。
 
 社会心理学者が、攻撃を主として自己への関心に関わるものと考えていることに驚いたかもしれない。暴力は他者を傷つけるよう設計されているが、それが通常、根底にある目標や原因というわけではない。暴力はむしろ自己と、それへの脅威に関わっている。たとえば自分の地位が脅かされていると感じるときや、別の否定的感情を経験しているときなど、自分自身について嫌な気分になると、私たちは暴力的に反応する。しかし社会心理学者のように考えているなら、自己概念がどれほど重要かが分かるだろう。実際、それに対する脅威が極端に暴力的な行為につながるほど重要なのである。

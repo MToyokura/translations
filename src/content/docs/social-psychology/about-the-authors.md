@@ -4,6 +4,16 @@ sidebar:
   order: 84
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/back-matter/about-the-author/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 ## Rajiv Jhangiani
 
 ![Rajiv Jhangiani](https://opentextbc.ca/socialpsychology/wp-content/uploads/sites/21/2014/03/Rajiv-profile-pic-medium.jpg)Rajiv Jhangianiは、カナダ・VancouverのKwantlen Polytechnic Universityの中核教員であり、カナダ・KamloopsのThompson Rivers UniversityではOpen Learning Faculty Memberを務め、社会心理学、パーソナリティ心理学、保全心理学、ジェノサイドの心理学など、さまざまな科目を教えている。2008年にUniversity of British Columbiaで社会・パーソナリティ心理学のPhDを取得した。Jhangiani博士の研究は、政治的暴力、社会的認知、教育・学習の学術研究に焦点を当てている。彼の研究は、Social Sciences & Humanities Research Council of Canada、Michael Smith Foundation for Health Research、Society for the Study of Peace, Conflict, & Violenceなどの機関から支援を受けてきた。Jhangiani博士はBC Open Textbook ProjectのFaculty Fellowであり、Society for the Teaching of PsychologyのEarly Career Psychologists CommitteeでDirector of Research, Resources, and Special Initiativesを務め、同学会のTask Force on Undergraduate Skills Assessmentのメンバーであり、_Psychology Learning & Teaching_ のAssociate Editorでもある。その他の栄誉として、University of British ColumbiaのRobert E. Knox Master Teacher Award、International Society of Political PsychologyのRoberta Sigel Awardを受賞している。

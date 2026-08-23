@@ -4,6 +4,16 @@ sidebar:
   order: 14
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 社会心理学という科学は、科学者が人間の思考、感情、行動を体系的かつ正式に測定し始めたことによって誕生した。社会心理学は、ナチスがヨーロッパのユダヤ人に対してどのようにホロコーストを実行したのかをより深く理解しようとした多くの研究者によって活性化した。1950年代から1960年代にかけては、社会心理学の研究対象が態度や集団過程へと拡大した。1970年代から1980年代になると、この分野はより認知的な方向へ進んだ。現在、社会心理学は進化心理学、文化研究、社会神経科学など、さらに別の領域へと広がっている。
 
 社会心理学とは、私たちが生活の中で関わる人々についてどのように考え、感じ、その人々に対してどのように行動するのか、そして私たちの思考、感情、行動がそれらの人々によってどのような影響を受けるのかを科学的に研究する学問である。本書の目的は、社会心理学者のように考える方法を学び、社会心理学の原理を使って社会的関係をよりよく理解できるようにすることである。

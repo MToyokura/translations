@@ -4,6 +4,16 @@ sidebar:
   order: 31
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-attitudes-behavior-and-persuasion/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 ここまで態度という概念についてより詳しく議論してきたので、社会心理学というより大きな枠組みの中で、態度がどのような位置を占めるのかを以前よりよく理解できるようになっただろう。態度が中心的に重要なのは、信念、感情、行動がいつ、どのように一緒に働くのかを理解するための整理原理を与えてくれるからである。人、社会集団、製品、その他さまざまな対象への態度が、環境を理解し、それへ素早く反応するうえでどれほど多様な形で役立っているかも、今では分かるだろう。
 
 また本章によって、広告主が人々を説得するために用いる多くの技法について理解が深まり、そのような説得を防ぐ方法についても考えられるようになったことを願う。Apple の iPhone が驚くほど成功した理由や、ほかの広告キャンペーンで使われている技法についても、以前よりよく理解できるかもしれない。iPhone の機能、たとえば電子メールやカレンダー管理、ソーシャルメディアとの統合、音楽の保存などが、消費者へなぜこれほど大きな影響を与えたのか理解できるだろうか。iPhone のマーケティング・キャンペーンのメッセージによって、テクノロジーに詳しい消費者の中に非常に強い態度が作られ、その態度に基づいて行動しやすくなったことが分かるだろうか。また、iPhone の販売の勢いを生み、それを維持するうえで、自己知覚や認知的不協和の過程が重要だったことも考えられる。人々が iPhone を購入し、使い始めると、自分自身の行動についての知覚によって、iPhone への態度がさらに肯定的になった可能性もある。

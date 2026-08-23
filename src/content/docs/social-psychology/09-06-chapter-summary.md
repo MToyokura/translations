@@ -4,6 +4,16 @@ sidebar:
   order: 64
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary-9/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 攻撃とは、別の個人へ害を与えることを意図した行動を指す。ある行動が攻撃的かどうかを判断するには、加害者の意図を判断しなければならない。攻撃行動の根底にある意図の程度によって、感情的または衝動的攻撃（事前の熟慮や意図がほとんどないまま生じる攻撃）と、道具的または認知的攻撃（意図的で計画された攻撃）が区別される。攻撃は身体的なものだけでなく非身体的なものでもあり、非身体的攻撃も被害者へ非常に大きな害を与えうる。
 
 少なくとも一定の状況では他者へ攻撃的になれる能力は、人間の基本的な構成の一部である。攻撃は個人の生存と遺伝子の生存の双方に役立つため、人間には攻撃できる能力が必要である。適切な状況で自己が脅かされていると感じれば、ほぼ誰でも攻撃する。

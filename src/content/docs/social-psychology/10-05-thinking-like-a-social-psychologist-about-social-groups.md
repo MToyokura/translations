@@ -4,6 +4,16 @@ sidebar:
   order: 70
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-social-groups/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 この章では、小規模な作業集団がどのように集まり、課題を遂行し、意思決定を行うかを見てきた。とくに、集団で行う場合と一人で行う場合のパフォーマンスについて、それぞれの利点と欠点を詳しく検討した。集団は多くの課題をうまく遂行でき、人々は意思決定に集団を利用することを好むが、集団には固有の問題も多く伴う。
 
 あなたは今後、小集団で他者と一緒に働くことに多くの時間を費やす可能性が高い――ほとんどの人がそうする――ので、集団がどのように成功し、どのように失敗しうるかが、今では見えるようになっているだろう。社会集団について新たに得た知識を使って、より効果的な集団メンバーになり、自分が働く集団をより効果的にすることができるだろうか。

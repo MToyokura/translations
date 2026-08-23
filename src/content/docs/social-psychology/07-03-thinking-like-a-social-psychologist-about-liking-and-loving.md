@@ -4,6 +4,16 @@ sidebar:
   order: 49
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-liking-and-loving/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 人間の経験の中で、他者との親密な関係ほど私たちの生存に重要なものはない。親密な関係がなければ、うまく生殖することはできない。また、私たちを気遣う他者が提供する社会的支援がなければ、人生は意味が乏しくなり、精神的にも身体的にも健康でいにくい。本章によって、他者との関係の重要性を改めて認識したり、これまでとは違う仕方で考えられるようになったりしていればよい。
 
 すでに幸福で親密な関係にいるなら、本章はその関係を幸福で健全に保つための考えを与えたかもしれない。関係へのコミットメント、関係から得る利益とコスト、自分とパートナーの衡平性、自分とパートナーが関係から得ているコストや利益について、以前より考えるようになったかもしれない。あなたの関係は共同的関係だろうか、それとも交換的関係に近いだろうか。自分とパートナーが一つの相互関連したペアとして一緒にい続けるため、何ができるだろうか。

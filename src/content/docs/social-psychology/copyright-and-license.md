@@ -3,6 +3,17 @@ title: "著作権とライセンス"
 sidebar:
   order: 2
 ---
+
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 ![クリエイティブ・コモンズ 表示—非営利—継承 4.0 国際ライセンスのアイコン](https://opentextbc.ca/socialpsychology/wp-content/themes/pressbooks-book/packages/buckram/assets/images/cc-by-nc-sa.svg)
 
 Dr. Rajiv JhangianiおよびDr. Hammond Tarryによる『社会心理学の原理―第1版国際H5P版』Copyright © 2022は、特に記載がある場合を除き、[クリエイティブ・コモンズ 表示—非営利—継承 4.0 国際ライセンス](https://creativecommons.org/licenses/by-nc-sa/4.0/) の下で提供されています。

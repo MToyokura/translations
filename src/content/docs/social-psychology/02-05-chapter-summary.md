@@ -4,6 +4,16 @@ sidebar:
   order: 20
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary-2/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 本章では、社会心理学の中心的なテーマの一つ、すなわち他者についてどのように学び、判断するのかという社会的認知を主に扱ってきた。社会的状況について正確に判断する能力は非常に重要である。たとえば、他者を理解し、その人が自分にどのように反応するかを予測できなければ、社会的相互作用は非常に困難になる。
 
 社会的認知は効率的であり、しばしば素早く、意識の外でも働き、一般には正確であることを見てきた。しかし、他者を評価し、効果的な社会的相互作用を築くことについて多くの場合かなり正確であっても、完全ではない。私たちが犯す誤りは、心の中にある知識、つまりスキーマや態度へ依存することや、認知的ヒューリスティックを利用して近道をする傾向によって生じることが多い。私たちは処理しなければならない情報量に圧倒されることが多いため、スキーマやヒューリスティックをエネルギー節約手段として利用する。

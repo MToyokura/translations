@@ -3,6 +3,17 @@ title: "謝辞"
 sidebar:
   order: 7
 ---
+
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/front-matter/acknowledgments/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 ## 改訂著者より
 
 まず、この教科書を執筆し、誰もが利用できるよう公開してくださった原著者Charles Stangor博士に、心より感謝いたします。私たち二人にとって、これほど読みやすく魅力的な教材に内容を加える作業は、とても楽しいものでした。また、Mary BurgessとClint LalondeをはじめとするBCcampusのOpen Educationチーム全体、とりわけ、このプロジェクトを最初から最後まで導いてくださったAmanda Coolidgeに感謝いたします。さらに、私たちが見落としていた書式や参考文献の誤りを発見してくださった編集者の皆様、作業を円滑にしてくれたPressbooksプラットフォームに多大な貢献をされたBrad Payne、そして原版について有益かつ詳細なレビューを寄せてくださったChris Montoya（Thompson Rivers University）、Dawn-Louise McLeod（Thompson Rivers University—Open Learning）、Jennifer Walinga（Royal Roads University）にも感謝いたします。

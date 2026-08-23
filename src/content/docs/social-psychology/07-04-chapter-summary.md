@@ -4,6 +4,16 @@ sidebar:
   order: 50
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary-7/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 成人の友人、交際相手、恋人、夫婦などに見られる、愛情、思いやり、コミットメント、親密性を特徴とする人間関係を親密な関係という。
 
 親密な関係は私たちを幸福で健康にする。友人やパートナーが、自分の必要や福祉を気遣い、支援的に応じてくれていると信じるとき、より高い自己効力感、自尊心、肯定的気分を経験する。

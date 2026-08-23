@@ -4,6 +4,16 @@ sidebar:
   order: 26
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary-3/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 自分自身について持つ多種多様な思考は、自己の認知的部分である自己概念を構成するさまざまな自己スキーマの中に保存されている。自己概念は、自分自身について、そして自分自身のために持っているあらゆるイメージ、欲求、信念、感情、希望を含むため、私たちが持つすべてのスキーマの中で最も複雑なものである。
 
 自己概念は、自分自身について考えたときに頭に浮かぶことを単純に列挙してもらうことで測定できるほか、自己に関連する情報を思い出してもらうなど、別の技法でも測定できる。研究では、自己がほかの人より複雑で一貫している人がいること、そして複数の自己スキーマを持つことが有用であることが示されている。自己のさまざまな側面が、経験する出来事への反応を改善するのに役立つからである。

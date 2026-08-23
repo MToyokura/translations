@@ -4,6 +4,16 @@ sidebar:
   order: 82
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-cooperation-and-competition/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 協力または競争へ導く要因を理解した今、この情報を使って、対立状況における自分自身の行動をより意識し、導けるようになってほしい。他者は協力するより競争すると仮定することがどれほど容易か、そして固定総和に見える出来事が実際には統合的である場合があることに、以前より気づいただろうか。少なくとも一部の対立が現実的というより知覚上のものであり、競争より協力のほうが自己にも他者にも有利である場合が多いことがわかるだろうか。この知識によって、潜在的対立の状況へ自分がどう反応したいかについての考え方は変わっただろうか。
 
 対立の解決策はしばしば統合的であり、あなたまたはあなたの側と、対立に関わる他の人々の双方が、互いに利益を得られる解決策へ達することができる、という点を覚えておくとよいだろう。自分の必要だけでなく他者の必要も考慮する問題解決型のアプローチをとることが役に立つ。

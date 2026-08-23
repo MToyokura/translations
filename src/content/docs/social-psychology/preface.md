@@ -3,6 +3,17 @@ title: "序文"
 sidebar:
   order: 8
 ---
+
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/front-matter/preface/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 ## 原著者による序文
 
 私が初めて社会心理学を教え始めたとき、この広大な分野に含まれるさまざまなトピックが、互いにどのように結びついているのかを理解するのに苦労しました。統合された原理や知識の体系を提示しているというより、アイデア、研究、現象をただ羅列しているように感じていたのです。当然ながら、私にとって難しかったことは、学生にとってはさらに難しいことでした。社会心理学者が研究するこれほど多くのトピックを、学生たちにどうすれば理解し、記憶してもらえるのでしょうか。そして、その中で何が最も重要なのかを、どうすれば判断できるのでしょうか。彼らの学習を構造化し、統合するための何かが必要でした。

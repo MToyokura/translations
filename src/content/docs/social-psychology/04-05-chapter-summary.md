@@ -4,6 +4,16 @@ sidebar:
   order: 32
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/chapter-summary-4/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 態度とは、態度対象について行う肯定的または否定的な評価である。私たちの態度は、感情、行動、認知というABCに基づいている。一部の態度は、私たちにとってより役に立ち、そのため日常生活へより大きな影響を与えるという意味で、ほかの態度より重要である。どれほど素早く頭に浮かぶかによって評価される態度の重要性を、態度の強さという。
 
 態度の感情的、行動的、認知的構成要素は通常、互いに一致する。これが態度の一貫性という考えである。この一貫性があるため、自己報告尺度などで測定された態度は、通常、私たちの行動を予測する。

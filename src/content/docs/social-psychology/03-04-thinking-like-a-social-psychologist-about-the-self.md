@@ -4,6 +4,16 @@ sidebar:
   order: 25
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-the-self/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 社会心理学者は、ほかの社会現象について考えるのと同じように、感情、行動、認知、そして人‐状況相互作用という観点から自己を考える。本章では、自己の認知的・感情的・社会的側面と、私たちが置かれている社会的状況によって自己が驚くほど大きく作り上げられていることに焦点を当ててきた。
 
 社会心理学者が自己をどのように考えるかについて得た新しい知識を使い、自分自身について考えてみよう。自分自身についてどのように考え、感じているかを、慎重に、そしてできるだけ公平に考えてみてほしい。「認知的自己：自己概念」で20答法を試したとき、どのような構成概念を挙げただろうか。身体的特徴のうち、どの特徴へのアクセス可能性が最も高かっただろうか。社会的アイデンティティや自分の特性についてはどうだっただろうか。今では、自分にとって最も重要な特徴について、以前より深く理解できているだろうか。

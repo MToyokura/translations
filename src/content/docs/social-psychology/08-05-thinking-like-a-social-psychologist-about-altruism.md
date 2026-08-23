@@ -4,6 +4,16 @@ sidebar:
   order: 56
 ---
 
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/chapter/thinking-like-a-social-psychologist-about-altruism/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 本章では、援助の多様な形を扱ってきた。援助と利他主義は、さまざまな方法で、さまざまな人へ向けて生じうることを見てきた。社会生活の中で援助がどれほど重要で、どれほど多くの形を取るかを知って驚いただろうか。援助が、私たちにより効果的な生活を可能にしていることが、以前より見えるようになっただろうか。
 
 社会心理学者のように考えるなら、私たちが他者への関心から部分的に援助することが分かる。相手を気遣い、相手が嫌な気分なら自分も嫌な気分になり、本当に助けたいと思うから援助する。相手を自分と似ていると見るとき、そして相手へ共感するとき、より援助する。しかし私たちは自己への関心からも援助する。自分の個人的苦痛を和らげるため、援助しないことによる公的な恥を避けるため、自分の援助行動についてよい気分になるためである。援助は他者に利益をもたらすだけでなく、自分にも利益をもたらす。私たちはしばしば援助することを楽しみ、援助によって気分がよくなり、健康にもなりうる。

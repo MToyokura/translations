@@ -3,6 +3,17 @@ title: "アクセシビリティ声明"
 sidebar:
   order: 4
 ---
+
+
+<aside class="translation-attribution">
+  このページは、Rajiv Jhangiani および Hammond Tarry による
+  <a href="https://opentextbc.ca/socialpsychology/">Principles of Social Psychology</a>
+  を ChatGPT が翻訳したものです。原著の対応ページは
+  <a href="https://opentextbc.ca/socialpsychology/front-matter/accessibility-statement/">こちら</a>です。原著は
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 ライセンス</a>
+  の下で提供されています。日本語訳も同じライセンスの下で提供されます。
+</aside>
+
 BCcampus Open Educationは、教育はすべての人が利用できるものでなければならないと考えています。そのため、無料で、オープンかつアクセシブルな教育リソースの制作を支援しています。私たちは、制作するリソースのアクセシビリティと使いやすさを向上させることに積極的に取り組んでいます。
 
 ## このリソースのアクセシビリティ
