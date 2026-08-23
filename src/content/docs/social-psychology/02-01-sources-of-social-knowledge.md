@@ -259,7 +259,7 @@ Stangor, C., & Duan, C. (1991). Effects of multiple task demands upon memory for
 
 Stanovich, K. E., West, R. F., & Toplak, M. E. (2013). Myside bias, rational thinking, and intelligence. _Current Directions In Psychological Science_, _22_(4), 259-264. doi:10.1177/0963721413480174
 
-Tambling, R. B. (2012). A literature review of expectancy effects. _Contemporary Family Therapy, 34(3)\_\_,_ 402-415.
+Tambling, R. B. (2012). A literature review of expectancy effects. _Contemporary Family Therapy, 34(3),_ 402-415.
 
 Taylor, S. E., & Crocker, J. (1981). Schematic bases of social information processing. In E. T. Higgins, C. P. Herman, & M. P. Zanna (Eds.), _Social cognition: The Ontario symposium_ (Vol. 1, pp. 89–134). Hillsdale, NJ: Lawrence Erlbaum Associates.
 
